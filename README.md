@@ -37,7 +37,7 @@ $ git clone https://github.com/idleberg/vscode-icon-fonts-legacy icon-fonts-lega
 
 ### Usage
 
-Snippets are limited to the `html` scope. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class.
+Snippets are limited to the `html` and `css|less|scss` scopes. Typing the class name of an icon using the designated prefix will complete to a tag containing the icon class.
 
 ### Prefixes
 
