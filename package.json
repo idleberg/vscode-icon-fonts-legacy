@@ -1,0 +1,82 @@
+{
+    "name": "icon-fonts-legacy",
+    "displayName": "Icon Fonts (Legacy)",
+    "description": "Snippets for popular icon fonts that have been removed from the main package 'Icon Fonts'",
+    "version": "0.0.0",
+    "publisher": "idleberg",
+    "license": "MIT",
+    "author": {
+        "name": "Jan T. Sott",
+        "url": "http://github.com/idleberg"
+    },
+    "keywords": [
+        "icon font",
+        "icon fonts",
+        "font awesome",
+        "octicons",
+        "ionicons"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
+    },
+    "homepage": "https://github.com/idleberg/vscode-icon-fonts",
+    "bugs": {
+        "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
+    },
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            { "language": "html",
+                "path": "./snippets/filetypes-css.json"
+            },
+            { "language": "html",
+                "path": "./snippets/filetypes.json"
+            },
+            { "language": "html",
+                "path": "./snippets/foundicon.json"
+            },
+            { "language": "html",
+                "path": "./snippets/glyphicons-css.json"
+            },
+            { "language": "html",
+                "path": "./snippets/glyphicons.json"
+            },
+            { "language": "html",
+                "path": "./snippets/halflings-css.json"
+            },
+            { "language": "html",
+                "path": "./snippets/halflings.json"
+            },
+            { "language": "html",
+                "path": "./snippets/line-class.json"
+            },
+            { "language": "html",
+                "path": "./snippets/line-data.json"
+            },
+            { "language": "html",
+                "path": "./snippets/social-css.json"
+            },
+            { "language": "html",
+                "path": "./snippets/social.json"
+            }
+        ]
+   },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "gulp lint"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1",
+        "gulp-debug": "^2.1.2",
+        "gulp-json-lint": "^0.1.0",
+        "gulp-xml-validator": "^0.1.1",
+        "gulp-yaml-validate": "^1.0.2",
+        "vscode": "^0.11.0"
+    }
+}
