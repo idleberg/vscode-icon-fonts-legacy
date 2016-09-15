@@ -12,9 +12,9 @@
     "keywords": [
         "icon font",
         "icon fonts",
-        "font awesome",
-        "octicons",
-        "ionicons"
+        "glyphicons",
+        "halflings",
+        "foundation icons"
     ],
     "repository": {
         "type": "git",
