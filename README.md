@@ -16,7 +16,7 @@ This package is also available for [Atom](https://github.com/idleberg/atom-icon-
 
 Launch Quick Open, paste the following command, and press <kbd>Enter</kbd>
 
-`ext install icon-fonts`
+`ext install icon-fonts-legacy`
 
 ### GitHub
 
@@ -30,10 +30,10 @@ $ cd %USERPROFILE%\.vscode\extensions
 $ cd ~/.vscode/extensions/
 ```
 
-Clone repository as `icon-fonts`:
+Clone repository as `icon-fonts-legacy`:
 
 ```bash
-$ git clone https://github.com/idleberg/vscode-icon-fonts-legacy icon-fonts
+$ git clone https://github.com/idleberg/vscode-icon-fonts-legacy icon-fonts-legacy
 ```
 
 ### Usage
