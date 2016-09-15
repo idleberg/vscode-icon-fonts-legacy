@@ -1,7 +1,6 @@
 # Icon Fonts (Legacy) for Visual Studio Code
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GNU General Public License](https://img.shields.io/badge/license-GPL%20v2-orange.svg?style=flat-square)](http://www.gnu.org/licenses/gpl-2.0.html)
 [![GitHub](https://img.shields.io/github/release/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://github.com/idleberg/vscode-icon-fonts-legacy-legacy/releases)
 [![Travis](https://img.shields.io/travis/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-icon-fonts-legacy)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-icon-fonts-legacy?type=dev)
