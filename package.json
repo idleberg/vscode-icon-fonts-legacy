@@ -2,7 +2,7 @@
     "name": "icon-fonts-legacy",
     "displayName": "Icon Fonts (Legacy)",
     "description": "Snippets for popular icon fonts that have been removed from the main package 'Icon Fonts'",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -32,41 +32,52 @@
     ],
     "contributes": {
         "snippets": [
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/filetypes-css.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/filetypes.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/foundicon.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/glyphicons-css.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/glyphicons.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/halflings-css.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/halflings.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/line-class.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/line-data.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/social-css.json"
             },
-            { "language": "html",
+            {
+                "language": "html",
                 "path": "./snippets/social.json"
             }
         ]
-   },
+    },
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "gulp lint"
