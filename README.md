@@ -5,7 +5,7 @@
 [![Travis](https://img.shields.io/travis/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-icon-fonts-legacy)
 [![David](https://img.shields.io/david/dev/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-icon-fonts-legacy?type=dev)
 
-Snippets for icon fonts that have been deprecated from the main [Icon Fonts](https://github.com/idleberg/vscode-icon-fonts) package ([see details](#prefixes)).
+Snippets for icon fonts that have been deprecated from the main [Icon Fonts](https://github.com/idleberg/vscode-icon-fonts) package ([see details](https://github.com/idleberg/vscode-icon-fonts-legacy#prefixes)).
 
 This package is also available for [Atom](https://github.com/idleberg/atom-icon-fonts-legacy) and [Sublime Text](https://github.com/idleberg/sublime-icon-fonts-legacy).
 
