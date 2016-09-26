@@ -2,7 +2,7 @@
     "name": "icon-fonts-legacy",
     "displayName": "Icon Fonts (Legacy)",
     "description": "Snippets for deprecated icon fonts, including the entire Glyphicons Pro family, Foundation Icons 1.0 and more!",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -26,8 +26,8 @@
     },
     "icon": "images/logo.svg",
     "galleryBanner": {
-      "color": "#231f20",
-      "theme": "dark"
+        "color": "#231f20",
+        "theme": "dark"
     },
     "engines": {
         "vscode": "^1.0.0"
