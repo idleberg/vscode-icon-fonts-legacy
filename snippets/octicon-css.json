@@ -1,794 +1,794 @@
 {
   "octicon-logo-github": {
-    "prefix": "octicon-logo-github",
+    "prefix": "octicon4-logo-github",
     "body": "content: '\\\\f092';"
   },
   "octicon-pulse": {
-    "prefix": "octicon-pulse",
+    "prefix": "octicon4-pulse",
     "body": "content: '\\\\f085';"
   },
   "octicon-git-pull-request": {
-    "prefix": "octicon-git-pull-request",
+    "prefix": "octicon4-git-pull-request",
     "body": "content: '\\\\f009';"
   },
   "octicon-settings": {
-    "prefix": "octicon-settings",
+    "prefix": "octicon4-settings",
     "body": "content: '\\\\f07c';"
   },
   "octicon-organization": {
-    "prefix": "octicon-organization",
+    "prefix": "octicon4-organization",
     "body": "content: '\\\\f037';"
   },
   "octicon-unmute": {
-    "prefix": "octicon-unmute",
+    "prefix": "octicon4-unmute",
     "body": "content: '\\\\f0ba';"
   },
   "octicon-lock": {
-    "prefix": "octicon-lock",
+    "prefix": "octicon4-lock",
     "body": "content: '\\\\f06a';"
   },
   "octicon-file-symlink-file": {
-    "prefix": "octicon-file-symlink-file",
+    "prefix": "octicon4-file-symlink-file",
     "body": "content: '\\\\f0b0';"
   },
   "octicon-gist": {
-    "prefix": "octicon-gist",
+    "prefix": "octicon4-gist",
     "body": "content: '\\\\f00e';"
   },
   "octicon-trashcan": {
-    "prefix": "octicon-trashcan",
+    "prefix": "octicon4-trashcan",
     "body": "content: '\\\\f0d0';"
   },
   "octicon-eye-watch": {
-    "prefix": "octicon-eye-watch",
+    "prefix": "octicon4-eye-watch",
     "body": "content: '\\\\f04e';"
   },
   "octicon-quote": {
-    "prefix": "octicon-quote",
+    "prefix": "octicon4-quote",
     "body": "content: '\\\\f063';"
   },
   "octicon-octoface": {
-    "prefix": "octicon-octoface",
+    "prefix": "octicon4-octoface",
     "body": "content: '\\\\f008';"
   },
   "octicon-unverified": {
-    "prefix": "octicon-unverified",
+    "prefix": "octicon4-unverified",
     "body": "content: '\\\\f0e8';"
   },
   "octicon-repo": {
-    "prefix": "octicon-repo",
+    "prefix": "octicon4-repo",
     "body": "content: '\\\\f001';"
   },
   "octicon-italic": {
-    "prefix": "octicon-italic",
+    "prefix": "octicon4-italic",
     "body": "content: '\\\\f0e4';"
   },
   "octicon-code": {
-    "prefix": "octicon-code",
+    "prefix": "octicon4-code",
     "body": "content: '\\\\f05f';"
   },
   "octicon-mail": {
-    "prefix": "octicon-mail",
+    "prefix": "octicon4-mail",
     "body": "content: '\\\\f03b';"
   },
   "octicon-gift": {
-    "prefix": "octicon-gift",
+    "prefix": "octicon4-gift",
     "body": "content: '\\\\f042';"
   },
   "octicon-cloud-upload": {
-    "prefix": "octicon-cloud-upload",
+    "prefix": "octicon4-cloud-upload",
     "body": "content: '\\\\f00c';"
   },
   "octicon-tools": {
-    "prefix": "octicon-tools",
+    "prefix": "octicon4-tools",
     "body": "content: '\\\\f031';"
   },
   "octicon-mark-github": {
-    "prefix": "octicon-mark-github",
+    "prefix": "octicon4-mark-github",
     "body": "content: '\\\\f00a';"
   },
   "octicon-book": {
-    "prefix": "octicon-book",
+    "prefix": "octicon4-book",
     "body": "content: '\\\\f007';"
   },
   "octicon-alert": {
-    "prefix": "octicon-alert",
+    "prefix": "octicon4-alert",
     "body": "content: '\\\\f02d';"
   },
   "octicon-checklist": {
-    "prefix": "octicon-checklist",
+    "prefix": "octicon4-checklist",
     "body": "content: '\\\\f076';"
   },
   "octicon-rocket": {
-    "prefix": "octicon-rocket",
+    "prefix": "octicon4-rocket",
     "body": "content: '\\\\f033';"
   },
   "octicon-file-binary": {
-    "prefix": "octicon-file-binary",
+    "prefix": "octicon4-file-binary",
     "body": "content: '\\\\f094';"
   },
   "octicon-log-out": {
-    "prefix": "octicon-log-out",
+    "prefix": "octicon4-log-out",
     "body": "content: '\\\\f032';"
   },
   "octicon-database": {
-    "prefix": "octicon-database",
+    "prefix": "octicon4-database",
     "body": "content: '\\\\f096';"
   },
   "octicon-bug": {
-    "prefix": "octicon-bug",
+    "prefix": "octicon4-bug",
     "body": "content: '\\\\f091';"
   },
   "octicon-search": {
-    "prefix": "octicon-search",
+    "prefix": "octicon4-search",
     "body": "content: '\\\\f02e';"
   },
   "octicon-rss": {
-    "prefix": "octicon-rss",
+    "prefix": "octicon4-rss",
     "body": "content: '\\\\f034';"
   },
   "octicon-hubot": {
-    "prefix": "octicon-hubot",
+    "prefix": "octicon4-hubot",
     "body": "content: '\\\\f09d';"
   },
   "octicon-repo-pull": {
-    "prefix": "octicon-repo-pull",
+    "prefix": "octicon4-repo-pull",
     "body": "content: '\\\\f006';"
   },
   "octicon-question": {
-    "prefix": "octicon-question",
+    "prefix": "octicon4-question",
     "body": "content: '\\\\f02c';"
   },
   "octicon-milestone": {
-    "prefix": "octicon-milestone",
+    "prefix": "octicon4-milestone",
     "body": "content: '\\\\f075';"
   },
   "octicon-star-delete": {
-    "prefix": "octicon-star-delete",
+    "prefix": "octicon4-star-delete",
     "body": "content: '\\\\f02a';"
   },
   "octicon-verified": {
-    "prefix": "octicon-verified",
+    "prefix": "octicon4-verified",
     "body": "content: '\\\\f0e6';"
   },
   "octicon-grabber": {
-    "prefix": "octicon-grabber",
+    "prefix": "octicon4-grabber",
     "body": "content: '\\\\f103';"
   },
   "octicon-chevron-down": {
-    "prefix": "octicon-chevron-down",
+    "prefix": "octicon4-chevron-down",
     "body": "content: '\\\\f0a3';"
   },
   "octicon-arrow-small-up": {
-    "prefix": "octicon-arrow-small-up",
+    "prefix": "octicon4-arrow-small-up",
     "body": "content: '\\\\f09f';"
   },
   "octicon-issue-closed": {
-    "prefix": "octicon-issue-closed",
+    "prefix": "octicon4-issue-closed",
     "body": "content: '\\\\f028';"
   },
   "octicon-unfold": {
-    "prefix": "octicon-unfold",
+    "prefix": "octicon4-unfold",
     "body": "content: '\\\\f039';"
   },
   "octicon-shield": {
-    "prefix": "octicon-shield",
+    "prefix": "octicon4-shield",
     "body": "content: '\\\\f0e1';"
   },
   "octicon-light-bulb": {
-    "prefix": "octicon-light-bulb",
+    "prefix": "octicon4-light-bulb",
     "body": "content: '\\\\f000';"
   },
   "octicon-person-follow": {
-    "prefix": "octicon-person-follow",
+    "prefix": "octicon4-person-follow",
     "body": "content: '\\\\f018';"
   },
   "octicon-triangle-right": {
-    "prefix": "octicon-triangle-right",
+    "prefix": "octicon4-triangle-right",
     "body": "content: '\\\\f05a';"
   },
   "octicon-diff-ignored": {
-    "prefix": "octicon-diff-ignored",
+    "prefix": "octicon4-diff-ignored",
     "body": "content: '\\\\f099';"
   },
   "octicon-chevron-left": {
-    "prefix": "octicon-chevron-left",
+    "prefix": "octicon4-chevron-left",
     "body": "content: '\\\\f0a4';"
   },
   "octicon-calendar": {
-    "prefix": "octicon-calendar",
+    "prefix": "octicon4-calendar",
     "body": "content: '\\\\f068';"
   },
   "octicon-squirrel": {
-    "prefix": "octicon-squirrel",
+    "prefix": "octicon4-squirrel",
     "body": "content: '\\\\f0b2';"
   },
   "octicon-desktop-download": {
-    "prefix": "octicon-desktop-download",
+    "prefix": "octicon4-desktop-download",
     "body": "content: '\\\\f0dc';"
   },
   "octicon-git-branch-delete": {
-    "prefix": "octicon-git-branch-delete",
+    "prefix": "octicon4-git-branch-delete",
     "body": "content: '\\\\f020';"
   },
   "octicon-repo-delete": {
-    "prefix": "octicon-repo-delete",
+    "prefix": "octicon4-repo-delete",
     "body": "content: '\\\\f001';"
   },
   "octicon-diff": {
-    "prefix": "octicon-diff",
+    "prefix": "octicon4-diff",
     "body": "content: '\\\\f04d';"
   },
   "octicon-jersey": {
-    "prefix": "octicon-jersey",
+    "prefix": "octicon4-jersey",
     "body": "content: '\\\\f019';"
   },
   "octicon-mirror-private": {
-    "prefix": "octicon-mirror-private",
+    "prefix": "octicon4-mirror-private",
     "body": "content: '\\\\f06a';"
   },
   "octicon-flame": {
-    "prefix": "octicon-flame",
+    "prefix": "octicon4-flame",
     "body": "content: '\\\\f0d2';"
   },
   "octicon-comment-add": {
-    "prefix": "octicon-comment-add",
+    "prefix": "octicon4-comment-add",
     "body": "content: '\\\\f02b';"
   },
   "octicon-package": {
-    "prefix": "octicon-package",
+    "prefix": "octicon4-package",
     "body": "content: '\\\\f0c4';"
   },
   "octicon-credit-card": {
-    "prefix": "octicon-credit-card",
+    "prefix": "octicon4-credit-card",
     "body": "content: '\\\\f045';"
   },
   "octicon-mute": {
-    "prefix": "octicon-mute",
+    "prefix": "octicon4-mute",
     "body": "content: '\\\\f080';"
   },
   "octicon-dash": {
-    "prefix": "octicon-dash",
+    "prefix": "octicon4-dash",
     "body": "content: '\\\\f0ca';"
   },
   "octicon-repo-sync": {
-    "prefix": "octicon-repo-sync",
+    "prefix": "octicon4-repo-sync",
     "body": "content: '\\\\f087';"
   },
   "octicon-smiley": {
-    "prefix": "octicon-smiley",
+    "prefix": "octicon4-smiley",
     "body": "content: '\\\\f0e7';"
   },
   "octicon-file-pdf": {
-    "prefix": "octicon-file-pdf",
+    "prefix": "octicon4-file-pdf",
     "body": "content: '\\\\f014';"
   },
   "octicon-radio-tower": {
-    "prefix": "octicon-radio-tower",
+    "prefix": "octicon4-radio-tower",
     "body": "content: '\\\\f030';"
   },
   "octicon-beaker": {
-    "prefix": "octicon-beaker",
+    "prefix": "octicon4-beaker",
     "body": "content: '\\\\f0dd';"
   },
   "octicon-file-add": {
-    "prefix": "octicon-file-add",
+    "prefix": "octicon4-file-add",
     "body": "content: '\\\\f05d';"
   },
   "octicon-person-add": {
-    "prefix": "octicon-person-add",
+    "prefix": "octicon4-person-add",
     "body": "content: '\\\\f018';"
   },
   "octicon-mail-reply": {
-    "prefix": "octicon-mail-reply",
+    "prefix": "octicon4-mail-reply",
     "body": "content: '\\\\f051';"
   },
   "octicon-tag-add": {
-    "prefix": "octicon-tag-add",
+    "prefix": "octicon4-tag-add",
     "body": "content: '\\\\f015';"
   },
   "octicon-sign-out": {
-    "prefix": "octicon-sign-out",
+    "prefix": "octicon4-sign-out",
     "body": "content: '\\\\f032';"
   },
   "octicon-star-add": {
-    "prefix": "octicon-star-add",
+    "prefix": "octicon4-star-add",
     "body": "content: '\\\\f02a';"
   },
   "octicon-device-mobile": {
-    "prefix": "octicon-device-mobile",
+    "prefix": "octicon4-device-mobile",
     "body": "content: '\\\\f038';"
   },
   "octicon-link-external": {
-    "prefix": "octicon-link-external",
+    "prefix": "octicon4-link-external",
     "body": "content: '\\\\f07f';"
   },
   "octicon-device-desktop": {
-    "prefix": "octicon-device-desktop",
+    "prefix": "octicon4-device-desktop",
     "body": "content: '\\\\f27c';"
   },
   "octicon-ruby": {
-    "prefix": "octicon-ruby",
+    "prefix": "octicon4-ruby",
     "body": "content: '\\\\f047';"
   },
   "octicon-graph": {
-    "prefix": "octicon-graph",
+    "prefix": "octicon4-graph",
     "body": "content: '\\\\f043';"
   },
   "octicon-diff-added": {
-    "prefix": "octicon-diff-added",
+    "prefix": "octicon4-diff-added",
     "body": "content: '\\\\f06b';"
   },
   "octicon-inbox": {
-    "prefix": "octicon-inbox",
+    "prefix": "octicon4-inbox",
     "body": "content: '\\\\f0cf';"
   },
   "octicon-git-commit": {
-    "prefix": "octicon-git-commit",
+    "prefix": "octicon4-git-commit",
     "body": "content: '\\\\f01f';"
   },
   "octicon-gist-fork": {
-    "prefix": "octicon-gist-fork",
+    "prefix": "octicon4-gist-fork",
     "body": "content: '\\\\f002';"
   },
   "octicon-eye": {
-    "prefix": "octicon-eye",
+    "prefix": "octicon4-eye",
     "body": "content: '\\\\f04e';"
   },
   "octicon-microscope": {
-    "prefix": "octicon-microscope",
+    "prefix": "octicon4-microscope",
     "body": "content: '\\\\f0dd';"
   },
   "octicon-arrow-left": {
-    "prefix": "octicon-arrow-left",
+    "prefix": "octicon4-arrow-left",
     "body": "content: '\\\\f040';"
   },
   "octicon-clippy": {
-    "prefix": "octicon-clippy",
+    "prefix": "octicon4-clippy",
     "body": "content: '\\\\f035';"
   },
   "octicon-bookmark": {
-    "prefix": "octicon-bookmark",
+    "prefix": "octicon4-bookmark",
     "body": "content: '\\\\f07b';"
   },
   "octicon-issue-opened": {
-    "prefix": "octicon-issue-opened",
+    "prefix": "octicon4-issue-opened",
     "body": "content: '\\\\f026';"
   },
   "octicon-gist-secret": {
-    "prefix": "octicon-gist-secret",
+    "prefix": "octicon4-gist-secret",
     "body": "content: '\\\\f08c';"
   },
   "octicon-git-branch": {
-    "prefix": "octicon-git-branch",
+    "prefix": "octicon4-git-branch",
     "body": "content: '\\\\f020';"
   },
   "octicon-comment-discussion": {
-    "prefix": "octicon-comment-discussion",
+    "prefix": "octicon4-comment-discussion",
     "body": "content: '\\\\f04f';"
   },
   "octicon-file-directory": {
-    "prefix": "octicon-file-directory",
+    "prefix": "octicon4-file-directory",
     "body": "content: '\\\\f016';"
   },
   "octicon-broadcast": {
-    "prefix": "octicon-broadcast",
+    "prefix": "octicon4-broadcast",
     "body": "content: '\\\\f048';"
   },
   "octicon-file-code": {
-    "prefix": "octicon-file-code",
+    "prefix": "octicon4-file-code",
     "body": "content: '\\\\f010';"
   },
   "octicon-telescope": {
-    "prefix": "octicon-telescope",
+    "prefix": "octicon4-telescope",
     "body": "content: '\\\\f088';"
   },
   "octicon-file-directory-create": {
-    "prefix": "octicon-file-directory-create",
+    "prefix": "octicon4-file-directory-create",
     "body": "content: '\\\\f05d';"
   },
   "octicon-briefcase": {
-    "prefix": "octicon-briefcase",
+    "prefix": "octicon4-briefcase",
     "body": "content: '\\\\f0d3';"
   },
   "octicon-location": {
-    "prefix": "octicon-location",
+    "prefix": "octicon4-location",
     "body": "content: '\\\\f060';"
   },
   "octicon-sync": {
-    "prefix": "octicon-sync",
+    "prefix": "octicon4-sync",
     "body": "content: '\\\\f087';"
   },
   "octicon-sign-in": {
-    "prefix": "octicon-sign-in",
+    "prefix": "octicon4-sign-in",
     "body": "content: '\\\\f036';"
   },
   "octicon-file-media": {
-    "prefix": "octicon-file-media",
+    "prefix": "octicon4-file-media",
     "body": "content: '\\\\f012';"
   },
   "octicon-git-pull-request-abandoned": {
-    "prefix": "octicon-git-pull-request-abandoned",
+    "prefix": "octicon4-git-pull-request-abandoned",
     "body": "content: '\\\\f009';"
   },
   "octicon-pin": {
-    "prefix": "octicon-pin",
+    "prefix": "octicon4-pin",
     "body": "content: '\\\\f041';"
   },
   "octicon-dashboard": {
-    "prefix": "octicon-dashboard",
+    "prefix": "octicon4-dashboard",
     "body": "content: '\\\\f07d';"
   },
   "octicon-git-merge": {
-    "prefix": "octicon-git-merge",
+    "prefix": "octicon4-git-merge",
     "body": "content: '\\\\f023';"
   },
   "octicon-device-camera": {
-    "prefix": "octicon-device-camera",
+    "prefix": "octicon4-device-camera",
     "body": "content: '\\\\f056';"
   },
   "octicon-arrow-small-left": {
-    "prefix": "octicon-arrow-small-left",
+    "prefix": "octicon4-arrow-small-left",
     "body": "content: '\\\\f0a1';"
   },
   "octicon-repo-create": {
-    "prefix": "octicon-repo-create",
+    "prefix": "octicon4-repo-create",
     "body": "content: '\\\\f05d';"
   },
   "octicon-bell": {
-    "prefix": "octicon-bell",
+    "prefix": "octicon4-bell",
     "body": "content: '\\\\f0de';"
   },
   "octicon-fold": {
-    "prefix": "octicon-fold",
+    "prefix": "octicon4-fold",
     "body": "content: '\\\\f0cc';"
   },
   "octicon-arrow-small-down": {
-    "prefix": "octicon-arrow-small-down",
+    "prefix": "octicon4-arrow-small-down",
     "body": "content: '\\\\f0a0';"
   },
   "octicon-file-zip": {
-    "prefix": "octicon-file-zip",
+    "prefix": "octicon4-file-zip",
     "body": "content: '\\\\f013';"
   },
   "octicon-ellipsis": {
-    "prefix": "octicon-ellipsis",
+    "prefix": "octicon4-ellipsis",
     "body": "content: '\\\\f09a';"
   },
   "octicon-law": {
-    "prefix": "octicon-law",
+    "prefix": "octicon4-law",
     "body": "content: '\\\\f0d8';"
   },
   "octicon-x": {
-    "prefix": "octicon-x",
+    "prefix": "octicon4-x",
     "body": "content: '\\\\f081';"
   },
   "octicon-mirror-public": {
-    "prefix": "octicon-mirror-public",
+    "prefix": "octicon4-mirror-public",
     "body": "content: '\\\\f024';"
   },
   "octicon-git-compare": {
-    "prefix": "octicon-git-compare",
+    "prefix": "octicon4-git-compare",
     "body": "content: '\\\\f0ac';"
   },
   "octicon-stop": {
-    "prefix": "octicon-stop",
+    "prefix": "octicon4-stop",
     "body": "content: '\\\\f08f';"
   },
   "octicon-file-submodule": {
-    "prefix": "octicon-file-submodule",
+    "prefix": "octicon4-file-submodule",
     "body": "content: '\\\\f017';"
   },
   "octicon-key": {
-    "prefix": "octicon-key",
+    "prefix": "octicon4-key",
     "body": "content: '\\\\f049';"
   },
   "octicon-mail-read": {
-    "prefix": "octicon-mail-read",
+    "prefix": "octicon4-mail-read",
     "body": "content: '\\\\f03c';"
   },
   "octicon-circuit-board": {
-    "prefix": "octicon-circuit-board",
+    "prefix": "octicon4-circuit-board",
     "body": "content: '\\\\f0d6';"
   },
   "octicon-heart": {
-    "prefix": "octicon-heart",
+    "prefix": "octicon4-heart",
     "body": "content: '\\\\2665';"
   },
   "octicon-diff-removed": {
-    "prefix": "octicon-diff-removed",
+    "prefix": "octicon4-diff-removed",
     "body": "content: '\\\\f06c';"
   },
   "octicon-versions": {
-    "prefix": "octicon-versions",
+    "prefix": "octicon4-versions",
     "body": "content: '\\\\f064';"
   },
   "octicon-repo-push": {
-    "prefix": "octicon-repo-push",
+    "prefix": "octicon4-repo-push",
     "body": "content: '\\\\f005';"
   },
   "octicon-globe": {
-    "prefix": "octicon-globe",
+    "prefix": "octicon4-globe",
     "body": "content: '\\\\f0b6';"
   },
   "octicon-no-newline": {
-    "prefix": "octicon-no-newline",
+    "prefix": "octicon4-no-newline",
     "body": "content: '\\\\f09c';"
   },
   "octicon-plus-small": {
-    "prefix": "octicon-plus-small",
+    "prefix": "octicon4-plus-small",
     "body": "content: '\\\\f104';"
   },
   "octicon-person": {
-    "prefix": "octicon-person",
+    "prefix": "octicon4-person",
     "body": "content: '\\\\f018';"
   },
   "octicon-logo-gist": {
-    "prefix": "octicon-logo-gist",
+    "prefix": "octicon4-logo-gist",
     "body": "content: '\\\\f0ad';"
   },
   "octicon-arrow-small-right": {
-    "prefix": "octicon-arrow-small-right",
+    "prefix": "octicon4-arrow-small-right",
     "body": "content: '\\\\f071';"
   },
   "octicon-star": {
-    "prefix": "octicon-star",
+    "prefix": "octicon4-star",
     "body": "content: '\\\\f02a';"
   },
   "octicon-chevron-right": {
-    "prefix": "octicon-chevron-right",
+    "prefix": "octicon4-chevron-right",
     "body": "content: '\\\\f078';"
   },
   "octicon-megaphone": {
-    "prefix": "octicon-megaphone",
+    "prefix": "octicon4-megaphone",
     "body": "content: '\\\\f077';"
   },
   "octicon-arrow-down": {
-    "prefix": "octicon-arrow-down",
+    "prefix": "octicon4-arrow-down",
     "body": "content: '\\\\f03f';"
   },
   "octicon-triangle-left": {
-    "prefix": "octicon-triangle-left",
+    "prefix": "octicon4-triangle-left",
     "body": "content: '\\\\f044';"
   },
   "octicon-link": {
-    "prefix": "octicon-link",
+    "prefix": "octicon4-link",
     "body": "content: '\\\\f05c';"
   },
   "octicon-home": {
-    "prefix": "octicon-home",
+    "prefix": "octicon4-home",
     "body": "content: '\\\\f08d';"
   },
   "octicon-chevron-up": {
-    "prefix": "octicon-chevron-up",
+    "prefix": "octicon4-chevron-up",
     "body": "content: '\\\\f0a2';"
   },
   "octicon-arrow-right": {
-    "prefix": "octicon-arrow-right",
+    "prefix": "octicon4-arrow-right",
     "body": "content: '\\\\f03e';"
   },
   "octicon-cloud-download": {
-    "prefix": "octicon-cloud-download",
+    "prefix": "octicon4-cloud-download",
     "body": "content: '\\\\f00b';"
   },
   "octicon-file-text": {
-    "prefix": "octicon-file-text",
+    "prefix": "octicon4-file-text",
     "body": "content: '\\\\f011';"
   },
   "octicon-info": {
-    "prefix": "octicon-info",
+    "prefix": "octicon4-info",
     "body": "content: '\\\\f059';"
   },
   "octicon-repo-clone": {
-    "prefix": "octicon-repo-clone",
+    "prefix": "octicon4-repo-clone",
     "body": "content: '\\\\f04c';"
   },
   "octicon-paintcan": {
-    "prefix": "octicon-paintcan",
+    "prefix": "octicon4-paintcan",
     "body": "content: '\\\\f0d1';"
   },
   "octicon-circle-slash": {
-    "prefix": "octicon-circle-slash",
+    "prefix": "octicon4-circle-slash",
     "body": "content: '\\\\f084';"
   },
   "octicon-server": {
-    "prefix": "octicon-server",
+    "prefix": "octicon4-server",
     "body": "content: '\\\\f097';"
   },
   "octicon-text-size": {
-    "prefix": "octicon-text-size",
+    "prefix": "octicon4-text-size",
     "body": "content: '\\\\f0e3';"
   },
   "octicon-git-fork-private": {
-    "prefix": "octicon-git-fork-private",
+    "prefix": "octicon4-git-fork-private",
     "body": "content: '\\\\f06a';"
   },
   "octicon-file-symlink-directory": {
-    "prefix": "octicon-file-symlink-directory",
+    "prefix": "octicon4-file-symlink-directory",
     "body": "content: '\\\\f0b1';"
   },
   "octicon-diff-modified": {
-    "prefix": "octicon-diff-modified",
+    "prefix": "octicon4-diff-modified",
     "body": "content: '\\\\f06d';"
   },
   "octicon-keyboard": {
-    "prefix": "octicon-keyboard",
+    "prefix": "octicon4-keyboard",
     "body": "content: '\\\\f00d';"
   },
   "octicon-comment": {
-    "prefix": "octicon-comment",
+    "prefix": "octicon4-comment",
     "body": "content: '\\\\f02b';"
   },
   "octicon-clock": {
-    "prefix": "octicon-clock",
+    "prefix": "octicon4-clock",
     "body": "content: '\\\\f046';"
   },
   "octicon-git-branch-create": {
-    "prefix": "octicon-git-branch-create",
+    "prefix": "octicon4-git-branch-create",
     "body": "content: '\\\\f020';"
   },
   "octicon-log-in": {
-    "prefix": "octicon-log-in",
+    "prefix": "octicon4-log-in",
     "body": "content: '\\\\f036';"
   },
   "octicon-repo-forked": {
-    "prefix": "octicon-repo-forked",
+    "prefix": "octicon4-repo-forked",
     "body": "content: '\\\\f002';"
   },
   "octicon-plug": {
-    "prefix": "octicon-plug",
+    "prefix": "octicon4-plug",
     "body": "content: '\\\\f0d4';"
   },
   "octicon-tag": {
-    "prefix": "octicon-tag",
+    "prefix": "octicon4-tag",
     "body": "content: '\\\\f015';"
   },
   "octicon-mirror": {
-    "prefix": "octicon-mirror",
+    "prefix": "octicon4-mirror",
     "body": "content: '\\\\f024';"
   },
   "octicon-horizontal-rule": {
-    "prefix": "octicon-horizontal-rule",
+    "prefix": "octicon4-horizontal-rule",
     "body": "content: '\\\\f070';"
   },
   "octicon-three-bars": {
-    "prefix": "octicon-three-bars",
+    "prefix": "octicon4-three-bars",
     "body": "content: '\\\\f05e';"
   },
   "octicon-triangle-up": {
-    "prefix": "octicon-triangle-up",
+    "prefix": "octicon4-triangle-up",
     "body": "content: '\\\\f0aa';"
   },
   "octicon-device-camera-video": {
-    "prefix": "octicon-device-camera-video",
+    "prefix": "octicon4-device-camera-video",
     "body": "content: '\\\\f057';"
   },
   "octicon-plus": {
-    "prefix": "octicon-plus",
+    "prefix": "octicon4-plus",
     "body": "content: '\\\\f05d';"
   },
   "octicon-eye-unwatch": {
-    "prefix": "octicon-eye-unwatch",
+    "prefix": "octicon4-eye-unwatch",
     "body": "content: '\\\\f04e';"
   },
   "octicon-browser": {
-    "prefix": "octicon-browser",
+    "prefix": "octicon4-browser",
     "body": "content: '\\\\f0c5';"
   },
   "octicon-primitive-dot": {
-    "prefix": "octicon-primitive-dot",
+    "prefix": "octicon4-primitive-dot",
     "body": "content: '\\\\f052';"
   },
   "octicon-search-save": {
-    "prefix": "octicon-search-save",
+    "prefix": "octicon4-search-save",
     "body": "content: '\\\\f02e';"
   },
   "octicon-tag-remove": {
-    "prefix": "octicon-tag-remove",
+    "prefix": "octicon4-tag-remove",
     "body": "content: '\\\\f015';"
   },
   "octicon-zap": {
-    "prefix": "octicon-zap",
+    "prefix": "octicon4-zap",
     "body": "content: '\\\\26A1';"
   },
   "octicon-check": {
-    "prefix": "octicon-check",
+    "prefix": "octicon4-check",
     "body": "content: '\\\\f03a';"
   },
   "octicon-primitive-square": {
-    "prefix": "octicon-primitive-square",
+    "prefix": "octicon4-primitive-square",
     "body": "content: '\\\\f053';"
   },
   "octicon-thumbsdown": {
-    "prefix": "octicon-thumbsdown",
+    "prefix": "octicon4-thumbsdown",
     "body": "content: '\\\\f0db';"
   },
   "octicon-gist-new": {
-    "prefix": "octicon-gist-new",
+    "prefix": "octicon4-gist-new",
     "body": "content: '\\\\f05d';"
   },
   "octicon-pencil": {
-    "prefix": "octicon-pencil",
+    "prefix": "octicon4-pencil",
     "body": "content: '\\\\f058';"
   },
   "octicon-markdown": {
-    "prefix": "octicon-markdown",
+    "prefix": "octicon4-markdown",
     "body": "content: '\\\\f0c9';"
   },
   "octicon-clone": {
-    "prefix": "octicon-clone",
+    "prefix": "octicon4-clone",
     "body": "content: '\\\\f0dc';"
   },
   "octicon-thumbsup": {
-    "prefix": "octicon-thumbsup",
+    "prefix": "octicon4-thumbsup",
     "body": "content: '\\\\f0da';"
   },
   "octicon-gear": {
-    "prefix": "octicon-gear",
+    "prefix": "octicon4-gear",
     "body": "content: '\\\\f02f';"
   },
   "octicon-remove-close": {
-    "prefix": "octicon-remove-close",
+    "prefix": "octicon4-remove-close",
     "body": "content: '\\\\f081';"
   },
   "octicon-watch": {
-    "prefix": "octicon-watch",
+    "prefix": "octicon4-watch",
     "body": "content: '\\\\f0e0';"
   },
   "octicon-tasklist": {
-    "prefix": "octicon-tasklist",
+    "prefix": "octicon4-tasklist",
     "body": "content: '\\\\f0e5';"
   },
   "octicon-terminal": {
-    "prefix": "octicon-terminal",
+    "prefix": "octicon4-terminal",
     "body": "content: '\\\\f0c8';"
   },
   "octicon-repo-force-push": {
-    "prefix": "octicon-repo-force-push",
+    "prefix": "octicon4-repo-force-push",
     "body": "content: '\\\\f04a';"
   },
   "octicon-triangle-down": {
-    "prefix": "octicon-triangle-down",
+    "prefix": "octicon4-triangle-down",
     "body": "content: '\\\\f05b';"
   },
   "octicon-arrow-up": {
-    "prefix": "octicon-arrow-up",
+    "prefix": "octicon4-arrow-up",
     "body": "content: '\\\\f03d';"
   },
   "octicon-diff-renamed": {
-    "prefix": "octicon-diff-renamed",
+    "prefix": "octicon4-diff-renamed",
     "body": "content: '\\\\f06e';"
   },
   "octicon-list-ordered": {
-    "prefix": "octicon-list-ordered",
+    "prefix": "octicon4-list-ordered",
     "body": "content: '\\\\f062';"
   },
   "octicon-bold": {
-    "prefix": "octicon-bold",
+    "prefix": "octicon4-bold",
     "body": "content: '\\\\f0e2';"
   },
   "octicon-list-unordered": {
-    "prefix": "octicon-list-unordered",
+    "prefix": "octicon4-list-unordered",
     "body": "content: '\\\\f061';"
   },
   "octicon-history": {
-    "prefix": "octicon-history",
+    "prefix": "octicon4-history",
     "body": "content: '\\\\f07e';"
   },
   "octicon-issue-reopened": {
-    "prefix": "octicon-issue-reopened",
+    "prefix": "octicon4-issue-reopened",
     "body": "content: '\\\\f027';"
   },
   "octicon-gist-private": {
-    "prefix": "octicon-gist-private",
+    "prefix": "octicon4-gist-private",
     "body": "content: '\\\\f06a';"
   },
   "octicon-mortar-board": {
-    "prefix": "octicon-mortar-board",
+    "prefix": "octicon4-mortar-board",
     "body": "content: '\\\\f0d7';"
   },
   "octicon-mention": {
-    "prefix": "octicon-mention",
+    "prefix": "octicon4-mention",
     "body": "content: '\\\\f0be';"
   }
 }
