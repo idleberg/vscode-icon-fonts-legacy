@@ -1,1042 +1,1302 @@
 {
-  "halflings-resize-horizontal": {
-    "prefix": "halflings-resize-horizontal",
-    "body": "<${1:span} class=\"halflings halflings-resize-horizontal$2\"></${1:span}>$2"
-  },
-  "halflings-filter": {
-    "prefix": "halflings-filter",
-    "body": "<${1:span} class=\"halflings halflings-filter$2\"></${1:span}>$2"
-  },
-  "halflings-phone": {
-    "prefix": "halflings-phone",
-    "body": "<${1:span} class=\"halflings halflings-phone$2\"></${1:span}>$2"
-  },
-  "halflings-text-size": {
-    "prefix": "halflings-text-size",
-    "body": "<${1:span} class=\"halflings halflings-text-size$2\"></${1:span}>$2"
-  },
-  "halflings-indent-right": {
-    "prefix": "halflings-indent-right",
-    "body": "<${1:span} class=\"halflings halflings-indent-right$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-left": {
-    "prefix": "halflings-object-align-left",
-    "body": "<${1:span} class=\"halflings halflings-object-align-left$2\"></${1:span}>$2"
-  },
-  "halflings-triangle-bottom": {
-    "prefix": "halflings-triangle-bottom",
-    "body": "<${1:span} class=\"halflings halflings-triangle-bottom$2\"></${1:span}>$2"
-  },
-  "halflings-floppy-saved": {
-    "prefix": "halflings-floppy-saved",
-    "body": "<${1:span} class=\"halflings halflings-floppy-saved$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-attributes": {
-    "prefix": "halflings-sort-by-attributes",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-attributes$2\"></${1:span}>$2"
-  },
-  "halflings-text-background": {
-    "prefix": "halflings-text-background",
-    "body": "<${1:span} class=\"halflings halflings-text-background$2\"></${1:span}>$2"
-  },
-  "halflings-hand-down": {
-    "prefix": "halflings-hand-down",
-    "body": "<${1:span} class=\"halflings halflings-hand-down$2\"></${1:span}>$2"
-  },
-  "halflings-floppy-save": {
-    "prefix": "halflings-floppy-save",
-    "body": "<${1:span} class=\"halflings halflings-floppy-save$2\"></${1:span}>$2"
-  },
-  "halflings-remove-sign": {
-    "prefix": "halflings-remove-sign",
-    "body": "<${1:span} class=\"halflings halflings-remove-sign$2\"></${1:span}>$2"
-  },
-  "halflings-tree-conifer": {
-    "prefix": "halflings-tree-conifer",
-    "body": "<${1:span} class=\"halflings halflings-tree-conifer$2\"></${1:span}>$2"
-  },
-  "halflings-thumbs-up": {
-    "prefix": "halflings-thumbs-up",
-    "body": "<${1:span} class=\"halflings halflings-thumbs-up$2\"></${1:span}>$2"
-  },
-  "halflings-save-file": {
-    "prefix": "halflings-save-file",
-    "body": "<${1:span} class=\"halflings halflings-save-file$2\"></${1:span}>$2"
-  },
-  "halflings-screenshot": {
-    "prefix": "halflings-screenshot",
-    "body": "<${1:span} class=\"halflings halflings-screenshot$2\"></${1:span}>$2"
-  },
-  "halflings-arrow-right": {
-    "prefix": "halflings-arrow-right",
-    "body": "<${1:span} class=\"halflings halflings-arrow-right$2\"></${1:span}>$2"
-  },
-  "halflings-road": {
-    "prefix": "halflings-road",
-    "body": "<${1:span} class=\"halflings halflings-road$2\"></${1:span}>$2"
-  },
-  "halflings-music": {
-    "prefix": "halflings-music",
-    "body": "<${1:span} class=\"halflings halflings-music$2\"></${1:span}>$2"
-  },
-  "halflings-indent-left": {
-    "prefix": "halflings-indent-left",
-    "body": "<${1:span} class=\"halflings halflings-indent-left$2\"></${1:span}>$2"
-  },
-  "halflings-saved": {
-    "prefix": "halflings-saved",
-    "body": "<${1:span} class=\"halflings halflings-saved$2\"></${1:span}>$2"
-  },
-  "halflings-align-right": {
-    "prefix": "halflings-align-right",
-    "body": "<${1:span} class=\"halflings halflings-align-right$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-bell": {
-    "prefix": "halflings-glyph-bell",
-    "body": "<${1:span} class=\"halflings halflings-glyph-bell$2\"></${1:span}>$2"
-  },
-  "halflings-open": {
-    "prefix": "halflings-open",
-    "body": "<${1:span} class=\"halflings halflings-open$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-fire": {
-    "prefix": "halflings-glyph-fire",
-    "body": "<${1:span} class=\"halflings halflings-glyph-fire$2\"></${1:span}>$2"
-  },
-  "halflings-floppy-disk": {
-    "prefix": "halflings-floppy-disk",
-    "body": "<${1:span} class=\"halflings halflings-floppy-disk$2\"></${1:span}>$2"
-  },
-  "halflings-inbox": {
-    "prefix": "halflings-inbox",
-    "body": "<${1:span} class=\"halflings halflings-inbox$2\"></${1:span}>$2"
-  },
-  "halflings-pawn": {
-    "prefix": "halflings-pawn",
-    "body": "<${1:span} class=\"halflings halflings-pawn$2\"></${1:span}>$2"
-  },
-  "halflings-subscript": {
-    "prefix": "halflings-subscript",
-    "body": "<${1:span} class=\"halflings halflings-subscript$2\"></${1:span}>$2"
-  },
-  "halflings-text-color": {
-    "prefix": "halflings-text-color",
-    "body": "<${1:span} class=\"halflings halflings-text-color$2\"></${1:span}>$2"
-  },
-  "halflings-map-marker": {
-    "prefix": "halflings-map-marker",
-    "body": "<${1:span} class=\"halflings halflings-map-marker$2\"></${1:span}>$2"
-  },
-  "halflings-tag": {
-    "prefix": "halflings-tag",
-    "body": "<${1:span} class=\"halflings halflings-tag$2\"></${1:span}>$2"
-  },
-  "halflings-plus": {
-    "prefix": "halflings-plus",
-    "body": "<${1:span} class=\"halflings halflings-plus$2\"></${1:span}>$2"
-  },
-  "halflings-erase": {
-    "prefix": "halflings-erase",
-    "body": "<${1:span} class=\"halflings halflings-erase$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-bookmark": {
-    "prefix": "halflings-glyph-bookmark",
-    "body": "<${1:span} class=\"halflings halflings-glyph-bookmark$2\"></${1:span}>$2"
-  },
-  "halflings-gbp": {
-    "prefix": "halflings-gbp",
-    "body": "<${1:span} class=\"halflings halflings-gbp$2\"></${1:span}>$2"
-  },
-  "halflings-tags": {
-    "prefix": "halflings-tags",
-    "body": "<${1:span} class=\"halflings halflings-tags$2\"></${1:span}>$2"
-  },
-  "halflings-forward": {
-    "prefix": "halflings-forward",
-    "body": "<${1:span} class=\"halflings halflings-forward$2\"></${1:span}>$2"
-  },
-  "halflings-door": {
-    "prefix": "halflings-door",
-    "body": "<${1:span} class=\"halflings halflings-door$2\"></${1:span}>$2"
-  },
-  "halflings-exclamation-sign": {
-    "prefix": "halflings-exclamation-sign",
-    "body": "<${1:span} class=\"halflings halflings-exclamation-sign$2\"></${1:span}>$2"
-  },
-  "halflings-circle-arrow-left": {
-    "prefix": "halflings-circle-arrow-left",
-    "body": "<${1:span} class=\"halflings halflings-circle-arrow-left$2\"></${1:span}>$2"
-  },
-  "halflings-film": {
-    "prefix": "halflings-film",
-    "body": "<${1:span} class=\"halflings halflings-film$2\"></${1:span}>$2"
-  },
-  "halflings-menu-down": {
-    "prefix": "halflings-menu-down",
-    "body": "<${1:span} class=\"halflings halflings-menu-down$2\"></${1:span}>$2"
-  },
-  "halflings-hand-right": {
-    "prefix": "halflings-hand-right",
-    "body": "<${1:span} class=\"halflings halflings-hand-right$2\"></${1:span}>$2"
-  },
-  "halflings-menu-right": {
-    "prefix": "halflings-menu-right",
-    "body": "<${1:span} class=\"halflings halflings-menu-right$2\"></${1:span}>$2"
-  },
-  "halflings-remove": {
-    "prefix": "halflings-remove",
-    "body": "<${1:span} class=\"halflings halflings-remove$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-briefcase": {
-    "prefix": "halflings-glyph-briefcase",
-    "body": "<${1:span} class=\"halflings halflings-glyph-briefcase$2\"></${1:span}>$2"
-  },
-  "halflings-cd": {
-    "prefix": "halflings-cd",
-    "body": "<${1:span} class=\"halflings halflings-cd$2\"></${1:span}>$2"
-  },
-  "halflings-gift": {
-    "prefix": "halflings-gift",
-    "body": "<${1:span} class=\"halflings halflings-gift$2\"></${1:span}>$2"
-  },
-  "halflings-cutlery": {
-    "prefix": "halflings-cutlery",
-    "body": "<${1:span} class=\"halflings halflings-cutlery$2\"></${1:span}>$2"
-  },
-  "halflings-lamp": {
-    "prefix": "halflings-lamp",
-    "body": "<${1:span} class=\"halflings halflings-lamp$2\"></${1:span}>$2"
-  },
-  "halflings-knight": {
-    "prefix": "halflings-knight",
-    "body": "<${1:span} class=\"halflings halflings-knight$2\"></${1:span}>$2"
-  },
-  "halflings-registration-mark": {
-    "prefix": "halflings-registration-mark",
-    "body": "<${1:span} class=\"halflings halflings-registration-mark$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-top": {
-    "prefix": "halflings-object-align-top",
-    "body": "<${1:span} class=\"halflings halflings-object-align-top$2\"></${1:span}>$2"
-  },
-  "halflings-hand-top": {
-    "prefix": "halflings-hand-top",
-    "body": "<${1:span} class=\"halflings halflings-hand-top$2\"></${1:span}>$2"
-  },
-  "halflings-export": {
-    "prefix": "halflings-export",
-    "body": "<${1:span} class=\"halflings halflings-export$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-bottom": {
-    "prefix": "halflings-object-align-bottom",
-    "body": "<${1:span} class=\"halflings halflings-object-align-bottom$2\"></${1:span}>$2"
-  },
-  "halflings-flash": {
-    "prefix": "halflings-flash",
-    "body": "<${1:span} class=\"halflings halflings-flash$2\"></${1:span}>$2"
-  },
-  "halflings-link": {
-    "prefix": "halflings-link",
-    "body": "<${1:span} class=\"halflings halflings-link$2\"></${1:span}>$2"
-  },
-  "halflings-copy": {
-    "prefix": "halflings-copy",
-    "body": "<${1:span} class=\"halflings halflings-copy$2\"></${1:span}>$2"
-  },
-  "halflings-ok-sign": {
-    "prefix": "halflings-ok-sign",
-    "body": "<${1:span} class=\"halflings halflings-ok-sign$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-lock": {
-    "prefix": "halflings-glyph-lock",
-    "body": "<${1:span} class=\"halflings halflings-glyph-lock$2\"></${1:span}>$2"
-  },
-  "halflings-comments": {
-    "prefix": "halflings-comments",
-    "body": "<${1:span} class=\"halflings halflings-comments$2\"></${1:span}>$2"
-  },
-  "halflings-phone-alt": {
-    "prefix": "halflings-phone-alt",
-    "body": "<${1:span} class=\"halflings halflings-phone-alt$2\"></${1:span}>$2"
-  },
-  "halflings-tint": {
-    "prefix": "halflings-tint",
-    "body": "<${1:span} class=\"halflings halflings-tint$2\"></${1:span}>$2"
-  },
-  "halflings-sound-stereo": {
-    "prefix": "halflings-sound-stereo",
-    "body": "<${1:span} class=\"halflings halflings-sound-stereo$2\"></${1:span}>$2"
-  },
-  "halflings-trash": {
-    "prefix": "halflings-trash",
-    "body": "<${1:span} class=\"halflings halflings-trash$2\"></${1:span}>$2"
-  },
-  "halflings-tower": {
-    "prefix": "halflings-tower",
-    "body": "<${1:span} class=\"halflings halflings-tower$2\"></${1:span}>$2"
-  },
-  "halflings-glass": {
-    "prefix": "halflings-glass",
-    "body": "<${1:span} class=\"halflings halflings-glass$2\"></${1:span}>$2"
-  },
-  "halflings-triangle-left": {
-    "prefix": "halflings-triangle-left",
-    "body": "<${1:span} class=\"halflings halflings-triangle-left$2\"></${1:span}>$2"
-  },
-  "halflings-modal-window": {
-    "prefix": "halflings-modal-window",
-    "body": "<${1:span} class=\"halflings halflings-modal-window$2\"></${1:span}>$2"
-  },
-  "halflings-thumbs-down": {
-    "prefix": "halflings-thumbs-down",
-    "body": "<${1:span} class=\"halflings halflings-thumbs-down$2\"></${1:span}>$2"
-  },
-  "halflings-dashboard": {
-    "prefix": "halflings-dashboard",
-    "body": "<${1:span} class=\"halflings halflings-dashboard$2\"></${1:span}>$2"
-  },
-  "halflings-log-in": {
-    "prefix": "halflings-log-in",
-    "body": "<${1:span} class=\"halflings halflings-log-in$2\"></${1:span}>$2"
-  },
-  "halflings-align-justify": {
-    "prefix": "halflings-align-justify",
-    "body": "<${1:span} class=\"halflings halflings-align-justify$2\"></${1:span}>$2"
-  },
-  "halflings-education": {
-    "prefix": "halflings-education",
-    "body": "<${1:span} class=\"halflings halflings-education$2\"></${1:span}>$2"
-  },
-  "halflings-eye-close": {
-    "prefix": "halflings-eye-close",
-    "body": "<${1:span} class=\"halflings halflings-eye-close$2\"></${1:span}>$2"
-  },
-  "halflings-hd-video": {
-    "prefix": "halflings-hd-video",
-    "body": "<${1:span} class=\"halflings halflings-hd-video$2\"></${1:span}>$2"
-  },
-  "halflings-barcode": {
-    "prefix": "halflings-barcode",
-    "body": "<${1:span} class=\"halflings halflings-barcode$2\"></${1:span}>$2"
-  },
-  "halflings-grain": {
-    "prefix": "halflings-grain",
-    "body": "<${1:span} class=\"halflings halflings-grain$2\"></${1:span}>$2"
-  },
-  "halflings-question-sign": {
-    "prefix": "halflings-question-sign",
-    "body": "<${1:span} class=\"halflings halflings-question-sign$2\"></${1:span}>$2"
-  },
-  "halflings-key": {
-    "prefix": "halflings-key",
-    "body": "<${1:span} class=\"halflings halflings-key$2\"></${1:span}>$2"
-  },
-  "halflings-ban-circle": {
-    "prefix": "halflings-ban-circle",
-    "body": "<${1:span} class=\"halflings halflings-ban-circle$2\"></${1:span}>$2"
-  },
-  "halflings-sd-video": {
-    "prefix": "halflings-sd-video",
-    "body": "<${1:span} class=\"halflings halflings-sd-video$2\"></${1:span}>$2"
-  },
-  "halflings-fast-backward": {
-    "prefix": "halflings-fast-backward",
-    "body": "<${1:span} class=\"halflings halflings-fast-backward$2\"></${1:span}>$2"
-  },
-  "halflings-copyright-mark": {
-    "prefix": "halflings-copyright-mark",
-    "body": "<${1:span} class=\"halflings halflings-copyright-mark$2\"></${1:span}>$2"
-  },
-  "halflings-shopping-cart": {
-    "prefix": "halflings-shopping-cart",
-    "body": "<${1:span} class=\"halflings halflings-shopping-cart$2\"></${1:span}>$2"
-  },
-  "halflings-asterisk": {
-    "prefix": "halflings-asterisk",
-    "body": "<${1:span} class=\"halflings halflings-asterisk$2\"></${1:span}>$2"
-  },
-  "halflings-hand-left": {
-    "prefix": "halflings-hand-left",
-    "body": "<${1:span} class=\"halflings halflings-hand-left$2\"></${1:span}>$2"
-  },
-  "halflings-step-backward": {
-    "prefix": "halflings-step-backward",
-    "body": "<${1:span} class=\"halflings halflings-step-backward$2\"></${1:span}>$2"
-  },
-  "halflings-text-height": {
-    "prefix": "halflings-text-height",
-    "body": "<${1:span} class=\"halflings halflings-text-height$2\"></${1:span}>$2"
-  },
-  "halflings-zoom-in": {
-    "prefix": "halflings-zoom-in",
-    "body": "<${1:span} class=\"halflings halflings-zoom-in$2\"></${1:span}>$2"
-  },
-  "halflings-sort": {
-    "prefix": "halflings-sort",
-    "body": "<${1:span} class=\"halflings halflings-sort$2\"></${1:span}>$2"
-  },
-  "halflings-header": {
-    "prefix": "halflings-header",
-    "body": "<${1:span} class=\"halflings halflings-header$2\"></${1:span}>$2"
-  },
-  "halflings-sound-6-1": {
-    "prefix": "halflings-sound-6-1",
-    "body": "<${1:span} class=\"halflings halflings-sound-6-1$2\"></${1:span}>$2"
-  },
-  "halflings-level-up": {
-    "prefix": "halflings-level-up",
-    "body": "<${1:span} class=\"halflings halflings-level-up$2\"></${1:span}>$2"
-  },
-  "halflings-triangle-right": {
-    "prefix": "halflings-triangle-right",
-    "body": "<${1:span} class=\"halflings halflings-triangle-right$2\"></${1:span}>$2"
-  },
-  "halflings-sound-5-1": {
-    "prefix": "halflings-sound-5-1",
-    "body": "<${1:span} class=\"halflings halflings-sound-5-1$2\"></${1:span}>$2"
-  },
-  "halflings-th-list": {
-    "prefix": "halflings-th-list",
-    "body": "<${1:span} class=\"halflings halflings-th-list$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-calendar": {
-    "prefix": "halflings-glyph-calendar",
-    "body": "<${1:span} class=\"halflings halflings-glyph-calendar$2\"></${1:span}>$2"
-  },
-  "halflings-menu-left": {
-    "prefix": "halflings-menu-left",
-    "body": "<${1:span} class=\"halflings halflings-menu-left$2\"></${1:span}>$2"
-  },
-  "halflings-transfer": {
-    "prefix": "halflings-transfer",
-    "body": "<${1:span} class=\"halflings halflings-transfer$2\"></${1:span}>$2"
-  },
-  "halflings-sunglasses": {
-    "prefix": "halflings-sunglasses",
-    "body": "<${1:span} class=\"halflings halflings-sunglasses$2\"></${1:span}>$2"
-  },
-  "halflings-chevron-right": {
-    "prefix": "halflings-chevron-right",
-    "body": "<${1:span} class=\"halflings halflings-chevron-right$2\"></${1:span}>$2"
-  },
-  "halflings-fullscreen": {
-    "prefix": "halflings-fullscreen",
-    "body": "<${1:span} class=\"halflings halflings-fullscreen$2\"></${1:span}>$2"
-  },
-  "halflings-circle-arrow-right": {
-    "prefix": "halflings-circle-arrow-right",
-    "body": "<${1:span} class=\"halflings halflings-circle-arrow-right$2\"></${1:span}>$2"
-  },
-  "halflings-star": {
-    "prefix": "halflings-star",
-    "body": "<${1:span} class=\"halflings halflings-star$2\"></${1:span}>$2"
-  },
-  "halflings-option-vertical": {
-    "prefix": "halflings-option-vertical",
-    "body": "<${1:span} class=\"halflings halflings-option-vertical$2\"></${1:span}>$2"
-  },
-  "halflings-envelope": {
-    "prefix": "halflings-envelope",
-    "body": "<${1:span} class=\"halflings halflings-envelope$2\"></${1:span}>$2"
-  },
-  "halflings-tent": {
-    "prefix": "halflings-tent",
-    "body": "<${1:span} class=\"halflings halflings-tent$2\"></${1:span}>$2"
-  },
-  "halflings-circle-arrow-down": {
-    "prefix": "halflings-circle-arrow-down",
-    "body": "<${1:span} class=\"halflings halflings-circle-arrow-down$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-paperclip": {
-    "prefix": "halflings-glyph-paperclip",
-    "body": "<${1:span} class=\"halflings halflings-glyph-paperclip$2\"></${1:span}>$2"
-  },
-  "halflings-bed": {
-    "prefix": "halflings-bed",
-    "body": "<${1:span} class=\"halflings halflings-bed$2\"></${1:span}>$2"
-  },
-  "halflings-edit": {
-    "prefix": "halflings-edit",
-    "body": "<${1:span} class=\"halflings halflings-edit$2\"></${1:span}>$2"
-  },
-  "halflings-pause": {
-    "prefix": "halflings-pause",
-    "body": "<${1:span} class=\"halflings halflings-pause$2\"></${1:span}>$2"
-  },
-  "halflings-chevron-left": {
-    "prefix": "halflings-chevron-left",
-    "body": "<${1:span} class=\"halflings halflings-chevron-left$2\"></${1:span}>$2"
-  },
-  "halflings-search": {
-    "prefix": "halflings-search",
-    "body": "<${1:span} class=\"halflings halflings-search$2\"></${1:span}>$2"
-  },
-  "halflings-eject": {
-    "prefix": "halflings-eject",
-    "body": "<${1:span} class=\"halflings halflings-eject$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-vertical": {
-    "prefix": "halflings-object-align-vertical",
-    "body": "<${1:span} class=\"halflings halflings-object-align-vertical$2\"></${1:span}>$2"
-  },
-  "halflings-usd": {
-    "prefix": "halflings-usd",
-    "body": "<${1:span} class=\"halflings halflings-usd$2\"></${1:span}>$2"
-  },
-  "halflings-bishop": {
-    "prefix": "halflings-bishop",
-    "body": "<${1:span} class=\"halflings halflings-bishop$2\"></${1:span}>$2"
-  },
-  "halflings-earphone": {
-    "prefix": "halflings-earphone",
-    "body": "<${1:span} class=\"halflings halflings-earphone$2\"></${1:span}>$2"
-  },
-  "halflings-euro": {
-    "prefix": "halflings-euro",
-    "body": "<${1:span} class=\"halflings halflings-euro$2\"></${1:span}>$2"
-  },
-  "halflings-apple": {
-    "prefix": "halflings-apple",
-    "body": "<${1:span} class=\"halflings halflings-apple$2\"></${1:span}>$2"
-  },
-  "halflings-floppy-remove": {
-    "prefix": "halflings-floppy-remove",
-    "body": "<${1:span} class=\"halflings halflings-floppy-remove$2\"></${1:span}>$2"
-  },
-  "halflings-check": {
-    "prefix": "halflings-check",
-    "body": "<${1:span} class=\"halflings halflings-check$2\"></${1:span}>$2"
-  },
-  "halflings-menu-hamburger": {
-    "prefix": "halflings-menu-hamburger",
-    "body": "<${1:span} class=\"halflings halflings-menu-hamburger$2\"></${1:span}>$2"
-  },
-  "halflings-duplicate": {
-    "prefix": "halflings-duplicate",
-    "body": "<${1:span} class=\"halflings halflings-duplicate$2\"></${1:span}>$2"
-  },
-  "halflings-collapse-top": {
-    "prefix": "halflings-collapse-top",
-    "body": "<${1:span} class=\"halflings halflings-collapse-top$2\"></${1:span}>$2"
-  },
-  "halflings-retweet": {
-    "prefix": "halflings-retweet",
-    "body": "<${1:span} class=\"halflings halflings-retweet$2\"></${1:span}>$2"
-  },
-  "halflings-pencil": {
-    "prefix": "halflings-pencil",
-    "body": "<${1:span} class=\"halflings halflings-pencil$2\"></${1:span}>$2"
-  },
-  "halflings-user": {
-    "prefix": "halflings-user",
-    "body": "<${1:span} class=\"halflings halflings-user$2\"></${1:span}>$2"
-  },
-  "halflings-plane": {
-    "prefix": "halflings-plane",
-    "body": "<${1:span} class=\"halflings halflings-plane$2\"></${1:span}>$2"
-  },
-  "halflings-cloud-upload": {
-    "prefix": "halflings-cloud-upload",
-    "body": "<${1:span} class=\"halflings halflings-cloud-upload$2\"></${1:span}>$2"
-  },
-  "halflings-th": {
-    "prefix": "halflings-th",
-    "body": "<${1:span} class=\"halflings halflings-th$2\"></${1:span}>$2"
-  },
-  "halflings-list": {
-    "prefix": "halflings-list",
-    "body": "<${1:span} class=\"halflings halflings-list$2\"></${1:span}>$2"
-  },
-  "halflings-arrow-left": {
-    "prefix": "halflings-arrow-left",
-    "body": "<${1:span} class=\"halflings halflings-arrow-left$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-order": {
-    "prefix": "halflings-sort-by-order",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-order$2\"></${1:span}>$2"
-  },
-  "halflings-arrow-down": {
-    "prefix": "halflings-arrow-down",
-    "body": "<${1:span} class=\"halflings halflings-arrow-down$2\"></${1:span}>$2"
-  },
-  "halflings-equalizer": {
-    "prefix": "halflings-equalizer",
-    "body": "<${1:span} class=\"halflings halflings-equalizer$2\"></${1:span}>$2"
-  },
-  "halflings-certificate": {
-    "prefix": "halflings-certificate",
-    "body": "<${1:span} class=\"halflings halflings-certificate$2\"></${1:span}>$2"
-  },
-  "halflings-tasks": {
-    "prefix": "halflings-tasks",
-    "body": "<${1:span} class=\"halflings halflings-tasks$2\"></${1:span}>$2"
-  },
-  "halflings-flag": {
-    "prefix": "halflings-flag",
-    "body": "<${1:span} class=\"halflings halflings-flag$2\"></${1:span}>$2"
-  },
-  "halflings-download": {
-    "prefix": "halflings-download",
-    "body": "<${1:span} class=\"halflings halflings-download$2\"></${1:span}>$2"
-  },
-  "halflings-repeat": {
-    "prefix": "halflings-repeat",
-    "body": "<${1:span} class=\"halflings halflings-repeat$2\"></${1:span}>$2"
-  },
-  "halflings-step-forward": {
-    "prefix": "halflings-step-forward",
-    "body": "<${1:span} class=\"halflings halflings-step-forward$2\"></${1:span}>$2"
-  },
-  "halflings-share-alt": {
-    "prefix": "halflings-share-alt",
-    "body": "<${1:span} class=\"halflings halflings-share-alt$2\"></${1:span}>$2"
-  },
-  "halflings-minus": {
-    "prefix": "halflings-minus",
-    "body": "<${1:span} class=\"halflings halflings-minus$2\"></${1:span}>$2"
-  },
-  "halflings-send": {
-    "prefix": "halflings-send",
-    "body": "<${1:span} class=\"halflings halflings-send$2\"></${1:span}>$2"
-  },
-  "halflings-compressed": {
-    "prefix": "halflings-compressed",
-    "body": "<${1:span} class=\"halflings halflings-compressed$2\"></${1:span}>$2"
-  },
-  "halflings-save": {
-    "prefix": "halflings-save",
-    "body": "<${1:span} class=\"halflings halflings-save$2\"></${1:span}>$2"
-  },
-  "halflings-print": {
-    "prefix": "halflings-print",
-    "body": "<${1:span} class=\"halflings halflings-print$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-alphabet": {
-    "prefix": "halflings-sort-by-alphabet",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-alphabet$2\"></${1:span}>$2"
-  },
-  "halflings-piggy-bank": {
-    "prefix": "halflings-piggy-bank",
-    "body": "<${1:span} class=\"halflings halflings-piggy-bank$2\"></${1:span}>$2"
-  },
-  "halflings-menu-up": {
-    "prefix": "halflings-menu-up",
-    "body": "<${1:span} class=\"halflings halflings-menu-up$2\"></${1:span}>$2"
-  },
-  "halflings-font": {
-    "prefix": "halflings-font",
-    "body": "<${1:span} class=\"halflings halflings-font$2\"></${1:span}>$2"
-  },
-  "halflings-fast-forward": {
-    "prefix": "halflings-fast-forward",
-    "body": "<${1:span} class=\"halflings halflings-fast-forward$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-right": {
-    "prefix": "halflings-object-align-right",
-    "body": "<${1:span} class=\"halflings halflings-object-align-right$2\"></${1:span}>$2"
-  },
-  "halflings-unchecked": {
-    "prefix": "halflings-unchecked",
-    "body": "<${1:span} class=\"halflings halflings-unchecked$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-alphabet-alt": {
-    "prefix": "halflings-sort-by-alphabet-alt",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-alphabet-alt$2\"></${1:span}>$2"
-  },
-  "halflings-warning-sign": {
-    "prefix": "halflings-warning-sign",
-    "body": "<${1:span} class=\"halflings halflings-warning-sign$2\"></${1:span}>$2"
-  },
-  "halflings-ice-lolly": {
-    "prefix": "halflings-ice-lolly",
-    "body": "<${1:span} class=\"halflings halflings-ice-lolly$2\"></${1:span}>$2"
-  },
-  "halflings-list-alt": {
-    "prefix": "halflings-list-alt",
-    "body": "<${1:span} class=\"halflings halflings-list-alt$2\"></${1:span}>$2"
-  },
-  "halflings-align-left": {
-    "prefix": "halflings-align-left",
-    "body": "<${1:span} class=\"halflings halflings-align-left$2\"></${1:span}>$2"
-  },
-  "halflings-resize-small": {
-    "prefix": "halflings-resize-small",
-    "body": "<${1:span} class=\"halflings halflings-resize-small$2\"></${1:span}>$2"
-  },
-  "halflings-magnet": {
-    "prefix": "halflings-magnet",
-    "body": "<${1:span} class=\"halflings halflings-magnet$2\"></${1:span}>$2"
-  },
-  "halflings-picture": {
-    "prefix": "halflings-picture",
-    "body": "<${1:span} class=\"halflings halflings-picture$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-pushpin": {
-    "prefix": "halflings-glyph-pushpin",
-    "body": "<${1:span} class=\"halflings halflings-glyph-pushpin$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-order-alt": {
-    "prefix": "halflings-sort-by-order-alt",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-order-alt$2\"></${1:span}>$2"
-  },
-  "halflings-new-window": {
-    "prefix": "halflings-new-window",
-    "body": "<${1:span} class=\"halflings halflings-new-window$2\"></${1:span}>$2"
-  },
-  "halflings-refresh": {
-    "prefix": "halflings-refresh",
-    "body": "<${1:span} class=\"halflings halflings-refresh$2\"></${1:span}>$2"
-  },
-  "halflings-expand": {
-    "prefix": "halflings-expand",
-    "body": "<${1:span} class=\"halflings halflings-expand$2\"></${1:span}>$2"
-  },
-  "halflings-paste": {
-    "prefix": "halflings-paste",
-    "body": "<${1:span} class=\"halflings halflings-paste$2\"></${1:span}>$2"
-  },
-  "halflings-oil": {
-    "prefix": "halflings-oil",
-    "body": "<${1:span} class=\"halflings halflings-oil$2\"></${1:span}>$2"
-  },
-  "halflings-time": {
-    "prefix": "halflings-time",
-    "body": "<${1:span} class=\"halflings halflings-time$2\"></${1:span}>$2"
-  },
-  "halflings-th-large": {
-    "prefix": "halflings-th-large",
-    "body": "<${1:span} class=\"halflings halflings-th-large$2\"></${1:span}>$2"
-  },
-  "halflings-heart-empty": {
-    "prefix": "halflings-heart-empty",
-    "body": "<${1:span} class=\"halflings halflings-heart-empty$2\"></${1:span}>$2"
-  },
-  "halflings-align-center": {
-    "prefix": "halflings-align-center",
-    "body": "<${1:span} class=\"halflings halflings-align-center$2\"></${1:span}>$2"
-  },
-  "halflings-arrow-up": {
-    "prefix": "halflings-arrow-up",
-    "body": "<${1:span} class=\"halflings halflings-arrow-up$2\"></${1:span}>$2"
-  },
-  "halflings-queen": {
-    "prefix": "halflings-queen",
-    "body": "<${1:span} class=\"halflings halflings-queen$2\"></${1:span}>$2"
-  },
-  "halflings-ok": {
-    "prefix": "halflings-ok",
-    "body": "<${1:span} class=\"halflings halflings-ok$2\"></${1:span}>$2"
-  },
-  "halflings-home": {
-    "prefix": "halflings-home",
-    "body": "<${1:span} class=\"halflings halflings-home$2\"></${1:span}>$2"
-  },
-  "halflings-cloud": {
-    "prefix": "halflings-cloud",
-    "body": "<${1:span} class=\"halflings halflings-cloud$2\"></${1:span}>$2"
-  },
-  "halflings-backward": {
-    "prefix": "halflings-backward",
-    "body": "<${1:span} class=\"halflings halflings-backward$2\"></${1:span}>$2"
-  },
-  "halflings-facetime-video": {
-    "prefix": "halflings-facetime-video",
-    "body": "<${1:span} class=\"halflings halflings-facetime-video$2\"></${1:span}>$2"
-  },
-  "halflings-tree-deciduous": {
-    "prefix": "halflings-tree-deciduous",
-    "body": "<${1:span} class=\"halflings halflings-tree-deciduous$2\"></${1:span}>$2"
-  },
-  "halflings-book": {
-    "prefix": "halflings-book",
-    "body": "<${1:span} class=\"halflings halflings-book$2\"></${1:span}>$2"
-  },
-  "halflings-volume-down": {
-    "prefix": "halflings-volume-down",
-    "body": "<${1:span} class=\"halflings halflings-volume-down$2\"></${1:span}>$2"
-  },
-  "halflings-chevron-up": {
-    "prefix": "halflings-chevron-up",
-    "body": "<${1:span} class=\"halflings halflings-chevron-up$2\"></${1:span}>$2"
-  },
-  "halflings-circle-arrow-top": {
-    "prefix": "halflings-circle-arrow-top",
-    "body": "<${1:span} class=\"halflings halflings-circle-arrow-top$2\"></${1:span}>$2"
-  },
-  "halflings-floppy-open": {
-    "prefix": "halflings-floppy-open",
-    "body": "<${1:span} class=\"halflings halflings-floppy-open$2\"></${1:span}>$2"
-  },
-  "halflings-cloud-download": {
-    "prefix": "halflings-cloud-download",
-    "body": "<${1:span} class=\"halflings halflings-cloud-download$2\"></${1:span}>$2"
-  },
-  "halflings-king": {
-    "prefix": "halflings-king",
-    "body": "<${1:span} class=\"halflings halflings-king$2\"></${1:span}>$2"
-  },
-  "halflings-qrcode": {
-    "prefix": "halflings-qrcode",
-    "body": "<${1:span} class=\"halflings halflings-qrcode$2\"></${1:span}>$2"
-  },
-  "halflings-collapse": {
-    "prefix": "halflings-collapse",
-    "body": "<${1:span} class=\"halflings halflings-collapse$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-wrench": {
-    "prefix": "halflings-glyph-wrench",
-    "body": "<${1:span} class=\"halflings halflings-glyph-wrench$2\"></${1:span}>$2"
-  },
-  "halflings-scale": {
-    "prefix": "halflings-scale",
-    "body": "<${1:span} class=\"halflings halflings-scale$2\"></${1:span}>$2"
-  },
-  "halflings-terminal": {
-    "prefix": "halflings-terminal",
-    "body": "<${1:span} class=\"halflings halflings-terminal$2\"></${1:span}>$2"
-  },
-  "halflings-star-empty": {
-    "prefix": "halflings-star-empty",
-    "body": "<${1:span} class=\"halflings halflings-star-empty$2\"></${1:span}>$2"
-  },
-  "halflings-superscript": {
-    "prefix": "halflings-superscript",
-    "body": "<${1:span} class=\"halflings halflings-superscript$2\"></${1:span}>$2"
-  },
-  "halflings-bitcoin": {
-    "prefix": "halflings-bitcoin",
-    "body": "<${1:span} class=\"halflings halflings-bitcoin$2\"></${1:span}>$2"
-  },
-  "halflings-sound-7-1": {
-    "prefix": "halflings-sound-7-1",
-    "body": "<${1:span} class=\"halflings halflings-sound-7-1$2\"></${1:span}>$2"
-  },
-  "halflings-glyph-camera": {
-    "prefix": "halflings-glyph-camera",
-    "body": "<${1:span} class=\"halflings halflings-glyph-camera$2\"></${1:span}>$2"
-  },
-  "halflings-ruble": {
-    "prefix": "halflings-ruble",
-    "body": "<${1:span} class=\"halflings halflings-ruble$2\"></${1:span}>$2"
-  },
-  "halflings-off": {
-    "prefix": "halflings-off",
-    "body": "<${1:span} class=\"halflings halflings-off$2\"></${1:span}>$2"
-  },
-  "halflings-plus-sign": {
-    "prefix": "halflings-plus-sign",
-    "body": "<${1:span} class=\"halflings halflings-plus-sign$2\"></${1:span}>$2"
-  },
-  "halflings-eye-open": {
-    "prefix": "halflings-eye-open",
-    "body": "<${1:span} class=\"halflings halflings-eye-open$2\"></${1:span}>$2"
-  },
-  "halflings-play": {
-    "prefix": "halflings-play",
-    "body": "<${1:span} class=\"halflings halflings-play$2\"></${1:span}>$2"
-  },
-  "halflings-hourglass": {
-    "prefix": "halflings-hourglass",
-    "body": "<${1:span} class=\"halflings halflings-hourglass$2\"></${1:span}>$2"
-  },
-  "halflings-option-horizontal": {
-    "prefix": "halflings-option-horizontal",
-    "body": "<${1:span} class=\"halflings halflings-option-horizontal$2\"></${1:span}>$2"
-  },
-  "halflings-subtitles": {
-    "prefix": "halflings-subtitles",
-    "body": "<${1:span} class=\"halflings halflings-subtitles$2\"></${1:span}>$2"
-  },
-  "halflings-leaf": {
-    "prefix": "halflings-leaf",
-    "body": "<${1:span} class=\"halflings halflings-leaf$2\"></${1:span}>$2"
-  },
-  "halflings-resize-full": {
-    "prefix": "halflings-resize-full",
-    "body": "<${1:span} class=\"halflings halflings-resize-full$2\"></${1:span}>$2"
-  },
-  "halflings-record": {
-    "prefix": "halflings-record",
-    "body": "<${1:span} class=\"halflings halflings-record$2\"></${1:span}>$2"
-  },
-  "halflings-stop": {
-    "prefix": "halflings-stop",
-    "body": "<${1:span} class=\"halflings halflings-stop$2\"></${1:span}>$2"
-  },
-  "halflings-yen": {
-    "prefix": "halflings-yen",
-    "body": "<${1:span} class=\"halflings halflings-yen$2\"></${1:span}>$2"
-  },
-  "halflings-heart": {
-    "prefix": "halflings-heart",
-    "body": "<${1:span} class=\"halflings halflings-heart$2\"></${1:span}>$2"
-  },
-  "halflings-italic": {
-    "prefix": "halflings-italic",
-    "body": "<${1:span} class=\"halflings halflings-italic$2\"></${1:span}>$2"
-  },
-  "halflings-bold": {
-    "prefix": "halflings-bold",
-    "body": "<${1:span} class=\"halflings halflings-bold$2\"></${1:span}>$2"
-  },
-  "halflings-ice-lolly-tasted": {
-    "prefix": "halflings-ice-lolly-tasted",
-    "body": "<${1:span} class=\"halflings halflings-ice-lolly-tasted$2\"></${1:span}>$2"
-  },
-  "halflings-volume-up": {
-    "prefix": "halflings-volume-up",
-    "body": "<${1:span} class=\"halflings halflings-volume-up$2\"></${1:span}>$2"
-  },
-  "halflings-sound-dolby": {
-    "prefix": "halflings-sound-dolby",
-    "body": "<${1:span} class=\"halflings halflings-sound-dolby$2\"></${1:span}>$2"
-  },
-  "halflings-random": {
-    "prefix": "halflings-random",
-    "body": "<${1:span} class=\"halflings halflings-random$2\"></${1:span}>$2"
-  },
-  "halflings-chevron-down": {
-    "prefix": "halflings-chevron-down",
-    "body": "<${1:span} class=\"halflings halflings-chevron-down$2\"></${1:span}>$2"
-  },
-  "halflings-minus-sign": {
-    "prefix": "halflings-minus-sign",
-    "body": "<${1:span} class=\"halflings halflings-minus-sign$2\"></${1:span}>$2"
-  },
-  "halflings-signal": {
-    "prefix": "halflings-signal",
-    "body": "<${1:span} class=\"halflings halflings-signal$2\"></${1:span}>$2"
-  },
-  "halflings-hdd": {
-    "prefix": "halflings-hdd",
-    "body": "<${1:span} class=\"halflings halflings-hdd$2\"></${1:span}>$2"
-  },
-  "halflings-sort-by-attributes-alt": {
-    "prefix": "halflings-sort-by-attributes-alt",
-    "body": "<${1:span} class=\"halflings halflings-sort-by-attributes-alt$2\"></${1:span}>$2"
-  },
-  "halflings-cog": {
-    "prefix": "halflings-cog",
-    "body": "<${1:span} class=\"halflings halflings-cog$2\"></${1:span}>$2"
-  },
-  "halflings-globe": {
-    "prefix": "halflings-globe",
-    "body": "<${1:span} class=\"halflings halflings-globe$2\"></${1:span}>$2"
-  },
-  "halflings-headphones": {
-    "prefix": "halflings-headphones",
-    "body": "<${1:span} class=\"halflings halflings-headphones$2\"></${1:span}>$2"
-  },
-  "halflings-move": {
-    "prefix": "halflings-move",
-    "body": "<${1:span} class=\"halflings halflings-move$2\"></${1:span}>$2"
-  },
-  "halflings-upload": {
-    "prefix": "halflings-upload",
-    "body": "<${1:span} class=\"halflings halflings-upload$2\"></${1:span}>$2"
-  },
-  "halflings-share": {
-    "prefix": "halflings-share",
-    "body": "<${1:span} class=\"halflings halflings-share$2\"></${1:span}>$2"
-  },
-  "halflings-download-alt": {
-    "prefix": "halflings-download-alt",
-    "body": "<${1:span} class=\"halflings halflings-download-alt$2\"></${1:span}>$2"
-  },
-  "halflings-blackboard": {
-    "prefix": "halflings-blackboard",
-    "body": "<${1:span} class=\"halflings halflings-blackboard$2\"></${1:span}>$2"
-  },
-  "halflings-bullhorn": {
-    "prefix": "halflings-bullhorn",
-    "body": "<${1:span} class=\"halflings halflings-bullhorn$2\"></${1:span}>$2"
-  },
-  "halflings-import": {
-    "prefix": "halflings-import",
-    "body": "<${1:span} class=\"halflings halflings-import$2\"></${1:span}>$2"
-  },
-  "halflings-open-file": {
-    "prefix": "halflings-open-file",
-    "body": "<${1:span} class=\"halflings halflings-open-file$2\"></${1:span}>$2"
-  },
-  "halflings-credit-card": {
-    "prefix": "halflings-credit-card",
-    "body": "<${1:span} class=\"halflings halflings-credit-card$2\"></${1:span}>$2"
-  },
-  "halflings-info-sign": {
-    "prefix": "halflings-info-sign",
-    "body": "<${1:span} class=\"halflings halflings-info-sign$2\"></${1:span}>$2"
-  },
-  "halflings-ok-circle": {
-    "prefix": "halflings-ok-circle",
-    "body": "<${1:span} class=\"halflings halflings-ok-circle$2\"></${1:span}>$2"
-  },
-  "halflings-resize-vertical": {
-    "prefix": "halflings-resize-vertical",
-    "body": "<${1:span} class=\"halflings halflings-resize-vertical$2\"></${1:span}>$2"
-  },
-  "halflings-triangle-top": {
-    "prefix": "halflings-triangle-top",
-    "body": "<${1:span} class=\"halflings halflings-triangle-top$2\"></${1:span}>$2"
-  },
-  "halflings-file": {
-    "prefix": "halflings-file",
-    "body": "<${1:span} class=\"halflings halflings-file$2\"></${1:span}>$2"
-  },
-  "halflings-object-align-horizontal": {
-    "prefix": "halflings-object-align-horizontal",
-    "body": "<${1:span} class=\"halflings halflings-object-align-horizontal$2\"></${1:span}>$2"
-  },
-  "halflings-text-width": {
-    "prefix": "halflings-text-width",
-    "body": "<${1:span} class=\"halflings halflings-text-width$2\"></${1:span}>$2"
+  "halflings-adjust": {
+    "body": "<${1:span} class=\"halflings halflings-adjust$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-adjust"
   },
   "halflings-alert": {
-    "prefix": "halflings-alert",
-    "body": "<${1:span} class=\"halflings halflings-alert$2\"></${1:span}>$2"
+    "body": "<${1:span} class=\"halflings halflings-alert$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-alert"
   },
-  "halflings-zoom-out": {
-    "prefix": "halflings-zoom-out",
-    "body": "<${1:span} class=\"halflings halflings-zoom-out$2\"></${1:span}>$2"
+  "halflings-align-center": {
+    "body": "<${1:span} class=\"halflings halflings-align-center$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-align-center"
   },
-  "halflings-folder-open": {
-    "prefix": "halflings-folder-open",
-    "body": "<${1:span} class=\"halflings halflings-folder-open$2\"></${1:span}>$2"
+  "halflings-align-justify": {
+    "body": "<${1:span} class=\"halflings halflings-align-justify$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-align-justify"
   },
-  "halflings-folder-close": {
-    "prefix": "halflings-folder-close",
-    "body": "<${1:span} class=\"halflings halflings-folder-close$2\"></${1:span}>$2"
+  "halflings-align-left": {
+    "body": "<${1:span} class=\"halflings halflings-align-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-align-left"
   },
-  "halflings-volume-off": {
-    "prefix": "halflings-volume-off",
-    "body": "<${1:span} class=\"halflings halflings-volume-off$2\"></${1:span}>$2"
+  "halflings-align-right": {
+    "body": "<${1:span} class=\"halflings halflings-align-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-align-right"
   },
-  "halflings-stats": {
-    "prefix": "halflings-stats",
-    "body": "<${1:span} class=\"halflings halflings-stats$2\"></${1:span}>$2"
+  "halflings-apple": {
+    "body": "<${1:span} class=\"halflings halflings-apple$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-apple"
   },
-  "halflings-log-out": {
-    "prefix": "halflings-log-out",
-    "body": "<${1:span} class=\"halflings halflings-log-out$2\"></${1:span}>$2"
+  "halflings-arrow-down": {
+    "body": "<${1:span} class=\"halflings halflings-arrow-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-arrow-down"
   },
-  "halflings-adjust": {
-    "prefix": "halflings-adjust",
-    "body": "<${1:span} class=\"halflings halflings-adjust$2\"></${1:span}>$2"
+  "halflings-arrow-left": {
+    "body": "<${1:span} class=\"halflings halflings-arrow-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-arrow-left"
+  },
+  "halflings-arrow-right": {
+    "body": "<${1:span} class=\"halflings halflings-arrow-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-arrow-right"
+  },
+  "halflings-arrow-up": {
+    "body": "<${1:span} class=\"halflings halflings-arrow-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-arrow-up"
+  },
+  "halflings-asterisk": {
+    "body": "<${1:span} class=\"halflings halflings-asterisk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-asterisk"
   },
   "halflings-baby-formula": {
-    "prefix": "halflings-baby-formula",
-    "body": "<${1:span} class=\"halflings halflings-baby-formula$2\"></${1:span}>$2"
+    "body": "<${1:span} class=\"halflings halflings-baby-formula$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-baby-formula"
+  },
+  "halflings-backward": {
+    "body": "<${1:span} class=\"halflings halflings-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-backward"
+  },
+  "halflings-ban-circle": {
+    "body": "<${1:span} class=\"halflings halflings-ban-circle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ban-circle"
+  },
+  "halflings-barcode": {
+    "body": "<${1:span} class=\"halflings halflings-barcode$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-barcode"
+  },
+  "halflings-bed": {
+    "body": "<${1:span} class=\"halflings halflings-bed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-bed"
+  },
+  "halflings-bishop": {
+    "body": "<${1:span} class=\"halflings halflings-bishop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-bishop"
+  },
+  "halflings-bitcoin": {
+    "body": "<${1:span} class=\"halflings halflings-bitcoin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-bitcoin"
+  },
+  "halflings-blackboard": {
+    "body": "<${1:span} class=\"halflings halflings-blackboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-blackboard"
+  },
+  "halflings-bold": {
+    "body": "<${1:span} class=\"halflings halflings-bold$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-bold"
+  },
+  "halflings-book": {
+    "body": "<${1:span} class=\"halflings halflings-book$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-book"
+  },
+  "halflings-bullhorn": {
+    "body": "<${1:span} class=\"halflings halflings-bullhorn$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-bullhorn"
+  },
+  "halflings-cd": {
+    "body": "<${1:span} class=\"halflings halflings-cd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cd"
+  },
+  "halflings-certificate": {
+    "body": "<${1:span} class=\"halflings halflings-certificate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-certificate"
+  },
+  "halflings-check": {
+    "body": "<${1:span} class=\"halflings halflings-check$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-check"
+  },
+  "halflings-chevron-down": {
+    "body": "<${1:span} class=\"halflings halflings-chevron-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-chevron-down"
+  },
+  "halflings-chevron-left": {
+    "body": "<${1:span} class=\"halflings halflings-chevron-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-chevron-left"
+  },
+  "halflings-chevron-right": {
+    "body": "<${1:span} class=\"halflings halflings-chevron-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-chevron-right"
+  },
+  "halflings-chevron-up": {
+    "body": "<${1:span} class=\"halflings halflings-chevron-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-chevron-up"
+  },
+  "halflings-circle-arrow-down": {
+    "body": "<${1:span} class=\"halflings halflings-circle-arrow-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-circle-arrow-down"
+  },
+  "halflings-circle-arrow-left": {
+    "body": "<${1:span} class=\"halflings halflings-circle-arrow-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-circle-arrow-left"
+  },
+  "halflings-circle-arrow-right": {
+    "body": "<${1:span} class=\"halflings halflings-circle-arrow-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-circle-arrow-right"
+  },
+  "halflings-circle-arrow-top": {
+    "body": "<${1:span} class=\"halflings halflings-circle-arrow-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-circle-arrow-top"
+  },
+  "halflings-cloud": {
+    "body": "<${1:span} class=\"halflings halflings-cloud$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cloud"
+  },
+  "halflings-cloud-download": {
+    "body": "<${1:span} class=\"halflings halflings-cloud-download$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cloud-download"
+  },
+  "halflings-cloud-upload": {
+    "body": "<${1:span} class=\"halflings halflings-cloud-upload$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cloud-upload"
+  },
+  "halflings-cog": {
+    "body": "<${1:span} class=\"halflings halflings-cog$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cog"
+  },
+  "halflings-collapse": {
+    "body": "<${1:span} class=\"halflings halflings-collapse$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-collapse"
+  },
+  "halflings-collapse-top": {
+    "body": "<${1:span} class=\"halflings halflings-collapse-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-collapse-top"
+  },
+  "halflings-comments": {
+    "body": "<${1:span} class=\"halflings halflings-comments$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-comments"
+  },
+  "halflings-compressed": {
+    "body": "<${1:span} class=\"halflings halflings-compressed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-compressed"
+  },
+  "halflings-copy": {
+    "body": "<${1:span} class=\"halflings halflings-copy$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-copy"
+  },
+  "halflings-copyright-mark": {
+    "body": "<${1:span} class=\"halflings halflings-copyright-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-copyright-mark"
+  },
+  "halflings-credit-card": {
+    "body": "<${1:span} class=\"halflings halflings-credit-card$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-credit-card"
+  },
+  "halflings-cutlery": {
+    "body": "<${1:span} class=\"halflings halflings-cutlery$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-cutlery"
+  },
+  "halflings-dashboard": {
+    "body": "<${1:span} class=\"halflings halflings-dashboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-dashboard"
+  },
+  "halflings-door": {
+    "body": "<${1:span} class=\"halflings halflings-door$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-door"
+  },
+  "halflings-download": {
+    "body": "<${1:span} class=\"halflings halflings-download$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-download"
+  },
+  "halflings-download-alt": {
+    "body": "<${1:span} class=\"halflings halflings-download-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-download-alt"
+  },
+  "halflings-duplicate": {
+    "body": "<${1:span} class=\"halflings halflings-duplicate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-duplicate"
+  },
+  "halflings-earphone": {
+    "body": "<${1:span} class=\"halflings halflings-earphone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-earphone"
+  },
+  "halflings-edit": {
+    "body": "<${1:span} class=\"halflings halflings-edit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-edit"
+  },
+  "halflings-education": {
+    "body": "<${1:span} class=\"halflings halflings-education$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-education"
+  },
+  "halflings-eject": {
+    "body": "<${1:span} class=\"halflings halflings-eject$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-eject"
+  },
+  "halflings-envelope": {
+    "body": "<${1:span} class=\"halflings halflings-envelope$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-envelope"
+  },
+  "halflings-equalizer": {
+    "body": "<${1:span} class=\"halflings halflings-equalizer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-equalizer"
+  },
+  "halflings-erase": {
+    "body": "<${1:span} class=\"halflings halflings-erase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-erase"
+  },
+  "halflings-euro": {
+    "body": "<${1:span} class=\"halflings halflings-euro$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-euro"
+  },
+  "halflings-exclamation-sign": {
+    "body": "<${1:span} class=\"halflings halflings-exclamation-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-exclamation-sign"
+  },
+  "halflings-expand": {
+    "body": "<${1:span} class=\"halflings halflings-expand$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-expand"
+  },
+  "halflings-export": {
+    "body": "<${1:span} class=\"halflings halflings-export$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-export"
+  },
+  "halflings-eye-close": {
+    "body": "<${1:span} class=\"halflings halflings-eye-close$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-eye-close"
+  },
+  "halflings-eye-open": {
+    "body": "<${1:span} class=\"halflings halflings-eye-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-eye-open"
+  },
+  "halflings-facetime-video": {
+    "body": "<${1:span} class=\"halflings halflings-facetime-video$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-facetime-video"
+  },
+  "halflings-fast-backward": {
+    "body": "<${1:span} class=\"halflings halflings-fast-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-fast-backward"
+  },
+  "halflings-fast-forward": {
+    "body": "<${1:span} class=\"halflings halflings-fast-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-fast-forward"
+  },
+  "halflings-file": {
+    "body": "<${1:span} class=\"halflings halflings-file$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-file"
+  },
+  "halflings-film": {
+    "body": "<${1:span} class=\"halflings halflings-film$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-film"
+  },
+  "halflings-filter": {
+    "body": "<${1:span} class=\"halflings halflings-filter$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-filter"
+  },
+  "halflings-flag": {
+    "body": "<${1:span} class=\"halflings halflings-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-flag"
+  },
+  "halflings-flash": {
+    "body": "<${1:span} class=\"halflings halflings-flash$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-flash"
+  },
+  "halflings-floppy-disk": {
+    "body": "<${1:span} class=\"halflings halflings-floppy-disk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-floppy-disk"
+  },
+  "halflings-floppy-open": {
+    "body": "<${1:span} class=\"halflings halflings-floppy-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-floppy-open"
+  },
+  "halflings-floppy-remove": {
+    "body": "<${1:span} class=\"halflings halflings-floppy-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-floppy-remove"
+  },
+  "halflings-floppy-save": {
+    "body": "<${1:span} class=\"halflings halflings-floppy-save$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-floppy-save"
+  },
+  "halflings-floppy-saved": {
+    "body": "<${1:span} class=\"halflings halflings-floppy-saved$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-floppy-saved"
+  },
+  "halflings-folder-close": {
+    "body": "<${1:span} class=\"halflings halflings-folder-close$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-folder-close"
+  },
+  "halflings-folder-open": {
+    "body": "<${1:span} class=\"halflings halflings-folder-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-folder-open"
+  },
+  "halflings-font": {
+    "body": "<${1:span} class=\"halflings halflings-font$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-font"
+  },
+  "halflings-forward": {
+    "body": "<${1:span} class=\"halflings halflings-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-forward"
+  },
+  "halflings-fullscreen": {
+    "body": "<${1:span} class=\"halflings halflings-fullscreen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-fullscreen"
+  },
+  "halflings-gbp": {
+    "body": "<${1:span} class=\"halflings halflings-gbp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-gbp"
+  },
+  "halflings-gift": {
+    "body": "<${1:span} class=\"halflings halflings-gift$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-gift"
+  },
+  "halflings-glass": {
+    "body": "<${1:span} class=\"halflings halflings-glass$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glass"
+  },
+  "halflings-globe": {
+    "body": "<${1:span} class=\"halflings halflings-globe$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-globe"
+  },
+  "halflings-glyph-bell": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-bell$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-bell"
+  },
+  "halflings-glyph-bookmark": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-bookmark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-bookmark"
+  },
+  "halflings-glyph-briefcase": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-briefcase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-briefcase"
+  },
+  "halflings-glyph-calendar": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-calendar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-calendar"
+  },
+  "halflings-glyph-camera": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-camera$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-camera"
+  },
+  "halflings-glyph-fire": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-fire$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-fire"
+  },
+  "halflings-glyph-lock": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-lock"
+  },
+  "halflings-glyph-paperclip": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-paperclip$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-paperclip"
+  },
+  "halflings-glyph-pushpin": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-pushpin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-pushpin"
+  },
+  "halflings-glyph-wrench": {
+    "body": "<${1:span} class=\"halflings halflings-glyph-wrench$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-glyph-wrench"
+  },
+  "halflings-grain": {
+    "body": "<${1:span} class=\"halflings halflings-grain$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-grain"
+  },
+  "halflings-hand-down": {
+    "body": "<${1:span} class=\"halflings halflings-hand-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hand-down"
+  },
+  "halflings-hand-left": {
+    "body": "<${1:span} class=\"halflings halflings-hand-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hand-left"
+  },
+  "halflings-hand-right": {
+    "body": "<${1:span} class=\"halflings halflings-hand-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hand-right"
+  },
+  "halflings-hand-top": {
+    "body": "<${1:span} class=\"halflings halflings-hand-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hand-top"
+  },
+  "halflings-hd-video": {
+    "body": "<${1:span} class=\"halflings halflings-hd-video$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hd-video"
+  },
+  "halflings-hdd": {
+    "body": "<${1:span} class=\"halflings halflings-hdd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hdd"
+  },
+  "halflings-header": {
+    "body": "<${1:span} class=\"halflings halflings-header$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-header"
+  },
+  "halflings-headphones": {
+    "body": "<${1:span} class=\"halflings halflings-headphones$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-headphones"
+  },
+  "halflings-heart": {
+    "body": "<${1:span} class=\"halflings halflings-heart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-heart"
+  },
+  "halflings-heart-empty": {
+    "body": "<${1:span} class=\"halflings halflings-heart-empty$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-heart-empty"
+  },
+  "halflings-home": {
+    "body": "<${1:span} class=\"halflings halflings-home$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-home"
+  },
+  "halflings-hourglass": {
+    "body": "<${1:span} class=\"halflings halflings-hourglass$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-hourglass"
+  },
+  "halflings-ice-lolly": {
+    "body": "<${1:span} class=\"halflings halflings-ice-lolly$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ice-lolly"
+  },
+  "halflings-ice-lolly-tasted": {
+    "body": "<${1:span} class=\"halflings halflings-ice-lolly-tasted$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ice-lolly-tasted"
+  },
+  "halflings-import": {
+    "body": "<${1:span} class=\"halflings halflings-import$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-import"
+  },
+  "halflings-inbox": {
+    "body": "<${1:span} class=\"halflings halflings-inbox$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-inbox"
+  },
+  "halflings-indent-left": {
+    "body": "<${1:span} class=\"halflings halflings-indent-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-indent-left"
+  },
+  "halflings-indent-right": {
+    "body": "<${1:span} class=\"halflings halflings-indent-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-indent-right"
+  },
+  "halflings-info-sign": {
+    "body": "<${1:span} class=\"halflings halflings-info-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-info-sign"
+  },
+  "halflings-italic": {
+    "body": "<${1:span} class=\"halflings halflings-italic$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-italic"
+  },
+  "halflings-key": {
+    "body": "<${1:span} class=\"halflings halflings-key$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-key"
+  },
+  "halflings-king": {
+    "body": "<${1:span} class=\"halflings halflings-king$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-king"
+  },
+  "halflings-knight": {
+    "body": "<${1:span} class=\"halflings halflings-knight$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-knight"
+  },
+  "halflings-lamp": {
+    "body": "<${1:span} class=\"halflings halflings-lamp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-lamp"
+  },
+  "halflings-leaf": {
+    "body": "<${1:span} class=\"halflings halflings-leaf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-leaf"
+  },
+  "halflings-level-up": {
+    "body": "<${1:span} class=\"halflings halflings-level-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-level-up"
+  },
+  "halflings-link": {
+    "body": "<${1:span} class=\"halflings halflings-link$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-link"
+  },
+  "halflings-list": {
+    "body": "<${1:span} class=\"halflings halflings-list$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-list"
+  },
+  "halflings-list-alt": {
+    "body": "<${1:span} class=\"halflings halflings-list-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-list-alt"
+  },
+  "halflings-log-in": {
+    "body": "<${1:span} class=\"halflings halflings-log-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-log-in"
+  },
+  "halflings-log-out": {
+    "body": "<${1:span} class=\"halflings halflings-log-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-log-out"
+  },
+  "halflings-magnet": {
+    "body": "<${1:span} class=\"halflings halflings-magnet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-magnet"
+  },
+  "halflings-map-marker": {
+    "body": "<${1:span} class=\"halflings halflings-map-marker$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-map-marker"
+  },
+  "halflings-menu-down": {
+    "body": "<${1:span} class=\"halflings halflings-menu-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-menu-down"
+  },
+  "halflings-menu-hamburger": {
+    "body": "<${1:span} class=\"halflings halflings-menu-hamburger$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-menu-hamburger"
+  },
+  "halflings-menu-left": {
+    "body": "<${1:span} class=\"halflings halflings-menu-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-menu-left"
+  },
+  "halflings-menu-right": {
+    "body": "<${1:span} class=\"halflings halflings-menu-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-menu-right"
+  },
+  "halflings-menu-up": {
+    "body": "<${1:span} class=\"halflings halflings-menu-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-menu-up"
+  },
+  "halflings-minus": {
+    "body": "<${1:span} class=\"halflings halflings-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-minus"
+  },
+  "halflings-minus-sign": {
+    "body": "<${1:span} class=\"halflings halflings-minus-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-minus-sign"
+  },
+  "halflings-modal-window": {
+    "body": "<${1:span} class=\"halflings halflings-modal-window$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-modal-window"
+  },
+  "halflings-move": {
+    "body": "<${1:span} class=\"halflings halflings-move$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-move"
+  },
+  "halflings-music": {
+    "body": "<${1:span} class=\"halflings halflings-music$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-music"
+  },
+  "halflings-new-window": {
+    "body": "<${1:span} class=\"halflings halflings-new-window$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-new-window"
+  },
+  "halflings-object-align-bottom": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-bottom$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-bottom"
+  },
+  "halflings-object-align-horizontal": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-horizontal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-horizontal"
+  },
+  "halflings-object-align-left": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-left"
+  },
+  "halflings-object-align-right": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-right"
+  },
+  "halflings-object-align-top": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-top"
+  },
+  "halflings-object-align-vertical": {
+    "body": "<${1:span} class=\"halflings halflings-object-align-vertical$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-object-align-vertical"
+  },
+  "halflings-off": {
+    "body": "<${1:span} class=\"halflings halflings-off$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-off"
+  },
+  "halflings-oil": {
+    "body": "<${1:span} class=\"halflings halflings-oil$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-oil"
+  },
+  "halflings-ok": {
+    "body": "<${1:span} class=\"halflings halflings-ok$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ok"
+  },
+  "halflings-ok-circle": {
+    "body": "<${1:span} class=\"halflings halflings-ok-circle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ok-circle"
+  },
+  "halflings-ok-sign": {
+    "body": "<${1:span} class=\"halflings halflings-ok-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ok-sign"
+  },
+  "halflings-open": {
+    "body": "<${1:span} class=\"halflings halflings-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-open"
+  },
+  "halflings-open-file": {
+    "body": "<${1:span} class=\"halflings halflings-open-file$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-open-file"
+  },
+  "halflings-option-horizontal": {
+    "body": "<${1:span} class=\"halflings halflings-option-horizontal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-option-horizontal"
+  },
+  "halflings-option-vertical": {
+    "body": "<${1:span} class=\"halflings halflings-option-vertical$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-option-vertical"
+  },
+  "halflings-paste": {
+    "body": "<${1:span} class=\"halflings halflings-paste$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-paste"
+  },
+  "halflings-pause": {
+    "body": "<${1:span} class=\"halflings halflings-pause$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-pause"
+  },
+  "halflings-pawn": {
+    "body": "<${1:span} class=\"halflings halflings-pawn$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-pawn"
+  },
+  "halflings-pencil": {
+    "body": "<${1:span} class=\"halflings halflings-pencil$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-pencil"
+  },
+  "halflings-phone": {
+    "body": "<${1:span} class=\"halflings halflings-phone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-phone"
+  },
+  "halflings-phone-alt": {
+    "body": "<${1:span} class=\"halflings halflings-phone-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-phone-alt"
+  },
+  "halflings-picture": {
+    "body": "<${1:span} class=\"halflings halflings-picture$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-picture"
+  },
+  "halflings-piggy-bank": {
+    "body": "<${1:span} class=\"halflings halflings-piggy-bank$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-piggy-bank"
+  },
+  "halflings-plane": {
+    "body": "<${1:span} class=\"halflings halflings-plane$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-plane"
+  },
+  "halflings-play": {
+    "body": "<${1:span} class=\"halflings halflings-play$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-play"
   },
   "halflings-play-circle": {
-    "prefix": "halflings-play-circle",
-    "body": "<${1:span} class=\"halflings halflings-play-circle$2\"></${1:span}>$2"
+    "body": "<${1:span} class=\"halflings halflings-play-circle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-play-circle"
   },
-  "halflings-scissors": {
-    "prefix": "halflings-scissors",
-    "body": "<${1:span} class=\"halflings halflings-scissors$2\"></${1:span}>$2"
+  "halflings-plus": {
+    "body": "<${1:span} class=\"halflings halflings-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-plus"
+  },
+  "halflings-plus-sign": {
+    "body": "<${1:span} class=\"halflings halflings-plus-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-plus-sign"
+  },
+  "halflings-print": {
+    "body": "<${1:span} class=\"halflings halflings-print$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-print"
+  },
+  "halflings-qrcode": {
+    "body": "<${1:span} class=\"halflings halflings-qrcode$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-qrcode"
+  },
+  "halflings-queen": {
+    "body": "<${1:span} class=\"halflings halflings-queen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-queen"
+  },
+  "halflings-question-sign": {
+    "body": "<${1:span} class=\"halflings halflings-question-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-question-sign"
+  },
+  "halflings-random": {
+    "body": "<${1:span} class=\"halflings halflings-random$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-random"
+  },
+  "halflings-record": {
+    "body": "<${1:span} class=\"halflings halflings-record$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-record"
+  },
+  "halflings-refresh": {
+    "body": "<${1:span} class=\"halflings halflings-refresh$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-refresh"
+  },
+  "halflings-registration-mark": {
+    "body": "<${1:span} class=\"halflings halflings-registration-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-registration-mark"
+  },
+  "halflings-remove": {
+    "body": "<${1:span} class=\"halflings halflings-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-remove"
   },
   "halflings-remove-circle": {
-    "prefix": "halflings-remove-circle",
-    "body": "<${1:span} class=\"halflings halflings-remove-circle$2\"></${1:span}>$2"
+    "body": "<${1:span} class=\"halflings halflings-remove-circle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-remove-circle"
+  },
+  "halflings-remove-sign": {
+    "body": "<${1:span} class=\"halflings halflings-remove-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-remove-sign"
+  },
+  "halflings-repeat": {
+    "body": "<${1:span} class=\"halflings halflings-repeat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-repeat"
+  },
+  "halflings-resize-full": {
+    "body": "<${1:span} class=\"halflings halflings-resize-full$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-resize-full"
+  },
+  "halflings-resize-horizontal": {
+    "body": "<${1:span} class=\"halflings halflings-resize-horizontal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-resize-horizontal"
+  },
+  "halflings-resize-small": {
+    "body": "<${1:span} class=\"halflings halflings-resize-small$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-resize-small"
+  },
+  "halflings-resize-vertical": {
+    "body": "<${1:span} class=\"halflings halflings-resize-vertical$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-resize-vertical"
+  },
+  "halflings-retweet": {
+    "body": "<${1:span} class=\"halflings halflings-retweet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-retweet"
+  },
+  "halflings-road": {
+    "body": "<${1:span} class=\"halflings halflings-road$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-road"
+  },
+  "halflings-ruble": {
+    "body": "<${1:span} class=\"halflings halflings-ruble$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-ruble"
+  },
+  "halflings-save": {
+    "body": "<${1:span} class=\"halflings halflings-save$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-save"
+  },
+  "halflings-save-file": {
+    "body": "<${1:span} class=\"halflings halflings-save-file$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-save-file"
+  },
+  "halflings-saved": {
+    "body": "<${1:span} class=\"halflings halflings-saved$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-saved"
+  },
+  "halflings-scale": {
+    "body": "<${1:span} class=\"halflings halflings-scale$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-scale"
+  },
+  "halflings-scissors": {
+    "body": "<${1:span} class=\"halflings halflings-scissors$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-scissors"
+  },
+  "halflings-screenshot": {
+    "body": "<${1:span} class=\"halflings halflings-screenshot$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-screenshot"
+  },
+  "halflings-sd-video": {
+    "body": "<${1:span} class=\"halflings halflings-sd-video$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sd-video"
+  },
+  "halflings-search": {
+    "body": "<${1:span} class=\"halflings halflings-search$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-search"
+  },
+  "halflings-send": {
+    "body": "<${1:span} class=\"halflings halflings-send$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-send"
+  },
+  "halflings-share": {
+    "body": "<${1:span} class=\"halflings halflings-share$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-share"
+  },
+  "halflings-share-alt": {
+    "body": "<${1:span} class=\"halflings halflings-share-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-share-alt"
+  },
+  "halflings-shopping-cart": {
+    "body": "<${1:span} class=\"halflings halflings-shopping-cart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-shopping-cart"
+  },
+  "halflings-signal": {
+    "body": "<${1:span} class=\"halflings halflings-signal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-signal"
+  },
+  "halflings-sort": {
+    "body": "<${1:span} class=\"halflings halflings-sort$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort"
+  },
+  "halflings-sort-by-alphabet": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-alphabet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-alphabet"
+  },
+  "halflings-sort-by-alphabet-alt": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-alphabet-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-alphabet-alt"
+  },
+  "halflings-sort-by-attributes": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-attributes$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-attributes"
+  },
+  "halflings-sort-by-attributes-alt": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-attributes-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-attributes-alt"
+  },
+  "halflings-sort-by-order": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-order$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-order"
+  },
+  "halflings-sort-by-order-alt": {
+    "body": "<${1:span} class=\"halflings halflings-sort-by-order-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sort-by-order-alt"
+  },
+  "halflings-sound-5-1": {
+    "body": "<${1:span} class=\"halflings halflings-sound-5-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sound-5-1"
+  },
+  "halflings-sound-6-1": {
+    "body": "<${1:span} class=\"halflings halflings-sound-6-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sound-6-1"
+  },
+  "halflings-sound-7-1": {
+    "body": "<${1:span} class=\"halflings halflings-sound-7-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sound-7-1"
+  },
+  "halflings-sound-dolby": {
+    "body": "<${1:span} class=\"halflings halflings-sound-dolby$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sound-dolby"
+  },
+  "halflings-sound-stereo": {
+    "body": "<${1:span} class=\"halflings halflings-sound-stereo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sound-stereo"
+  },
+  "halflings-star": {
+    "body": "<${1:span} class=\"halflings halflings-star$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-star"
+  },
+  "halflings-star-empty": {
+    "body": "<${1:span} class=\"halflings halflings-star-empty$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-star-empty"
+  },
+  "halflings-stats": {
+    "body": "<${1:span} class=\"halflings halflings-stats$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-stats"
+  },
+  "halflings-step-backward": {
+    "body": "<${1:span} class=\"halflings halflings-step-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-step-backward"
+  },
+  "halflings-step-forward": {
+    "body": "<${1:span} class=\"halflings halflings-step-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-step-forward"
+  },
+  "halflings-stop": {
+    "body": "<${1:span} class=\"halflings halflings-stop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-stop"
+  },
+  "halflings-subscript": {
+    "body": "<${1:span} class=\"halflings halflings-subscript$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-subscript"
+  },
+  "halflings-subtitles": {
+    "body": "<${1:span} class=\"halflings halflings-subtitles$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-subtitles"
+  },
+  "halflings-sunglasses": {
+    "body": "<${1:span} class=\"halflings halflings-sunglasses$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-sunglasses"
+  },
+  "halflings-superscript": {
+    "body": "<${1:span} class=\"halflings halflings-superscript$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-superscript"
+  },
+  "halflings-tag": {
+    "body": "<${1:span} class=\"halflings halflings-tag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tag"
+  },
+  "halflings-tags": {
+    "body": "<${1:span} class=\"halflings halflings-tags$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tags"
+  },
+  "halflings-tasks": {
+    "body": "<${1:span} class=\"halflings halflings-tasks$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tasks"
+  },
+  "halflings-tent": {
+    "body": "<${1:span} class=\"halflings halflings-tent$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tent"
+  },
+  "halflings-terminal": {
+    "body": "<${1:span} class=\"halflings halflings-terminal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-terminal"
+  },
+  "halflings-text-background": {
+    "body": "<${1:span} class=\"halflings halflings-text-background$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-text-background"
+  },
+  "halflings-text-color": {
+    "body": "<${1:span} class=\"halflings halflings-text-color$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-text-color"
+  },
+  "halflings-text-height": {
+    "body": "<${1:span} class=\"halflings halflings-text-height$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-text-height"
+  },
+  "halflings-text-size": {
+    "body": "<${1:span} class=\"halflings halflings-text-size$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-text-size"
+  },
+  "halflings-text-width": {
+    "body": "<${1:span} class=\"halflings halflings-text-width$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-text-width"
+  },
+  "halflings-th": {
+    "body": "<${1:span} class=\"halflings halflings-th$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-th"
+  },
+  "halflings-th-large": {
+    "body": "<${1:span} class=\"halflings halflings-th-large$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-th-large"
+  },
+  "halflings-th-list": {
+    "body": "<${1:span} class=\"halflings halflings-th-list$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-th-list"
+  },
+  "halflings-thumbs-down": {
+    "body": "<${1:span} class=\"halflings halflings-thumbs-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-thumbs-down"
+  },
+  "halflings-thumbs-up": {
+    "body": "<${1:span} class=\"halflings halflings-thumbs-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-thumbs-up"
+  },
+  "halflings-time": {
+    "body": "<${1:span} class=\"halflings halflings-time$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-time"
+  },
+  "halflings-tint": {
+    "body": "<${1:span} class=\"halflings halflings-tint$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tint"
+  },
+  "halflings-tower": {
+    "body": "<${1:span} class=\"halflings halflings-tower$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tower"
+  },
+  "halflings-transfer": {
+    "body": "<${1:span} class=\"halflings halflings-transfer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-transfer"
+  },
+  "halflings-trash": {
+    "body": "<${1:span} class=\"halflings halflings-trash$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-trash"
+  },
+  "halflings-tree-conifer": {
+    "body": "<${1:span} class=\"halflings halflings-tree-conifer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tree-conifer"
+  },
+  "halflings-tree-deciduous": {
+    "body": "<${1:span} class=\"halflings halflings-tree-deciduous$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-tree-deciduous"
+  },
+  "halflings-triangle-bottom": {
+    "body": "<${1:span} class=\"halflings halflings-triangle-bottom$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-triangle-bottom"
+  },
+  "halflings-triangle-left": {
+    "body": "<${1:span} class=\"halflings halflings-triangle-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-triangle-left"
+  },
+  "halflings-triangle-right": {
+    "body": "<${1:span} class=\"halflings halflings-triangle-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-triangle-right"
+  },
+  "halflings-triangle-top": {
+    "body": "<${1:span} class=\"halflings halflings-triangle-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-triangle-top"
+  },
+  "halflings-unchecked": {
+    "body": "<${1:span} class=\"halflings halflings-unchecked$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-unchecked"
+  },
+  "halflings-upload": {
+    "body": "<${1:span} class=\"halflings halflings-upload$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-upload"
+  },
+  "halflings-usd": {
+    "body": "<${1:span} class=\"halflings halflings-usd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-usd"
+  },
+  "halflings-user": {
+    "body": "<${1:span} class=\"halflings halflings-user$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-user"
+  },
+  "halflings-volume-down": {
+    "body": "<${1:span} class=\"halflings halflings-volume-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-volume-down"
+  },
+  "halflings-volume-off": {
+    "body": "<${1:span} class=\"halflings halflings-volume-off$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-volume-off"
+  },
+  "halflings-volume-up": {
+    "body": "<${1:span} class=\"halflings halflings-volume-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-volume-up"
+  },
+  "halflings-warning-sign": {
+    "body": "<${1:span} class=\"halflings halflings-warning-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-warning-sign"
+  },
+  "halflings-yen": {
+    "body": "<${1:span} class=\"halflings halflings-yen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-yen"
+  },
+  "halflings-zoom-in": {
+    "body": "<${1:span} class=\"halflings halflings-zoom-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-zoom-in"
+  },
+  "halflings-zoom-out": {
+    "body": "<${1:span} class=\"halflings halflings-zoom-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "halflings-zoom-out"
   }
 }
