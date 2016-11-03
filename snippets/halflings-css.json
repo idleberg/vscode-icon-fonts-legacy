@@ -1,1198 +1,1198 @@
 {
-  "halflings-resize-horizontal": {
-    "prefix": "halflings-resize-horizontal",
-    "body": "content: '\\\\E120';"
-  },
-  "halflings-filter": {
-    "prefix": "halflings-filter",
-    "body": "content: '\\\\E138';"
-  },
-  "halflings-phone": {
-    "prefix": "halflings-phone",
-    "body": "content: '\\\\E145';"
-  },
-  "halflings-text-size": {
-    "prefix": "halflings-text-size",
-    "body": "content: '\\\\E241';"
-  },
-  "halflings-indent-right": {
-    "prefix": "halflings-indent-right",
-    "body": "content: '\\\\E058';"
-  },
-  "halflings-object-align-left": {
-    "prefix": "halflings-object-align-left",
-    "body": "content: '\\\\E247';"
-  },
-  "halflings-triangle-bottom": {
-    "prefix": "halflings-triangle-bottom",
-    "body": "content: '\\\\E252';"
-  },
-  "halflings-floppy-saved": {
-    "prefix": "halflings-floppy-saved",
-    "body": "content: '\\\\E173';"
-  },
-  "halflings-list-numbered": {
-    "prefix": "halflings-list-numbered",
-    "body": "content: '\\\\E296';"
-  },
-  "halflings-battery-75": {
-    "prefix": "halflings-battery-75",
-    "body": "content: '\\\\E289';"
-  },
-  "halflings-calendar": {
-    "prefix": "halflings-calendar",
-    "body": "content: '\\\\E109';"
-  },
-  "halflings-text-background": {
-    "prefix": "halflings-text-background",
-    "body": "content: '\\\\E243';"
-  },
-  "halflings-hand-down": {
-    "prefix": "halflings-hand-down",
-    "body": "content: '\\\\E130';"
-  },
-  "halflings-floppy-save": {
-    "prefix": "halflings-floppy-save",
-    "body": "content: '\\\\E175';"
-  },
-  "halflings-remove-sign": {
-    "prefix": "halflings-remove-sign",
-    "body": "content: '\\\\E083';"
-  },
-  "halflings-tree-conifer": {
-    "prefix": "halflings-tree-conifer",
-    "body": "content: '\\\\E199';"
-  },
-  "halflings-thumbs-up": {
-    "prefix": "halflings-thumbs-up",
-    "body": "content: '\\\\E125';"
-  },
-  "halflings-save-file": {
-    "prefix": "halflings-save-file",
-    "body": "content: '\\\\E202';"
-  },
-  "halflings-move-square": {
-    "prefix": "halflings-move-square",
-    "body": "content: '\\\\E280';"
-  },
-  "halflings-arrow-right": {
-    "prefix": "halflings-arrow-right",
-    "body": "content: '\\\\E092';"
-  },
-  "halflings-road": {
-    "prefix": "halflings-road",
-    "body": "content: '\\\\E024';"
-  },
-  "halflings-music": {
-    "prefix": "halflings-music",
-    "body": "content: '\\\\E002';"
-  },
-  "halflings-indent-left": {
-    "prefix": "halflings-indent-left",
-    "body": "content: '\\\\E057';"
-  },
-  "halflings-saved": {
-    "prefix": "halflings-saved",
-    "body": "content: '\\\\E168';"
-  },
-  "halflings-align-right": {
-    "prefix": "halflings-align-right",
-    "body": "content: '\\\\E054';"
-  },
-  "halflings-cloud-upload": {
-    "prefix": "halflings-cloud-upload",
-    "body": "content: '\\\\E198';"
-  },
-  "halflings-open": {
-    "prefix": "halflings-open",
-    "body": "content: '\\\\E167';"
-  },
-  "halflings-align-left": {
-    "prefix": "halflings-align-left",
-    "body": "content: '\\\\E052';"
-  },
-  "halflings-display": {
-    "prefix": "halflings-display",
-    "body": "content: '\\\\E282';"
-  },
-  "halflings-pawn": {
-    "prefix": "halflings-pawn",
-    "body": "content: '\\\\E213';"
-  },
-  "halflings-subscript": {
-    "prefix": "halflings-subscript",
-    "body": "content: '\\\\E256';"
-  },
-  "halflings-text-color": {
-    "prefix": "halflings-text-color",
-    "body": "content: '\\\\E242';"
-  },
-  "halflings-map-marker": {
-    "prefix": "halflings-map-marker",
-    "body": "content: '\\\\E062';"
-  },
-  "halflings-tag": {
-    "prefix": "halflings-tag",
-    "body": "content: '\\\\E041';"
-  },
-  "halflings-resize-vertical": {
-    "prefix": "halflings-resize-vertical",
-    "body": "content: '\\\\E119';"
-  },
-  "halflings-plus": {
-    "prefix": "halflings-plus",
-    "body": "content: '\\\\E098';"
-  },
-  "halflings-sound-7-1": {
-    "prefix": "halflings-sound-7-1",
-    "body": "content: '\\\\E193';"
-  },
-  "halflings-info-sign": {
-    "prefix": "halflings-info-sign",
-    "body": "content: '\\\\E086';"
-  },
-  "halflings-gbp": {
-    "prefix": "halflings-gbp",
-    "body": "content: '\\\\E149';"
-  },
-  "halflings-tags": {
-    "prefix": "halflings-tags",
-    "body": "content: '\\\\E042';"
-  },
-  "halflings-file": {
-    "prefix": "halflings-file",
-    "body": "content: '\\\\E022';"
-  },
-  "halflings-star-half": {
-    "prefix": "halflings-star-half",
-    "body": "content: '\\\\E263';"
-  },
-  "halflings-exclamation-sign": {
-    "prefix": "halflings-exclamation-sign",
-    "body": "content: '\\\\E101';"
-  },
-  "halflings-circle-arrow-left": {
-    "prefix": "halflings-circle-arrow-left",
-    "body": "content: '\\\\E132';"
-  },
-  "halflings-film": {
-    "prefix": "halflings-film",
-    "body": "content: '\\\\E009';"
-  },
-  "halflings-menu-down": {
-    "prefix": "halflings-menu-down",
-    "body": "content: '\\\\E259';"
-  },
-  "halflings-hand-right": {
-    "prefix": "halflings-hand-right",
-    "body": "content: '\\\\E127';"
-  },
-  "halflings-menu-right": {
-    "prefix": "halflings-menu-right",
-    "body": "content: '\\\\E258';"
-  },
-  "halflings-remove": {
-    "prefix": "halflings-remove",
-    "body": "content: '\\\\E014';"
-  },
-  "halflings-resize-small": {
-    "prefix": "halflings-resize-small",
-    "body": "content: '\\\\E097';"
-  },
-  "halflings-door": {
-    "prefix": "halflings-door",
-    "body": "content: '\\\\E207';"
-  },
-  "halflings-cd": {
-    "prefix": "halflings-cd",
-    "body": "content: '\\\\E201';"
-  },
-  "halflings-gift": {
-    "prefix": "halflings-gift",
-    "body": "content: '\\\\E102';"
-  },
-  "halflings-cutlery": {
-    "prefix": "halflings-cutlery",
-    "body": "content: '\\\\E179';"
-  },
-  "halflings-lamp": {
-    "prefix": "halflings-lamp",
-    "body": "content: '\\\\E223';"
-  },
-  "halflings-knight": {
-    "prefix": "halflings-knight",
-    "body": "content: '\\\\E215';"
-  },
-  "halflings-registration-mark": {
-    "prefix": "halflings-registration-mark",
-    "body": "content: '\\\\E195';"
-  },
-  "halflings-object-align-top": {
-    "prefix": "halflings-object-align-top",
-    "body": "content: '\\\\E244';"
-  },
-  "halflings-hand-top": {
-    "prefix": "halflings-hand-top",
-    "body": "content: '\\\\E129';"
-  },
-  "halflings-export": {
-    "prefix": "halflings-export",
-    "body": "content: '\\\\E170';"
-  },
-  "halflings-object-align-bottom": {
-    "prefix": "halflings-object-align-bottom",
-    "body": "content: '\\\\E245';"
-  },
-  "halflings-flash": {
-    "prefix": "halflings-flash",
-    "body": "content: '\\\\E162';"
-  },
-  "halflings-link": {
-    "prefix": "halflings-link",
-    "body": "content: '\\\\E144';"
-  },
-  "halflings-copy": {
-    "prefix": "halflings-copy",
-    "body": "content: '\\\\E205';"
-  },
-  "halflings-ok-sign": {
-    "prefix": "halflings-ok-sign",
-    "body": "content: '\\\\E084';"
-  },
-  "halflings-sort-by-attributes": {
-    "prefix": "halflings-sort-by-attributes",
-    "body": "content: '\\\\E155';"
-  },
-  "halflings-paperclip": {
-    "prefix": "halflings-paperclip",
-    "body": "content: '\\\\E142';"
-  },
-  "halflings-comments": {
-    "prefix": "halflings-comments",
-    "body": "content: '\\\\E111';"
-  },
-  "halflings-phone-alt": {
-    "prefix": "halflings-phone-alt",
-    "body": "content: '\\\\E183';"
-  },
-  "halflings-cloud": {
-    "prefix": "halflings-cloud",
-    "body": "content: '\\\\E196';"
-  },
-  "halflings-tint": {
-    "prefix": "halflings-tint",
-    "body": "content: '\\\\E064';"
-  },
-  "halflings-sound-stereo": {
-    "prefix": "halflings-sound-stereo",
-    "body": "content: '\\\\E189';"
-  },
-  "halflings-trash": {
-    "prefix": "halflings-trash",
-    "body": "content: '\\\\E020';"
-  },
-  "halflings-tower": {
-    "prefix": "halflings-tower",
-    "body": "content: '\\\\E184';"
-  },
-  "halflings-glass": {
-    "prefix": "halflings-glass",
-    "body": "content: '\\\\E001';"
-  },
-  "halflings-triangle-left": {
-    "prefix": "halflings-triangle-left",
-    "body": "content: '\\\\E251';"
-  },
-  "halflings-modal-window": {
-    "prefix": "halflings-modal-window",
-    "body": "content: '\\\\E237';"
-  },
-  "halflings-selectbox": {
-    "prefix": "halflings-selectbox",
-    "body": "content: '\\\\E269';"
-  },
-  "halflings-thumbs-down": {
-    "prefix": "halflings-thumbs-down",
-    "body": "content: '\\\\E126';"
-  },
-  "halflings-fire": {
-    "prefix": "halflings-fire",
-    "body": "content: '\\\\E104';"
-  },
-  "halflings-dashboard": {
-    "prefix": "halflings-dashboard",
-    "body": "content: '\\\\E141';"
-  },
-  "halflings-send": {
-    "prefix": "halflings-send",
-    "body": "content: '\\\\E171';"
-  },
-  "halflings-log-in": {
-    "prefix": "halflings-log-in",
-    "body": "content: '\\\\E161';"
-  },
-  "halflings-align-justify": {
-    "prefix": "halflings-align-justify",
-    "body": "content: '\\\\E055';"
-  },
-  "halflings-education": {
-    "prefix": "halflings-education",
-    "body": "content: '\\\\E233';"
-  },
-  "halflings-floppy-disk": {
-    "prefix": "halflings-floppy-disk",
-    "body": "content: '\\\\E172';"
-  },
-  "halflings-eye-close": {
-    "prefix": "halflings-eye-close",
-    "body": "content: '\\\\E106';"
-  },
-  "halflings-hd-video": {
-    "prefix": "halflings-hd-video",
-    "body": "content: '\\\\E187';"
-  },
-  "halflings-battery-10": {
-    "prefix": "halflings-battery-10",
-    "body": "content: '\\\\E292';"
-  },
-  "halflings-grain": {
-    "prefix": "halflings-grain",
-    "body": "content: '\\\\E239';"
-  },
-  "halflings-th-list": {
-    "prefix": "halflings-th-list",
-    "body": "content: '\\\\E012';"
-  },
-  "halflings-direction-down": {
-    "prefix": "halflings-direction-down",
-    "body": "content: '\\\\E275';"
-  },
-  "halflings-question-sign": {
-    "prefix": "halflings-question-sign",
-    "body": "content: '\\\\E085';"
-  },
-  "halflings-key": {
-    "prefix": "halflings-key",
-    "body": "content: '\\\\E208';"
-  },
-  "halflings-parking": {
-    "prefix": "halflings-parking",
-    "body": "content: '\\\\E277';"
-  },
-  "halflings-flag": {
-    "prefix": "halflings-flag",
-    "body": "content: '\\\\E034';"
-  },
-  "halflings-sd-video": {
-    "prefix": "halflings-sd-video",
-    "body": "content: '\\\\E186';"
-  },
-  "halflings-fast-backward": {
-    "prefix": "halflings-fast-backward",
-    "body": "content: '\\\\E070';"
-  },
-  "halflings-copyright-mark": {
-    "prefix": "halflings-copyright-mark",
-    "body": "content: '\\\\E194';"
-  },
-  "halflings-shopping-cart": {
-    "prefix": "halflings-shopping-cart",
-    "body": "content: '\\\\E116';"
-  },
-  "halflings-asterisk": {
-    "prefix": "halflings-asterisk",
-    "body": "content: '\\\\E100';"
-  },
-  "halflings-hand-left": {
-    "prefix": "halflings-hand-left",
-    "body": "content: '\\\\E128';"
-  },
-  "halflings-step-backward": {
-    "prefix": "halflings-step-backward",
-    "body": "content: '\\\\E069';"
-  },
-  "halflings-text-height": {
-    "prefix": "halflings-text-height",
-    "body": "content: '\\\\E050';"
-  },
-  "halflings-zoom-in": {
-    "prefix": "halflings-zoom-in",
-    "body": "content: '\\\\E015';"
-  },
-  "halflings-sort": {
-    "prefix": "halflings-sort",
-    "body": "content: '\\\\E150';"
-  },
-  "halflings-header": {
-    "prefix": "halflings-header",
-    "body": "content: '\\\\E180';"
-  },
-  "halflings-note-empty": {
-    "prefix": "halflings-note-empty",
-    "body": "content: '\\\\E271';"
-  },
-  "halflings-sound-6-1": {
-    "prefix": "halflings-sound-6-1",
-    "body": "content: '\\\\E192';"
-  },
-  "halflings-level-up": {
-    "prefix": "halflings-level-up",
-    "body": "content: '\\\\E204';"
-  },
-  "halflings-move": {
-    "prefix": "halflings-move",
-    "body": "content: '\\\\E068';"
-  },
-  "halflings-direction-up": {
-    "prefix": "halflings-direction-up",
-    "body": "content: '\\\\E276';"
-  },
-  "halflings-sound-5-1": {
-    "prefix": "halflings-sound-5-1",
-    "body": "content: '\\\\E191';"
-  },
-  "halflings-cog": {
-    "prefix": "halflings-cog",
-    "body": "content: '\\\\E019';"
-  },
-  "halflings-menu-left": {
-    "prefix": "halflings-menu-left",
-    "body": "content: '\\\\E257';"
-  },
-  "halflings-transfer": {
-    "prefix": "halflings-transfer",
-    "body": "content: '\\\\E178';"
-  },
-  "halflings-sunglasses": {
-    "prefix": "halflings-sunglasses",
-    "body": "content: '\\\\E240';"
-  },
-  "halflings-chevron-right": {
-    "prefix": "halflings-chevron-right",
-    "body": "content: '\\\\E080';"
-  },
-  "halflings-fullscreen": {
-    "prefix": "halflings-fullscreen",
-    "body": "content: '\\\\E140';"
-  },
-  "halflings-direction": {
-    "prefix": "halflings-direction",
-    "body": "content: '\\\\E283';"
-  },
-  "halflings-circle-arrow-right": {
-    "prefix": "halflings-circle-arrow-right",
-    "body": "content: '\\\\E131';"
-  },
-  "halflings-paragraph": {
-    "prefix": "halflings-paragraph",
-    "body": "content: '\\\\E297';"
-  },
-  "halflings-star": {
-    "prefix": "halflings-star",
-    "body": "content: '\\\\E006';"
-  },
-  "halflings-battery-full": {
-    "prefix": "halflings-battery-full",
-    "body": "content: '\\\\E288';"
-  },
-  "halflings-camera": {
-    "prefix": "halflings-camera",
-    "body": "content: '\\\\E046';"
-  },
-  "halflings-envelope": {
-    "prefix": "halflings-envelope",
-    "body": "content: '\\\\E004';"
-  },
-  "halflings-bookmark": {
-    "prefix": "halflings-bookmark",
-    "body": "content: '\\\\E044';"
-  },
-  "halflings-tent": {
-    "prefix": "halflings-tent",
-    "body": "content: '\\\\E217';"
-  },
-  "halflings-circle-arrow-down": {
-    "prefix": "halflings-circle-arrow-down",
-    "body": "content: '\\\\E134';"
-  },
-  "halflings-barcode": {
-    "prefix": "halflings-barcode",
-    "body": "content: '\\\\E040';"
-  },
-  "halflings-group": {
-    "prefix": "halflings-group",
-    "body": "content: '\\\\E284';"
-  },
-  "halflings-facetime-video": {
-    "prefix": "halflings-facetime-video",
-    "body": "content: '\\\\E059';"
-  },
-  "halflings-edit": {
-    "prefix": "halflings-edit",
-    "body": "content: '\\\\E065';"
-  },
-  "halflings-option-vertical": {
-    "prefix": "halflings-option-vertical",
-    "body": "content: '\\\\E235';"
-  },
-  "halflings-chevron-left": {
-    "prefix": "halflings-chevron-left",
-    "body": "content: '\\\\E079';"
-  },
-  "halflings-search": {
-    "prefix": "halflings-search",
-    "body": "content: '\\\\E003';"
-  },
-  "halflings-eject": {
-    "prefix": "halflings-eject",
-    "body": "content: '\\\\E078';"
-  },
-  "halflings-object-align-vertical": {
-    "prefix": "halflings-object-align-vertical",
-    "body": "content: '\\\\E248';"
-  },
-  "halflings-usd": {
-    "prefix": "halflings-usd",
-    "body": "content: '\\\\E148';"
-  },
-  "halflings-bishop": {
-    "prefix": "halflings-bishop",
-    "body": "content: '\\\\E214';"
-  },
-  "halflings-earphone": {
-    "prefix": "halflings-earphone",
-    "body": "content: '\\\\E182';"
-  },
-  "halflings-euro": {
-    "prefix": "halflings-euro",
-    "body": "content: '\\\\E147';"
-  },
-  "halflings-apple": {
-    "prefix": "halflings-apple",
-    "body": "content: '\\\\E220';"
-  },
-  "halflings-check": {
-    "prefix": "halflings-check",
-    "body": "content: '\\\\E067';"
-  },
-  "halflings-menu-hamburger": {
-    "prefix": "halflings-menu-hamburger",
-    "body": "content: '\\\\E236';"
-  },
-  "halflings-duplicate": {
-    "prefix": "halflings-duplicate",
-    "body": "content: '\\\\E224';"
-  },
-  "halflings-collapse-top": {
-    "prefix": "halflings-collapse-top",
-    "body": "content: '\\\\E160';"
-  },
-  "halflings-retweet": {
-    "prefix": "halflings-retweet",
-    "body": "content: '\\\\E115';"
-  },
-  "halflings-pencil": {
-    "prefix": "halflings-pencil",
-    "body": "content: '\\\\E061';"
-  },
-  "halflings-user": {
-    "prefix": "halflings-user",
-    "body": "content: '\\\\E008';"
-  },
-  "halflings-plane": {
-    "prefix": "halflings-plane",
-    "body": "content: '\\\\E108';"
-  },
-  "halflings-list-plus": {
-    "prefix": "halflings-list-plus",
-    "body": "content: '\\\\E298';"
-  },
-  "halflings-bell": {
-    "prefix": "halflings-bell",
-    "body": "content: '\\\\E123';"
-  },
-  "halflings-th": {
-    "prefix": "halflings-th",
-    "body": "content: '\\\\E011';"
-  },
-  "halflings-list": {
-    "prefix": "halflings-list",
-    "body": "content: '\\\\E056';"
-  },
-  "halflings-arrow-left": {
-    "prefix": "halflings-arrow-left",
-    "body": "content: '\\\\E091';"
-  },
-  "halflings-sort-by-order": {
-    "prefix": "halflings-sort-by-order",
-    "body": "content: '\\\\E153';"
-  },
-  "halflings-arrow-down": {
-    "prefix": "halflings-arrow-down",
-    "body": "content: '\\\\E094';"
-  },
-  "halflings-gas": {
-    "prefix": "halflings-gas",
-    "body": "content: '\\\\E266';"
-  },
-  "halflings-equalizer": {
-    "prefix": "halflings-equalizer",
-    "body": "content: '\\\\E210';"
-  },
-  "halflings-certificate": {
-    "prefix": "halflings-certificate",
-    "body": "content: '\\\\E124';"
-  },
-  "halflings-tasks": {
-    "prefix": "halflings-tasks",
-    "body": "content: '\\\\E137';"
-  },
-  "halflings-ban-circle": {
-    "prefix": "halflings-ban-circle",
-    "body": "content: '\\\\E090';"
-  },
-  "halflings-download": {
-    "prefix": "halflings-download",
-    "body": "content: '\\\\E026';"
-  },
-  "halflings-repeat": {
-    "prefix": "halflings-repeat",
-    "body": "content: '\\\\E030';"
-  },
-  "halflings-step-forward": {
-    "prefix": "halflings-step-forward",
-    "body": "content: '\\\\E077';"
-  },
-  "halflings-share-alt": {
-    "prefix": "halflings-share-alt",
-    "body": "content: '\\\\E095';"
-  },
-  "halflings-minus": {
-    "prefix": "halflings-minus",
-    "body": "content: '\\\\E099';"
-  },
-  "halflings-paired": {
-    "prefix": "halflings-paired",
-    "body": "content: '\\\\E293';"
-  },
-  "halflings-compressed": {
-    "prefix": "halflings-compressed",
-    "body": "content: '\\\\E181';"
-  },
-  "halflings-save": {
-    "prefix": "halflings-save",
-    "body": "content: '\\\\E166';"
-  },
-  "halflings-print": {
-    "prefix": "halflings-print",
-    "body": "content: '\\\\E045';"
-  },
-  "halflings-sort-by-alphabet": {
-    "prefix": "halflings-sort-by-alphabet",
-    "body": "content: '\\\\E151';"
-  },
-  "halflings-piggy-bank": {
-    "prefix": "halflings-piggy-bank",
-    "body": "content: '\\\\E225';"
-  },
-  "halflings-menu-up": {
-    "prefix": "halflings-menu-up",
-    "body": "content: '\\\\E260';"
-  },
-  "halflings-font": {
-    "prefix": "halflings-font",
-    "body": "content: '\\\\E047';"
-  },
-  "halflings-fast-forward": {
-    "prefix": "halflings-fast-forward",
-    "body": "content: '\\\\E076';"
-  },
-  "halflings-unchecked": {
-    "prefix": "halflings-unchecked",
-    "body": "content: '\\\\E157';"
-  },
-  "halflings-sort-by-alphabet-alt": {
-    "prefix": "halflings-sort-by-alphabet-alt",
-    "body": "content: '\\\\E152';"
-  },
-  "halflings-sort-by-order-alt": {
-    "prefix": "halflings-sort-by-order-alt",
-    "body": "content: '\\\\E154';"
-  },
-  "halflings-ice-lolly": {
-    "prefix": "halflings-ice-lolly",
-    "body": "content: '\\\\E231';"
-  },
-  "halflings-list-alt": {
-    "prefix": "halflings-list-alt",
-    "body": "content: '\\\\E032';"
-  },
-  "halflings-erase": {
-    "prefix": "halflings-erase",
-    "body": "content: '\\\\E221';"
-  },
-  "halflings-lock": {
-    "prefix": "halflings-lock",
-    "body": "content: '\\\\E033';"
-  },
-  "halflings-picture": {
-    "prefix": "halflings-picture",
-    "body": "content: '\\\\E060';"
-  },
-  "halflings-floppy-remove": {
-    "prefix": "halflings-floppy-remove",
-    "body": "content: '\\\\E174';"
-  },
-  "halflings-briefcase": {
-    "prefix": "halflings-briefcase",
-    "body": "content: '\\\\E139';"
-  },
-  "halflings-screenshot": {
-    "prefix": "halflings-screenshot",
-    "body": "content: '\\\\E087';"
-  },
-  "halflings-snowflake": {
-    "prefix": "halflings-snowflake",
-    "body": "content: '\\\\E267';"
-  },
-  "halflings-inbox": {
-    "prefix": "halflings-inbox",
-    "body": "content: '\\\\E028';"
-  },
-  "halflings-new-window": {
-    "prefix": "halflings-new-window",
-    "body": "content: '\\\\E164';"
-  },
-  "halflings-refresh": {
-    "prefix": "halflings-refresh",
-    "body": "content: '\\\\E031';"
-  },
-  "halflings-expand": {
-    "prefix": "halflings-expand",
-    "body": "content: '\\\\E158';"
-  },
-  "halflings-sortable": {
-    "prefix": "halflings-sortable",
-    "body": "content: '\\\\E270';"
-  },
-  "halflings-paste": {
-    "prefix": "halflings-paste",
-    "body": "content: '\\\\E206';"
-  },
-  "halflings-oil": {
-    "prefix": "halflings-oil",
-    "body": "content: '\\\\E238';"
-  },
-  "halflings-time": {
-    "prefix": "halflings-time",
-    "body": "content: '\\\\E023';"
-  },
-  "halflings-th-large": {
-    "prefix": "halflings-th-large",
-    "body": "content: '\\\\E010';"
-  },
-  "halflings-heart-empty": {
-    "prefix": "halflings-heart-empty",
-    "body": "content: '\\\\E143';"
-  },
-  "halflings-rotate-right": {
-    "prefix": "halflings-rotate-right",
-    "body": "content: '\\\\E294';"
-  },
-  "halflings-align-center": {
-    "prefix": "halflings-align-center",
-    "body": "content: '\\\\E053';"
-  },
-  "halflings-bitcoin": {
-    "prefix": "halflings-bitcoin",
-    "body": "content: '\\\\E227';"
-  },
-  "halflings-queen": {
-    "prefix": "halflings-queen",
-    "body": "content: '\\\\E212';"
-  },
-  "halflings-directions": {
-    "prefix": "halflings-directions",
-    "body": "content: '\\\\E265';"
-  },
-  "halflings-ok": {
-    "prefix": "halflings-ok",
-    "body": "content: '\\\\E013';"
-  },
-  "halflings-tick": {
-    "prefix": "halflings-tick",
-    "body": "content: '\\\\E262';"
-  },
-  "halflings-home": {
-    "prefix": "halflings-home",
-    "body": "content: '\\\\E021';"
-  },
-  "halflings-bed": {
-    "prefix": "halflings-bed",
-    "body": "content: '\\\\E219';"
-  },
-  "halflings-note": {
-    "prefix": "halflings-note",
-    "body": "content: '\\\\E272';"
-  },
-  "halflings-backward": {
-    "prefix": "halflings-backward",
-    "body": "content: '\\\\E071';"
-  },
-  "halflings-wrench": {
-    "prefix": "halflings-wrench",
-    "body": "content: '\\\\E136';"
-  },
-  "halflings-tree-deciduous": {
-    "prefix": "halflings-tree-deciduous",
-    "body": "content: '\\\\E200';"
-  },
-  "halflings-book": {
-    "prefix": "halflings-book",
-    "body": "content: '\\\\E043';"
-  },
-  "halflings-bug": {
-    "prefix": "halflings-bug",
-    "body": "content: '\\\\E281';"
-  },
-  "halflings-volume-down": {
-    "prefix": "halflings-volume-down",
-    "body": "content: '\\\\E037';"
-  },
-  "halflings-chevron-up": {
-    "prefix": "halflings-chevron-up",
-    "body": "content: '\\\\E113';"
-  },
-  "halflings-circle-arrow-top": {
-    "prefix": "halflings-circle-arrow-top",
-    "body": "content: '\\\\E133';"
-  },
-  "halflings-battery-charging": {
-    "prefix": "halflings-battery-charging",
-    "body": "content: '\\\\E287';"
-  },
-  "halflings-cloud-download": {
-    "prefix": "halflings-cloud-download",
-    "body": "content: '\\\\E197';"
-  },
-  "halflings-king": {
-    "prefix": "halflings-king",
-    "body": "content: '\\\\E211';"
-  },
-  "halflings-qrcode": {
-    "prefix": "halflings-qrcode",
-    "body": "content: '\\\\E039';"
-  },
-  "halflings-collapse": {
-    "prefix": "halflings-collapse",
-    "body": "content: '\\\\E159';"
-  },
-  "halflings-warning-sign": {
-    "prefix": "halflings-warning-sign",
-    "body": "content: '\\\\E107';"
-  },
-  "halflings-scale": {
-    "prefix": "halflings-scale",
-    "body": "content: '\\\\E230';"
-  },
-  "halflings-terminal": {
-    "prefix": "halflings-terminal",
-    "body": "content: '\\\\E254';"
-  },
-  "halflings-share": {
-    "prefix": "halflings-share",
-    "body": "content: '\\\\E066';"
-  },
-  "halflings-star-empty": {
-    "prefix": "halflings-star-empty",
-    "body": "content: '\\\\E007';"
-  },
-  "halflings-superscript": {
-    "prefix": "halflings-superscript",
-    "body": "content: '\\\\E255';"
-  },
-  "halflings-arrow-up": {
-    "prefix": "halflings-arrow-up",
-    "body": "content: '\\\\E093';"
-  },
-  "halflings-floppy-open": {
-    "prefix": "halflings-floppy-open",
-    "body": "content: '\\\\E176';"
-  },
-  "halflings-ruble": {
-    "prefix": "halflings-ruble",
-    "body": "content: '\\\\E229';"
-  },
-  "halflings-off": {
-    "prefix": "halflings-off",
-    "body": "content: '\\\\E017';"
-  },
-  "halflings-battery-50": {
-    "prefix": "halflings-battery-50",
-    "body": "content: '\\\\E290';"
-  },
-  "halflings-eye-open": {
-    "prefix": "halflings-eye-open",
-    "body": "content: '\\\\E105';"
-  },
-  "halflings-play": {
-    "prefix": "halflings-play",
-    "body": "content: '\\\\E072';"
-  },
-  "halflings-hourglass": {
-    "prefix": "halflings-hourglass",
-    "body": "content: '\\\\E222';"
-  },
-  "halflings-hash": {
-    "prefix": "halflings-hash",
-    "body": "content: '\\\\E264';"
-  },
-  "halflings-option-horizontal": {
-    "prefix": "halflings-option-horizontal",
-    "body": "content: '\\\\E234';"
-  },
-  "halflings-subtitles": {
-    "prefix": "halflings-subtitles",
-    "body": "content: '\\\\E188';"
-  },
-  "halflings-leaf": {
-    "prefix": "halflings-leaf",
-    "body": "content: '\\\\E103';"
-  },
-  "halflings-record-empty": {
-    "prefix": "halflings-record-empty",
-    "body": "content: '\\\\E279';"
-  },
-  "halflings-record": {
-    "prefix": "halflings-record",
-    "body": "content: '\\\\E165';"
-  },
-  "halflings-stop": {
-    "prefix": "halflings-stop",
-    "body": "content: '\\\\E074';"
-  },
-  "halflings-yen": {
-    "prefix": "halflings-yen",
-    "body": "content: '\\\\E228';"
-  },
-  "halflings-heart": {
-    "prefix": "halflings-heart",
-    "body": "content: '\\\\E005';"
-  },
-  "halflings-italic": {
-    "prefix": "halflings-italic",
-    "body": "content: '\\\\E049';"
-  },
-  "halflings-bold": {
-    "prefix": "halflings-bold",
-    "body": "content: '\\\\E048';"
-  },
-  "halflings-ice-lolly-tasted": {
-    "prefix": "halflings-ice-lolly-tasted",
-    "body": "content: '\\\\E232';"
-  },
-  "halflings-volume-up": {
-    "prefix": "halflings-volume-up",
-    "body": "content: '\\\\E038';"
-  },
-  "halflings-plus-sign": {
-    "prefix": "halflings-plus-sign",
-    "body": "content: '\\\\E081';"
-  },
-  "halflings-sound-dolby": {
-    "prefix": "halflings-sound-dolby",
-    "body": "content: '\\\\E190';"
-  },
-  "halflings-random": {
-    "prefix": "halflings-random",
-    "body": "content: '\\\\E110';"
-  },
-  "halflings-chevron-down": {
-    "prefix": "halflings-chevron-down",
-    "body": "content: '\\\\E114';"
-  },
-  "halflings-minus-sign": {
-    "prefix": "halflings-minus-sign",
-    "body": "content: '\\\\E082';"
-  },
-  "halflings-signal": {
-    "prefix": "halflings-signal",
-    "body": "content: '\\\\E018';"
-  },
-  "halflings-hdd": {
-    "prefix": "halflings-hdd",
-    "body": "content: '\\\\E121';"
-  },
-  "halflings-sort-by-attributes-alt": {
-    "prefix": "halflings-sort-by-attributes-alt",
-    "body": "content: '\\\\E156';"
-  },
-  "halflings-reflect-x": {
-    "prefix": "halflings-reflect-x",
-    "body": "content: '\\\\E286';"
-  },
-  "halflings-magnet": {
-    "prefix": "halflings-magnet",
-    "body": "content: '\\\\E112';"
-  },
-  "halflings-zoom-out": {
-    "prefix": "halflings-zoom-out",
-    "body": "content: '\\\\E016';"
-  },
-  "halflings-globe": {
-    "prefix": "halflings-globe",
-    "body": "content: '\\\\E135';"
-  },
-  "halflings-headphones": {
-    "prefix": "halflings-headphones",
-    "body": "content: '\\\\E035';"
-  },
-  "halflings-object-align-right": {
-    "prefix": "halflings-object-align-right",
-    "body": "content: '\\\\E249';"
-  },
-  "halflings-upload": {
-    "prefix": "halflings-upload",
-    "body": "content: '\\\\E027';"
-  },
-  "halflings-rotate-left": {
-    "prefix": "halflings-rotate-left",
-    "body": "content: '\\\\E295';"
-  },
-  "halflings-download-alt": {
-    "prefix": "halflings-download-alt",
-    "body": "content: '\\\\E025';"
-  },
-  "halflings-blackboard": {
-    "prefix": "halflings-blackboard",
-    "body": "content: '\\\\E218';"
-  },
-  "halflings-bullhorn": {
-    "prefix": "halflings-bullhorn",
-    "body": "content: '\\\\E122';"
-  },
-  "halflings-import": {
-    "prefix": "halflings-import",
-    "body": "content: '\\\\E169';"
-  },
-  "halflings-open-file": {
-    "prefix": "halflings-open-file",
-    "body": "content: '\\\\E203';"
-  },
-  "halflings-credit-card": {
-    "prefix": "halflings-credit-card",
-    "body": "content: '\\\\E177';"
-  },
-  "halflings-pause": {
-    "prefix": "halflings-pause",
-    "body": "content: '\\\\E073';"
-  },
-  "halflings-ok-circle": {
-    "prefix": "halflings-ok-circle",
-    "body": "content: '\\\\E089';"
-  },
-  "halflings-synchronization": {
-    "prefix": "halflings-synchronization",
-    "body": "content: '\\\\E299';"
-  },
-  "halflings-sunlight": {
-    "prefix": "halflings-sunlight",
-    "body": "content: '\\\\E268';"
-  },
-  "halflings-building": {
-    "prefix": "halflings-building",
-    "body": "content: '\\\\E261';"
-  },
-  "halflings-coffee-cup": {
-    "prefix": "halflings-coffee-cup",
-    "body": "content: '\\\\E278';"
-  },
-  "halflings-battery-25": {
-    "prefix": "halflings-battery-25",
-    "body": "content: '\\\\E291';"
-  },
-  "halflings-reflect-y": {
-    "prefix": "halflings-reflect-y",
-    "body": "content: '\\\\E285';"
-  },
-  "halflings-triangle-top": {
-    "prefix": "halflings-triangle-top",
-    "body": "content: '\\\\E253';"
-  },
-  "halflings-direction-left": {
-    "prefix": "halflings-direction-left",
-    "body": "content: '\\\\E274';"
-  },
-  "halflings-forward": {
-    "prefix": "halflings-forward",
-    "body": "content: '\\\\E075';"
-  },
-  "halflings-object-align-horizontal": {
-    "prefix": "halflings-object-align-horizontal",
-    "body": "content: '\\\\E246';"
-  },
-  "halflings-text-width": {
-    "prefix": "halflings-text-width",
-    "body": "content: '\\\\E051';"
-  },
-  "halflings-triangle-right": {
-    "prefix": "halflings-triangle-right",
-    "body": "content: '\\\\E250';"
+  "halflings-adjust": {
+    "body": "content: '\\\\E063';",
+    "prefix": "halflings-adjust"
   },
   "halflings-alert": {
-    "prefix": "halflings-alert",
-    "body": "content: '\\\\E209';"
+    "body": "content: '\\\\E209';",
+    "prefix": "halflings-alert"
   },
-  "halflings-direction-right": {
-    "prefix": "halflings-direction-right",
-    "body": "content: '\\\\E273';"
+  "halflings-align-center": {
+    "body": "content: '\\\\E053';",
+    "prefix": "halflings-align-center"
   },
-  "halflings-resize-full": {
-    "prefix": "halflings-resize-full",
-    "body": "content: '\\\\E096';"
+  "halflings-align-justify": {
+    "body": "content: '\\\\E055';",
+    "prefix": "halflings-align-justify"
   },
-  "halflings-folder-open": {
-    "prefix": "halflings-folder-open",
-    "body": "content: '\\\\E118';"
+  "halflings-align-left": {
+    "body": "content: '\\\\E052';",
+    "prefix": "halflings-align-left"
   },
-  "halflings-folder-close": {
-    "prefix": "halflings-folder-close",
-    "body": "content: '\\\\E117';"
+  "halflings-align-right": {
+    "body": "content: '\\\\E054';",
+    "prefix": "halflings-align-right"
   },
-  "halflings-volume-off": {
-    "prefix": "halflings-volume-off",
-    "body": "content: '\\\\E036';"
+  "halflings-apple": {
+    "body": "content: '\\\\E220';",
+    "prefix": "halflings-apple"
   },
-  "halflings-stats": {
-    "prefix": "halflings-stats",
-    "body": "content: '\\\\E185';"
+  "halflings-arrow-down": {
+    "body": "content: '\\\\E094';",
+    "prefix": "halflings-arrow-down"
   },
-  "halflings-log-out": {
-    "prefix": "halflings-log-out",
-    "body": "content: '\\\\E163';"
+  "halflings-arrow-left": {
+    "body": "content: '\\\\E091';",
+    "prefix": "halflings-arrow-left"
   },
-  "halflings-adjust": {
-    "prefix": "halflings-adjust",
-    "body": "content: '\\\\E063';"
+  "halflings-arrow-right": {
+    "body": "content: '\\\\E092';",
+    "prefix": "halflings-arrow-right"
+  },
+  "halflings-arrow-up": {
+    "body": "content: '\\\\E093';",
+    "prefix": "halflings-arrow-up"
+  },
+  "halflings-asterisk": {
+    "body": "content: '\\\\E100';",
+    "prefix": "halflings-asterisk"
   },
   "halflings-baby-formula": {
-    "prefix": "halflings-baby-formula",
-    "body": "content: '\\\\E216';"
+    "body": "content: '\\\\E216';",
+    "prefix": "halflings-baby-formula"
   },
-  "halflings-pushpin": {
-    "prefix": "halflings-pushpin",
-    "body": "content: '\\\\E146';"
+  "halflings-backward": {
+    "body": "content: '\\\\E071';",
+    "prefix": "halflings-backward"
+  },
+  "halflings-ban-circle": {
+    "body": "content: '\\\\E090';",
+    "prefix": "halflings-ban-circle"
+  },
+  "halflings-barcode": {
+    "body": "content: '\\\\E040';",
+    "prefix": "halflings-barcode"
+  },
+  "halflings-battery-10": {
+    "body": "content: '\\\\E292';",
+    "prefix": "halflings-battery-10"
+  },
+  "halflings-battery-25": {
+    "body": "content: '\\\\E291';",
+    "prefix": "halflings-battery-25"
+  },
+  "halflings-battery-50": {
+    "body": "content: '\\\\E290';",
+    "prefix": "halflings-battery-50"
+  },
+  "halflings-battery-75": {
+    "body": "content: '\\\\E289';",
+    "prefix": "halflings-battery-75"
+  },
+  "halflings-battery-charging": {
+    "body": "content: '\\\\E287';",
+    "prefix": "halflings-battery-charging"
+  },
+  "halflings-battery-full": {
+    "body": "content: '\\\\E288';",
+    "prefix": "halflings-battery-full"
+  },
+  "halflings-bed": {
+    "body": "content: '\\\\E219';",
+    "prefix": "halflings-bed"
+  },
+  "halflings-bell": {
+    "body": "content: '\\\\E123';",
+    "prefix": "halflings-bell"
+  },
+  "halflings-bishop": {
+    "body": "content: '\\\\E214';",
+    "prefix": "halflings-bishop"
+  },
+  "halflings-bitcoin": {
+    "body": "content: '\\\\E227';",
+    "prefix": "halflings-bitcoin"
+  },
+  "halflings-blackboard": {
+    "body": "content: '\\\\E218';",
+    "prefix": "halflings-blackboard"
+  },
+  "halflings-bold": {
+    "body": "content: '\\\\E048';",
+    "prefix": "halflings-bold"
+  },
+  "halflings-book": {
+    "body": "content: '\\\\E043';",
+    "prefix": "halflings-book"
+  },
+  "halflings-bookmark": {
+    "body": "content: '\\\\E044';",
+    "prefix": "halflings-bookmark"
+  },
+  "halflings-briefcase": {
+    "body": "content: '\\\\E139';",
+    "prefix": "halflings-briefcase"
+  },
+  "halflings-bug": {
+    "body": "content: '\\\\E281';",
+    "prefix": "halflings-bug"
+  },
+  "halflings-building": {
+    "body": "content: '\\\\E261';",
+    "prefix": "halflings-building"
+  },
+  "halflings-bullhorn": {
+    "body": "content: '\\\\E122';",
+    "prefix": "halflings-bullhorn"
+  },
+  "halflings-calendar": {
+    "body": "content: '\\\\E109';",
+    "prefix": "halflings-calendar"
+  },
+  "halflings-camera": {
+    "body": "content: '\\\\E046';",
+    "prefix": "halflings-camera"
+  },
+  "halflings-cd": {
+    "body": "content: '\\\\E201';",
+    "prefix": "halflings-cd"
+  },
+  "halflings-certificate": {
+    "body": "content: '\\\\E124';",
+    "prefix": "halflings-certificate"
+  },
+  "halflings-check": {
+    "body": "content: '\\\\E067';",
+    "prefix": "halflings-check"
+  },
+  "halflings-chevron-down": {
+    "body": "content: '\\\\E114';",
+    "prefix": "halflings-chevron-down"
+  },
+  "halflings-chevron-left": {
+    "body": "content: '\\\\E079';",
+    "prefix": "halflings-chevron-left"
+  },
+  "halflings-chevron-right": {
+    "body": "content: '\\\\E080';",
+    "prefix": "halflings-chevron-right"
+  },
+  "halflings-chevron-up": {
+    "body": "content: '\\\\E113';",
+    "prefix": "halflings-chevron-up"
+  },
+  "halflings-circle-arrow-down": {
+    "body": "content: '\\\\E134';",
+    "prefix": "halflings-circle-arrow-down"
+  },
+  "halflings-circle-arrow-left": {
+    "body": "content: '\\\\E132';",
+    "prefix": "halflings-circle-arrow-left"
+  },
+  "halflings-circle-arrow-right": {
+    "body": "content: '\\\\E131';",
+    "prefix": "halflings-circle-arrow-right"
+  },
+  "halflings-circle-arrow-top": {
+    "body": "content: '\\\\E133';",
+    "prefix": "halflings-circle-arrow-top"
+  },
+  "halflings-cloud-download": {
+    "body": "content: '\\\\E197';",
+    "prefix": "halflings-cloud-download"
+  },
+  "halflings-cloud-upload": {
+    "body": "content: '\\\\E198';",
+    "prefix": "halflings-cloud-upload"
+  },
+  "halflings-cloud": {
+    "body": "content: '\\\\E196';",
+    "prefix": "halflings-cloud"
+  },
+  "halflings-coffee-cup": {
+    "body": "content: '\\\\E278';",
+    "prefix": "halflings-coffee-cup"
+  },
+  "halflings-cog": {
+    "body": "content: '\\\\E019';",
+    "prefix": "halflings-cog"
+  },
+  "halflings-collapse-top": {
+    "body": "content: '\\\\E160';",
+    "prefix": "halflings-collapse-top"
+  },
+  "halflings-collapse": {
+    "body": "content: '\\\\E159';",
+    "prefix": "halflings-collapse"
+  },
+  "halflings-comments": {
+    "body": "content: '\\\\E111';",
+    "prefix": "halflings-comments"
+  },
+  "halflings-compressed": {
+    "body": "content: '\\\\E181';",
+    "prefix": "halflings-compressed"
+  },
+  "halflings-copy": {
+    "body": "content: '\\\\E205';",
+    "prefix": "halflings-copy"
+  },
+  "halflings-copyright-mark": {
+    "body": "content: '\\\\E194';",
+    "prefix": "halflings-copyright-mark"
+  },
+  "halflings-credit-card": {
+    "body": "content: '\\\\E177';",
+    "prefix": "halflings-credit-card"
+  },
+  "halflings-cutlery": {
+    "body": "content: '\\\\E179';",
+    "prefix": "halflings-cutlery"
+  },
+  "halflings-dashboard": {
+    "body": "content: '\\\\E141';",
+    "prefix": "halflings-dashboard"
+  },
+  "halflings-direction-down": {
+    "body": "content: '\\\\E275';",
+    "prefix": "halflings-direction-down"
+  },
+  "halflings-direction-left": {
+    "body": "content: '\\\\E274';",
+    "prefix": "halflings-direction-left"
+  },
+  "halflings-direction-right": {
+    "body": "content: '\\\\E273';",
+    "prefix": "halflings-direction-right"
+  },
+  "halflings-direction-up": {
+    "body": "content: '\\\\E276';",
+    "prefix": "halflings-direction-up"
+  },
+  "halflings-direction": {
+    "body": "content: '\\\\E283';",
+    "prefix": "halflings-direction"
+  },
+  "halflings-directions": {
+    "body": "content: '\\\\E265';",
+    "prefix": "halflings-directions"
+  },
+  "halflings-display": {
+    "body": "content: '\\\\E282';",
+    "prefix": "halflings-display"
+  },
+  "halflings-door": {
+    "body": "content: '\\\\E207';",
+    "prefix": "halflings-door"
+  },
+  "halflings-download-alt": {
+    "body": "content: '\\\\E025';",
+    "prefix": "halflings-download-alt"
+  },
+  "halflings-download": {
+    "body": "content: '\\\\E026';",
+    "prefix": "halflings-download"
+  },
+  "halflings-duplicate": {
+    "body": "content: '\\\\E224';",
+    "prefix": "halflings-duplicate"
+  },
+  "halflings-earphone": {
+    "body": "content: '\\\\E182';",
+    "prefix": "halflings-earphone"
+  },
+  "halflings-edit": {
+    "body": "content: '\\\\E065';",
+    "prefix": "halflings-edit"
+  },
+  "halflings-education": {
+    "body": "content: '\\\\E233';",
+    "prefix": "halflings-education"
+  },
+  "halflings-eject": {
+    "body": "content: '\\\\E078';",
+    "prefix": "halflings-eject"
+  },
+  "halflings-envelope": {
+    "body": "content: '\\\\E004';",
+    "prefix": "halflings-envelope"
+  },
+  "halflings-equalizer": {
+    "body": "content: '\\\\E210';",
+    "prefix": "halflings-equalizer"
+  },
+  "halflings-erase": {
+    "body": "content: '\\\\E221';",
+    "prefix": "halflings-erase"
+  },
+  "halflings-euro": {
+    "body": "content: '\\\\E147';",
+    "prefix": "halflings-euro"
+  },
+  "halflings-exclamation-sign": {
+    "body": "content: '\\\\E101';",
+    "prefix": "halflings-exclamation-sign"
+  },
+  "halflings-expand": {
+    "body": "content: '\\\\E158';",
+    "prefix": "halflings-expand"
+  },
+  "halflings-export": {
+    "body": "content: '\\\\E170';",
+    "prefix": "halflings-export"
+  },
+  "halflings-eye-close": {
+    "body": "content: '\\\\E106';",
+    "prefix": "halflings-eye-close"
+  },
+  "halflings-eye-open": {
+    "body": "content: '\\\\E105';",
+    "prefix": "halflings-eye-open"
+  },
+  "halflings-facetime-video": {
+    "body": "content: '\\\\E059';",
+    "prefix": "halflings-facetime-video"
+  },
+  "halflings-fast-backward": {
+    "body": "content: '\\\\E070';",
+    "prefix": "halflings-fast-backward"
+  },
+  "halflings-fast-forward": {
+    "body": "content: '\\\\E076';",
+    "prefix": "halflings-fast-forward"
+  },
+  "halflings-file": {
+    "body": "content: '\\\\E022';",
+    "prefix": "halflings-file"
+  },
+  "halflings-film": {
+    "body": "content: '\\\\E009';",
+    "prefix": "halflings-film"
+  },
+  "halflings-filter": {
+    "body": "content: '\\\\E138';",
+    "prefix": "halflings-filter"
+  },
+  "halflings-fire": {
+    "body": "content: '\\\\E104';",
+    "prefix": "halflings-fire"
+  },
+  "halflings-flag": {
+    "body": "content: '\\\\E034';",
+    "prefix": "halflings-flag"
+  },
+  "halflings-flash": {
+    "body": "content: '\\\\E162';",
+    "prefix": "halflings-flash"
+  },
+  "halflings-floppy-disk": {
+    "body": "content: '\\\\E172';",
+    "prefix": "halflings-floppy-disk"
+  },
+  "halflings-floppy-open": {
+    "body": "content: '\\\\E176';",
+    "prefix": "halflings-floppy-open"
+  },
+  "halflings-floppy-remove": {
+    "body": "content: '\\\\E174';",
+    "prefix": "halflings-floppy-remove"
+  },
+  "halflings-floppy-save": {
+    "body": "content: '\\\\E175';",
+    "prefix": "halflings-floppy-save"
+  },
+  "halflings-floppy-saved": {
+    "body": "content: '\\\\E173';",
+    "prefix": "halflings-floppy-saved"
+  },
+  "halflings-folder-close": {
+    "body": "content: '\\\\E117';",
+    "prefix": "halflings-folder-close"
+  },
+  "halflings-folder-open": {
+    "body": "content: '\\\\E118';",
+    "prefix": "halflings-folder-open"
+  },
+  "halflings-font": {
+    "body": "content: '\\\\E047';",
+    "prefix": "halflings-font"
+  },
+  "halflings-forward": {
+    "body": "content: '\\\\E075';",
+    "prefix": "halflings-forward"
+  },
+  "halflings-fullscreen": {
+    "body": "content: '\\\\E140';",
+    "prefix": "halflings-fullscreen"
+  },
+  "halflings-gas": {
+    "body": "content: '\\\\E266';",
+    "prefix": "halflings-gas"
+  },
+  "halflings-gbp": {
+    "body": "content: '\\\\E149';",
+    "prefix": "halflings-gbp"
+  },
+  "halflings-gift": {
+    "body": "content: '\\\\E102';",
+    "prefix": "halflings-gift"
+  },
+  "halflings-glass": {
+    "body": "content: '\\\\E001';",
+    "prefix": "halflings-glass"
+  },
+  "halflings-globe": {
+    "body": "content: '\\\\E135';",
+    "prefix": "halflings-globe"
+  },
+  "halflings-grain": {
+    "body": "content: '\\\\E239';",
+    "prefix": "halflings-grain"
+  },
+  "halflings-group": {
+    "body": "content: '\\\\E284';",
+    "prefix": "halflings-group"
+  },
+  "halflings-hand-down": {
+    "body": "content: '\\\\E130';",
+    "prefix": "halflings-hand-down"
+  },
+  "halflings-hand-left": {
+    "body": "content: '\\\\E128';",
+    "prefix": "halflings-hand-left"
+  },
+  "halflings-hand-right": {
+    "body": "content: '\\\\E127';",
+    "prefix": "halflings-hand-right"
+  },
+  "halflings-hand-top": {
+    "body": "content: '\\\\E129';",
+    "prefix": "halflings-hand-top"
+  },
+  "halflings-hash": {
+    "body": "content: '\\\\E264';",
+    "prefix": "halflings-hash"
+  },
+  "halflings-hd-video": {
+    "body": "content: '\\\\E187';",
+    "prefix": "halflings-hd-video"
+  },
+  "halflings-hdd": {
+    "body": "content: '\\\\E121';",
+    "prefix": "halflings-hdd"
+  },
+  "halflings-header": {
+    "body": "content: '\\\\E180';",
+    "prefix": "halflings-header"
+  },
+  "halflings-headphones": {
+    "body": "content: '\\\\E035';",
+    "prefix": "halflings-headphones"
+  },
+  "halflings-heart-empty": {
+    "body": "content: '\\\\E143';",
+    "prefix": "halflings-heart-empty"
+  },
+  "halflings-heart": {
+    "body": "content: '\\\\E005';",
+    "prefix": "halflings-heart"
+  },
+  "halflings-home": {
+    "body": "content: '\\\\E021';",
+    "prefix": "halflings-home"
+  },
+  "halflings-hourglass": {
+    "body": "content: '\\\\E222';",
+    "prefix": "halflings-hourglass"
+  },
+  "halflings-ice-lolly-tasted": {
+    "body": "content: '\\\\E232';",
+    "prefix": "halflings-ice-lolly-tasted"
+  },
+  "halflings-ice-lolly": {
+    "body": "content: '\\\\E231';",
+    "prefix": "halflings-ice-lolly"
+  },
+  "halflings-import": {
+    "body": "content: '\\\\E169';",
+    "prefix": "halflings-import"
+  },
+  "halflings-inbox": {
+    "body": "content: '\\\\E028';",
+    "prefix": "halflings-inbox"
+  },
+  "halflings-indent-left": {
+    "body": "content: '\\\\E057';",
+    "prefix": "halflings-indent-left"
+  },
+  "halflings-indent-right": {
+    "body": "content: '\\\\E058';",
+    "prefix": "halflings-indent-right"
+  },
+  "halflings-info-sign": {
+    "body": "content: '\\\\E086';",
+    "prefix": "halflings-info-sign"
+  },
+  "halflings-italic": {
+    "body": "content: '\\\\E049';",
+    "prefix": "halflings-italic"
+  },
+  "halflings-key": {
+    "body": "content: '\\\\E208';",
+    "prefix": "halflings-key"
+  },
+  "halflings-king": {
+    "body": "content: '\\\\E211';",
+    "prefix": "halflings-king"
+  },
+  "halflings-knight": {
+    "body": "content: '\\\\E215';",
+    "prefix": "halflings-knight"
+  },
+  "halflings-lamp": {
+    "body": "content: '\\\\E223';",
+    "prefix": "halflings-lamp"
+  },
+  "halflings-leaf": {
+    "body": "content: '\\\\E103';",
+    "prefix": "halflings-leaf"
+  },
+  "halflings-level-up": {
+    "body": "content: '\\\\E204';",
+    "prefix": "halflings-level-up"
+  },
+  "halflings-link": {
+    "body": "content: '\\\\E144';",
+    "prefix": "halflings-link"
+  },
+  "halflings-list-alt": {
+    "body": "content: '\\\\E032';",
+    "prefix": "halflings-list-alt"
+  },
+  "halflings-list-numbered": {
+    "body": "content: '\\\\E296';",
+    "prefix": "halflings-list-numbered"
+  },
+  "halflings-list-plus": {
+    "body": "content: '\\\\E298';",
+    "prefix": "halflings-list-plus"
+  },
+  "halflings-list": {
+    "body": "content: '\\\\E056';",
+    "prefix": "halflings-list"
+  },
+  "halflings-lock": {
+    "body": "content: '\\\\E033';",
+    "prefix": "halflings-lock"
+  },
+  "halflings-log-in": {
+    "body": "content: '\\\\E161';",
+    "prefix": "halflings-log-in"
+  },
+  "halflings-log-out": {
+    "body": "content: '\\\\E163';",
+    "prefix": "halflings-log-out"
+  },
+  "halflings-magnet": {
+    "body": "content: '\\\\E112';",
+    "prefix": "halflings-magnet"
+  },
+  "halflings-map-marker": {
+    "body": "content: '\\\\E062';",
+    "prefix": "halflings-map-marker"
+  },
+  "halflings-menu-down": {
+    "body": "content: '\\\\E259';",
+    "prefix": "halflings-menu-down"
+  },
+  "halflings-menu-hamburger": {
+    "body": "content: '\\\\E236';",
+    "prefix": "halflings-menu-hamburger"
+  },
+  "halflings-menu-left": {
+    "body": "content: '\\\\E257';",
+    "prefix": "halflings-menu-left"
+  },
+  "halflings-menu-right": {
+    "body": "content: '\\\\E258';",
+    "prefix": "halflings-menu-right"
+  },
+  "halflings-menu-up": {
+    "body": "content: '\\\\E260';",
+    "prefix": "halflings-menu-up"
+  },
+  "halflings-minus-sign": {
+    "body": "content: '\\\\E082';",
+    "prefix": "halflings-minus-sign"
+  },
+  "halflings-minus": {
+    "body": "content: '\\\\E099';",
+    "prefix": "halflings-minus"
+  },
+  "halflings-modal-window": {
+    "body": "content: '\\\\E237';",
+    "prefix": "halflings-modal-window"
+  },
+  "halflings-move-square": {
+    "body": "content: '\\\\E280';",
+    "prefix": "halflings-move-square"
+  },
+  "halflings-move": {
+    "body": "content: '\\\\E068';",
+    "prefix": "halflings-move"
+  },
+  "halflings-music": {
+    "body": "content: '\\\\E002';",
+    "prefix": "halflings-music"
+  },
+  "halflings-new-window": {
+    "body": "content: '\\\\E164';",
+    "prefix": "halflings-new-window"
+  },
+  "halflings-note-empty": {
+    "body": "content: '\\\\E271';",
+    "prefix": "halflings-note-empty"
+  },
+  "halflings-note": {
+    "body": "content: '\\\\E272';",
+    "prefix": "halflings-note"
+  },
+  "halflings-object-align-bottom": {
+    "body": "content: '\\\\E245';",
+    "prefix": "halflings-object-align-bottom"
+  },
+  "halflings-object-align-horizontal": {
+    "body": "content: '\\\\E246';",
+    "prefix": "halflings-object-align-horizontal"
+  },
+  "halflings-object-align-left": {
+    "body": "content: '\\\\E247';",
+    "prefix": "halflings-object-align-left"
+  },
+  "halflings-object-align-right": {
+    "body": "content: '\\\\E249';",
+    "prefix": "halflings-object-align-right"
+  },
+  "halflings-object-align-top": {
+    "body": "content: '\\\\E244';",
+    "prefix": "halflings-object-align-top"
+  },
+  "halflings-object-align-vertical": {
+    "body": "content: '\\\\E248';",
+    "prefix": "halflings-object-align-vertical"
+  },
+  "halflings-off": {
+    "body": "content: '\\\\E017';",
+    "prefix": "halflings-off"
+  },
+  "halflings-oil": {
+    "body": "content: '\\\\E238';",
+    "prefix": "halflings-oil"
+  },
+  "halflings-ok-circle": {
+    "body": "content: '\\\\E089';",
+    "prefix": "halflings-ok-circle"
+  },
+  "halflings-ok-sign": {
+    "body": "content: '\\\\E084';",
+    "prefix": "halflings-ok-sign"
+  },
+  "halflings-ok": {
+    "body": "content: '\\\\E013';",
+    "prefix": "halflings-ok"
+  },
+  "halflings-open-file": {
+    "body": "content: '\\\\E203';",
+    "prefix": "halflings-open-file"
+  },
+  "halflings-open": {
+    "body": "content: '\\\\E167';",
+    "prefix": "halflings-open"
+  },
+  "halflings-option-horizontal": {
+    "body": "content: '\\\\E234';",
+    "prefix": "halflings-option-horizontal"
+  },
+  "halflings-option-vertical": {
+    "body": "content: '\\\\E235';",
+    "prefix": "halflings-option-vertical"
+  },
+  "halflings-paired": {
+    "body": "content: '\\\\E293';",
+    "prefix": "halflings-paired"
+  },
+  "halflings-paperclip": {
+    "body": "content: '\\\\E142';",
+    "prefix": "halflings-paperclip"
+  },
+  "halflings-paragraph": {
+    "body": "content: '\\\\E297';",
+    "prefix": "halflings-paragraph"
+  },
+  "halflings-parking": {
+    "body": "content: '\\\\E277';",
+    "prefix": "halflings-parking"
+  },
+  "halflings-paste": {
+    "body": "content: '\\\\E206';",
+    "prefix": "halflings-paste"
+  },
+  "halflings-pause": {
+    "body": "content: '\\\\E073';",
+    "prefix": "halflings-pause"
+  },
+  "halflings-pawn": {
+    "body": "content: '\\\\E213';",
+    "prefix": "halflings-pawn"
+  },
+  "halflings-pencil": {
+    "body": "content: '\\\\E061';",
+    "prefix": "halflings-pencil"
+  },
+  "halflings-phone-alt": {
+    "body": "content: '\\\\E183';",
+    "prefix": "halflings-phone-alt"
+  },
+  "halflings-phone": {
+    "body": "content: '\\\\E145';",
+    "prefix": "halflings-phone"
+  },
+  "halflings-picture": {
+    "body": "content: '\\\\E060';",
+    "prefix": "halflings-picture"
+  },
+  "halflings-piggy-bank": {
+    "body": "content: '\\\\E225';",
+    "prefix": "halflings-piggy-bank"
+  },
+  "halflings-plane": {
+    "body": "content: '\\\\E108';",
+    "prefix": "halflings-plane"
   },
   "halflings-play-circle": {
-    "prefix": "halflings-play-circle",
-    "body": "content: '\\\\E029';"
+    "body": "content: '\\\\E029';",
+    "prefix": "halflings-play-circle"
   },
-  "halflings-scissors": {
-    "prefix": "halflings-scissors",
-    "body": "content: '\\\\E226';"
+  "halflings-play": {
+    "body": "content: '\\\\E072';",
+    "prefix": "halflings-play"
+  },
+  "halflings-plus-sign": {
+    "body": "content: '\\\\E081';",
+    "prefix": "halflings-plus-sign"
+  },
+  "halflings-plus": {
+    "body": "content: '\\\\E098';",
+    "prefix": "halflings-plus"
+  },
+  "halflings-print": {
+    "body": "content: '\\\\E045';",
+    "prefix": "halflings-print"
+  },
+  "halflings-pushpin": {
+    "body": "content: '\\\\E146';",
+    "prefix": "halflings-pushpin"
+  },
+  "halflings-qrcode": {
+    "body": "content: '\\\\E039';",
+    "prefix": "halflings-qrcode"
+  },
+  "halflings-queen": {
+    "body": "content: '\\\\E212';",
+    "prefix": "halflings-queen"
+  },
+  "halflings-question-sign": {
+    "body": "content: '\\\\E085';",
+    "prefix": "halflings-question-sign"
+  },
+  "halflings-random": {
+    "body": "content: '\\\\E110';",
+    "prefix": "halflings-random"
+  },
+  "halflings-record-empty": {
+    "body": "content: '\\\\E279';",
+    "prefix": "halflings-record-empty"
+  },
+  "halflings-record": {
+    "body": "content: '\\\\E165';",
+    "prefix": "halflings-record"
+  },
+  "halflings-reflect-x": {
+    "body": "content: '\\\\E286';",
+    "prefix": "halflings-reflect-x"
+  },
+  "halflings-reflect-y": {
+    "body": "content: '\\\\E285';",
+    "prefix": "halflings-reflect-y"
+  },
+  "halflings-refresh": {
+    "body": "content: '\\\\E031';",
+    "prefix": "halflings-refresh"
+  },
+  "halflings-registration-mark": {
+    "body": "content: '\\\\E195';",
+    "prefix": "halflings-registration-mark"
   },
   "halflings-remove-circle": {
-    "prefix": "halflings-remove-circle",
-    "body": "content: '\\\\E088';"
+    "body": "content: '\\\\E088';",
+    "prefix": "halflings-remove-circle"
+  },
+  "halflings-remove-sign": {
+    "body": "content: '\\\\E083';",
+    "prefix": "halflings-remove-sign"
+  },
+  "halflings-remove": {
+    "body": "content: '\\\\E014';",
+    "prefix": "halflings-remove"
+  },
+  "halflings-repeat": {
+    "body": "content: '\\\\E030';",
+    "prefix": "halflings-repeat"
+  },
+  "halflings-resize-full": {
+    "body": "content: '\\\\E096';",
+    "prefix": "halflings-resize-full"
+  },
+  "halflings-resize-horizontal": {
+    "body": "content: '\\\\E120';",
+    "prefix": "halflings-resize-horizontal"
+  },
+  "halflings-resize-small": {
+    "body": "content: '\\\\E097';",
+    "prefix": "halflings-resize-small"
+  },
+  "halflings-resize-vertical": {
+    "body": "content: '\\\\E119';",
+    "prefix": "halflings-resize-vertical"
+  },
+  "halflings-retweet": {
+    "body": "content: '\\\\E115';",
+    "prefix": "halflings-retweet"
+  },
+  "halflings-road": {
+    "body": "content: '\\\\E024';",
+    "prefix": "halflings-road"
+  },
+  "halflings-rotate-left": {
+    "body": "content: '\\\\E295';",
+    "prefix": "halflings-rotate-left"
+  },
+  "halflings-rotate-right": {
+    "body": "content: '\\\\E294';",
+    "prefix": "halflings-rotate-right"
+  },
+  "halflings-ruble": {
+    "body": "content: '\\\\E229';",
+    "prefix": "halflings-ruble"
+  },
+  "halflings-save-file": {
+    "body": "content: '\\\\E202';",
+    "prefix": "halflings-save-file"
+  },
+  "halflings-save": {
+    "body": "content: '\\\\E166';",
+    "prefix": "halflings-save"
+  },
+  "halflings-saved": {
+    "body": "content: '\\\\E168';",
+    "prefix": "halflings-saved"
+  },
+  "halflings-scale": {
+    "body": "content: '\\\\E230';",
+    "prefix": "halflings-scale"
+  },
+  "halflings-scissors": {
+    "body": "content: '\\\\E226';",
+    "prefix": "halflings-scissors"
+  },
+  "halflings-screenshot": {
+    "body": "content: '\\\\E087';",
+    "prefix": "halflings-screenshot"
+  },
+  "halflings-sd-video": {
+    "body": "content: '\\\\E186';",
+    "prefix": "halflings-sd-video"
+  },
+  "halflings-search": {
+    "body": "content: '\\\\E003';",
+    "prefix": "halflings-search"
+  },
+  "halflings-selectbox": {
+    "body": "content: '\\\\E269';",
+    "prefix": "halflings-selectbox"
+  },
+  "halflings-send": {
+    "body": "content: '\\\\E171';",
+    "prefix": "halflings-send"
+  },
+  "halflings-share-alt": {
+    "body": "content: '\\\\E095';",
+    "prefix": "halflings-share-alt"
+  },
+  "halflings-share": {
+    "body": "content: '\\\\E066';",
+    "prefix": "halflings-share"
+  },
+  "halflings-shopping-cart": {
+    "body": "content: '\\\\E116';",
+    "prefix": "halflings-shopping-cart"
+  },
+  "halflings-signal": {
+    "body": "content: '\\\\E018';",
+    "prefix": "halflings-signal"
+  },
+  "halflings-snowflake": {
+    "body": "content: '\\\\E267';",
+    "prefix": "halflings-snowflake"
+  },
+  "halflings-sort-by-alphabet-alt": {
+    "body": "content: '\\\\E152';",
+    "prefix": "halflings-sort-by-alphabet-alt"
+  },
+  "halflings-sort-by-alphabet": {
+    "body": "content: '\\\\E151';",
+    "prefix": "halflings-sort-by-alphabet"
+  },
+  "halflings-sort-by-attributes-alt": {
+    "body": "content: '\\\\E156';",
+    "prefix": "halflings-sort-by-attributes-alt"
+  },
+  "halflings-sort-by-attributes": {
+    "body": "content: '\\\\E155';",
+    "prefix": "halflings-sort-by-attributes"
+  },
+  "halflings-sort-by-order-alt": {
+    "body": "content: '\\\\E154';",
+    "prefix": "halflings-sort-by-order-alt"
+  },
+  "halflings-sort-by-order": {
+    "body": "content: '\\\\E153';",
+    "prefix": "halflings-sort-by-order"
+  },
+  "halflings-sort": {
+    "body": "content: '\\\\E150';",
+    "prefix": "halflings-sort"
+  },
+  "halflings-sortable": {
+    "body": "content: '\\\\E270';",
+    "prefix": "halflings-sortable"
+  },
+  "halflings-sound-5-1": {
+    "body": "content: '\\\\E191';",
+    "prefix": "halflings-sound-5-1"
+  },
+  "halflings-sound-6-1": {
+    "body": "content: '\\\\E192';",
+    "prefix": "halflings-sound-6-1"
+  },
+  "halflings-sound-7-1": {
+    "body": "content: '\\\\E193';",
+    "prefix": "halflings-sound-7-1"
+  },
+  "halflings-sound-dolby": {
+    "body": "content: '\\\\E190';",
+    "prefix": "halflings-sound-dolby"
+  },
+  "halflings-sound-stereo": {
+    "body": "content: '\\\\E189';",
+    "prefix": "halflings-sound-stereo"
+  },
+  "halflings-star-empty": {
+    "body": "content: '\\\\E007';",
+    "prefix": "halflings-star-empty"
+  },
+  "halflings-star-half": {
+    "body": "content: '\\\\E263';",
+    "prefix": "halflings-star-half"
+  },
+  "halflings-star": {
+    "body": "content: '\\\\E006';",
+    "prefix": "halflings-star"
+  },
+  "halflings-stats": {
+    "body": "content: '\\\\E185';",
+    "prefix": "halflings-stats"
+  },
+  "halflings-step-backward": {
+    "body": "content: '\\\\E069';",
+    "prefix": "halflings-step-backward"
+  },
+  "halflings-step-forward": {
+    "body": "content: '\\\\E077';",
+    "prefix": "halflings-step-forward"
+  },
+  "halflings-stop": {
+    "body": "content: '\\\\E074';",
+    "prefix": "halflings-stop"
+  },
+  "halflings-subscript": {
+    "body": "content: '\\\\E256';",
+    "prefix": "halflings-subscript"
+  },
+  "halflings-subtitles": {
+    "body": "content: '\\\\E188';",
+    "prefix": "halflings-subtitles"
+  },
+  "halflings-sunglasses": {
+    "body": "content: '\\\\E240';",
+    "prefix": "halflings-sunglasses"
+  },
+  "halflings-sunlight": {
+    "body": "content: '\\\\E268';",
+    "prefix": "halflings-sunlight"
+  },
+  "halflings-superscript": {
+    "body": "content: '\\\\E255';",
+    "prefix": "halflings-superscript"
+  },
+  "halflings-synchronization": {
+    "body": "content: '\\\\E299';",
+    "prefix": "halflings-synchronization"
+  },
+  "halflings-tag": {
+    "body": "content: '\\\\E041';",
+    "prefix": "halflings-tag"
+  },
+  "halflings-tags": {
+    "body": "content: '\\\\E042';",
+    "prefix": "halflings-tags"
+  },
+  "halflings-tasks": {
+    "body": "content: '\\\\E137';",
+    "prefix": "halflings-tasks"
+  },
+  "halflings-tent": {
+    "body": "content: '\\\\E217';",
+    "prefix": "halflings-tent"
+  },
+  "halflings-terminal": {
+    "body": "content: '\\\\E254';",
+    "prefix": "halflings-terminal"
+  },
+  "halflings-text-background": {
+    "body": "content: '\\\\E243';",
+    "prefix": "halflings-text-background"
+  },
+  "halflings-text-color": {
+    "body": "content: '\\\\E242';",
+    "prefix": "halflings-text-color"
+  },
+  "halflings-text-height": {
+    "body": "content: '\\\\E050';",
+    "prefix": "halflings-text-height"
+  },
+  "halflings-text-size": {
+    "body": "content: '\\\\E241';",
+    "prefix": "halflings-text-size"
+  },
+  "halflings-text-width": {
+    "body": "content: '\\\\E051';",
+    "prefix": "halflings-text-width"
+  },
+  "halflings-th-large": {
+    "body": "content: '\\\\E010';",
+    "prefix": "halflings-th-large"
+  },
+  "halflings-th-list": {
+    "body": "content: '\\\\E012';",
+    "prefix": "halflings-th-list"
+  },
+  "halflings-th": {
+    "body": "content: '\\\\E011';",
+    "prefix": "halflings-th"
+  },
+  "halflings-thumbs-down": {
+    "body": "content: '\\\\E126';",
+    "prefix": "halflings-thumbs-down"
+  },
+  "halflings-thumbs-up": {
+    "body": "content: '\\\\E125';",
+    "prefix": "halflings-thumbs-up"
+  },
+  "halflings-tick": {
+    "body": "content: '\\\\E262';",
+    "prefix": "halflings-tick"
+  },
+  "halflings-time": {
+    "body": "content: '\\\\E023';",
+    "prefix": "halflings-time"
+  },
+  "halflings-tint": {
+    "body": "content: '\\\\E064';",
+    "prefix": "halflings-tint"
+  },
+  "halflings-tower": {
+    "body": "content: '\\\\E184';",
+    "prefix": "halflings-tower"
+  },
+  "halflings-transfer": {
+    "body": "content: '\\\\E178';",
+    "prefix": "halflings-transfer"
+  },
+  "halflings-trash": {
+    "body": "content: '\\\\E020';",
+    "prefix": "halflings-trash"
+  },
+  "halflings-tree-conifer": {
+    "body": "content: '\\\\E199';",
+    "prefix": "halflings-tree-conifer"
+  },
+  "halflings-tree-deciduous": {
+    "body": "content: '\\\\E200';",
+    "prefix": "halflings-tree-deciduous"
+  },
+  "halflings-triangle-bottom": {
+    "body": "content: '\\\\E252';",
+    "prefix": "halflings-triangle-bottom"
+  },
+  "halflings-triangle-left": {
+    "body": "content: '\\\\E251';",
+    "prefix": "halflings-triangle-left"
+  },
+  "halflings-triangle-right": {
+    "body": "content: '\\\\E250';",
+    "prefix": "halflings-triangle-right"
+  },
+  "halflings-triangle-top": {
+    "body": "content: '\\\\E253';",
+    "prefix": "halflings-triangle-top"
+  },
+  "halflings-unchecked": {
+    "body": "content: '\\\\E157';",
+    "prefix": "halflings-unchecked"
+  },
+  "halflings-upload": {
+    "body": "content: '\\\\E027';",
+    "prefix": "halflings-upload"
+  },
+  "halflings-usd": {
+    "body": "content: '\\\\E148';",
+    "prefix": "halflings-usd"
+  },
+  "halflings-user": {
+    "body": "content: '\\\\E008';",
+    "prefix": "halflings-user"
+  },
+  "halflings-volume-down": {
+    "body": "content: '\\\\E037';",
+    "prefix": "halflings-volume-down"
+  },
+  "halflings-volume-off": {
+    "body": "content: '\\\\E036';",
+    "prefix": "halflings-volume-off"
+  },
+  "halflings-volume-up": {
+    "body": "content: '\\\\E038';",
+    "prefix": "halflings-volume-up"
+  },
+  "halflings-warning-sign": {
+    "body": "content: '\\\\E107';",
+    "prefix": "halflings-warning-sign"
+  },
+  "halflings-wrench": {
+    "body": "content: '\\\\E136';",
+    "prefix": "halflings-wrench"
+  },
+  "halflings-yen": {
+    "body": "content: '\\\\E228';",
+    "prefix": "halflings-yen"
+  },
+  "halflings-zoom-in": {
+    "body": "content: '\\\\E015';",
+    "prefix": "halflings-zoom-in"
+  },
+  "halflings-zoom-out": {
+    "body": "content: '\\\\E016';",
+    "prefix": "halflings-zoom-out"
   }
 }

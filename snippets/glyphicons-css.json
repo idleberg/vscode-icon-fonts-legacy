@@ -1,3198 +1,3198 @@
 {
-  "glyphicons-compressed": {
-    "prefix": "glyphicons-compressed",
-    "body": "content: '\\\\E411';"
-  },
-  "glyphicons-laptop": {
-    "prefix": "glyphicons-laptop",
-    "body": "content: '\\\\E691';"
-  },
-  "glyphicons-old-man": {
-    "prefix": "glyphicons-old-man",
-    "body": "content: '\\\\E035';"
-  },
-  "glyphicons-scanner": {
-    "prefix": "glyphicons-scanner",
-    "body": "content: '\\\\E761';"
-  },
-  "glyphicons-sort-by-attributes": {
-    "prefix": "glyphicons-sort-by-attributes",
-    "body": "content: '\\\\E409';"
-  },
-  "glyphicons-copyright-mark": {
-    "prefix": "glyphicons-copyright-mark",
-    "body": "content: '\\\\E399';"
-  },
-  "glyphicons-car": {
-    "prefix": "glyphicons-car",
-    "body": "content: '\\\\E006';"
-  },
-  "glyphicons-show-thumbnails": {
-    "prefix": "glyphicons-show-thumbnails",
-    "body": "content: '\\\\E157';"
-  },
-  "glyphicons-cat": {
-    "prefix": "glyphicons-cat",
-    "body": "content: '\\\\E542';"
-  },
-  "glyphicons-bishop": {
-    "prefix": "glyphicons-bishop",
-    "body": "content: '\\\\E558';"
-  },
-  "glyphicons-road": {
-    "prefix": "glyphicons-road",
-    "body": "content: '\\\\E027';"
-  },
-  "glyphicons-temperature-low-warning": {
-    "prefix": "glyphicons-temperature-low-warning",
-    "body": "content: '\\\\E696';"
-  },
-  "glyphicons-retweet-2": {
-    "prefix": "glyphicons-retweet-2",
-    "body": "content: '\\\\E230';"
-  },
-  "glyphicons-dining-set": {
-    "prefix": "glyphicons-dining-set",
-    "body": "content: '\\\\E476';"
-  },
-  "glyphicons-pictures": {
-    "prefix": "glyphicons-pictures",
-    "body": "content: '\\\\E738';"
-  },
-  "glyphicons-mms": {
-    "prefix": "glyphicons-mms",
-    "body": "content: '\\\\E580';"
-  },
-  "glyphicons-book": {
-    "prefix": "glyphicons-book",
-    "body": "content: '\\\\E072';"
-  },
-  "glyphicons-leaf": {
-    "prefix": "glyphicons-leaf",
-    "body": "content: '\\\\E002';"
-  },
-  "glyphicons-database": {
-    "prefix": "glyphicons-database",
-    "body": "content: '\\\\E528';"
-  },
-  "glyphicons-pin-flag": {
-    "prefix": "glyphicons-pin-flag",
-    "body": "content: '\\\\E338';"
-  },
-  "glyphicons-parking-ticket": {
-    "prefix": "glyphicons-parking-ticket",
-    "body": "content: '\\\\E689';"
-  },
-  "glyphicons-mouse-middle-click": {
-    "prefix": "glyphicons-mouse-middle-click",
-    "body": "content: '\\\\E726';"
-  },
-  "glyphicons-equalizer": {
-    "prefix": "glyphicons-equalizer",
-    "body": "content: '\\\\E586';"
-  },
-  "glyphicons-vector-path-line": {
-    "prefix": "glyphicons-vector-path-line",
-    "body": "content: '\\\\E098';"
-  },
-  "glyphicons-bath": {
-    "prefix": "glyphicons-bath",
-    "body": "content: '\\\\E624';"
-  },
-  "glyphicons-coat-hanger": {
-    "prefix": "glyphicons-coat-hanger",
-    "body": "content: '\\\\E382';"
-  },
-  "glyphicons-synchronization-ban": {
-    "prefix": "glyphicons-synchronization-ban",
-    "body": "content: '\\\\E749';"
-  },
-  "glyphicons-fingerprint-ok": {
-    "prefix": "glyphicons-fingerprint-ok",
-    "body": "content: '\\\\E744';"
-  },
-  "glyphicons-git-private": {
-    "prefix": "glyphicons-git-private",
-    "body": "content: '\\\\E425';"
-  },
-  "glyphicons-stroller": {
-    "prefix": "glyphicons-stroller",
-    "body": "content: '\\\\E076';"
-  },
-  "glyphicons-fingerprint-remove": {
-    "prefix": "glyphicons-fingerprint-remove",
-    "body": "content: '\\\\E745';"
-  },
-  "glyphicons-atv-vehicle": {
-    "prefix": "glyphicons-atv-vehicle",
-    "body": "content: '\\\\E494';"
-  },
-  "glyphicons-motorcycle": {
-    "prefix": "glyphicons-motorcycle",
-    "body": "content: '\\\\E495';"
-  },
-  "glyphicons-kettle": {
-    "prefix": "glyphicons-kettle",
-    "body": "content: '\\\\E298';"
-  },
-  "glyphicons-scissors": {
-    "prefix": "glyphicons-scissors",
-    "body": "content: '\\\\E289';"
-  },
-  "glyphicons-dumbbell": {
-    "prefix": "glyphicons-dumbbell",
-    "body": "content: '\\\\E357';"
-  },
-  "glyphicons-microphone": {
-    "prefix": "glyphicons-microphone",
-    "body": "content: '\\\\E301';"
-  },
-  "glyphicons-tags": {
-    "prefix": "glyphicons-tags",
-    "body": "content: '\\\\E067';"
-  },
-  "glyphicons-park": {
-    "prefix": "glyphicons-park",
-    "body": "content: '\\\\E614';"
-  },
-  "glyphicons-nearby-circle": {
-    "prefix": "glyphicons-nearby-circle",
-    "body": "content: '\\\\E735';"
-  },
-  "glyphicons-judiciary": {
-    "prefix": "glyphicons-judiciary",
-    "body": "content: '\\\\E643';"
-  },
-  "glyphicons-hand-saw": {
-    "prefix": "glyphicons-hand-saw",
-    "body": "content: '\\\\E377';"
-  },
-  "glyphicons-waste-pipe": {
-    "prefix": "glyphicons-waste-pipe",
-    "body": "content: '\\\\E718';"
-  },
-  "glyphicons-stop-sign": {
-    "prefix": "glyphicons-stop-sign",
-    "body": "content: '\\\\E533';"
-  },
-  "glyphicons-street-lights": {
-    "prefix": "glyphicons-street-lights",
-    "body": "content: '\\\\E675';"
-  },
-  "glyphicons-resize-full": {
-    "prefix": "glyphicons-resize-full",
-    "body": "content: '\\\\E216';"
-  },
-  "glyphicons-train": {
-    "prefix": "glyphicons-train",
-    "body": "content: '\\\\E015';"
-  },
-  "glyphicons-brightness-increase": {
-    "prefix": "glyphicons-brightness-increase",
-    "body": "content: '\\\\E190';"
-  },
-  "glyphicons-git-merge": {
-    "prefix": "glyphicons-git-merge",
-    "body": "content: '\\\\E427';"
-  },
-  "glyphicons-mouse-scroll": {
-    "prefix": "glyphicons-mouse-scroll",
-    "body": "content: '\\\\E727';"
-  },
-  "glyphicons-iphone-shake": {
-    "prefix": "glyphicons-iphone-shake",
-    "body": "content: '\\\\E337';"
-  },
-  "glyphicons-dishwasher": {
-    "prefix": "glyphicons-dishwasher",
-    "body": "content: '\\\\E633';"
-  },
-  "glyphicons-globe-af": {
-    "prefix": "glyphicons-globe-af",
-    "body": "content: '\\\\E371';"
-  },
-  "glyphicons-uk-rat-15": {
-    "prefix": "glyphicons-uk-rat-15",
-    "body": "content: '\\\\E575';"
-  },
-  "glyphicons-circle-arrow-right": {
-    "prefix": "glyphicons-circle-arrow-right",
-    "body": "content: '\\\\E218';"
-  },
-  "glyphicons-log-in": {
-    "prefix": "glyphicons-log-in",
-    "body": "content: '\\\\E387';"
-  },
-  "glyphicons-ear": {
-    "prefix": "glyphicons-ear",
-    "body": "content: '\\\\E701';"
-  },
-  "glyphicons-bucket": {
-    "prefix": "glyphicons-bucket",
-    "body": "content: '\\\\E481';"
-  },
-  "glyphicons-family": {
-    "prefix": "glyphicons-family",
-    "body": "content: '\\\\E500';"
-  },
-  "glyphicons-earphone": {
-    "prefix": "glyphicons-earphone",
-    "body": "content: '\\\\E443';"
-  },
-  "glyphicons-bed": {
-    "prefix": "glyphicons-bed",
-    "body": "content: '\\\\E474';"
-  },
-  "glyphicons-undo": {
-    "prefix": "glyphicons-undo",
-    "body": "content: '\\\\E436';"
-  },
-  "glyphicons-disk-open": {
-    "prefix": "glyphicons-disk-open",
-    "body": "content: '\\\\E416';"
-  },
-  "glyphicons-copy": {
-    "prefix": "glyphicons-copy",
-    "body": "content: '\\\\E512';"
-  },
-  "glyphicons-electrical-plug": {
-    "prefix": "glyphicons-electrical-plug",
-    "body": "content: '\\\\E266';"
-  },
-  "glyphicons-text-bigger": {
-    "prefix": "glyphicons-text-bigger",
-    "body": "content: '\\\\E117';"
-  },
-  "glyphicons-taxi": {
-    "prefix": "glyphicons-taxi",
-    "body": "content: '\\\\E569';"
-  },
-  "glyphicons-disk-save": {
-    "prefix": "glyphicons-disk-save",
-    "body": "content: '\\\\E415';"
-  },
-  "glyphicons-coins": {
-    "prefix": "glyphicons-coins",
-    "body": "content: '\\\\E038';"
-  },
-  "glyphicons-fingerprint": {
-    "prefix": "glyphicons-fingerprint",
-    "body": "content: '\\\\E742';"
-  },
-  "glyphicons-star": {
-    "prefix": "glyphicons-star",
-    "body": "content: '\\\\E050';"
-  },
-  "glyphicons-flower": {
-    "prefix": "glyphicons-flower",
-    "body": "content: '\\\\E311';"
-  },
-  "glyphicons-directions": {
-    "prefix": "glyphicons-directions",
-    "body": "content: '\\\\E775';"
-  },
-  "glyphicons-battery-50": {
-    "prefix": "glyphicons-battery-50",
-    "body": "content: '\\\\E768';"
-  },
-  "glyphicons-new-window-alt": {
-    "prefix": "glyphicons-new-window-alt",
-    "body": "content: '\\\\E390';"
-  },
-  "glyphicons-rotation-lock": {
-    "prefix": "glyphicons-rotation-lock",
-    "body": "content: '\\\\E241';"
-  },
-  "glyphicons-delete": {
-    "prefix": "glyphicons-delete",
-    "body": "content: '\\\\E257';"
-  },
-  "glyphicons-vr-maintenance": {
-    "prefix": "glyphicons-vr-maintenance",
-    "body": "content: '\\\\E788';"
-  },
-  "glyphicons-water-pipe": {
-    "prefix": "glyphicons-water-pipe",
-    "body": "content: '\\\\E719';"
+  "glyphicons-activity": {
+    "body": "content: '\\\\E597';",
+    "prefix": "glyphicons-activity"
   },
   "glyphicons-address-book": {
-    "prefix": "glyphicons-address-book",
-    "body": "content: '\\\\E089';"
-  },
-  "glyphicons-binoculars": {
-    "prefix": "glyphicons-binoculars",
-    "body": "content: '\\\\E026';"
-  },
-  "glyphicons-heat": {
-    "prefix": "glyphicons-heat",
-    "body": "content: '\\\\E085';"
-  },
-  "glyphicons-fees-payments": {
-    "prefix": "glyphicons-fees-payments",
-    "body": "content: '\\\\E617';"
-  },
-  "glyphicons-sauna": {
-    "prefix": "glyphicons-sauna",
-    "body": "content: '\\\\E626';"
-  },
-  "glyphicons-message-full": {
-    "prefix": "glyphicons-message-full",
-    "body": "content: '\\\\E121';"
-  },
-  "glyphicons-exclamation-sign": {
-    "prefix": "glyphicons-exclamation-sign",
-    "body": "content: '\\\\E197';"
-  },
-  "glyphicons-hash": {
-    "prefix": "glyphicons-hash",
-    "body": "content: '\\\\E750';"
-  },
-  "glyphicons-tent": {
-    "prefix": "glyphicons-tent",
-    "body": "content: '\\\\E497';"
-  },
-  "glyphicons-nearby-square": {
-    "prefix": "glyphicons-nearby-square",
-    "body": "content: '\\\\E734';"
-  },
-  "glyphicons-download-alt": {
-    "prefix": "glyphicons-download-alt",
-    "body": "content: '\\\\E182';"
-  },
-  "glyphicons-git-compare": {
-    "prefix": "glyphicons-git-compare",
-    "body": "content: '\\\\E429';"
-  },
-  "glyphicons-leather": {
-    "prefix": "glyphicons-leather",
-    "body": "content: '\\\\E288';"
-  },
-  "glyphicons-tie": {
-    "prefix": "glyphicons-tie",
-    "body": "content: '\\\\E325';"
-  },
-  "glyphicons-person": {
-    "prefix": "glyphicons-person",
-    "body": "content: '\\\\E593';"
-  },
-  "glyphicons-euro": {
-    "prefix": "glyphicons-euro",
-    "body": "content: '\\\\E227';"
-  },
-  "glyphicons-blacksmith": {
-    "prefix": "glyphicons-blacksmith",
-    "body": "content: '\\\\E461';"
-  },
-  "glyphicons-shoe-steps": {
-    "prefix": "glyphicons-shoe-steps",
-    "body": "content: '\\\\E432';"
-  },
-  "glyphicons-drop": {
-    "prefix": "glyphicons-drop",
-    "body": "content: '\\\\E782';"
-  },
-  "glyphicons-download": {
-    "prefix": "glyphicons-download",
-    "body": "content: '\\\\E201';"
-  },
-  "glyphicons-remote-control-tv": {
-    "prefix": "glyphicons-remote-control-tv",
-    "body": "content: '\\\\E589';"
-  },
-  "glyphicons-child": {
-    "prefix": "glyphicons-child",
-    "body": "content: '\\\\E491';"
-  },
-  "glyphicons-shirt": {
-    "prefix": "glyphicons-shirt",
-    "body": "content: '\\\\E385';"
-  },
-  "glyphicons-message-minus": {
-    "prefix": "glyphicons-message-minus",
-    "body": "content: '\\\\E126';"
-  },
-  "glyphicons-screenshot": {
-    "prefix": "glyphicons-screenshot",
-    "body": "content: '\\\\E186';"
-  },
-  "glyphicons-industrial-zone": {
-    "prefix": "glyphicons-industrial-zone",
-    "body": "content: '\\\\E620';"
-  },
-  "glyphicons-anchor": {
-    "prefix": "glyphicons-anchor",
-    "body": "content: '\\\\E244';"
-  },
-  "glyphicons-shredder": {
-    "prefix": "glyphicons-shredder",
-    "body": "content: '\\\\E590';"
-  },
-  "glyphicons-kettlebell": {
-    "prefix": "glyphicons-kettlebell",
-    "body": "content: '\\\\E673';"
-  },
-  "glyphicons-unshare": {
-    "prefix": "glyphicons-unshare",
-    "body": "content: '\\\\E222';"
-  },
-  "glyphicons-crop": {
-    "prefix": "glyphicons-crop",
-    "body": "content: '\\\\E094';"
-  },
-  "glyphicons-mouse-right-click": {
-    "prefix": "glyphicons-mouse-right-click",
-    "body": "content: '\\\\E725';"
-  },
-  "glyphicons-arrow-right": {
-    "prefix": "glyphicons-arrow-right",
-    "body": "content: '\\\\E212';"
-  },
-  "glyphicons-iphone": {
-    "prefix": "glyphicons-iphone",
-    "body": "content: '\\\\E164';"
-  },
-  "glyphicons-phone-alt": {
-    "prefix": "glyphicons-phone-alt",
-    "body": "content: '\\\\E442';"
-  },
-  "glyphicons-notes-2": {
-    "prefix": "glyphicons-notes-2",
-    "body": "content: '\\\\E030';"
-  },
-  "glyphicons-cart-in": {
-    "prefix": "glyphicons-cart-in",
-    "body": "content: '\\\\E209';"
-  },
-  "glyphicons-gender-unknown": {
-    "prefix": "glyphicons-gender-unknown",
-    "body": "content: '\\\\E760';"
-  },
-  "glyphicons-chevron-left": {
-    "prefix": "glyphicons-chevron-left",
-    "body": "content: '\\\\E225';"
-  },
-  "glyphicons-ok-sign": {
-    "prefix": "glyphicons-ok-sign",
-    "body": "content: '\\\\E194';"
-  },
-  "glyphicons-header": {
-    "prefix": "glyphicons-header",
-    "body": "content: '\\\\E460';"
-  },
-  "glyphicons-erase": {
-    "prefix": "glyphicons-erase",
-    "body": "content: '\\\\E551';"
-  },
-  "glyphicons-businessman": {
-    "prefix": "glyphicons-businessman",
-    "body": "content: '\\\\E622';"
-  },
-  "glyphicons-rewind": {
-    "prefix": "glyphicons-rewind",
-    "body": "content: '\\\\E173';"
-  },
-  "glyphicons-info-sign": {
-    "prefix": "glyphicons-info-sign",
-    "body": "content: '\\\\E196';"
-  },
-  "glyphicons-article": {
-    "prefix": "glyphicons-article",
-    "body": "content: '\\\\E685';"
-  },
-  "glyphicons-eye-minus": {
-    "prefix": "glyphicons-eye-minus",
-    "body": "content: '\\\\E546';"
-  },
-  "glyphicons-us-rat-no-one-17": {
-    "prefix": "glyphicons-us-rat-no-one-17",
-    "body": "content: '\\\\E585';"
-  },
-  "glyphicons-ambulance": {
-    "prefix": "glyphicons-ambulance",
-    "body": "content: '\\\\E647';"
-  },
-  "glyphicons-truck": {
-    "prefix": "glyphicons-truck",
-    "body": "content: '\\\\E059';"
-  },
-  "glyphicons-chevron-right": {
-    "prefix": "glyphicons-chevron-right",
-    "body": "content: '\\\\E224';"
-  },
-  "glyphicons-basketball": {
-    "prefix": "glyphicons-basketball",
-    "body": "content: '\\\\E463';"
-  },
-  "glyphicons-ice-cream-no": {
-    "prefix": "glyphicons-ice-cream-no",
-    "body": "content: '\\\\E570';"
-  },
-  "glyphicons-file-cloud-download": {
-    "prefix": "glyphicons-file-cloud-download",
-    "body": "content: '\\\\E707';"
-  },
-  "glyphicons-synchronization": {
-    "prefix": "glyphicons-synchronization",
-    "body": "content: '\\\\E748';"
-  },
-  "glyphicons-shop": {
-    "prefix": "glyphicons-shop",
-    "body": "content: '\\\\E453';"
-  },
-  "glyphicons-uk-rat-pg": {
-    "prefix": "glyphicons-uk-rat-pg",
-    "body": "content: '\\\\E572';"
-  },
-  "glyphicons-search": {
-    "prefix": "glyphicons-search",
-    "body": "content: '\\\\E028';"
-  },
-  "glyphicons-exit": {
-    "prefix": "glyphicons-exit",
-    "body": "content: '\\\\E389';"
-  },
-  "glyphicons-zoom-out": {
-    "prefix": "glyphicons-zoom-out",
-    "body": "content: '\\\\E238';"
-  },
-  "glyphicons-bluetooth": {
-    "prefix": "glyphicons-bluetooth",
-    "body": "content: '\\\\E226';"
-  },
-  "glyphicons-satellite-dish-alt": {
-    "prefix": "glyphicons-satellite-dish-alt",
-    "body": "content: '\\\\E773';"
-  },
-  "glyphicons-claw-hammer": {
-    "prefix": "glyphicons-claw-hammer",
-    "body": "content: '\\\\E375';"
-  },
-  "glyphicons-forest": {
-    "prefix": "glyphicons-forest",
-    "body": "content: '\\\\E613';"
-  },
-  "glyphicons-cutlery": {
-    "prefix": "glyphicons-cutlery",
-    "body": "content: '\\\\E277';"
-  },
-  "glyphicons-call-hold": {
-    "prefix": "glyphicons-call-hold",
-    "body": "content: '\\\\E666';"
-  },
-  "glyphicons-qrcode": {
-    "prefix": "glyphicons-qrcode",
-    "body": "content: '\\\\E259';"
-  },
-  "glyphicons-fingerprint-lock": {
-    "prefix": "glyphicons-fingerprint-lock",
-    "body": "content: '\\\\E743';"
-  },
-  "glyphicons-cars": {
-    "prefix": "glyphicons-cars",
-    "body": "content: '\\\\E029';"
-  },
-  "glyphicons-ring": {
-    "prefix": "glyphicons-ring",
-    "body": "content: '\\\\E272';"
-  },
-  "glyphicons-nails": {
-    "prefix": "glyphicons-nails",
-    "body": "content: '\\\\E374';"
-  },
-  "glyphicons-education": {
-    "prefix": "glyphicons-education",
-    "body": "content: '\\\\E501';"
-  },
-  "glyphicons-auction": {
-    "prefix": "glyphicons-auction",
-    "body": "content: '\\\\E774';"
-  },
-  "glyphicons-robot": {
-    "prefix": "glyphicons-robot",
-    "body": "content: '\\\\E777';"
-  },
-  "glyphicons-chat": {
-    "prefix": "glyphicons-chat",
-    "body": "content: '\\\\E246';"
-  },
-  "glyphicons-question-sign": {
-    "prefix": "glyphicons-question-sign",
-    "body": "content: '\\\\E195';"
-  },
-  "glyphicons-riflescope": {
-    "prefix": "glyphicons-riflescope",
-    "body": "content: '\\\\E378';"
-  },
-  "glyphicons-tree-structure": {
-    "prefix": "glyphicons-tree-structure",
-    "body": "content: '\\\\E692';"
-  },
-  "glyphicons-server-new": {
-    "prefix": "glyphicons-server-new",
-    "body": "content: '\\\\E470';"
-  },
-  "glyphicons-vases": {
-    "prefix": "glyphicons-vases",
-    "body": "content: '\\\\E355';"
-  },
-  "glyphicons-hourglass": {
-    "prefix": "glyphicons-hourglass",
-    "body": "content: '\\\\E541';"
-  },
-  "glyphicons-user-ban": {
-    "prefix": "glyphicons-user-ban",
-    "body": "content: '\\\\E521';"
-  },
-  "glyphicons-note": {
-    "prefix": "glyphicons-note",
-    "body": "content: '\\\\E248';"
-  },
-  "glyphicons-tree-deciduous": {
-    "prefix": "glyphicons-tree-deciduous",
-    "body": "content: '\\\\E318';"
-  },
-  "glyphicons-object-align-left": {
-    "prefix": "glyphicons-object-align-left",
-    "body": "content: '\\\\E654';"
-  },
-  "glyphicons-folder-minus": {
-    "prefix": "glyphicons-folder-minus",
-    "body": "content: '\\\\E147';"
-  },
-  "glyphicons-kiosk-food": {
-    "prefix": "glyphicons-kiosk-food",
-    "body": "content: '\\\\E457';"
-  },
-  "glyphicons-menu-hamburger": {
-    "prefix": "glyphicons-menu-hamburger",
-    "body": "content: '\\\\E517';"
-  },
-  "glyphicons-cloud-plus": {
-    "prefix": "glyphicons-cloud-plus",
-    "body": "content: '\\\\E413';"
-  },
-  "glyphicons-user-add": {
-    "prefix": "glyphicons-user-add",
-    "body": "content: '\\\\E007';"
-  },
-  "glyphicons-database-lock": {
-    "prefix": "glyphicons-database-lock",
-    "body": "content: '\\\\E141';"
-  },
-  "glyphicons-eyedropper": {
-    "prefix": "glyphicons-eyedropper",
-    "body": "content: '\\\\E091';"
-  },
-  "glyphicons-quote": {
-    "prefix": "glyphicons-quote",
-    "body": "content: '\\\\E547';"
-  },
-  "glyphicons-comments": {
-    "prefix": "glyphicons-comments",
-    "body": "content: '\\\\E310';"
-  },
-  "glyphicons-newspaper": {
-    "prefix": "glyphicons-newspaper",
-    "body": "content: '\\\\E609';"
-  },
-  "glyphicons-conversation": {
-    "prefix": "glyphicons-conversation",
-    "body": "content: '\\\\E245';"
-  },
-  "glyphicons-gift": {
-    "prefix": "glyphicons-gift",
-    "body": "content: '\\\\E070';"
-  },
-  "glyphicons-rugby": {
-    "prefix": "glyphicons-rugby",
-    "body": "content: '\\\\E313';"
-  },
-  "glyphicons-call-traffic": {
-    "prefix": "glyphicons-call-traffic",
-    "body": "content: '\\\\E665';"
-  },
-  "glyphicons-hurricane": {
-    "prefix": "glyphicons-hurricane",
-    "body": "content: '\\\\E698';"
-  },
-  "glyphicons-moon": {
-    "prefix": "glyphicons-moon",
-    "body": "content: '\\\\E231';"
-  },
-  "glyphicons-lawnmower": {
-    "prefix": "glyphicons-lawnmower",
-    "body": "content: '\\\\E660';"
-  },
-  "glyphicons-calculator": {
-    "prefix": "glyphicons-calculator",
-    "body": "content: '\\\\E324';"
-  },
-  "glyphicons-sort-by-order-alt": {
-    "prefix": "glyphicons-sort-by-order-alt",
-    "body": "content: '\\\\E408';"
-  },
-  "glyphicons-folder-closed": {
-    "prefix": "glyphicons-folder-closed",
-    "body": "content: '\\\\E441';"
-  },
-  "glyphicons-pencil": {
-    "prefix": "glyphicons-pencil",
-    "body": "content: '\\\\E031';"
-  },
-  "glyphicons-temple-christianity-church": {
-    "prefix": "glyphicons-temple-christianity-church",
-    "body": "content: '\\\\E303';"
-  },
-  "glyphicons-gender-virgin-female": {
-    "prefix": "glyphicons-gender-virgin-female",
-    "body": "content: '\\\\E753';"
-  },
-  "glyphicons-certificate": {
-    "prefix": "glyphicons-certificate",
-    "body": "content: '\\\\E333';"
-  },
-  "glyphicons-buoy": {
-    "prefix": "glyphicons-buoy",
-    "body": "content: '\\\\E262';"
-  },
-  "glyphicons-eject": {
-    "prefix": "glyphicons-eject",
-    "body": "content: '\\\\E180';"
-  },
-  "glyphicons-floppy-open": {
-    "prefix": "glyphicons-floppy-open",
-    "body": "content: '\\\\E448';"
-  },
-  "glyphicons-pizza": {
-    "prefix": "glyphicons-pizza",
-    "body": "content: '\\\\E278';"
-  },
-  "glyphicons-us-rat-g": {
-    "prefix": "glyphicons-us-rat-g",
-    "body": "content: '\\\\E581';"
-  },
-  "glyphicons-handshake": {
-    "prefix": "glyphicons-handshake",
-    "body": "content: '\\\\E490';"
-  },
-  "glyphicons-volume-down": {
-    "prefix": "glyphicons-volume-down",
-    "body": "content: '\\\\E184';"
-  },
-  "glyphicons-door": {
-    "prefix": "glyphicons-door",
-    "body": "content: '\\\\E681';"
-  },
-  "glyphicons-gender-ori-hetero": {
-    "prefix": "glyphicons-gender-ori-hetero",
-    "body": "content: '\\\\E758';"
-  },
-  "glyphicons-battery-25": {
-    "prefix": "glyphicons-battery-25",
-    "body": "content: '\\\\E769';"
-  },
-  "glyphicons-visitor-tag": {
-    "prefix": "glyphicons-visitor-tag",
-    "body": "content: '\\\\E621';"
-  },
-  "glyphicons-print": {
-    "prefix": "glyphicons-print",
-    "body": "content: '\\\\E016';"
-  },
-  "glyphicons-gbp": {
-    "prefix": "glyphicons-gbp",
-    "body": "content: '\\\\E229';"
-  },
-  "glyphicons-construction-cone": {
-    "prefix": "glyphicons-construction-cone",
-    "body": "content: '\\\\E431';"
-  },
-  "glyphicons-signal": {
-    "prefix": "glyphicons-signal",
-    "body": "content: '\\\\E080';"
-  },
-  "glyphicons-parking-meter": {
-    "prefix": "glyphicons-parking-meter",
-    "body": "content: '\\\\E690';"
-  },
-  "glyphicons-shower": {
-    "prefix": "glyphicons-shower",
-    "body": "content: '\\\\E516';"
-  },
-  "glyphicons-restart": {
-    "prefix": "glyphicons-restart",
-    "body": "content: '\\\\E366';"
-  },
-  "glyphicons-globe": {
-    "prefix": "glyphicons-globe",
-    "body": "content: '\\\\E341';"
-  },
-  "glyphicons-target": {
-    "prefix": "glyphicons-target",
-    "body": "content: '\\\\E473';"
-  },
-  "glyphicons-server-lock": {
-    "prefix": "glyphicons-server-lock",
-    "body": "content: '\\\\E469';"
-  },
-  "glyphicons-resize-vertical": {
-    "prefix": "glyphicons-resize-vertical",
-    "body": "content: '\\\\E728';"
-  },
-  "glyphicons-currency-conversion": {
-    "prefix": "glyphicons-currency-conversion",
-    "body": "content: '\\\\E520';"
-  },
-  "glyphicons-bedroom-nightstand": {
-    "prefix": "glyphicons-bedroom-nightstand",
-    "body": "content: '\\\\E627';"
-  },
-  "glyphicons-vector-path-curve": {
-    "prefix": "glyphicons-vector-path-curve",
-    "body": "content: '\\\\E099';"
-  },
-  "glyphicons-sms": {
-    "prefix": "glyphicons-sms",
-    "body": "content: '\\\\E579';"
-  },
-  "glyphicons-ticket": {
-    "prefix": "glyphicons-ticket",
-    "body": "content: '\\\\E688';"
-  },
-  "glyphicons-new-window": {
-    "prefix": "glyphicons-new-window",
-    "body": "content: '\\\\E152';"
-  },
-  "glyphicons-git-create": {
-    "prefix": "glyphicons-git-create",
-    "body": "content: '\\\\E424';"
-  },
-  "glyphicons-usd": {
-    "prefix": "glyphicons-usd",
-    "body": "content: '\\\\E228';"
-  },
-  "glyphicons-server-plus": {
-    "prefix": "glyphicons-server-plus",
-    "body": "content: '\\\\E465';"
-  },
-  "glyphicons-nameplate-alt": {
-    "prefix": "glyphicons-nameplate-alt",
-    "body": "content: '\\\\E354';"
-  },
-  "glyphicons-database-plus": {
-    "prefix": "glyphicons-database-plus",
-    "body": "content: '\\\\E142';"
-  },
-  "glyphicons-folder-lock": {
-    "prefix": "glyphicons-folder-lock",
-    "body": "content: '\\\\E148';"
-  },
-  "glyphicons-podium": {
-    "prefix": "glyphicons-podium",
-    "body": "content: '\\\\E329';"
-  },
-  "glyphicons-battery-full": {
-    "prefix": "glyphicons-battery-full",
-    "body": "content: '\\\\E766';"
-  },
-  "glyphicons-blog": {
-    "prefix": "glyphicons-blog",
-    "body": "content: '\\\\E331';"
-  },
-  "glyphicons-rotate-right": {
-    "prefix": "glyphicons-rotate-right",
-    "body": "content: '\\\\E736';"
-  },
-  "glyphicons-git-commit": {
-    "prefix": "glyphicons-git-commit",
-    "body": "content: '\\\\E430';"
-  },
-  "glyphicons-drink": {
-    "prefix": "glyphicons-drink",
-    "body": "content: '\\\\E274';"
-  },
-  "glyphicons-pot": {
-    "prefix": "glyphicons-pot",
-    "body": "content: '\\\\E296';"
-  },
-  "glyphicons-flag": {
-    "prefix": "glyphicons-flag",
-    "body": "content: '\\\\E267';"
-  },
-  "glyphicons-bath-bathtub": {
-    "prefix": "glyphicons-bath-bathtub",
-    "body": "content: '\\\\E514';"
-  },
-  "glyphicons-bitcoin": {
-    "prefix": "glyphicons-bitcoin",
-    "body": "content: '\\\\E548';"
-  },
-  "glyphicons-french-press": {
-    "prefix": "glyphicons-french-press",
-    "body": "content: '\\\\E294';"
-  },
-  "glyphicons-folder-new": {
-    "prefix": "glyphicons-folder-new",
-    "body": "content: '\\\\E150';"
-  },
-  "glyphicons-celebration": {
-    "prefix": "glyphicons-celebration",
-    "body": "content: '\\\\E292';"
-  },
-  "glyphicons-log-book": {
-    "prefix": "glyphicons-log-book",
-    "body": "content: '\\\\E088';"
-  },
-  "glyphicons-map-marker": {
-    "prefix": "glyphicons-map-marker",
-    "body": "content: '\\\\E243';"
-  },
-  "glyphicons-fullscreen": {
-    "prefix": "glyphicons-fullscreen",
-    "body": "content: '\\\\E350';"
-  },
-  "glyphicons-doctor": {
-    "prefix": "glyphicons-doctor",
-    "body": "content: '\\\\E629';"
-  },
-  "glyphicons-gender-ori-gay": {
-    "prefix": "glyphicons-gender-ori-gay",
-    "body": "content: '\\\\E757';"
-  },
-  "glyphicons-music-alt": {
-    "prefix": "glyphicons-music-alt",
-    "body": "content: '\\\\E019';"
-  },
-  "glyphicons-cardio": {
-    "prefix": "glyphicons-cardio",
-    "body": "content: '\\\\E283';"
-  },
-  "glyphicons-shopping-cart": {
-    "prefix": "glyphicons-shopping-cart",
-    "body": "content: '\\\\E203';"
-  },
-  "glyphicons-shopping-bag": {
-    "prefix": "glyphicons-shopping-bag",
-    "body": "content: '\\\\E351';"
-  },
-  "glyphicons-bath-shower": {
-    "prefix": "glyphicons-bath-shower",
-    "body": "content: '\\\\E515';"
-  },
-  "glyphicons-lasso": {
-    "prefix": "glyphicons-lasso",
-    "body": "content: '\\\\E763';"
-  },
-  "glyphicons-power": {
-    "prefix": "glyphicons-power",
-    "body": "content: '\\\\E064';"
-  },
-  "glyphicons-wifi-alt": {
-    "prefix": "glyphicons-wifi-alt",
-    "body": "content: '\\\\E033';"
-  },
-  "glyphicons-paired": {
-    "prefix": "glyphicons-paired",
-    "body": "content: '\\\\E596';"
-  },
-  "glyphicons-thumbs-down": {
-    "prefix": "glyphicons-thumbs-down",
-    "body": "content: '\\\\E345';"
-  },
-  "glyphicons-sunglasses": {
-    "prefix": "glyphicons-sunglasses",
-    "body": "content: '\\\\E499';"
-  },
-  "glyphicons-align-right": {
-    "prefix": "glyphicons-align-right",
-    "body": "content: '\\\\E113';"
-  },
-  "glyphicons-gas-station": {
-    "prefix": "glyphicons-gas-station",
-    "body": "content: '\\\\E472';"
-  },
-  "glyphicons-classic-hammer": {
-    "prefix": "glyphicons-classic-hammer",
-    "body": "content: '\\\\E376';"
-  },
-  "glyphicons-house-fire": {
-    "prefix": "glyphicons-house-fire",
-    "body": "content: '\\\\E644';"
-  },
-  "glyphicons-mouse": {
-    "prefix": "glyphicons-mouse",
-    "body": "content: '\\\\E722';"
-  },
-  "glyphicons-book-open": {
-    "prefix": "glyphicons-book-open",
-    "body": "content: '\\\\E352';"
-  },
-  "glyphicons-engineering-networks": {
-    "prefix": "glyphicons-engineering-networks",
-    "body": "content: '\\\\E630';"
-  },
-  "glyphicons-piggy-bank": {
-    "prefix": "glyphicons-piggy-bank",
-    "body": "content: '\\\\E506';"
-  },
-  "glyphicons-facetime-video": {
-    "prefix": "glyphicons-facetime-video",
-    "body": "content: '\\\\E181';"
-  },
-  "glyphicons-beer": {
-    "prefix": "glyphicons-beer",
-    "body": "content: '\\\\E275';"
-  },
-  "glyphicons-cart-out": {
-    "prefix": "glyphicons-cart-out",
-    "body": "content: '\\\\E210';"
-  },
-  "glyphicons-user-lock": {
-    "prefix": "glyphicons-user-lock",
-    "body": "content: '\\\\E522';"
-  },
-  "glyphicons-umbrella": {
-    "prefix": "glyphicons-umbrella",
-    "body": "content: '\\\\E071';"
-  },
-  "glyphicons-call-video": {
-    "prefix": "glyphicons-call-video",
-    "body": "content: '\\\\E669';"
-  },
-  "glyphicons-call-outgoing": {
-    "prefix": "glyphicons-call-outgoing",
-    "body": "content: '\\\\E668';"
-  },
-  "glyphicons-tea-kettle": {
-    "prefix": "glyphicons-tea-kettle",
-    "body": "content: '\\\\E293';"
-  },
-  "glyphicons-photo-album": {
-    "prefix": "glyphicons-photo-album",
-    "body": "content: '\\\\E739';"
-  },
-  "glyphicons-boat": {
-    "prefix": "glyphicons-boat",
-    "body": "content: '\\\\E256';"
-  },
-  "glyphicons-registration-mark": {
-    "prefix": "glyphicons-registration-mark",
-    "body": "content: '\\\\E400';"
-  },
-  "glyphicons-us-rat-pg": {
-    "prefix": "glyphicons-us-rat-pg",
-    "body": "content: '\\\\E582';"
-  },
-  "glyphicons-oxygen-bottle": {
-    "prefix": "glyphicons-oxygen-bottle",
-    "body": "content: '\\\\E253';"
-  },
-  "glyphicons-file-plus": {
-    "prefix": "glyphicons-file-plus",
-    "body": "content: '\\\\E703';"
-  },
-  "glyphicons-bullets": {
-    "prefix": "glyphicons-bullets",
-    "body": "content: '\\\\E282';"
-  },
-  "glyphicons-cargo": {
-    "prefix": "glyphicons-cargo",
-    "body": "content: '\\\\E060';"
-  },
-  "glyphicons-play": {
-    "prefix": "glyphicons-play",
-    "body": "content: '\\\\E174';"
-  },
-  "glyphicons-git-branch": {
-    "prefix": "glyphicons-git-branch",
-    "body": "content: '\\\\E423';"
-  },
-  "glyphicons-candle": {
-    "prefix": "glyphicons-candle",
-    "body": "content: '\\\\E335';"
-  },
-  "glyphicons-vr-low-battery": {
-    "prefix": "glyphicons-vr-low-battery",
-    "body": "content: '\\\\E785';"
-  },
-  "glyphicons-mixed-buildings": {
-    "prefix": "glyphicons-mixed-buildings",
-    "body": "content: '\\\\E619';"
-  },
-  "glyphicons-credit-card": {
-    "prefix": "glyphicons-credit-card",
-    "body": "content: '\\\\E268';"
-  },
-  "glyphicons-firefighters": {
-    "prefix": "glyphicons-firefighters",
-    "body": "content: '\\\\E645';"
-  },
-  "glyphicons-sort": {
-    "prefix": "glyphicons-sort",
-    "body": "content: '\\\\E320';"
-  },
-  "glyphicons-spray": {
-    "prefix": "glyphicons-spray",
-    "body": "content: '\\\\E373';"
-  },
-  "glyphicons-settings": {
-    "prefix": "glyphicons-settings",
-    "body": "content: '\\\\E281';"
-  },
-  "glyphicons-iphone-exchange": {
-    "prefix": "glyphicons-iphone-exchange",
-    "body": "content: '\\\\E166';"
-  },
-  "glyphicons-camping-benches": {
-    "prefix": "glyphicons-camping-benches",
-    "body": "content: '\\\\E612';"
-  },
-  "glyphicons-object-align-top": {
-    "prefix": "glyphicons-object-align-top",
-    "body": "content: '\\\\E651';"
-  },
-  "glyphicons-scale-classic": {
-    "prefix": "glyphicons-scale-classic",
-    "body": "content: '\\\\E544';"
-  },
-  "glyphicons-fast-forward": {
-    "prefix": "glyphicons-fast-forward",
-    "body": "content: '\\\\E178';"
-  },
-  "glyphicons-traveler": {
-    "prefix": "glyphicons-traveler",
-    "body": "content: '\\\\E638';"
-  },
-  "glyphicons-right-indent": {
-    "prefix": "glyphicons-right-indent",
-    "body": "content: '\\\\E110';"
-  },
-  "glyphicons-pin": {
-    "prefix": "glyphicons-pin",
-    "body": "content: '\\\\E239';"
-  },
-  "glyphicons-rabbit": {
-    "prefix": "glyphicons-rabbit",
-    "body": "content: '\\\\E340';"
-  },
-  "glyphicons-underwear": {
-    "prefix": "glyphicons-underwear",
-    "body": "content: '\\\\E386';"
-  },
-  "glyphicons-message-out": {
-    "prefix": "glyphicons-message-out",
-    "body": "content: '\\\\E124';"
-  },
-  "glyphicons-bookmark": {
-    "prefix": "glyphicons-bookmark",
-    "body": "content: '\\\\E073';"
-  },
-  "glyphicons-plane": {
-    "prefix": "glyphicons-plane",
-    "body": "content: '\\\\E039';"
-  },
-  "glyphicons-user-structure": {
-    "prefix": "glyphicons-user-structure",
-    "body": "content: '\\\\E715';"
-  },
-  "glyphicons-text-height": {
-    "prefix": "glyphicons-text-height",
-    "body": "content: '\\\\E106';"
-  },
-  "glyphicons-person-running": {
-    "prefix": "glyphicons-person-running",
-    "body": "content: '\\\\E592';"
-  },
-  "glyphicons-cake": {
-    "prefix": "glyphicons-cake",
-    "body": "content: '\\\\E273';"
-  },
-  "glyphicons-tractor": {
-    "prefix": "glyphicons-tractor",
-    "body": "content: '\\\\E610';"
-  },
-  "glyphicons-headset": {
-    "prefix": "glyphicons-headset",
-    "body": "content: '\\\\E078';"
-  },
-  "glyphicons-video-hd": {
-    "prefix": "glyphicons-video-hd",
-    "body": "content: '\\\\E392';"
-  },
-  "glyphicons-star-half": {
-    "prefix": "glyphicons-star-half",
-    "body": "content: '\\\\E507';"
-  },
-  "glyphicons-circle-arrow-top": {
-    "prefix": "glyphicons-circle-arrow-top",
-    "body": "content: '\\\\E219';"
-  },
-  "glyphicons-text-width": {
-    "prefix": "glyphicons-text-width",
-    "body": "content: '\\\\E107';"
-  },
-  "glyphicons-file-cloud-upload": {
-    "prefix": "glyphicons-file-cloud-upload",
-    "body": "content: '\\\\E708';"
-  },
-  "glyphicons-calendar": {
-    "prefix": "glyphicons-calendar",
-    "body": "content: '\\\\E046';"
-  },
-  "glyphicons-heart": {
-    "prefix": "glyphicons-heart",
-    "body": "content: '\\\\E013';"
-  },
-  "glyphicons-golf": {
-    "prefix": "glyphicons-golf",
-    "body": "content: '\\\\E437';"
-  },
-  "glyphicons-hand-down": {
-    "prefix": "glyphicons-hand-down",
-    "body": "content: '\\\\E349';"
-  },
-  "glyphicons-electrical-socket-eu": {
-    "prefix": "glyphicons-electrical-socket-eu",
-    "body": "content: '\\\\E379';"
-  },
-  "glyphicons-piano": {
-    "prefix": "glyphicons-piano",
-    "body": "content: '\\\\E327';"
-  },
-  "glyphicons-ipod-shuffle": {
-    "prefix": "glyphicons-ipod-shuffle",
-    "body": "content: '\\\\E168';"
-  },
-  "glyphicons-superscript": {
-    "prefix": "glyphicons-superscript",
-    "body": "content: '\\\\E603';"
-  },
-  "glyphicons-warning-sign": {
-    "prefix": "glyphicons-warning-sign",
-    "body": "content: '\\\\E079';"
-  },
-  "glyphicons-shoes": {
-    "prefix": "glyphicons-shoes",
-    "body": "content: '\\\\E502';"
-  },
-  "glyphicons-cup": {
-    "prefix": "glyphicons-cup",
-    "body": "content: '\\\\E075';"
-  },
-  "glyphicons-dress": {
-    "prefix": "glyphicons-dress",
-    "body": "content: '\\\\E383';"
-  },
-  "glyphicons-multiple-displays": {
-    "prefix": "glyphicons-multiple-displays",
-    "body": "content: '\\\\E489';"
-  },
-  "glyphicons-cloud": {
-    "prefix": "glyphicons-cloud",
-    "body": "content: '\\\\E233';"
-  },
-  "glyphicons-floppy-disk": {
-    "prefix": "glyphicons-floppy-disk",
-    "body": "content: '\\\\E444';"
-  },
-  "glyphicons-adjust": {
-    "prefix": "glyphicons-adjust",
-    "body": "content: '\\\\E092';"
-  },
-  "glyphicons-link": {
-    "prefix": "glyphicons-link",
-    "body": "content: '\\\\E051';"
-  },
-  "glyphicons-fleur-de-lis": {
-    "prefix": "glyphicons-fleur-de-lis",
-    "body": "content: '\\\\E683';"
-  },
-  "glyphicons-uk-rat-r18": {
-    "prefix": "glyphicons-uk-rat-r18",
-    "body": "content: '\\\\E577';"
-  },
-  "glyphicons-map": {
-    "prefix": "glyphicons-map",
-    "body": "content: '\\\\E503';"
-  },
-  "glyphicons-fax": {
-    "prefix": "glyphicons-fax",
-    "body": "content: '\\\\E450';"
-  },
-  "glyphicons-pending-notifications": {
-    "prefix": "glyphicons-pending-notifications",
-    "body": "content: '\\\\E747';"
-  },
-  "glyphicons-hazard-sign": {
-    "prefix": "glyphicons-hazard-sign",
-    "body": "content: '\\\\E531';"
-  },
-  "glyphicons-step-backward": {
-    "prefix": "glyphicons-step-backward",
-    "body": "content: '\\\\E171';"
-  },
-  "glyphicons-temperature-high-warning": {
-    "prefix": "glyphicons-temperature-high-warning",
-    "body": "content: '\\\\E697';"
-  },
-  "glyphicons-font": {
-    "prefix": "glyphicons-font",
-    "body": "content: '\\\\E101';"
-  },
-  "glyphicons-factory": {
-    "prefix": "glyphicons-factory",
-    "body": "content: '\\\\E451';"
-  },
-  "glyphicons-bring-to-front": {
-    "prefix": "glyphicons-bring-to-front",
-    "body": "content: '\\\\E484';"
-  },
-  "glyphicons-user-asterisk": {
-    "prefix": "glyphicons-user-asterisk",
-    "body": "content: '\\\\E524';"
-  },
-  "glyphicons-call-missed": {
-    "prefix": "glyphicons-call-missed",
-    "body": "content: '\\\\E670';"
-  },
-  "glyphicons-magic": {
-    "prefix": "glyphicons-magic",
-    "body": "content: '\\\\E010';"
-  },
-  "glyphicons-expand": {
-    "prefix": "glyphicons-expand",
-    "body": "content: '\\\\E368';"
-  },
-  "glyphicons-option-vertical": {
-    "prefix": "glyphicons-option-vertical",
-    "body": "content: '\\\\E518';"
-  },
-  "glyphicons-arrow-up": {
-    "prefix": "glyphicons-arrow-up",
-    "body": "content: '\\\\E214';"
-  },
-  "glyphicons-keys": {
-    "prefix": "glyphicons-keys",
-    "body": "content: '\\\\E045';"
-  },
-  "glyphicons-cleaning": {
-    "prefix": "glyphicons-cleaning",
-    "body": "content: '\\\\E068';"
-  },
-  "glyphicons-sweater": {
-    "prefix": "glyphicons-sweater",
-    "body": "content: '\\\\E286';"
-  },
-  "glyphicons-imac": {
-    "prefix": "glyphicons-imac",
-    "body": "content: '\\\\E161';"
-  },
-  "glyphicons-queen": {
-    "prefix": "glyphicons-queen",
-    "body": "content: '\\\\E556';"
-  },
-  "glyphicons-scuba-diving": {
-    "prefix": "glyphicons-scuba-diving",
-    "body": "content: '\\\\E252';"
-  },
-  "glyphicons-blackboard": {
-    "prefix": "glyphicons-blackboard",
-    "body": "content: '\\\\E479';"
-  },
-  "glyphicons-nameplate": {
-    "prefix": "glyphicons-nameplate",
-    "body": "content: '\\\\E353';"
-  },
-  "glyphicons-database-ban": {
-    "prefix": "glyphicons-database-ban",
-    "body": "content: '\\\\E144';"
-  },
-  "glyphicons-remove-circle": {
-    "prefix": "glyphicons-remove-circle",
-    "body": "content: '\\\\E198';"
-  },
-  "glyphicons-bank": {
-    "prefix": "glyphicons-bank",
-    "body": "content: '\\\\E264';"
-  },
-  "glyphicons-cube-empty": {
-    "prefix": "glyphicons-cube-empty",
-    "body": "content: '\\\\E779';"
-  },
-  "glyphicons-vector-path-circle": {
-    "prefix": "glyphicons-vector-path-circle",
-    "body": "content: '\\\\E096';"
-  },
-  "glyphicons-vr-headset": {
-    "prefix": "glyphicons-vr-headset",
-    "body": "content: '\\\\E783';"
-  },
-  "glyphicons-yen": {
-    "prefix": "glyphicons-yen",
-    "body": "content: '\\\\E549';"
-  },
-  "glyphicons-mosquito": {
-    "prefix": "glyphicons-mosquito",
-    "body": "content: '\\\\E475';"
-  },
-  "glyphicons-folder-heart": {
-    "prefix": "glyphicons-folder-heart",
-    "body": "content: '\\\\E591';"
-  },
-  "glyphicons-voice": {
-    "prefix": "glyphicons-voice",
-    "body": "content: '\\\\E594';"
-  },
-  "glyphicons-check": {
-    "prefix": "glyphicons-check",
-    "body": "content: '\\\\E153';"
-  },
-  "glyphicons-veteran": {
-    "prefix": "glyphicons-veteran",
-    "body": "content: '\\\\E639';"
-  },
-  "glyphicons-hand-right": {
-    "prefix": "glyphicons-hand-right",
-    "body": "content: '\\\\E346';"
-  },
-  "glyphicons-filter-remove": {
-    "prefix": "glyphicons-filter-remove",
-    "body": "content: '\\\\E789';"
-  },
-  "glyphicons-arrow-down": {
-    "prefix": "glyphicons-arrow-down",
-    "body": "content: '\\\\E213';"
-  },
-  "glyphicons-embed-close": {
-    "prefix": "glyphicons-embed-close",
-    "body": "content: '\\\\E119';"
-  },
-  "glyphicons-turtle": {
-    "prefix": "glyphicons-turtle",
-    "body": "content: '\\\\E339';"
-  },
-  "glyphicons-elections": {
-    "prefix": "glyphicons-elections",
-    "body": "content: '\\\\E641';"
-  },
-  "glyphicons-text-underline": {
-    "prefix": "glyphicons-text-underline",
-    "body": "content: '\\\\E104';"
-  },
-  "glyphicons-bedroom-lamp": {
-    "prefix": "glyphicons-bedroom-lamp",
-    "body": "content: '\\\\E628';"
-  },
-  "glyphicons-collapse": {
-    "prefix": "glyphicons-collapse",
-    "body": "content: '\\\\E369';"
-  },
-  "glyphicons-sound-stereo": {
-    "prefix": "glyphicons-sound-stereo",
-    "body": "content: '\\\\E394';"
-  },
-  "glyphicons-dustbin": {
-    "prefix": "glyphicons-dustbin",
-    "body": "content: '\\\\E680';"
-  },
-  "glyphicons-message-in": {
-    "prefix": "glyphicons-message-in",
-    "body": "content: '\\\\E123';"
-  },
-  "glyphicons-bowling": {
-    "prefix": "glyphicons-bowling",
-    "body": "content: '\\\\E316';"
-  },
-  "glyphicons-gas": {
-    "prefix": "glyphicons-gas",
-    "body": "content: '\\\\E717';"
-  },
-  "glyphicons-table-tennis": {
-    "prefix": "glyphicons-table-tennis",
-    "body": "content: '\\\\E315';"
-  },
-  "glyphicons-cd": {
-    "prefix": "glyphicons-cd",
-    "body": "content: '\\\\E504';"
-  },
-  "glyphicons-move-square": {
-    "prefix": "glyphicons-move-square",
-    "body": "content: '\\\\E781';"
-  },
-  "glyphicons-redo": {
-    "prefix": "glyphicons-redo",
-    "body": "content: '\\\\E435';"
-  },
-  "glyphicons-chevron-up": {
-    "prefix": "glyphicons-chevron-up",
-    "body": "content: '\\\\E601';"
-  },
-  "glyphicons-skateboard": {
-    "prefix": "glyphicons-skateboard",
-    "body": "content: '\\\\E402';"
-  },
-  "glyphicons-keyboard-wireless": {
-    "prefix": "glyphicons-keyboard-wireless",
-    "body": "content: '\\\\E270';"
-  },
-  "glyphicons-hand-up": {
-    "prefix": "glyphicons-hand-up",
-    "body": "content: '\\\\E348';"
-  },
-  "glyphicons-ruble": {
-    "prefix": "glyphicons-ruble",
-    "body": "content: '\\\\E550';"
-  },
-  "glyphicons-king": {
-    "prefix": "glyphicons-king",
-    "body": "content: '\\\\E555';"
-  },
-  "glyphicons-inbox": {
-    "prefix": "glyphicons-inbox",
-    "body": "content: '\\\\E131';"
-  },
-  "glyphicons-birthday-cake": {
-    "prefix": "glyphicons-birthday-cake",
-    "body": "content: '\\\\E279';"
-  },
-  "glyphicons-message-lock": {
-    "prefix": "glyphicons-message-lock",
-    "body": "content: '\\\\E129';"
-  },
-  "glyphicons-modal-window": {
-    "prefix": "glyphicons-modal-window",
-    "body": "content: '\\\\E608';"
-  },
-  "glyphicons-pen": {
-    "prefix": "glyphicons-pen",
-    "body": "content: '\\\\E236';"
-  },
-  "glyphicons-alert": {
-    "prefix": "glyphicons-alert",
-    "body": "content: '\\\\E505';"
-  },
-  "glyphicons-paste": {
-    "prefix": "glyphicons-paste",
-    "body": "content: '\\\\E513';"
-  },
-  "glyphicons-sound-dolby": {
-    "prefix": "glyphicons-sound-dolby",
-    "body": "content: '\\\\E395';"
-  },
-  "glyphicons-magnet": {
-    "prefix": "glyphicons-magnet",
-    "body": "content: '\\\\E024';"
-  },
-  "glyphicons-filter": {
-    "prefix": "glyphicons-filter",
-    "body": "content: '\\\\E321';"
-  },
-  "glyphicons-object-align-horizontal": {
-    "prefix": "glyphicons-object-align-horizontal",
-    "body": "content: '\\\\E653';"
-  },
-  "glyphicons-notes": {
-    "prefix": "glyphicons-notes",
-    "body": "content: '\\\\E040';"
-  },
-  "glyphicons-home": {
-    "prefix": "glyphicons-home",
-    "body": "content: '\\\\E021';"
-  },
-  "glyphicons-medicine": {
-    "prefix": "glyphicons-medicine",
-    "body": "content: '\\\\E493';"
-  },
-  "glyphicons-temperature-settings": {
-    "prefix": "glyphicons-temperature-settings",
-    "body": "content: '\\\\E684';"
-  },
-  "glyphicons-person-walking": {
-    "prefix": "glyphicons-person-walking",
-    "body": "content: '\\\\E563';"
-  },
-  "glyphicons-record": {
-    "prefix": "glyphicons-record",
-    "body": "content: '\\\\E170';"
-  },
-  "glyphicons-underground": {
-    "prefix": "glyphicons-underground",
-    "body": "content: '\\\\E565';"
-  },
-  "glyphicons-cogwheels": {
-    "prefix": "glyphicons-cogwheels",
-    "body": "content: '\\\\E138';"
-  },
-  "glyphicons-fast-backward": {
-    "prefix": "glyphicons-fast-backward",
-    "body": "content: '\\\\E172';"
-  },
-  "glyphicons-brightness-reduce": {
-    "prefix": "glyphicons-brightness-reduce",
-    "body": "content: '\\\\E189';"
-  },
-  "glyphicons-iphone-transfer": {
-    "prefix": "glyphicons-iphone-transfer",
-    "body": "content: '\\\\E165';"
-  },
-  "glyphicons-tv": {
-    "prefix": "glyphicons-tv",
-    "body": "content: '\\\\E578';"
-  },
-  "glyphicons-cloud-download": {
-    "prefix": "glyphicons-cloud-download",
-    "body": "content: '\\\\E365';"
-  },
-  "glyphicons-call-redirect": {
-    "prefix": "glyphicons-call-redirect",
-    "body": "content: '\\\\E661';"
-  },
-  "glyphicons-mouse-left-click": {
-    "prefix": "glyphicons-mouse-left-click",
-    "body": "content: '\\\\E724';"
-  },
-  "glyphicons-for-sale": {
-    "prefix": "glyphicons-for-sale",
-    "body": "content: '\\\\E679';"
-  },
-  "glyphicons-music": {
-    "prefix": "glyphicons-music",
-    "body": "content: '\\\\E018';"
-  },
-  "glyphicons-one-day": {
-    "prefix": "glyphicons-one-day",
-    "body": "content: '\\\\E791';"
-  },
-  "glyphicons-file-import": {
-    "prefix": "glyphicons-file-import",
-    "body": "content: '\\\\E359';"
-  },
-  "glyphicons-vector-path-polygon": {
-    "prefix": "glyphicons-vector-path-polygon",
-    "body": "content: '\\\\E097';"
-  },
-  "glyphicons-playing-dices": {
-    "prefix": "glyphicons-playing-dices",
-    "body": "content: '\\\\E323';"
-  },
-  "glyphicons-shield": {
-    "prefix": "glyphicons-shield",
-    "body": "content: '\\\\E271';"
-  },
-  "glyphicons-camera": {
-    "prefix": "glyphicons-camera",
-    "body": "content: '\\\\E012';"
-  },
-  "glyphicons-battery-75": {
-    "prefix": "glyphicons-battery-75",
-    "body": "content: '\\\\E767';"
-  },
-  "glyphicons-arrow-left": {
-    "prefix": "glyphicons-arrow-left",
-    "body": "content: '\\\\E211';"
-  },
-  "glyphicons-chevron-down": {
-    "prefix": "glyphicons-chevron-down",
-    "body": "content: '\\\\E602';"
-  },
-  "glyphicons-tint": {
-    "prefix": "glyphicons-tint",
-    "body": "content: '\\\\E093';"
-  },
-  "glyphicons-electricity": {
-    "prefix": "glyphicons-electricity",
-    "body": "content: '\\\\E206';"
-  },
-  "glyphicons-small-payments": {
-    "prefix": "glyphicons-small-payments",
-    "body": "content: '\\\\E618';"
-  },
-  "glyphicons-call-incoming": {
-    "prefix": "glyphicons-call-incoming",
-    "body": "content: '\\\\E667';"
-  },
-  "glyphicons-sort-by-alphabet": {
-    "prefix": "glyphicons-sort-by-alphabet",
-    "body": "content: '\\\\E405';"
-  },
-  "glyphicons-server-minus": {
-    "prefix": "glyphicons-server-minus",
-    "body": "content: '\\\\E466';"
-  },
-  "glyphicons-flash": {
-    "prefix": "glyphicons-flash",
-    "body": "content: '\\\\E242';"
-  },
-  "glyphicons-law-justice": {
-    "prefix": "glyphicons-law-justice",
-    "body": "content: '\\\\E642';"
-  },
-  "glyphicons-thumbs-up": {
-    "prefix": "glyphicons-thumbs-up",
-    "body": "content: '\\\\E344';"
-  },
-  "glyphicons-sun": {
-    "prefix": "glyphicons-sun",
-    "body": "content: '\\\\E232';"
-  },
-  "glyphicons-disk-import": {
-    "prefix": "glyphicons-disk-import",
-    "body": "content: '\\\\E419';"
-  },
-  "glyphicons-important-day": {
-    "prefix": "glyphicons-important-day",
-    "body": "content: '\\\\E649';"
-  },
-  "glyphicons-person-wheelchair": {
-    "prefix": "glyphicons-person-wheelchair",
-    "body": "content: '\\\\E564';"
-  },
-  "glyphicons-subscript": {
-    "prefix": "glyphicons-subscript",
-    "body": "content: '\\\\E604';"
-  },
-  "glyphicons-bring-forward": {
-    "prefix": "glyphicons-bring-forward",
-    "body": "content: '\\\\E483';"
-  },
-  "glyphicons-duplicate": {
-    "prefix": "glyphicons-duplicate",
-    "body": "content: '\\\\E511';"
-  },
-  "glyphicons-user-vr": {
-    "prefix": "glyphicons-user-vr",
-    "body": "content: '\\\\E792';"
-  },
-  "glyphicons-bathrobe": {
-    "prefix": "glyphicons-bathrobe",
-    "body": "content: '\\\\E384';"
-  },
-  "glyphicons-smoking": {
-    "prefix": "glyphicons-smoking",
-    "body": "content: '\\\\E363';"
-  },
-  "glyphicons-vector-path-all": {
-    "prefix": "glyphicons-vector-path-all",
-    "body": "content: '\\\\E100';"
-  },
-  "glyphicons-show-lines": {
-    "prefix": "glyphicons-show-lines",
-    "body": "content: '\\\\E159';"
-  },
-  "glyphicons-camera-small": {
-    "prefix": "glyphicons-camera-small",
-    "body": "content: '\\\\E048';"
-  },
-  "glyphicons-hockey": {
-    "prefix": "glyphicons-hockey",
-    "body": "content: '\\\\E438';"
-  },
-  "glyphicons-user-flag": {
-    "prefix": "glyphicons-user-flag",
-    "body": "content: '\\\\E523';"
-  },
-  "glyphicons-girl": {
-    "prefix": "glyphicons-girl",
-    "body": "content: '\\\\E005';"
-  },
-  "glyphicons-car-rental": {
-    "prefix": "glyphicons-car-rental",
-    "body": "content: '\\\\E567';"
-  },
-  "glyphicons-barcode": {
-    "prefix": "glyphicons-barcode",
-    "body": "content: '\\\\E260';"
-  },
-  "glyphicons-clock": {
-    "prefix": "glyphicons-clock",
-    "body": "content: '\\\\E055';"
-  },
-  "glyphicons-temperature-high": {
-    "prefix": "glyphicons-temperature-high",
-    "body": "content: '\\\\E695';"
-  },
-  "glyphicons-message-empty": {
-    "prefix": "glyphicons-message-empty",
-    "body": "content: '\\\\E122';"
-  },
-  "glyphicons-car-wheel": {
-    "prefix": "glyphicons-car-wheel",
-    "body": "content: '\\\\E600';"
-  },
-  "glyphicons-circle-arrow-left": {
-    "prefix": "glyphicons-circle-arrow-left",
-    "body": "content: '\\\\E217';"
-  },
-  "glyphicons-stethoscope": {
-    "prefix": "glyphicons-stethoscope",
-    "body": "content: '\\\\E595';"
-  },
-  "glyphicons-dashboard": {
-    "prefix": "glyphicons-dashboard",
-    "body": "content: '\\\\E332';"
-  },
-  "glyphicons-luggage": {
-    "prefix": "glyphicons-luggage",
-    "body": "content: '\\\\E034';"
-  },
-  "glyphicons-send-to-back": {
-    "prefix": "glyphicons-send-to-back",
-    "body": "content: '\\\\E486';"
-  },
-  "glyphicons-git-delete": {
-    "prefix": "glyphicons-git-delete",
-    "body": "content: '\\\\E426';"
-  },
-  "glyphicons-bus": {
-    "prefix": "glyphicons-bus",
-    "body": "content: '\\\\E032';"
-  },
-  "glyphicons-pie-chart": {
-    "prefix": "glyphicons-pie-chart",
-    "body": "content: '\\\\E043';"
-  },
-  "glyphicons-lab": {
-    "prefix": "glyphicons-lab",
-    "body": "content: '\\\\E534';"
-  },
-  "glyphicons-ok": {
-    "prefix": "glyphicons-ok",
-    "body": "content: '\\\\E207';"
-  },
-  "glyphicons-user-vr-remove": {
-    "prefix": "glyphicons-user-vr-remove",
-    "body": "content: '\\\\E794';"
-  },
-  "glyphicons-theater": {
-    "prefix": "glyphicons-theater",
-    "body": "content: '\\\\E671';"
-  },
-  "glyphicons-more": {
-    "prefix": "glyphicons-more",
-    "body": "content: '\\\\E188';"
-  },
-  "glyphicons-bug": {
-    "prefix": "glyphicons-bug",
-    "body": "content: '\\\\E361';"
-  },
-  "glyphicons-ok-circle": {
-    "prefix": "glyphicons-ok-circle",
-    "body": "content: '\\\\E199';"
-  },
-  "glyphicons-watch": {
-    "prefix": "glyphicons-watch",
-    "body": "content: '\\\\E598';"
-  },
-  "glyphicons-minus": {
-    "prefix": "glyphicons-minus",
-    "body": "content: '\\\\E434';"
-  },
-  "glyphicons-ice-lolly-tasted": {
-    "prefix": "glyphicons-ice-lolly-tasted",
-    "body": "content: '\\\\E538';"
-  },
-  "glyphicons-pedestrian": {
-    "prefix": "glyphicons-pedestrian",
-    "body": "content: '\\\\E676';"
-  },
-  "glyphicons-skull": {
-    "prefix": "glyphicons-skull",
-    "body": "content: '\\\\E291';"
-  },
-  "glyphicons-file-minus": {
-    "prefix": "glyphicons-file-minus",
-    "body": "content: '\\\\E704';"
-  },
-  "glyphicons-object-align-right": {
-    "prefix": "glyphicons-object-align-right",
-    "body": "content: '\\\\E656';"
-  },
-  "glyphicons-washing-machine": {
-    "prefix": "glyphicons-washing-machine",
-    "body": "content: '\\\\E631';"
-  },
-  "glyphicons-ipod": {
-    "prefix": "glyphicons-ipod",
-    "body": "content: '\\\\E167';"
-  },
-  "glyphicons-upload": {
-    "prefix": "glyphicons-upload",
-    "body": "content: '\\\\E202';"
-  },
-  "glyphicons-gender-ori-lesbian": {
-    "prefix": "glyphicons-gender-ori-lesbian",
-    "body": "content: '\\\\E756';"
-  },
-  "glyphicons-fishes": {
-    "prefix": "glyphicons-fishes",
-    "body": "content: '\\\\E255';"
-  },
-  "glyphicons-maze": {
-    "prefix": "glyphicons-maze",
-    "body": "content: '\\\\E713';"
-  },
-  "glyphicons-race": {
-    "prefix": "glyphicons-race",
-    "body": "content: '\\\\E776';"
-  },
-  "glyphicons-building": {
-    "prefix": "glyphicons-building",
-    "body": "content: '\\\\E090';"
-  },
-  "glyphicons-dryer": {
-    "prefix": "glyphicons-dryer",
-    "body": "content: '\\\\E632';"
-  },
-  "glyphicons-crown": {
-    "prefix": "glyphicons-crown",
-    "body": "content: '\\\\E362';"
-  },
-  "glyphicons-option-horizontal": {
-    "prefix": "glyphicons-option-horizontal",
-    "body": "content: '\\\\E519';"
-  },
-  "glyphicons-fins": {
-    "prefix": "glyphicons-fins",
-    "body": "content: '\\\\E254';"
-  },
-  "glyphicons-temperature-low": {
-    "prefix": "glyphicons-temperature-low",
-    "body": "content: '\\\\E694';"
-  },
-  "glyphicons-text-strike": {
-    "prefix": "glyphicons-text-strike",
-    "body": "content: '\\\\E105';"
-  },
-  "glyphicons-mute": {
-    "prefix": "glyphicons-mute",
-    "body": "content: '\\\\E183';"
-  },
-  "glyphicons-eye-plus": {
-    "prefix": "glyphicons-eye-plus",
-    "body": "content: '\\\\E545';"
-  },
-  "glyphicons-divide": {
-    "prefix": "glyphicons-divide",
-    "body": "content: '\\\\E250';"
-  },
-  "glyphicons-puzzle-3": {
-    "prefix": "glyphicons-puzzle-3",
-    "body": "content: '\\\\E733';"
-  },
-  "glyphicons-puzzle-2": {
-    "prefix": "glyphicons-puzzle-2",
-    "body": "content: '\\\\E732';"
-  },
-  "glyphicons-albums": {
-    "prefix": "glyphicons-albums",
-    "body": "content: '\\\\E240';"
-  },
-  "glyphicons-dice-1": {
-    "prefix": "glyphicons-dice-1",
-    "body": "content: '\\\\E795';"
-  },
-  "glyphicons-dice-2": {
-    "prefix": "glyphicons-dice-2",
-    "body": "content: '\\\\E796';"
-  },
-  "glyphicons-dice-3": {
-    "prefix": "glyphicons-dice-3",
-    "body": "content: '\\\\E797';"
-  },
-  "glyphicons-floppy-saved": {
-    "prefix": "glyphicons-floppy-saved",
-    "body": "content: '\\\\E445';"
-  },
-  "glyphicons-dice-5": {
-    "prefix": "glyphicons-dice-5",
-    "body": "content: '\\\\E799';"
-  },
-  "glyphicons-dice-6": {
-    "prefix": "glyphicons-dice-6",
-    "body": "content: '\\\\E800';"
-  },
-  "glyphicons-kiosk": {
-    "prefix": "glyphicons-kiosk",
-    "body": "content: '\\\\E454';"
-  },
-  "glyphicons-pants": {
-    "prefix": "glyphicons-pants",
-    "body": "content: '\\\\E285';"
-  },
-  "glyphicons-meditation": {
-    "prefix": "glyphicons-meditation",
-    "body": "content: '\\\\E623';"
-  },
-  "glyphicons-more-windows": {
-    "prefix": "glyphicons-more-windows",
-    "body": "content: '\\\\E155';"
-  },
-  "glyphicons-soccer-ball": {
-    "prefix": "glyphicons-soccer-ball",
-    "body": "content: '\\\\E330';"
-  },
-  "glyphicons-ear-deaf": {
-    "prefix": "glyphicons-ear-deaf",
-    "body": "content: '\\\\E702';"
-  },
-  "glyphicons-ruler-alt": {
-    "prefix": "glyphicons-ruler-alt",
-    "body": "content: '\\\\E778';"
-  },
-  "glyphicons-sort-by-alphabet-alt": {
-    "prefix": "glyphicons-sort-by-alphabet-alt",
-    "body": "content: '\\\\E406';"
-  },
-  "glyphicons-recycle": {
-    "prefix": "glyphicons-recycle",
-    "body": "content: '\\\\E716';"
-  },
-  "glyphicons-table": {
-    "prefix": "glyphicons-table",
-    "body": "content: '\\\\E120';"
-  },
-  "glyphicons-puzzle": {
-    "prefix": "glyphicons-puzzle",
-    "body": "content: '\\\\E731';"
-  },
-  "glyphicons-bullhorn": {
-    "prefix": "glyphicons-bullhorn",
-    "body": "content: '\\\\E356';"
-  },
-  "glyphicons-tree-conifer": {
-    "prefix": "glyphicons-tree-conifer",
-    "body": "content: '\\\\E317';"
-  },
-  "glyphicons-temple-islam": {
-    "prefix": "glyphicons-temple-islam",
-    "body": "content: '\\\\E304';"
-  },
-  "glyphicons-shop-window": {
-    "prefix": "glyphicons-shop-window",
-    "body": "content: '\\\\E452';"
-  },
-  "glyphicons-radar": {
-    "prefix": "glyphicons-radar",
-    "body": "content: '\\\\E401';"
-  },
-  "glyphicons-lamp": {
-    "prefix": "glyphicons-lamp",
-    "body": "content: '\\\\E543';"
-  },
-  "glyphicons-luggage-group": {
-    "prefix": "glyphicons-luggage-group",
-    "body": "content: '\\\\E634';"
-  },
-  "glyphicons-speakers": {
-    "prefix": "glyphicons-speakers",
-    "body": "content: '\\\\E587';"
-  },
-  "glyphicons-briefcase": {
-    "prefix": "glyphicons-briefcase",
-    "body": "content: '\\\\E342';"
-  },
-  "glyphicons-zoom-in": {
-    "prefix": "glyphicons-zoom-in",
-    "body": "content: '\\\\E237';"
-  },
-  "glyphicons-more-items": {
-    "prefix": "glyphicons-more-items",
-    "body": "content: '\\\\E319';"
-  },
-  "glyphicons-gender-female": {
-    "prefix": "glyphicons-gender-female",
-    "body": "content: '\\\\E752';"
-  },
-  "glyphicons-ax": {
-    "prefix": "glyphicons-ax",
-    "body": "content: '\\\\E314';"
-  },
-  "glyphicons-remove": {
-    "prefix": "glyphicons-remove",
-    "body": "content: '\\\\E208';"
-  },
-  "glyphicons-tablet": {
-    "prefix": "glyphicons-tablet",
-    "body": "content: '\\\\E280';"
-  },
-  "glyphicons-person-stick-old": {
-    "prefix": "glyphicons-person-stick-old",
-    "body": "content: '\\\\E637';"
-  },
-  "glyphicons-macbook": {
-    "prefix": "glyphicons-macbook",
-    "body": "content: '\\\\E162';"
-  },
-  "glyphicons-vr-paired": {
-    "prefix": "glyphicons-vr-paired",
-    "body": "content: '\\\\E786';"
-  },
-  "glyphicons-car-hov": {
-    "prefix": "glyphicons-car-hov",
-    "body": "content: '\\\\E566';"
-  },
-  "glyphicons-sort-by-order": {
-    "prefix": "glyphicons-sort-by-order",
-    "body": "content: '\\\\E407';"
-  },
-  "glyphicons-paragraph-alt": {
-    "prefix": "glyphicons-paragraph-alt",
-    "body": "content: '\\\\E562';"
-  },
-  "glyphicons-inbox-lock": {
-    "prefix": "glyphicons-inbox-lock",
-    "body": "content: '\\\\E134';"
-  },
-  "glyphicons-database-minus": {
-    "prefix": "glyphicons-database-minus",
-    "body": "content: '\\\\E143';"
-  },
-  "glyphicons-parking": {
-    "prefix": "glyphicons-parking",
-    "body": "content: '\\\\E720';"
-  },
-  "glyphicons-uk-rat-u": {
-    "prefix": "glyphicons-uk-rat-u",
-    "body": "content: '\\\\E571';"
-  },
-  "glyphicons-embed": {
-    "prefix": "glyphicons-embed",
-    "body": "content: '\\\\E118';"
-  },
-  "glyphicons-projector": {
-    "prefix": "glyphicons-projector",
-    "body": "content: '\\\\E057';"
-  },
-  "glyphicons-person-stick": {
-    "prefix": "glyphicons-person-stick",
-    "body": "content: '\\\\E636';"
-  },
-  "glyphicons-inbox-in": {
-    "prefix": "glyphicons-inbox-in",
-    "body": "content: '\\\\E135';"
-  },
-  "glyphicons-router": {
-    "prefix": "glyphicons-router",
-    "body": "content: '\\\\E047';"
-  },
-  "glyphicons-align-center": {
-    "prefix": "glyphicons-align-center",
-    "body": "content: '\\\\E112';"
-  },
-  "glyphicons-share": {
-    "prefix": "glyphicons-share",
-    "body": "content: '\\\\E223';"
-  },
-  "glyphicons-charts": {
-    "prefix": "glyphicons-charts",
-    "body": "content: '\\\\E042';"
-  },
-  "glyphicons-sound-7-1": {
-    "prefix": "glyphicons-sound-7-1",
-    "body": "content: '\\\\E398';"
-  },
-  "glyphicons-global": {
-    "prefix": "glyphicons-global",
-    "body": "content: '\\\\E372';"
-  },
-  "glyphicons-lightbulb": {
-    "prefix": "glyphicons-lightbulb",
-    "body": "content: '\\\\E065';"
-  },
-  "glyphicons-woman": {
-    "prefix": "glyphicons-woman",
-    "body": "content: '\\\\E036';"
-  },
-  "glyphicons-glasses": {
-    "prefix": "glyphicons-glasses",
-    "body": "content: '\\\\E498';"
-  },
-  "glyphicons-gender-other": {
-    "prefix": "glyphicons-gender-other",
-    "body": "content: '\\\\E759';"
-  },
-  "glyphicons-pawn": {
-    "prefix": "glyphicons-pawn",
-    "body": "content: '\\\\E557';"
-  },
-  "glyphicons-collapse-top": {
-    "prefix": "glyphicons-collapse-top",
-    "body": "content: '\\\\E370';"
-  },
-  "glyphicons-mouse-double-click": {
-    "prefix": "glyphicons-mouse-double-click",
-    "body": "content: '\\\\E723';"
-  },
-  "glyphicons-satellite-dish": {
-    "prefix": "glyphicons-satellite-dish",
-    "body": "content: '\\\\E772';"
-  },
-  "glyphicons-server-flag": {
-    "prefix": "glyphicons-server-flag",
-    "body": "content: '\\\\E468';"
-  },
-  "glyphicons-direction": {
-    "prefix": "glyphicons-direction",
-    "body": "content: '\\\\E234';"
-  },
-  "glyphicons-filter-applied": {
-    "prefix": "glyphicons-filter-applied",
-    "body": "content: '\\\\E790';"
-  },
-  "glyphicons-stats": {
-    "prefix": "glyphicons-stats",
-    "body": "content: '\\\\E041';"
-  },
-  "glyphicons-text-smaller": {
-    "prefix": "glyphicons-text-smaller",
-    "body": "content: '\\\\E116';"
-  },
-  "glyphicons-teenager": {
-    "prefix": "glyphicons-teenager",
-    "body": "content: '\\\\E635';"
-  },
-  "glyphicons-bomb": {
-    "prefix": "glyphicons-bomb",
-    "body": "content: '\\\\E290';"
-  },
-  "glyphicons-playlist": {
-    "prefix": "glyphicons-playlist",
-    "body": "content: '\\\\E160';"
-  },
-  "glyphicons-server": {
-    "prefix": "glyphicons-server",
-    "body": "content: '\\\\E464';"
-  },
-  "glyphicons-object-align-vertical": {
-    "prefix": "glyphicons-object-align-vertical",
-    "body": "content: '\\\\E655';"
-  },
-  "glyphicons-resize-small": {
-    "prefix": "glyphicons-resize-small",
-    "body": "content: '\\\\E215';"
-  },
-  "glyphicons-fireplace": {
-    "prefix": "glyphicons-fireplace",
-    "body": "content: '\\\\E674';"
-  },
-  "glyphicons-move": {
-    "prefix": "glyphicons-move",
-    "body": "content: '\\\\E187';"
-  },
-  "glyphicons-star-empty": {
-    "prefix": "glyphicons-star-empty",
-    "body": "content: '\\\\E049';"
-  },
-  "glyphicons-parents": {
-    "prefix": "glyphicons-parents",
-    "body": "content: '\\\\E025';"
-  },
-  "glyphicons-temperature": {
-    "prefix": "glyphicons-temperature",
-    "body": "content: '\\\\E730';"
-  },
-  "glyphicons-circle-arrow-down": {
-    "prefix": "glyphicons-circle-arrow-down",
-    "body": "content: '\\\\E220';"
-  },
-  "glyphicons-text-background": {
-    "prefix": "glyphicons-text-background",
-    "body": "content: '\\\\E607';"
-  },
-  "glyphicons-vr-charging": {
-    "prefix": "glyphicons-vr-charging",
-    "body": "content: '\\\\E784';"
-  },
-  "glyphicons-database-search": {
-    "prefix": "glyphicons-database-search",
-    "body": "content: '\\\\E529';"
-  },
-  "glyphicons-cloud-minus": {
-    "prefix": "glyphicons-cloud-minus",
-    "body": "content: '\\\\E414';"
-  },
-  "glyphicons-user-alert": {
-    "prefix": "glyphicons-user-alert",
-    "body": "content: '\\\\E525';"
-  },
-  "glyphicons-reflect-y": {
-    "prefix": "glyphicons-reflect-y",
-    "body": "content: '\\\\E657';"
-  },
-  "glyphicons-reflect-x": {
-    "prefix": "glyphicons-reflect-x",
-    "body": "content: '\\\\E658';"
-  },
-  "glyphicons-pushpin": {
-    "prefix": "glyphicons-pushpin",
-    "body": "content: '\\\\E336';"
-  },
-  "glyphicons-text-resize": {
-    "prefix": "glyphicons-text-resize",
-    "body": "content: '\\\\E108';"
-  },
-  "glyphicons-log-out": {
-    "prefix": "glyphicons-log-out",
-    "body": "content: '\\\\E388';"
-  },
-  "glyphicons-refresh": {
-    "prefix": "glyphicons-refresh",
-    "body": "content: '\\\\E082';"
-  },
-  "glyphicons-suitcase": {
-    "prefix": "glyphicons-suitcase",
-    "body": "content: '\\\\E358';"
-  },
-  "glyphicons-sort-by-attributes-alt": {
-    "prefix": "glyphicons-sort-by-attributes-alt",
-    "body": "content: '\\\\E410';"
-  },
-  "glyphicons-knight": {
-    "prefix": "glyphicons-knight",
-    "body": "content: '\\\\E559';"
-  },
-  "glyphicons-disk-export": {
-    "prefix": "glyphicons-disk-export",
-    "body": "content: '\\\\E420';"
-  },
-  "glyphicons-none-color-swatch": {
-    "prefix": "glyphicons-none-color-swatch",
-    "body": "content: '\\\\E482';"
-  },
-  "glyphicons-grater": {
-    "prefix": "glyphicons-grater",
-    "body": "content: '\\\\E297';"
-  },
-  "glyphicons-bin": {
-    "prefix": "glyphicons-bin",
-    "body": "content: '\\\\E017';"
-  },
-  "glyphicons-file-export": {
-    "prefix": "glyphicons-file-export",
-    "body": "content: '\\\\E360';"
-  },
-  "glyphicons-headphones": {
-    "prefix": "glyphicons-headphones",
-    "body": "content: '\\\\E077';"
-  },
-  "glyphicons-glass": {
-    "prefix": "glyphicons-glass",
-    "body": "content: '\\\\E001';"
-  },
-  "glyphicons-sorting": {
-    "prefix": "glyphicons-sorting",
-    "body": "content: '\\\\E404';"
-  },
-  "glyphicons-volume-up": {
-    "prefix": "glyphicons-volume-up",
-    "body": "content: '\\\\E185';"
-  },
-  "glyphicons-life-preserver": {
-    "prefix": "glyphicons-life-preserver",
-    "body": "content: '\\\\E308';"
-  },
-  "glyphicons-remote-control": {
-    "prefix": "glyphicons-remote-control",
-    "body": "content: '\\\\E588';"
-  },
-  "glyphicons-hospital": {
-    "prefix": "glyphicons-hospital",
-    "body": "content: '\\\\E299';"
-  },
-  "glyphicons-snowflake": {
-    "prefix": "glyphicons-snowflake",
-    "body": "content: '\\\\E022';"
+    "body": "content: '\\\\E089';",
+    "prefix": "glyphicons-address-book"
   },
   "glyphicons-adjust-alt": {
-    "prefix": "glyphicons-adjust-alt",
-    "body": "content: '\\\\E140';"
-  },
-  "glyphicons-history": {
-    "prefix": "glyphicons-history",
-    "body": "content: '\\\\E058';"
-  },
-  "glyphicons-mic-mute": {
-    "prefix": "glyphicons-mic-mute",
-    "body": "content: '\\\\E560';"
-  },
-  "glyphicons-kiosk-wheels": {
-    "prefix": "glyphicons-kiosk-wheels",
-    "body": "content: '\\\\E455';"
-  },
-  "glyphicons-file-cloud": {
-    "prefix": "glyphicons-file-cloud",
-    "body": "content: '\\\\E706';"
-  },
-  "glyphicons-uk-rat-18": {
-    "prefix": "glyphicons-uk-rat-18",
-    "body": "content: '\\\\E576';"
-  },
-  "glyphicons-battery-charging": {
-    "prefix": "glyphicons-battery-charging",
-    "body": "content: '\\\\E765';"
-  },
-  "glyphicons-folder-plus": {
-    "prefix": "glyphicons-folder-plus",
-    "body": "content: '\\\\E146';"
-  },
-  "glyphicons-fit-frame-to-image": {
-    "prefix": "glyphicons-fit-frame-to-image",
-    "body": "content: '\\\\E487';"
-  },
-  "glyphicons-bed-alt": {
-    "prefix": "glyphicons-bed-alt",
-    "body": "content: '\\\\E496';"
-  },
-  "glyphicons-dice-4": {
-    "prefix": "glyphicons-dice-4",
-    "body": "content: '\\\\E798';"
-  },
-  "glyphicons-uk-rat-12": {
-    "prefix": "glyphicons-uk-rat-12",
-    "body": "content: '\\\\E574';"
-  },
-  "glyphicons-t-shirt": {
-    "prefix": "glyphicons-t-shirt",
-    "body": "content: '\\\\E284';"
-  },
-  "glyphicons-lock": {
-    "prefix": "glyphicons-lock",
-    "body": "content: '\\\\E204';"
-  },
-  "glyphicons-floppy-remove": {
-    "prefix": "glyphicons-floppy-remove",
-    "body": "content: '\\\\E446';"
-  },
-  "glyphicons-gender-intersex": {
-    "prefix": "glyphicons-gender-intersex",
-    "body": "content: '\\\\E754';"
-  },
-  "glyphicons-webcam": {
-    "prefix": "glyphicons-webcam",
-    "body": "content: '\\\\E302';"
-  },
-  "glyphicons-play-button": {
-    "prefix": "glyphicons-play-button",
-    "body": "content: '\\\\E221';"
-  },
-  "glyphicons-list": {
-    "prefix": "glyphicons-list",
-    "body": "content: '\\\\E115';"
-  },
-  "glyphicons-satellite": {
-    "prefix": "glyphicons-satellite",
-    "body": "content: '\\\\E771';"
-  },
-  "glyphicons-golf-course": {
-    "prefix": "glyphicons-golf-course",
-    "body": "content: '\\\\E403';"
-  },
-  "glyphicons-charging-station": {
-    "prefix": "glyphicons-charging-station",
-    "body": "content: '\\\\E471';"
-  },
-  "glyphicons-ruler": {
-    "prefix": "glyphicons-ruler",
-    "body": "content: '\\\\E069';"
-  },
-  "glyphicons-fire": {
-    "prefix": "glyphicons-fire",
-    "body": "content: '\\\\E023';"
-  },
-  "glyphicons-bell": {
-    "prefix": "glyphicons-bell",
-    "body": "content: '\\\\E334';"
-  },
-  "glyphicons-weather-warning": {
-    "prefix": "glyphicons-weather-warning",
-    "body": "content: '\\\\E693';"
-  },
-  "glyphicons-user-vr-add": {
-    "prefix": "glyphicons-user-vr-add",
-    "body": "content: '\\\\E793';"
-  },
-  "glyphicons-kiosk-light": {
-    "prefix": "glyphicons-kiosk-light",
-    "body": "content: '\\\\E456';"
-  },
-  "glyphicons-firework": {
-    "prefix": "glyphicons-firework",
-    "body": "content: '\\\\E553';"
-  },
-  "glyphicons-eye-open": {
-    "prefix": "glyphicons-eye-open",
-    "body": "content: '\\\\E052';"
-  },
-  "glyphicons-multifunction-printer": {
-    "prefix": "glyphicons-multifunction-printer",
-    "body": "content: '\\\\E762';"
-  },
-  "glyphicons-heart-empty": {
-    "prefix": "glyphicons-heart-empty",
-    "body": "content: '\\\\E020';"
-  },
-  "glyphicons-cluster": {
-    "prefix": "glyphicons-cluster",
-    "body": "content: '\\\\E508';"
-  },
-  "glyphicons-asterisk": {
-    "prefix": "glyphicons-asterisk",
-    "body": "content: '\\\\E249';"
-  },
-  "glyphicons-cadastral-map": {
-    "prefix": "glyphicons-cadastral-map",
-    "body": "content: '\\\\E740';"
-  },
-  "glyphicons-fit-image-to-frame": {
-    "prefix": "glyphicons-fit-image-to-frame",
-    "body": "content: '\\\\E488';"
-  },
-  "glyphicons-share-alt": {
-    "prefix": "glyphicons-share-alt",
-    "body": "content: '\\\\E309';"
-  },
-  "glyphicons-cogwheel": {
-    "prefix": "glyphicons-cogwheel",
-    "body": "content: '\\\\E137';"
-  },
-  "glyphicons-floppy-save": {
-    "prefix": "glyphicons-floppy-save",
-    "body": "content: '\\\\E447';"
-  },
-  "glyphicons-message-forward": {
-    "prefix": "glyphicons-message-forward",
-    "body": "content: '\\\\E381';"
-  },
-  "glyphicons-stopwatch": {
-    "prefix": "glyphicons-stopwatch",
-    "body": "content: '\\\\E056';"
-  },
-  "glyphicons-cloud-upload": {
-    "prefix": "glyphicons-cloud-upload",
-    "body": "content: '\\\\E364';"
-  },
-  "glyphicons-plus-sign": {
-    "prefix": "glyphicons-plus-sign",
-    "body": "content: '\\\\E191';"
-  },
-  "glyphicons-sound-5-1": {
-    "prefix": "glyphicons-sound-5-1",
-    "body": "content: '\\\\E396';"
-  },
-  "glyphicons-justify": {
-    "prefix": "glyphicons-justify",
-    "body": "content: '\\\\E114';"
-  },
-  "glyphicons-spade": {
-    "prefix": "glyphicons-spade",
-    "body": "content: '\\\\E263';"
-  },
-  "glyphicons-left-indent": {
-    "prefix": "glyphicons-left-indent",
-    "body": "content: '\\\\E109';"
-  },
-  "glyphicons-show-thumbnails-with-lines": {
-    "prefix": "glyphicons-show-thumbnails-with-lines",
-    "body": "content: '\\\\E158';"
-  },
-  "glyphicons-send": {
-    "prefix": "glyphicons-send",
-    "body": "content: '\\\\E422';"
-  },
-  "glyphicons-disk-remove": {
-    "prefix": "glyphicons-disk-remove",
-    "body": "content: '\\\\E418';"
-  },
-  "glyphicons-snorkel-diving": {
-    "prefix": "glyphicons-snorkel-diving",
-    "body": "content: '\\\\E251';"
-  },
-  "glyphicons-retweet": {
-    "prefix": "glyphicons-retweet",
-    "body": "content: '\\\\E081';"
-  },
-  "glyphicons-uk-rat-12a": {
-    "prefix": "glyphicons-uk-rat-12a",
-    "body": "content: '\\\\E573';"
-  },
-  "glyphicons-user-remove": {
-    "prefix": "glyphicons-user-remove",
-    "body": "content: '\\\\E008';"
-  },
-  "glyphicons-folder-open": {
-    "prefix": "glyphicons-folder-open",
-    "body": "content: '\\\\E145';"
-  },
-  "glyphicons-unlock": {
-    "prefix": "glyphicons-unlock",
-    "body": "content: '\\\\E205';"
-  },
-  "glyphicons-sampler": {
-    "prefix": "glyphicons-sampler",
-    "body": "content: '\\\\E328';"
-  },
-  "glyphicons-flood": {
-    "prefix": "glyphicons-flood",
-    "body": "content: '\\\\E677';"
-  },
-  "glyphicons-inbox-plus": {
-    "prefix": "glyphicons-inbox-plus",
-    "body": "content: '\\\\E132';"
-  },
-  "glyphicons-tick": {
-    "prefix": "glyphicons-tick",
-    "body": "content: '\\\\E659';"
-  },
-  "glyphicons-git-pull-request": {
-    "prefix": "glyphicons-git-pull-request",
-    "body": "content: '\\\\E428';"
-  },
-  "glyphicons-message-new": {
-    "prefix": "glyphicons-message-new",
-    "body": "content: '\\\\E130';"
-  },
-  "glyphicons-money": {
-    "prefix": "glyphicons-money",
-    "body": "content: '\\\\E459';"
-  },
-  "glyphicons-fast-food": {
-    "prefix": "glyphicons-fast-food",
-    "body": "content: '\\\\E276';"
-  },
-  "glyphicons-display": {
-    "prefix": "glyphicons-display",
-    "body": "content: '\\\\E087';"
-  },
-  "glyphicons-align-left": {
-    "prefix": "glyphicons-align-left",
-    "body": "content: '\\\\E111';"
-  },
-  "glyphicons-tag": {
-    "prefix": "glyphicons-tag",
-    "body": "content: '\\\\E066';"
-  },
-  "glyphicons-server-ban": {
-    "prefix": "glyphicons-server-ban",
-    "body": "content: '\\\\E467';"
-  },
-  "glyphicons-transfer": {
-    "prefix": "glyphicons-transfer",
-    "body": "content: '\\\\E458';"
-  },
-  "glyphicons-envelope": {
-    "prefix": "glyphicons-envelope",
-    "body": "content: '\\\\E011';"
-  },
-  "glyphicons-eye-close": {
-    "prefix": "glyphicons-eye-close",
-    "body": "content: '\\\\E053';"
-  },
-  "glyphicons-inbox-out": {
-    "prefix": "glyphicons-inbox-out",
-    "body": "content: '\\\\E136';"
-  },
-  "glyphicons-donate": {
-    "prefix": "glyphicons-donate",
-    "body": "content: '\\\\E625';"
-  },
-  "glyphicons-hygiene-kit": {
-    "prefix": "glyphicons-hygiene-kit",
-    "body": "content: '\\\\E478';"
-  },
-  "glyphicons-invoice": {
-    "prefix": "glyphicons-invoice",
-    "body": "content: '\\\\E539';"
-  },
-  "glyphicons-disk-saved": {
-    "prefix": "glyphicons-disk-saved",
-    "body": "content: '\\\\E417';"
-  },
-  "glyphicons-vcard": {
-    "prefix": "glyphicons-vcard",
-    "body": "content: '\\\\E265';"
-  },
-  "glyphicons-fingerprint-scan": {
-    "prefix": "glyphicons-fingerprint-scan",
-    "body": "content: '\\\\E741';"
-  },
-  "glyphicons-ipad": {
-    "prefix": "glyphicons-ipad",
-    "body": "content: '\\\\E163';"
-  },
-  "glyphicons-user-conversation": {
-    "prefix": "glyphicons-user-conversation",
-    "body": "content: '\\\\E527';"
-  },
-  "glyphicons-picture": {
-    "prefix": "glyphicons-picture",
-    "body": "content: '\\\\E139';"
-  },
-  "glyphicons-package": {
-    "prefix": "glyphicons-package",
-    "body": "content: '\\\\E412';"
-  },
-  "glyphicons-folder-flag": {
-    "prefix": "glyphicons-folder-flag",
-    "body": "content: '\\\\E149';"
-  },
-  "glyphicons-flowchart": {
-    "prefix": "glyphicons-flowchart",
-    "body": "content: '\\\\E509';"
-  },
-  "glyphicons-sheriffs-star": {
-    "prefix": "glyphicons-sheriffs-star",
-    "body": "content: '\\\\E258';"
-  },
-  "glyphicons-call-record": {
-    "prefix": "glyphicons-call-record",
-    "body": "content: '\\\\E663';"
-  },
-  "glyphicons-note-empty": {
-    "prefix": "glyphicons-note-empty",
-    "body": "content: '\\\\E247';"
-  },
-  "glyphicons-saw-blade": {
-    "prefix": "glyphicons-saw-blade",
-    "body": "content: '\\\\E462';"
-  },
-  "glyphicons-vr-settings": {
-    "prefix": "glyphicons-vr-settings",
-    "body": "content: '\\\\E787';"
-  },
-  "glyphicons-forward": {
-    "prefix": "glyphicons-forward",
-    "body": "content: '\\\\E177';"
-  },
-  "glyphicons-step-forward": {
-    "prefix": "glyphicons-step-forward",
-    "body": "content: '\\\\E179';"
-  },
-  "glyphicons-vector-path-square": {
-    "prefix": "glyphicons-vector-path-square",
-    "body": "content: '\\\\E095';"
-  },
-  "glyphicons-sorted-waste": {
-    "prefix": "glyphicons-sorted-waste",
-    "body": "content: '\\\\E700';"
-  },
-  "glyphicons-wrench": {
-    "prefix": "glyphicons-wrench",
-    "body": "content: '\\\\E440';"
-  },
-  "glyphicons-open-water": {
-    "prefix": "glyphicons-open-water",
-    "body": "content: '\\\\E678';"
-  },
-  "glyphicons-sunbath": {
-    "prefix": "glyphicons-sunbath",
-    "body": "content: '\\\\E686';"
-  },
-  "glyphicons-coffee-cup": {
-    "prefix": "glyphicons-coffee-cup",
-    "body": "content: '\\\\E295';"
-  },
-  "glyphicons-video-sd": {
-    "prefix": "glyphicons-video-sd",
-    "body": "content: '\\\\E391';"
-  },
-  "glyphicons-beach-umbrella": {
-    "prefix": "glyphicons-beach-umbrella",
-    "body": "content: '\\\\E014';"
-  },
-  "glyphicons-subtitles": {
-    "prefix": "glyphicons-subtitles",
-    "body": "content: '\\\\E393';"
-  },
-  "glyphicons-ear-plugs": {
-    "prefix": "glyphicons-ear-plugs",
-    "body": "content: '\\\\E169';"
-  },
-  "glyphicons-text-color": {
-    "prefix": "glyphicons-text-color",
-    "body": "content: '\\\\E606';"
-  },
-  "glyphicons-cart-tick": {
-    "prefix": "glyphicons-cart-tick",
-    "body": "content: '\\\\E540';"
-  },
-  "glyphicons-remove-sign": {
-    "prefix": "glyphicons-remove-sign",
-    "body": "content: '\\\\E193';"
-  },
-  "glyphicons-light-beacon": {
-    "prefix": "glyphicons-light-beacon",
-    "body": "content: '\\\\E648';"
-  },
-  "glyphicons-paperclip": {
-    "prefix": "glyphicons-paperclip",
-    "body": "content: '\\\\E063';"
-  },
-  "glyphicons-message-ban": {
-    "prefix": "glyphicons-message-ban",
-    "body": "content: '\\\\E127';"
-  },
-  "glyphicons-activity": {
-    "prefix": "glyphicons-activity",
-    "body": "content: '\\\\E597';"
-  },
-  "glyphicons-commodities": {
-    "prefix": "glyphicons-commodities",
-    "body": "content: '\\\\E510';"
-  },
-  "glyphicons-mountains": {
-    "prefix": "glyphicons-mountains",
-    "body": "content: '\\\\E616';"
-  },
-  "glyphicons-baseball": {
-    "prefix": "glyphicons-baseball",
-    "body": "content: '\\\\E312';"
-  },
-  "glyphicons-marriage": {
-    "prefix": "glyphicons-marriage",
-    "body": "content: '\\\\E480';"
-  },
-  "glyphicons-roundabout": {
-    "prefix": "glyphicons-roundabout",
-    "body": "content: '\\\\E083';"
-  },
-  "glyphicons-us-rat-pg-13": {
-    "prefix": "glyphicons-us-rat-pg-13",
-    "body": "content: '\\\\E583';"
-  },
-  "glyphicons-user": {
-    "prefix": "glyphicons-user",
-    "body": "content: '\\\\E004';"
-  },
-  "glyphicons-group-chat": {
-    "prefix": "glyphicons-group-chat",
-    "body": "content: '\\\\E640';"
-  },
-  "glyphicons-inbox-minus": {
-    "prefix": "glyphicons-inbox-minus",
-    "body": "content: '\\\\E133';"
-  },
-  "glyphicons-camp-fire": {
-    "prefix": "glyphicons-camp-fire",
-    "body": "content: '\\\\E682';"
-  },
-  "glyphicons-call-ringtone": {
-    "prefix": "glyphicons-call-ringtone",
-    "body": "content: '\\\\E664';"
-  },
-  "glyphicons-podcast": {
-    "prefix": "glyphicons-podcast",
-    "body": "content: '\\\\E552';"
-  },
-  "glyphicons-fabric": {
-    "prefix": "glyphicons-fabric",
-    "body": "content: '\\\\E287';"
-  },
-  "glyphicons-pool": {
-    "prefix": "glyphicons-pool",
-    "body": "content: '\\\\E261';"
-  },
-  "glyphicons-unchecked": {
-    "prefix": "glyphicons-unchecked",
-    "body": "content: '\\\\E154';"
-  },
-  "glyphicons-keynote": {
-    "prefix": "glyphicons-keynote",
-    "body": "content: '\\\\E062';"
-  },
-  "glyphicons-temple-hindu": {
-    "prefix": "glyphicons-temple-hindu",
-    "body": "content: '\\\\E305';"
-  },
-  "glyphicons-wifi": {
-    "prefix": "glyphicons-wifi",
-    "body": "content: '\\\\E074';"
-  },
-  "glyphicons-camping": {
-    "prefix": "glyphicons-camping",
-    "body": "content: '\\\\E611';"
-  },
-  "glyphicons-cube-black": {
-    "prefix": "glyphicons-cube-black",
-    "body": "content: '\\\\E780';"
-  },
-  "glyphicons-fingerprint-reload": {
-    "prefix": "glyphicons-fingerprint-reload",
-    "body": "content: '\\\\E746';"
-  },
-  "glyphicons-transport": {
-    "prefix": "glyphicons-transport",
-    "body": "content: '\\\\E568';"
-  },
-  "glyphicons-scale": {
-    "prefix": "glyphicons-scale",
-    "body": "content: '\\\\E554';"
-  },
-  "glyphicons-closed": {
-    "prefix": "glyphicons-closed",
-    "body": "content: '\\\\E721';"
-  },
-  "glyphicons-donate-heart": {
-    "prefix": "glyphicons-donate-heart",
-    "body": "content: '\\\\E711';"
-  },
-  "glyphicons-show-big-thumbnails": {
-    "prefix": "glyphicons-show-big-thumbnails",
-    "body": "content: '\\\\E156';"
-  },
-  "glyphicons-gender-male": {
-    "prefix": "glyphicons-gender-male",
-    "body": "content: '\\\\E751';"
-  },
-  "glyphicons-electrical-socket-us": {
-    "prefix": "glyphicons-electrical-socket-us",
-    "body": "content: '\\\\E380';"
-  },
-  "glyphicons-plus": {
-    "prefix": "glyphicons-plus",
-    "body": "content: '\\\\E433';"
-  },
-  "glyphicons-bold": {
-    "prefix": "glyphicons-bold",
-    "body": "content: '\\\\E103';"
-  },
-  "glyphicons-plate-of-food": {
-    "prefix": "glyphicons-plate-of-food",
-    "body": "content: '\\\\E477';"
-  },
-  "glyphicons-paragraph": {
-    "prefix": "glyphicons-paragraph",
-    "body": "content: '\\\\E709';"
-  },
-  "glyphicons-group": {
-    "prefix": "glyphicons-group",
-    "body": "content: '\\\\E044';"
-  },
-  "glyphicons-film": {
-    "prefix": "glyphicons-film",
-    "body": "content: '\\\\E009';"
-  },
-  "glyphicons-bicycle": {
-    "prefix": "glyphicons-bicycle",
-    "body": "content: '\\\\E307';"
-  },
-  "glyphicons-gamepad": {
-    "prefix": "glyphicons-gamepad",
-    "body": "content: '\\\\E322';"
-  },
-  "glyphicons-voicemail": {
-    "prefix": "glyphicons-voicemail",
-    "body": "content: '\\\\E561';"
-  },
-  "glyphicons-pause": {
-    "prefix": "glyphicons-pause",
-    "body": "content: '\\\\E175';"
-  },
-  "glyphicons-user-key": {
-    "prefix": "glyphicons-user-key",
-    "body": "content: '\\\\E526';"
-  },
-  "glyphicons-us-rat-restricted": {
-    "prefix": "glyphicons-us-rat-restricted",
-    "body": "content: '\\\\E584';"
-  },
-  "glyphicons-list-numbered": {
-    "prefix": "glyphicons-list-numbered",
-    "body": "content: '\\\\E710';"
-  },
-  "glyphicons-hospital-h": {
-    "prefix": "glyphicons-hospital-h",
-    "body": "content: '\\\\E300';"
-  },
-  "glyphicons-baby-formula": {
-    "prefix": "glyphicons-baby-formula",
-    "body": "content: '\\\\E492';"
-  },
-  "glyphicons-storm": {
-    "prefix": "glyphicons-storm",
-    "body": "content: '\\\\E699';"
-  },
-  "glyphicons-minus-sign": {
-    "prefix": "glyphicons-minus-sign",
-    "body": "content: '\\\\E192';"
-  },
-  "glyphicons-call-ip": {
-    "prefix": "glyphicons-call-ip",
-    "body": "content: '\\\\E662';"
-  },
-  "glyphicons-security-camera": {
-    "prefix": "glyphicons-security-camera",
-    "body": "content: '\\\\E367';"
-  },
-  "glyphicons-balanced-diet": {
-    "prefix": "glyphicons-balanced-diet",
-    "body": "content: '\\\\E687';"
-  },
-  "glyphicons-wallet": {
-    "prefix": "glyphicons-wallet",
-    "body": "content: '\\\\E326';"
-  },
-  "glyphicons-sound-6-1": {
-    "prefix": "glyphicons-sound-6-1",
-    "body": "content: '\\\\E397';"
-  },
-  "glyphicons-battery-10": {
-    "prefix": "glyphicons-battery-10",
-    "body": "content: '\\\\E770';"
-  },
-  "glyphicons-random": {
-    "prefix": "glyphicons-random",
-    "body": "content: '\\\\E084';"
-  },
-  "glyphicons-ban-circle": {
-    "prefix": "glyphicons-ban-circle",
-    "body": "content: '\\\\E200';"
-  },
-  "glyphicons-resize-horizontal": {
-    "prefix": "glyphicons-resize-horizontal",
-    "body": "content: '\\\\E729';"
-  },
-  "glyphicons-chronicle": {
-    "prefix": "glyphicons-chronicle",
-    "body": "content: '\\\\E714';"
+    "body": "content: '\\\\E140';",
+    "prefix": "glyphicons-adjust-alt"
+  },
+  "glyphicons-adjust": {
+    "body": "content: '\\\\E092';",
+    "prefix": "glyphicons-adjust"
   },
   "glyphicons-alarm": {
-    "prefix": "glyphicons-alarm",
-    "body": "content: '\\\\E054';"
+    "body": "content: '\\\\E054';",
+    "prefix": "glyphicons-alarm"
   },
-  "glyphicons-field": {
-    "prefix": "glyphicons-field",
-    "body": "content: '\\\\E615';"
+  "glyphicons-albums": {
+    "body": "content: '\\\\E240';",
+    "prefix": "glyphicons-albums"
   },
-  "glyphicons-brush": {
-    "prefix": "glyphicons-brush",
-    "body": "content: '\\\\E235';"
+  "glyphicons-alert": {
+    "body": "content: '\\\\E505';",
+    "prefix": "glyphicons-alert"
   },
-  "glyphicons-temple-buddhist": {
-    "prefix": "glyphicons-temple-buddhist",
-    "body": "content: '\\\\E306';"
+  "glyphicons-align-center": {
+    "body": "content: '\\\\E112';",
+    "prefix": "glyphicons-align-center"
   },
-  "glyphicons-dog": {
-    "prefix": "glyphicons-dog",
-    "body": "content: '\\\\E003';"
+  "glyphicons-align-left": {
+    "body": "content: '\\\\E111';",
+    "prefix": "glyphicons-align-left"
   },
-  "glyphicons-translate": {
-    "prefix": "glyphicons-translate",
-    "body": "content: '\\\\E449';"
+  "glyphicons-align-right": {
+    "body": "content: '\\\\E113';",
+    "prefix": "glyphicons-align-right"
   },
-  "glyphicons-gender-transgender": {
-    "prefix": "glyphicons-gender-transgender",
-    "body": "content: '\\\\E755';"
+  "glyphicons-ambulance": {
+    "body": "content: '\\\\E647';",
+    "prefix": "glyphicons-ambulance"
   },
-  "glyphicons-lab-alt": {
-    "prefix": "glyphicons-lab-alt",
-    "body": "content: '\\\\E535';"
+  "glyphicons-anchor": {
+    "body": "content: '\\\\E244';",
+    "prefix": "glyphicons-anchor"
   },
-  "glyphicons-heartbeat": {
-    "prefix": "glyphicons-heartbeat",
-    "body": "content: '\\\\E672';"
+  "glyphicons-arrow-down": {
+    "body": "content: '\\\\E213';",
+    "prefix": "glyphicons-arrow-down"
   },
-  "glyphicons-italic": {
-    "prefix": "glyphicons-italic",
-    "body": "content: '\\\\E102';"
+  "glyphicons-arrow-left": {
+    "body": "content: '\\\\E211';",
+    "prefix": "glyphicons-arrow-left"
   },
-  "glyphicons-message-flag": {
-    "prefix": "glyphicons-message-flag",
-    "body": "content: '\\\\E128';"
+  "glyphicons-arrow-right": {
+    "body": "content: '\\\\E212';",
+    "prefix": "glyphicons-arrow-right"
+  },
+  "glyphicons-arrow-up": {
+    "body": "content: '\\\\E214';",
+    "prefix": "glyphicons-arrow-up"
+  },
+  "glyphicons-article": {
+    "body": "content: '\\\\E685';",
+    "prefix": "glyphicons-article"
+  },
+  "glyphicons-asterisk": {
+    "body": "content: '\\\\E249';",
+    "prefix": "glyphicons-asterisk"
+  },
+  "glyphicons-atv-vehicle": {
+    "body": "content: '\\\\E494';",
+    "prefix": "glyphicons-atv-vehicle"
+  },
+  "glyphicons-auction": {
+    "body": "content: '\\\\E774';",
+    "prefix": "glyphicons-auction"
+  },
+  "glyphicons-ax": {
+    "body": "content: '\\\\E314';",
+    "prefix": "glyphicons-ax"
+  },
+  "glyphicons-baby-formula": {
+    "body": "content: '\\\\E492';",
+    "prefix": "glyphicons-baby-formula"
+  },
+  "glyphicons-balanced-diet": {
+    "body": "content: '\\\\E687';",
+    "prefix": "glyphicons-balanced-diet"
+  },
+  "glyphicons-ban-circle": {
+    "body": "content: '\\\\E200';",
+    "prefix": "glyphicons-ban-circle"
+  },
+  "glyphicons-bank": {
+    "body": "content: '\\\\E264';",
+    "prefix": "glyphicons-bank"
+  },
+  "glyphicons-barcode": {
+    "body": "content: '\\\\E260';",
+    "prefix": "glyphicons-barcode"
+  },
+  "glyphicons-baseball": {
+    "body": "content: '\\\\E312';",
+    "prefix": "glyphicons-baseball"
+  },
+  "glyphicons-basketball": {
+    "body": "content: '\\\\E463';",
+    "prefix": "glyphicons-basketball"
+  },
+  "glyphicons-bath-bathtub": {
+    "body": "content: '\\\\E514';",
+    "prefix": "glyphicons-bath-bathtub"
+  },
+  "glyphicons-bath-shower": {
+    "body": "content: '\\\\E515';",
+    "prefix": "glyphicons-bath-shower"
+  },
+  "glyphicons-bath": {
+    "body": "content: '\\\\E624';",
+    "prefix": "glyphicons-bath"
+  },
+  "glyphicons-bathrobe": {
+    "body": "content: '\\\\E384';",
+    "prefix": "glyphicons-bathrobe"
+  },
+  "glyphicons-battery-10": {
+    "body": "content: '\\\\E770';",
+    "prefix": "glyphicons-battery-10"
+  },
+  "glyphicons-battery-25": {
+    "body": "content: '\\\\E769';",
+    "prefix": "glyphicons-battery-25"
+  },
+  "glyphicons-battery-50": {
+    "body": "content: '\\\\E768';",
+    "prefix": "glyphicons-battery-50"
+  },
+  "glyphicons-battery-75": {
+    "body": "content: '\\\\E767';",
+    "prefix": "glyphicons-battery-75"
+  },
+  "glyphicons-battery-charging": {
+    "body": "content: '\\\\E765';",
+    "prefix": "glyphicons-battery-charging"
+  },
+  "glyphicons-battery-full": {
+    "body": "content: '\\\\E766';",
+    "prefix": "glyphicons-battery-full"
+  },
+  "glyphicons-beach-umbrella": {
+    "body": "content: '\\\\E014';",
+    "prefix": "glyphicons-beach-umbrella"
+  },
+  "glyphicons-bed-alt": {
+    "body": "content: '\\\\E496';",
+    "prefix": "glyphicons-bed-alt"
+  },
+  "glyphicons-bed": {
+    "body": "content: '\\\\E474';",
+    "prefix": "glyphicons-bed"
+  },
+  "glyphicons-bedroom-lamp": {
+    "body": "content: '\\\\E628';",
+    "prefix": "glyphicons-bedroom-lamp"
+  },
+  "glyphicons-bedroom-nightstand": {
+    "body": "content: '\\\\E627';",
+    "prefix": "glyphicons-bedroom-nightstand"
+  },
+  "glyphicons-beer": {
+    "body": "content: '\\\\E275';",
+    "prefix": "glyphicons-beer"
+  },
+  "glyphicons-bell": {
+    "body": "content: '\\\\E334';",
+    "prefix": "glyphicons-bell"
+  },
+  "glyphicons-bicycle": {
+    "body": "content: '\\\\E307';",
+    "prefix": "glyphicons-bicycle"
   },
   "glyphicons-bike-park": {
-    "prefix": "glyphicons-bike-park",
-    "body": "content: '\\\\E650';"
+    "body": "content: '\\\\E650';",
+    "prefix": "glyphicons-bike-park"
   },
-  "glyphicons-scissors-alt": {
-    "prefix": "glyphicons-scissors-alt",
-    "body": "content: '\\\\E599';"
+  "glyphicons-bin": {
+    "body": "content: '\\\\E017';",
+    "prefix": "glyphicons-bin"
   },
-  "glyphicons-view-360": {
-    "prefix": "glyphicons-view-360",
-    "body": "content: '\\\\E764';"
+  "glyphicons-binoculars": {
+    "body": "content: '\\\\E026';",
+    "prefix": "glyphicons-binoculars"
   },
-  "glyphicons-pipe": {
-    "prefix": "glyphicons-pipe",
-    "body": "content: '\\\\E439';"
+  "glyphicons-birthday-cake": {
+    "body": "content: '\\\\E279';",
+    "prefix": "glyphicons-birthday-cake"
   },
-  "glyphicons-police": {
-    "prefix": "glyphicons-police",
-    "body": "content: '\\\\E646';"
+  "glyphicons-bishop": {
+    "body": "content: '\\\\E558';",
+    "prefix": "glyphicons-bishop"
   },
-  "glyphicons-rotate-left": {
-    "prefix": "glyphicons-rotate-left",
-    "body": "content: '\\\\E737';"
+  "glyphicons-bitcoin": {
+    "body": "content: '\\\\E548';",
+    "prefix": "glyphicons-bitcoin"
   },
-  "glyphicons-file-lock": {
-    "prefix": "glyphicons-file-lock",
-    "body": "content: '\\\\E705';"
+  "glyphicons-blackboard": {
+    "body": "content: '\\\\E479';",
+    "prefix": "glyphicons-blackboard"
+  },
+  "glyphicons-blacksmith": {
+    "body": "content: '\\\\E461';",
+    "prefix": "glyphicons-blacksmith"
+  },
+  "glyphicons-blog": {
+    "body": "content: '\\\\E331';",
+    "prefix": "glyphicons-blog"
+  },
+  "glyphicons-bluetooth": {
+    "body": "content: '\\\\E226';",
+    "prefix": "glyphicons-bluetooth"
+  },
+  "glyphicons-boat": {
+    "body": "content: '\\\\E256';",
+    "prefix": "glyphicons-boat"
+  },
+  "glyphicons-bold": {
+    "body": "content: '\\\\E103';",
+    "prefix": "glyphicons-bold"
+  },
+  "glyphicons-bomb": {
+    "body": "content: '\\\\E290';",
+    "prefix": "glyphicons-bomb"
+  },
+  "glyphicons-book-open": {
+    "body": "content: '\\\\E352';",
+    "prefix": "glyphicons-book-open"
+  },
+  "glyphicons-book": {
+    "body": "content: '\\\\E072';",
+    "prefix": "glyphicons-book"
+  },
+  "glyphicons-bookmark": {
+    "body": "content: '\\\\E073';",
+    "prefix": "glyphicons-bookmark"
+  },
+  "glyphicons-bowling": {
+    "body": "content: '\\\\E316';",
+    "prefix": "glyphicons-bowling"
+  },
+  "glyphicons-briefcase": {
+    "body": "content: '\\\\E342';",
+    "prefix": "glyphicons-briefcase"
+  },
+  "glyphicons-brightness-increase": {
+    "body": "content: '\\\\E190';",
+    "prefix": "glyphicons-brightness-increase"
+  },
+  "glyphicons-brightness-reduce": {
+    "body": "content: '\\\\E189';",
+    "prefix": "glyphicons-brightness-reduce"
+  },
+  "glyphicons-bring-forward": {
+    "body": "content: '\\\\E483';",
+    "prefix": "glyphicons-bring-forward"
+  },
+  "glyphicons-bring-to-front": {
+    "body": "content: '\\\\E484';",
+    "prefix": "glyphicons-bring-to-front"
+  },
+  "glyphicons-brush": {
+    "body": "content: '\\\\E235';",
+    "prefix": "glyphicons-brush"
+  },
+  "glyphicons-bucket": {
+    "body": "content: '\\\\E481';",
+    "prefix": "glyphicons-bucket"
+  },
+  "glyphicons-bug": {
+    "body": "content: '\\\\E361';",
+    "prefix": "glyphicons-bug"
+  },
+  "glyphicons-building": {
+    "body": "content: '\\\\E090';",
+    "prefix": "glyphicons-building"
+  },
+  "glyphicons-bullets": {
+    "body": "content: '\\\\E282';",
+    "prefix": "glyphicons-bullets"
+  },
+  "glyphicons-bullhorn": {
+    "body": "content: '\\\\E356';",
+    "prefix": "glyphicons-bullhorn"
+  },
+  "glyphicons-buoy": {
+    "body": "content: '\\\\E262';",
+    "prefix": "glyphicons-buoy"
+  },
+  "glyphicons-bus": {
+    "body": "content: '\\\\E032';",
+    "prefix": "glyphicons-bus"
+  },
+  "glyphicons-businessman": {
+    "body": "content: '\\\\E622';",
+    "prefix": "glyphicons-businessman"
+  },
+  "glyphicons-cadastral-map": {
+    "body": "content: '\\\\E740';",
+    "prefix": "glyphicons-cadastral-map"
+  },
+  "glyphicons-cake": {
+    "body": "content: '\\\\E273';",
+    "prefix": "glyphicons-cake"
+  },
+  "glyphicons-calculator": {
+    "body": "content: '\\\\E324';",
+    "prefix": "glyphicons-calculator"
+  },
+  "glyphicons-calendar": {
+    "body": "content: '\\\\E046';",
+    "prefix": "glyphicons-calendar"
+  },
+  "glyphicons-call-hold": {
+    "body": "content: '\\\\E666';",
+    "prefix": "glyphicons-call-hold"
+  },
+  "glyphicons-call-incoming": {
+    "body": "content: '\\\\E667';",
+    "prefix": "glyphicons-call-incoming"
+  },
+  "glyphicons-call-ip": {
+    "body": "content: '\\\\E662';",
+    "prefix": "glyphicons-call-ip"
+  },
+  "glyphicons-call-missed": {
+    "body": "content: '\\\\E670';",
+    "prefix": "glyphicons-call-missed"
+  },
+  "glyphicons-call-outgoing": {
+    "body": "content: '\\\\E668';",
+    "prefix": "glyphicons-call-outgoing"
+  },
+  "glyphicons-call-record": {
+    "body": "content: '\\\\E663';",
+    "prefix": "glyphicons-call-record"
+  },
+  "glyphicons-call-redirect": {
+    "body": "content: '\\\\E661';",
+    "prefix": "glyphicons-call-redirect"
+  },
+  "glyphicons-call-ringtone": {
+    "body": "content: '\\\\E664';",
+    "prefix": "glyphicons-call-ringtone"
+  },
+  "glyphicons-call-traffic": {
+    "body": "content: '\\\\E665';",
+    "prefix": "glyphicons-call-traffic"
+  },
+  "glyphicons-call-video": {
+    "body": "content: '\\\\E669';",
+    "prefix": "glyphicons-call-video"
+  },
+  "glyphicons-camera-small": {
+    "body": "content: '\\\\E048';",
+    "prefix": "glyphicons-camera-small"
+  },
+  "glyphicons-camera": {
+    "body": "content: '\\\\E012';",
+    "prefix": "glyphicons-camera"
+  },
+  "glyphicons-camp-fire": {
+    "body": "content: '\\\\E682';",
+    "prefix": "glyphicons-camp-fire"
+  },
+  "glyphicons-camping-benches": {
+    "body": "content: '\\\\E612';",
+    "prefix": "glyphicons-camping-benches"
+  },
+  "glyphicons-camping": {
+    "body": "content: '\\\\E611';",
+    "prefix": "glyphicons-camping"
+  },
+  "glyphicons-candle": {
+    "body": "content: '\\\\E335';",
+    "prefix": "glyphicons-candle"
+  },
+  "glyphicons-car-hov": {
+    "body": "content: '\\\\E566';",
+    "prefix": "glyphicons-car-hov"
+  },
+  "glyphicons-car-rental": {
+    "body": "content: '\\\\E567';",
+    "prefix": "glyphicons-car-rental"
+  },
+  "glyphicons-car-wheel": {
+    "body": "content: '\\\\E600';",
+    "prefix": "glyphicons-car-wheel"
+  },
+  "glyphicons-car": {
+    "body": "content: '\\\\E006';",
+    "prefix": "glyphicons-car"
+  },
+  "glyphicons-cardio": {
+    "body": "content: '\\\\E283';",
+    "prefix": "glyphicons-cardio"
+  },
+  "glyphicons-cargo": {
+    "body": "content: '\\\\E060';",
+    "prefix": "glyphicons-cargo"
+  },
+  "glyphicons-cars": {
+    "body": "content: '\\\\E029';",
+    "prefix": "glyphicons-cars"
+  },
+  "glyphicons-cart-in": {
+    "body": "content: '\\\\E209';",
+    "prefix": "glyphicons-cart-in"
+  },
+  "glyphicons-cart-out": {
+    "body": "content: '\\\\E210';",
+    "prefix": "glyphicons-cart-out"
+  },
+  "glyphicons-cart-tick": {
+    "body": "content: '\\\\E540';",
+    "prefix": "glyphicons-cart-tick"
+  },
+  "glyphicons-cat": {
+    "body": "content: '\\\\E542';",
+    "prefix": "glyphicons-cat"
+  },
+  "glyphicons-cd": {
+    "body": "content: '\\\\E504';",
+    "prefix": "glyphicons-cd"
+  },
+  "glyphicons-celebration": {
+    "body": "content: '\\\\E292';",
+    "prefix": "glyphicons-celebration"
+  },
+  "glyphicons-certificate": {
+    "body": "content: '\\\\E333';",
+    "prefix": "glyphicons-certificate"
+  },
+  "glyphicons-charging-station": {
+    "body": "content: '\\\\E471';",
+    "prefix": "glyphicons-charging-station"
+  },
+  "glyphicons-charts": {
+    "body": "content: '\\\\E042';",
+    "prefix": "glyphicons-charts"
+  },
+  "glyphicons-chat": {
+    "body": "content: '\\\\E246';",
+    "prefix": "glyphicons-chat"
+  },
+  "glyphicons-check": {
+    "body": "content: '\\\\E153';",
+    "prefix": "glyphicons-check"
+  },
+  "glyphicons-chevron-down": {
+    "body": "content: '\\\\E602';",
+    "prefix": "glyphicons-chevron-down"
+  },
+  "glyphicons-chevron-left": {
+    "body": "content: '\\\\E225';",
+    "prefix": "glyphicons-chevron-left"
+  },
+  "glyphicons-chevron-right": {
+    "body": "content: '\\\\E224';",
+    "prefix": "glyphicons-chevron-right"
+  },
+  "glyphicons-chevron-up": {
+    "body": "content: '\\\\E601';",
+    "prefix": "glyphicons-chevron-up"
+  },
+  "glyphicons-child": {
+    "body": "content: '\\\\E491';",
+    "prefix": "glyphicons-child"
+  },
+  "glyphicons-chronicle": {
+    "body": "content: '\\\\E714';",
+    "prefix": "glyphicons-chronicle"
+  },
+  "glyphicons-circle-arrow-down": {
+    "body": "content: '\\\\E220';",
+    "prefix": "glyphicons-circle-arrow-down"
+  },
+  "glyphicons-circle-arrow-left": {
+    "body": "content: '\\\\E217';",
+    "prefix": "glyphicons-circle-arrow-left"
+  },
+  "glyphicons-circle-arrow-right": {
+    "body": "content: '\\\\E218';",
+    "prefix": "glyphicons-circle-arrow-right"
+  },
+  "glyphicons-circle-arrow-top": {
+    "body": "content: '\\\\E219';",
+    "prefix": "glyphicons-circle-arrow-top"
+  },
+  "glyphicons-classic-hammer": {
+    "body": "content: '\\\\E376';",
+    "prefix": "glyphicons-classic-hammer"
+  },
+  "glyphicons-claw-hammer": {
+    "body": "content: '\\\\E375';",
+    "prefix": "glyphicons-claw-hammer"
+  },
+  "glyphicons-cleaning": {
+    "body": "content: '\\\\E068';",
+    "prefix": "glyphicons-cleaning"
+  },
+  "glyphicons-clock": {
+    "body": "content: '\\\\E055';",
+    "prefix": "glyphicons-clock"
+  },
+  "glyphicons-closed": {
+    "body": "content: '\\\\E721';",
+    "prefix": "glyphicons-closed"
+  },
+  "glyphicons-cloud-download": {
+    "body": "content: '\\\\E365';",
+    "prefix": "glyphicons-cloud-download"
+  },
+  "glyphicons-cloud-minus": {
+    "body": "content: '\\\\E414';",
+    "prefix": "glyphicons-cloud-minus"
+  },
+  "glyphicons-cloud-plus": {
+    "body": "content: '\\\\E413';",
+    "prefix": "glyphicons-cloud-plus"
+  },
+  "glyphicons-cloud-upload": {
+    "body": "content: '\\\\E364';",
+    "prefix": "glyphicons-cloud-upload"
+  },
+  "glyphicons-cloud": {
+    "body": "content: '\\\\E233';",
+    "prefix": "glyphicons-cloud"
+  },
+  "glyphicons-cluster": {
+    "body": "content: '\\\\E508';",
+    "prefix": "glyphicons-cluster"
+  },
+  "glyphicons-coat-hanger": {
+    "body": "content: '\\\\E382';",
+    "prefix": "glyphicons-coat-hanger"
+  },
+  "glyphicons-coffee-cup": {
+    "body": "content: '\\\\E295';",
+    "prefix": "glyphicons-coffee-cup"
+  },
+  "glyphicons-cogwheel": {
+    "body": "content: '\\\\E137';",
+    "prefix": "glyphicons-cogwheel"
+  },
+  "glyphicons-cogwheels": {
+    "body": "content: '\\\\E138';",
+    "prefix": "glyphicons-cogwheels"
+  },
+  "glyphicons-coins": {
+    "body": "content: '\\\\E038';",
+    "prefix": "glyphicons-coins"
+  },
+  "glyphicons-collapse-top": {
+    "body": "content: '\\\\E370';",
+    "prefix": "glyphicons-collapse-top"
+  },
+  "glyphicons-collapse": {
+    "body": "content: '\\\\E369';",
+    "prefix": "glyphicons-collapse"
+  },
+  "glyphicons-comments": {
+    "body": "content: '\\\\E310';",
+    "prefix": "glyphicons-comments"
+  },
+  "glyphicons-commodities": {
+    "body": "content: '\\\\E510';",
+    "prefix": "glyphicons-commodities"
   },
   "glyphicons-compass": {
-    "prefix": "glyphicons-compass",
-    "body": "content: '\\\\E061';"
+    "body": "content: '\\\\E061';",
+    "prefix": "glyphicons-compass"
   },
-  "glyphicons-object-align-bottom": {
-    "prefix": "glyphicons-object-align-bottom",
-    "body": "content: '\\\\E652';"
+  "glyphicons-compressed": {
+    "body": "content: '\\\\E411';",
+    "prefix": "glyphicons-compressed"
   },
-  "glyphicons-list-alt": {
-    "prefix": "glyphicons-list-alt",
-    "body": "content: '\\\\E530';"
+  "glyphicons-construction-cone": {
+    "body": "content: '\\\\E431';",
+    "prefix": "glyphicons-construction-cone"
   },
-  "glyphicons-ice-lolly": {
-    "prefix": "glyphicons-ice-lolly",
-    "body": "content: '\\\\E537';"
+  "glyphicons-conversation": {
+    "body": "content: '\\\\E245';",
+    "prefix": "glyphicons-conversation"
   },
-  "glyphicons-send-backward": {
-    "prefix": "glyphicons-send-backward",
-    "body": "content: '\\\\E485';"
+  "glyphicons-copy": {
+    "body": "content: '\\\\E512';",
+    "prefix": "glyphicons-copy"
+  },
+  "glyphicons-copyright-mark": {
+    "body": "content: '\\\\E399';",
+    "prefix": "glyphicons-copyright-mark"
+  },
+  "glyphicons-credit-card": {
+    "body": "content: '\\\\E268';",
+    "prefix": "glyphicons-credit-card"
+  },
+  "glyphicons-crop": {
+    "body": "content: '\\\\E094';",
+    "prefix": "glyphicons-crop"
+  },
+  "glyphicons-crown": {
+    "body": "content: '\\\\E362';",
+    "prefix": "glyphicons-crown"
+  },
+  "glyphicons-cube-black": {
+    "body": "content: '\\\\E780';",
+    "prefix": "glyphicons-cube-black"
+  },
+  "glyphicons-cube-empty": {
+    "body": "content: '\\\\E779';",
+    "prefix": "glyphicons-cube-empty"
+  },
+  "glyphicons-cup": {
+    "body": "content: '\\\\E075';",
+    "prefix": "glyphicons-cup"
+  },
+  "glyphicons-currency-conversion": {
+    "body": "content: '\\\\E520';",
+    "prefix": "glyphicons-currency-conversion"
+  },
+  "glyphicons-cutlery": {
+    "body": "content: '\\\\E277';",
+    "prefix": "glyphicons-cutlery"
+  },
+  "glyphicons-dashboard": {
+    "body": "content: '\\\\E332';",
+    "prefix": "glyphicons-dashboard"
+  },
+  "glyphicons-database-ban": {
+    "body": "content: '\\\\E144';",
+    "prefix": "glyphicons-database-ban"
+  },
+  "glyphicons-database-lock": {
+    "body": "content: '\\\\E141';",
+    "prefix": "glyphicons-database-lock"
+  },
+  "glyphicons-database-minus": {
+    "body": "content: '\\\\E143';",
+    "prefix": "glyphicons-database-minus"
+  },
+  "glyphicons-database-plus": {
+    "body": "content: '\\\\E142';",
+    "prefix": "glyphicons-database-plus"
+  },
+  "glyphicons-database-search": {
+    "body": "content: '\\\\E529';",
+    "prefix": "glyphicons-database-search"
+  },
+  "glyphicons-database": {
+    "body": "content: '\\\\E528';",
+    "prefix": "glyphicons-database"
+  },
+  "glyphicons-delete": {
+    "body": "content: '\\\\E257';",
+    "prefix": "glyphicons-delete"
+  },
+  "glyphicons-dice-1": {
+    "body": "content: '\\\\E795';",
+    "prefix": "glyphicons-dice-1"
+  },
+  "glyphicons-dice-2": {
+    "body": "content: '\\\\E796';",
+    "prefix": "glyphicons-dice-2"
+  },
+  "glyphicons-dice-3": {
+    "body": "content: '\\\\E797';",
+    "prefix": "glyphicons-dice-3"
+  },
+  "glyphicons-dice-4": {
+    "body": "content: '\\\\E798';",
+    "prefix": "glyphicons-dice-4"
+  },
+  "glyphicons-dice-5": {
+    "body": "content: '\\\\E799';",
+    "prefix": "glyphicons-dice-5"
+  },
+  "glyphicons-dice-6": {
+    "body": "content: '\\\\E800';",
+    "prefix": "glyphicons-dice-6"
+  },
+  "glyphicons-dining-set": {
+    "body": "content: '\\\\E476';",
+    "prefix": "glyphicons-dining-set"
+  },
+  "glyphicons-direction": {
+    "body": "content: '\\\\E234';",
+    "prefix": "glyphicons-direction"
+  },
+  "glyphicons-directions": {
+    "body": "content: '\\\\E775';",
+    "prefix": "glyphicons-directions"
+  },
+  "glyphicons-dishwasher": {
+    "body": "content: '\\\\E633';",
+    "prefix": "glyphicons-dishwasher"
+  },
+  "glyphicons-disk-export": {
+    "body": "content: '\\\\E420';",
+    "prefix": "glyphicons-disk-export"
+  },
+  "glyphicons-disk-import": {
+    "body": "content: '\\\\E419';",
+    "prefix": "glyphicons-disk-import"
+  },
+  "glyphicons-disk-open": {
+    "body": "content: '\\\\E416';",
+    "prefix": "glyphicons-disk-open"
+  },
+  "glyphicons-disk-remove": {
+    "body": "content: '\\\\E418';",
+    "prefix": "glyphicons-disk-remove"
+  },
+  "glyphicons-disk-save": {
+    "body": "content: '\\\\E415';",
+    "prefix": "glyphicons-disk-save"
+  },
+  "glyphicons-disk-saved": {
+    "body": "content: '\\\\E417';",
+    "prefix": "glyphicons-disk-saved"
+  },
+  "glyphicons-display": {
+    "body": "content: '\\\\E087';",
+    "prefix": "glyphicons-display"
+  },
+  "glyphicons-divide": {
+    "body": "content: '\\\\E250';",
+    "prefix": "glyphicons-divide"
+  },
+  "glyphicons-doctor": {
+    "body": "content: '\\\\E629';",
+    "prefix": "glyphicons-doctor"
+  },
+  "glyphicons-dog": {
+    "body": "content: '\\\\E003';",
+    "prefix": "glyphicons-dog"
+  },
+  "glyphicons-donate-heart": {
+    "body": "content: '\\\\E711';",
+    "prefix": "glyphicons-donate-heart"
+  },
+  "glyphicons-donate": {
+    "body": "content: '\\\\E625';",
+    "prefix": "glyphicons-donate"
+  },
+  "glyphicons-door": {
+    "body": "content: '\\\\E681';",
+    "prefix": "glyphicons-door"
+  },
+  "glyphicons-download-alt": {
+    "body": "content: '\\\\E182';",
+    "prefix": "glyphicons-download-alt"
+  },
+  "glyphicons-download": {
+    "body": "content: '\\\\E201';",
+    "prefix": "glyphicons-download"
+  },
+  "glyphicons-dress": {
+    "body": "content: '\\\\E383';",
+    "prefix": "glyphicons-dress"
+  },
+  "glyphicons-drink": {
+    "body": "content: '\\\\E274';",
+    "prefix": "glyphicons-drink"
+  },
+  "glyphicons-drop": {
+    "body": "content: '\\\\E782';",
+    "prefix": "glyphicons-drop"
+  },
+  "glyphicons-dryer": {
+    "body": "content: '\\\\E632';",
+    "prefix": "glyphicons-dryer"
+  },
+  "glyphicons-dumbbell": {
+    "body": "content: '\\\\E357';",
+    "prefix": "glyphicons-dumbbell"
+  },
+  "glyphicons-duplicate": {
+    "body": "content: '\\\\E511';",
+    "prefix": "glyphicons-duplicate"
+  },
+  "glyphicons-dustbin": {
+    "body": "content: '\\\\E680';",
+    "prefix": "glyphicons-dustbin"
+  },
+  "glyphicons-ear-deaf": {
+    "body": "content: '\\\\E702';",
+    "prefix": "glyphicons-ear-deaf"
+  },
+  "glyphicons-ear-plugs": {
+    "body": "content: '\\\\E169';",
+    "prefix": "glyphicons-ear-plugs"
+  },
+  "glyphicons-ear": {
+    "body": "content: '\\\\E701';",
+    "prefix": "glyphicons-ear"
+  },
+  "glyphicons-earphone": {
+    "body": "content: '\\\\E443';",
+    "prefix": "glyphicons-earphone"
   },
   "glyphicons-edit": {
-    "prefix": "glyphicons-edit",
-    "body": "content: '\\\\E151';"
+    "body": "content: '\\\\E151';",
+    "prefix": "glyphicons-edit"
   },
-  "glyphicons-tower": {
-    "prefix": "glyphicons-tower",
-    "body": "content: '\\\\E421';"
+  "glyphicons-education": {
+    "body": "content: '\\\\E501';",
+    "prefix": "glyphicons-education"
   },
-  "glyphicons-government": {
-    "prefix": "glyphicons-government",
-    "body": "content: '\\\\E712';"
+  "glyphicons-eject": {
+    "body": "content: '\\\\E180';",
+    "prefix": "glyphicons-eject"
   },
-  "glyphicons-stop": {
-    "prefix": "glyphicons-stop",
-    "body": "content: '\\\\E176';"
+  "glyphicons-elections": {
+    "body": "content: '\\\\E641';",
+    "prefix": "glyphicons-elections"
   },
-  "glyphicons-ice-cream": {
-    "prefix": "glyphicons-ice-cream",
-    "body": "content: '\\\\E536';"
+  "glyphicons-electrical-plug": {
+    "body": "content: '\\\\E266';",
+    "prefix": "glyphicons-electrical-plug"
   },
-  "glyphicons-hand-left": {
-    "prefix": "glyphicons-hand-left",
-    "body": "content: '\\\\E347';"
+  "glyphicons-electrical-socket-eu": {
+    "body": "content: '\\\\E379';",
+    "prefix": "glyphicons-electrical-socket-eu"
   },
-  "glyphicons-hdd": {
-    "prefix": "glyphicons-hdd",
-    "body": "content: '\\\\E343';"
+  "glyphicons-electrical-socket-us": {
+    "body": "content: '\\\\E380';",
+    "prefix": "glyphicons-electrical-socket-us"
+  },
+  "glyphicons-electricity": {
+    "body": "content: '\\\\E206';",
+    "prefix": "glyphicons-electricity"
+  },
+  "glyphicons-embed-close": {
+    "body": "content: '\\\\E119';",
+    "prefix": "glyphicons-embed-close"
+  },
+  "glyphicons-embed": {
+    "body": "content: '\\\\E118';",
+    "prefix": "glyphicons-embed"
+  },
+  "glyphicons-engineering-networks": {
+    "body": "content: '\\\\E630';",
+    "prefix": "glyphicons-engineering-networks"
+  },
+  "glyphicons-envelope": {
+    "body": "content: '\\\\E011';",
+    "prefix": "glyphicons-envelope"
+  },
+  "glyphicons-equalizer": {
+    "body": "content: '\\\\E586';",
+    "prefix": "glyphicons-equalizer"
+  },
+  "glyphicons-erase": {
+    "body": "content: '\\\\E551';",
+    "prefix": "glyphicons-erase"
+  },
+  "glyphicons-euro": {
+    "body": "content: '\\\\E227';",
+    "prefix": "glyphicons-euro"
+  },
+  "glyphicons-exclamation-sign": {
+    "body": "content: '\\\\E197';",
+    "prefix": "glyphicons-exclamation-sign"
+  },
+  "glyphicons-exit": {
+    "body": "content: '\\\\E389';",
+    "prefix": "glyphicons-exit"
+  },
+  "glyphicons-expand": {
+    "body": "content: '\\\\E368';",
+    "prefix": "glyphicons-expand"
+  },
+  "glyphicons-eye-close": {
+    "body": "content: '\\\\E053';",
+    "prefix": "glyphicons-eye-close"
+  },
+  "glyphicons-eye-minus": {
+    "body": "content: '\\\\E546';",
+    "prefix": "glyphicons-eye-minus"
+  },
+  "glyphicons-eye-open": {
+    "body": "content: '\\\\E052';",
+    "prefix": "glyphicons-eye-open"
+  },
+  "glyphicons-eye-plus": {
+    "body": "content: '\\\\E545';",
+    "prefix": "glyphicons-eye-plus"
+  },
+  "glyphicons-eyedropper": {
+    "body": "content: '\\\\E091';",
+    "prefix": "glyphicons-eyedropper"
+  },
+  "glyphicons-fabric": {
+    "body": "content: '\\\\E287';",
+    "prefix": "glyphicons-fabric"
+  },
+  "glyphicons-facetime-video": {
+    "body": "content: '\\\\E181';",
+    "prefix": "glyphicons-facetime-video"
+  },
+  "glyphicons-factory": {
+    "body": "content: '\\\\E451';",
+    "prefix": "glyphicons-factory"
+  },
+  "glyphicons-family": {
+    "body": "content: '\\\\E500';",
+    "prefix": "glyphicons-family"
+  },
+  "glyphicons-fast-backward": {
+    "body": "content: '\\\\E172';",
+    "prefix": "glyphicons-fast-backward"
+  },
+  "glyphicons-fast-food": {
+    "body": "content: '\\\\E276';",
+    "prefix": "glyphicons-fast-food"
+  },
+  "glyphicons-fast-forward": {
+    "body": "content: '\\\\E178';",
+    "prefix": "glyphicons-fast-forward"
+  },
+  "glyphicons-fax": {
+    "body": "content: '\\\\E450';",
+    "prefix": "glyphicons-fax"
+  },
+  "glyphicons-fees-payments": {
+    "body": "content: '\\\\E617';",
+    "prefix": "glyphicons-fees-payments"
+  },
+  "glyphicons-field": {
+    "body": "content: '\\\\E615';",
+    "prefix": "glyphicons-field"
+  },
+  "glyphicons-file-cloud-download": {
+    "body": "content: '\\\\E707';",
+    "prefix": "glyphicons-file-cloud-download"
+  },
+  "glyphicons-file-cloud-upload": {
+    "body": "content: '\\\\E708';",
+    "prefix": "glyphicons-file-cloud-upload"
+  },
+  "glyphicons-file-cloud": {
+    "body": "content: '\\\\E706';",
+    "prefix": "glyphicons-file-cloud"
+  },
+  "glyphicons-file-export": {
+    "body": "content: '\\\\E360';",
+    "prefix": "glyphicons-file-export"
+  },
+  "glyphicons-file-import": {
+    "body": "content: '\\\\E359';",
+    "prefix": "glyphicons-file-import"
+  },
+  "glyphicons-file-lock": {
+    "body": "content: '\\\\E705';",
+    "prefix": "glyphicons-file-lock"
+  },
+  "glyphicons-file-minus": {
+    "body": "content: '\\\\E704';",
+    "prefix": "glyphicons-file-minus"
+  },
+  "glyphicons-file-plus": {
+    "body": "content: '\\\\E703';",
+    "prefix": "glyphicons-file-plus"
   },
   "glyphicons-file": {
-    "prefix": "glyphicons-file",
-    "body": "content: '\\\\E037';"
+    "body": "content: '\\\\E037';",
+    "prefix": "glyphicons-file"
   },
-  "glyphicons-message-plus": {
-    "prefix": "glyphicons-message-plus",
-    "body": "content: '\\\\E125';"
+  "glyphicons-film": {
+    "body": "content: '\\\\E009';",
+    "prefix": "glyphicons-film"
   },
-  "glyphicons-repeat": {
-    "prefix": "glyphicons-repeat",
-    "body": "content: '\\\\E086';"
+  "glyphicons-filter-applied": {
+    "body": "content: '\\\\E790';",
+    "prefix": "glyphicons-filter-applied"
   },
-  "glyphicons-text-size": {
-    "prefix": "glyphicons-text-size",
-    "body": "content: '\\\\E605';"
+  "glyphicons-filter-remove": {
+    "body": "content: '\\\\E789';",
+    "prefix": "glyphicons-filter-remove"
+  },
+  "glyphicons-filter": {
+    "body": "content: '\\\\E321';",
+    "prefix": "glyphicons-filter"
+  },
+  "glyphicons-fingerprint-lock": {
+    "body": "content: '\\\\E743';",
+    "prefix": "glyphicons-fingerprint-lock"
+  },
+  "glyphicons-fingerprint-ok": {
+    "body": "content: '\\\\E744';",
+    "prefix": "glyphicons-fingerprint-ok"
+  },
+  "glyphicons-fingerprint-reload": {
+    "body": "content: '\\\\E746';",
+    "prefix": "glyphicons-fingerprint-reload"
+  },
+  "glyphicons-fingerprint-remove": {
+    "body": "content: '\\\\E745';",
+    "prefix": "glyphicons-fingerprint-remove"
+  },
+  "glyphicons-fingerprint-scan": {
+    "body": "content: '\\\\E741';",
+    "prefix": "glyphicons-fingerprint-scan"
+  },
+  "glyphicons-fingerprint": {
+    "body": "content: '\\\\E742';",
+    "prefix": "glyphicons-fingerprint"
+  },
+  "glyphicons-fins": {
+    "body": "content: '\\\\E254';",
+    "prefix": "glyphicons-fins"
+  },
+  "glyphicons-fire": {
+    "body": "content: '\\\\E023';",
+    "prefix": "glyphicons-fire"
+  },
+  "glyphicons-firefighters": {
+    "body": "content: '\\\\E645';",
+    "prefix": "glyphicons-firefighters"
+  },
+  "glyphicons-fireplace": {
+    "body": "content: '\\\\E674';",
+    "prefix": "glyphicons-fireplace"
+  },
+  "glyphicons-firework": {
+    "body": "content: '\\\\E553';",
+    "prefix": "glyphicons-firework"
+  },
+  "glyphicons-fishes": {
+    "body": "content: '\\\\E255';",
+    "prefix": "glyphicons-fishes"
+  },
+  "glyphicons-fit-frame-to-image": {
+    "body": "content: '\\\\E487';",
+    "prefix": "glyphicons-fit-frame-to-image"
+  },
+  "glyphicons-fit-image-to-frame": {
+    "body": "content: '\\\\E488';",
+    "prefix": "glyphicons-fit-image-to-frame"
+  },
+  "glyphicons-flag": {
+    "body": "content: '\\\\E267';",
+    "prefix": "glyphicons-flag"
+  },
+  "glyphicons-flash": {
+    "body": "content: '\\\\E242';",
+    "prefix": "glyphicons-flash"
+  },
+  "glyphicons-fleur-de-lis": {
+    "body": "content: '\\\\E683';",
+    "prefix": "glyphicons-fleur-de-lis"
+  },
+  "glyphicons-flood": {
+    "body": "content: '\\\\E677';",
+    "prefix": "glyphicons-flood"
+  },
+  "glyphicons-floppy-disk": {
+    "body": "content: '\\\\E444';",
+    "prefix": "glyphicons-floppy-disk"
+  },
+  "glyphicons-floppy-open": {
+    "body": "content: '\\\\E448';",
+    "prefix": "glyphicons-floppy-open"
+  },
+  "glyphicons-floppy-remove": {
+    "body": "content: '\\\\E446';",
+    "prefix": "glyphicons-floppy-remove"
+  },
+  "glyphicons-floppy-save": {
+    "body": "content: '\\\\E447';",
+    "prefix": "glyphicons-floppy-save"
+  },
+  "glyphicons-floppy-saved": {
+    "body": "content: '\\\\E445';",
+    "prefix": "glyphicons-floppy-saved"
+  },
+  "glyphicons-flowchart": {
+    "body": "content: '\\\\E509';",
+    "prefix": "glyphicons-flowchart"
+  },
+  "glyphicons-flower": {
+    "body": "content: '\\\\E311';",
+    "prefix": "glyphicons-flower"
+  },
+  "glyphicons-folder-closed": {
+    "body": "content: '\\\\E441';",
+    "prefix": "glyphicons-folder-closed"
+  },
+  "glyphicons-folder-flag": {
+    "body": "content: '\\\\E149';",
+    "prefix": "glyphicons-folder-flag"
+  },
+  "glyphicons-folder-heart": {
+    "body": "content: '\\\\E591';",
+    "prefix": "glyphicons-folder-heart"
+  },
+  "glyphicons-folder-lock": {
+    "body": "content: '\\\\E148';",
+    "prefix": "glyphicons-folder-lock"
+  },
+  "glyphicons-folder-minus": {
+    "body": "content: '\\\\E147';",
+    "prefix": "glyphicons-folder-minus"
+  },
+  "glyphicons-folder-new": {
+    "body": "content: '\\\\E150';",
+    "prefix": "glyphicons-folder-new"
+  },
+  "glyphicons-folder-open": {
+    "body": "content: '\\\\E145';",
+    "prefix": "glyphicons-folder-open"
+  },
+  "glyphicons-folder-plus": {
+    "body": "content: '\\\\E146';",
+    "prefix": "glyphicons-folder-plus"
+  },
+  "glyphicons-font": {
+    "body": "content: '\\\\E101';",
+    "prefix": "glyphicons-font"
+  },
+  "glyphicons-for-sale": {
+    "body": "content: '\\\\E679';",
+    "prefix": "glyphicons-for-sale"
+  },
+  "glyphicons-forest": {
+    "body": "content: '\\\\E613';",
+    "prefix": "glyphicons-forest"
+  },
+  "glyphicons-forward": {
+    "body": "content: '\\\\E177';",
+    "prefix": "glyphicons-forward"
+  },
+  "glyphicons-french-press": {
+    "body": "content: '\\\\E294';",
+    "prefix": "glyphicons-french-press"
+  },
+  "glyphicons-fullscreen": {
+    "body": "content: '\\\\E350';",
+    "prefix": "glyphicons-fullscreen"
+  },
+  "glyphicons-gamepad": {
+    "body": "content: '\\\\E322';",
+    "prefix": "glyphicons-gamepad"
+  },
+  "glyphicons-gas-station": {
+    "body": "content: '\\\\E472';",
+    "prefix": "glyphicons-gas-station"
+  },
+  "glyphicons-gas": {
+    "body": "content: '\\\\E717';",
+    "prefix": "glyphicons-gas"
+  },
+  "glyphicons-gbp": {
+    "body": "content: '\\\\E229';",
+    "prefix": "glyphicons-gbp"
+  },
+  "glyphicons-gender-female": {
+    "body": "content: '\\\\E752';",
+    "prefix": "glyphicons-gender-female"
+  },
+  "glyphicons-gender-intersex": {
+    "body": "content: '\\\\E754';",
+    "prefix": "glyphicons-gender-intersex"
+  },
+  "glyphicons-gender-male": {
+    "body": "content: '\\\\E751';",
+    "prefix": "glyphicons-gender-male"
+  },
+  "glyphicons-gender-ori-gay": {
+    "body": "content: '\\\\E757';",
+    "prefix": "glyphicons-gender-ori-gay"
+  },
+  "glyphicons-gender-ori-hetero": {
+    "body": "content: '\\\\E758';",
+    "prefix": "glyphicons-gender-ori-hetero"
+  },
+  "glyphicons-gender-ori-lesbian": {
+    "body": "content: '\\\\E756';",
+    "prefix": "glyphicons-gender-ori-lesbian"
+  },
+  "glyphicons-gender-other": {
+    "body": "content: '\\\\E759';",
+    "prefix": "glyphicons-gender-other"
+  },
+  "glyphicons-gender-transgender": {
+    "body": "content: '\\\\E755';",
+    "prefix": "glyphicons-gender-transgender"
+  },
+  "glyphicons-gender-unknown": {
+    "body": "content: '\\\\E760';",
+    "prefix": "glyphicons-gender-unknown"
+  },
+  "glyphicons-gender-virgin-female": {
+    "body": "content: '\\\\E753';",
+    "prefix": "glyphicons-gender-virgin-female"
+  },
+  "glyphicons-gift": {
+    "body": "content: '\\\\E070';",
+    "prefix": "glyphicons-gift"
+  },
+  "glyphicons-girl": {
+    "body": "content: '\\\\E005';",
+    "prefix": "glyphicons-girl"
+  },
+  "glyphicons-git-branch": {
+    "body": "content: '\\\\E423';",
+    "prefix": "glyphicons-git-branch"
+  },
+  "glyphicons-git-commit": {
+    "body": "content: '\\\\E430';",
+    "prefix": "glyphicons-git-commit"
+  },
+  "glyphicons-git-compare": {
+    "body": "content: '\\\\E429';",
+    "prefix": "glyphicons-git-compare"
+  },
+  "glyphicons-git-create": {
+    "body": "content: '\\\\E424';",
+    "prefix": "glyphicons-git-create"
+  },
+  "glyphicons-git-delete": {
+    "body": "content: '\\\\E426';",
+    "prefix": "glyphicons-git-delete"
+  },
+  "glyphicons-git-merge": {
+    "body": "content: '\\\\E427';",
+    "prefix": "glyphicons-git-merge"
+  },
+  "glyphicons-git-private": {
+    "body": "content: '\\\\E425';",
+    "prefix": "glyphicons-git-private"
+  },
+  "glyphicons-git-pull-request": {
+    "body": "content: '\\\\E428';",
+    "prefix": "glyphicons-git-pull-request"
+  },
+  "glyphicons-glass": {
+    "body": "content: '\\\\E001';",
+    "prefix": "glyphicons-glass"
+  },
+  "glyphicons-glasses": {
+    "body": "content: '\\\\E498';",
+    "prefix": "glyphicons-glasses"
+  },
+  "glyphicons-global": {
+    "body": "content: '\\\\E372';",
+    "prefix": "glyphicons-global"
+  },
+  "glyphicons-globe-af": {
+    "body": "content: '\\\\E371';",
+    "prefix": "glyphicons-globe-af"
+  },
+  "glyphicons-globe": {
+    "body": "content: '\\\\E341';",
+    "prefix": "glyphicons-globe"
+  },
+  "glyphicons-golf-course": {
+    "body": "content: '\\\\E403';",
+    "prefix": "glyphicons-golf-course"
+  },
+  "glyphicons-golf": {
+    "body": "content: '\\\\E437';",
+    "prefix": "glyphicons-golf"
+  },
+  "glyphicons-government": {
+    "body": "content: '\\\\E712';",
+    "prefix": "glyphicons-government"
+  },
+  "glyphicons-grater": {
+    "body": "content: '\\\\E297';",
+    "prefix": "glyphicons-grater"
+  },
+  "glyphicons-group-chat": {
+    "body": "content: '\\\\E640';",
+    "prefix": "glyphicons-group-chat"
+  },
+  "glyphicons-group": {
+    "body": "content: '\\\\E044';",
+    "prefix": "glyphicons-group"
+  },
+  "glyphicons-hand-down": {
+    "body": "content: '\\\\E349';",
+    "prefix": "glyphicons-hand-down"
+  },
+  "glyphicons-hand-left": {
+    "body": "content: '\\\\E347';",
+    "prefix": "glyphicons-hand-left"
+  },
+  "glyphicons-hand-right": {
+    "body": "content: '\\\\E346';",
+    "prefix": "glyphicons-hand-right"
+  },
+  "glyphicons-hand-saw": {
+    "body": "content: '\\\\E377';",
+    "prefix": "glyphicons-hand-saw"
+  },
+  "glyphicons-hand-up": {
+    "body": "content: '\\\\E348';",
+    "prefix": "glyphicons-hand-up"
+  },
+  "glyphicons-handshake": {
+    "body": "content: '\\\\E490';",
+    "prefix": "glyphicons-handshake"
+  },
+  "glyphicons-hash": {
+    "body": "content: '\\\\E750';",
+    "prefix": "glyphicons-hash"
+  },
+  "glyphicons-hazard-sign": {
+    "body": "content: '\\\\E531';",
+    "prefix": "glyphicons-hazard-sign"
   },
   "glyphicons-hazard": {
-    "prefix": "glyphicons-hazard",
-    "body": "content: '\\\\E532';"
+    "body": "content: '\\\\E532';",
+    "prefix": "glyphicons-hazard"
+  },
+  "glyphicons-hdd": {
+    "body": "content: '\\\\E343';",
+    "prefix": "glyphicons-hdd"
+  },
+  "glyphicons-header": {
+    "body": "content: '\\\\E460';",
+    "prefix": "glyphicons-header"
+  },
+  "glyphicons-headphones": {
+    "body": "content: '\\\\E077';",
+    "prefix": "glyphicons-headphones"
+  },
+  "glyphicons-headset": {
+    "body": "content: '\\\\E078';",
+    "prefix": "glyphicons-headset"
+  },
+  "glyphicons-heart-empty": {
+    "body": "content: '\\\\E020';",
+    "prefix": "glyphicons-heart-empty"
+  },
+  "glyphicons-heart": {
+    "body": "content: '\\\\E013';",
+    "prefix": "glyphicons-heart"
+  },
+  "glyphicons-heartbeat": {
+    "body": "content: '\\\\E672';",
+    "prefix": "glyphicons-heartbeat"
+  },
+  "glyphicons-heat": {
+    "body": "content: '\\\\E085';",
+    "prefix": "glyphicons-heat"
+  },
+  "glyphicons-history": {
+    "body": "content: '\\\\E058';",
+    "prefix": "glyphicons-history"
+  },
+  "glyphicons-hockey": {
+    "body": "content: '\\\\E438';",
+    "prefix": "glyphicons-hockey"
+  },
+  "glyphicons-home": {
+    "body": "content: '\\\\E021';",
+    "prefix": "glyphicons-home"
+  },
+  "glyphicons-hospital-h": {
+    "body": "content: '\\\\E300';",
+    "prefix": "glyphicons-hospital-h"
+  },
+  "glyphicons-hospital": {
+    "body": "content: '\\\\E299';",
+    "prefix": "glyphicons-hospital"
+  },
+  "glyphicons-hourglass": {
+    "body": "content: '\\\\E541';",
+    "prefix": "glyphicons-hourglass"
+  },
+  "glyphicons-house-fire": {
+    "body": "content: '\\\\E644';",
+    "prefix": "glyphicons-house-fire"
+  },
+  "glyphicons-hurricane": {
+    "body": "content: '\\\\E698';",
+    "prefix": "glyphicons-hurricane"
+  },
+  "glyphicons-hygiene-kit": {
+    "body": "content: '\\\\E478';",
+    "prefix": "glyphicons-hygiene-kit"
+  },
+  "glyphicons-ice-cream-no": {
+    "body": "content: '\\\\E570';",
+    "prefix": "glyphicons-ice-cream-no"
+  },
+  "glyphicons-ice-cream": {
+    "body": "content: '\\\\E536';",
+    "prefix": "glyphicons-ice-cream"
+  },
+  "glyphicons-ice-lolly-tasted": {
+    "body": "content: '\\\\E538';",
+    "prefix": "glyphicons-ice-lolly-tasted"
+  },
+  "glyphicons-ice-lolly": {
+    "body": "content: '\\\\E537';",
+    "prefix": "glyphicons-ice-lolly"
+  },
+  "glyphicons-imac": {
+    "body": "content: '\\\\E161';",
+    "prefix": "glyphicons-imac"
+  },
+  "glyphicons-important-day": {
+    "body": "content: '\\\\E649';",
+    "prefix": "glyphicons-important-day"
+  },
+  "glyphicons-inbox-in": {
+    "body": "content: '\\\\E135';",
+    "prefix": "glyphicons-inbox-in"
+  },
+  "glyphicons-inbox-lock": {
+    "body": "content: '\\\\E134';",
+    "prefix": "glyphicons-inbox-lock"
+  },
+  "glyphicons-inbox-minus": {
+    "body": "content: '\\\\E133';",
+    "prefix": "glyphicons-inbox-minus"
+  },
+  "glyphicons-inbox-out": {
+    "body": "content: '\\\\E136';",
+    "prefix": "glyphicons-inbox-out"
+  },
+  "glyphicons-inbox-plus": {
+    "body": "content: '\\\\E132';",
+    "prefix": "glyphicons-inbox-plus"
+  },
+  "glyphicons-inbox": {
+    "body": "content: '\\\\E131';",
+    "prefix": "glyphicons-inbox"
+  },
+  "glyphicons-industrial-zone": {
+    "body": "content: '\\\\E620';",
+    "prefix": "glyphicons-industrial-zone"
+  },
+  "glyphicons-info-sign": {
+    "body": "content: '\\\\E196';",
+    "prefix": "glyphicons-info-sign"
+  },
+  "glyphicons-invoice": {
+    "body": "content: '\\\\E539';",
+    "prefix": "glyphicons-invoice"
+  },
+  "glyphicons-ipad": {
+    "body": "content: '\\\\E163';",
+    "prefix": "glyphicons-ipad"
+  },
+  "glyphicons-iphone-exchange": {
+    "body": "content: '\\\\E166';",
+    "prefix": "glyphicons-iphone-exchange"
+  },
+  "glyphicons-iphone-shake": {
+    "body": "content: '\\\\E337';",
+    "prefix": "glyphicons-iphone-shake"
+  },
+  "glyphicons-iphone-transfer": {
+    "body": "content: '\\\\E165';",
+    "prefix": "glyphicons-iphone-transfer"
+  },
+  "glyphicons-iphone": {
+    "body": "content: '\\\\E164';",
+    "prefix": "glyphicons-iphone"
+  },
+  "glyphicons-ipod-shuffle": {
+    "body": "content: '\\\\E168';",
+    "prefix": "glyphicons-ipod-shuffle"
+  },
+  "glyphicons-ipod": {
+    "body": "content: '\\\\E167';",
+    "prefix": "glyphicons-ipod"
+  },
+  "glyphicons-italic": {
+    "body": "content: '\\\\E102';",
+    "prefix": "glyphicons-italic"
+  },
+  "glyphicons-judiciary": {
+    "body": "content: '\\\\E643';",
+    "prefix": "glyphicons-judiciary"
+  },
+  "glyphicons-justify": {
+    "body": "content: '\\\\E114';",
+    "prefix": "glyphicons-justify"
+  },
+  "glyphicons-kettle": {
+    "body": "content: '\\\\E298';",
+    "prefix": "glyphicons-kettle"
+  },
+  "glyphicons-kettlebell": {
+    "body": "content: '\\\\E673';",
+    "prefix": "glyphicons-kettlebell"
+  },
+  "glyphicons-keyboard-wireless": {
+    "body": "content: '\\\\E270';",
+    "prefix": "glyphicons-keyboard-wireless"
+  },
+  "glyphicons-keynote": {
+    "body": "content: '\\\\E062';",
+    "prefix": "glyphicons-keynote"
+  },
+  "glyphicons-keys": {
+    "body": "content: '\\\\E045';",
+    "prefix": "glyphicons-keys"
+  },
+  "glyphicons-king": {
+    "body": "content: '\\\\E555';",
+    "prefix": "glyphicons-king"
+  },
+  "glyphicons-kiosk-food": {
+    "body": "content: '\\\\E457';",
+    "prefix": "glyphicons-kiosk-food"
+  },
+  "glyphicons-kiosk-light": {
+    "body": "content: '\\\\E456';",
+    "prefix": "glyphicons-kiosk-light"
+  },
+  "glyphicons-kiosk-wheels": {
+    "body": "content: '\\\\E455';",
+    "prefix": "glyphicons-kiosk-wheels"
+  },
+  "glyphicons-kiosk": {
+    "body": "content: '\\\\E454';",
+    "prefix": "glyphicons-kiosk"
+  },
+  "glyphicons-knight": {
+    "body": "content: '\\\\E559';",
+    "prefix": "glyphicons-knight"
+  },
+  "glyphicons-lab-alt": {
+    "body": "content: '\\\\E535';",
+    "prefix": "glyphicons-lab-alt"
+  },
+  "glyphicons-lab": {
+    "body": "content: '\\\\E534';",
+    "prefix": "glyphicons-lab"
+  },
+  "glyphicons-lamp": {
+    "body": "content: '\\\\E543';",
+    "prefix": "glyphicons-lamp"
+  },
+  "glyphicons-laptop": {
+    "body": "content: '\\\\E691';",
+    "prefix": "glyphicons-laptop"
+  },
+  "glyphicons-lasso": {
+    "body": "content: '\\\\E763';",
+    "prefix": "glyphicons-lasso"
+  },
+  "glyphicons-law-justice": {
+    "body": "content: '\\\\E642';",
+    "prefix": "glyphicons-law-justice"
+  },
+  "glyphicons-lawnmower": {
+    "body": "content: '\\\\E660';",
+    "prefix": "glyphicons-lawnmower"
+  },
+  "glyphicons-leaf": {
+    "body": "content: '\\\\E002';",
+    "prefix": "glyphicons-leaf"
+  },
+  "glyphicons-leather": {
+    "body": "content: '\\\\E288';",
+    "prefix": "glyphicons-leather"
+  },
+  "glyphicons-left-indent": {
+    "body": "content: '\\\\E109';",
+    "prefix": "glyphicons-left-indent"
+  },
+  "glyphicons-life-preserver": {
+    "body": "content: '\\\\E308';",
+    "prefix": "glyphicons-life-preserver"
+  },
+  "glyphicons-light-beacon": {
+    "body": "content: '\\\\E648';",
+    "prefix": "glyphicons-light-beacon"
+  },
+  "glyphicons-lightbulb": {
+    "body": "content: '\\\\E065';",
+    "prefix": "glyphicons-lightbulb"
+  },
+  "glyphicons-link": {
+    "body": "content: '\\\\E051';",
+    "prefix": "glyphicons-link"
+  },
+  "glyphicons-list-alt": {
+    "body": "content: '\\\\E530';",
+    "prefix": "glyphicons-list-alt"
+  },
+  "glyphicons-list-numbered": {
+    "body": "content: '\\\\E710';",
+    "prefix": "glyphicons-list-numbered"
+  },
+  "glyphicons-list": {
+    "body": "content: '\\\\E115';",
+    "prefix": "glyphicons-list"
+  },
+  "glyphicons-lock": {
+    "body": "content: '\\\\E204';",
+    "prefix": "glyphicons-lock"
+  },
+  "glyphicons-log-book": {
+    "body": "content: '\\\\E088';",
+    "prefix": "glyphicons-log-book"
+  },
+  "glyphicons-log-in": {
+    "body": "content: '\\\\E387';",
+    "prefix": "glyphicons-log-in"
+  },
+  "glyphicons-log-out": {
+    "body": "content: '\\\\E388';",
+    "prefix": "glyphicons-log-out"
+  },
+  "glyphicons-luggage-group": {
+    "body": "content: '\\\\E634';",
+    "prefix": "glyphicons-luggage-group"
+  },
+  "glyphicons-luggage": {
+    "body": "content: '\\\\E034';",
+    "prefix": "glyphicons-luggage"
+  },
+  "glyphicons-macbook": {
+    "body": "content: '\\\\E162';",
+    "prefix": "glyphicons-macbook"
+  },
+  "glyphicons-magic": {
+    "body": "content: '\\\\E010';",
+    "prefix": "glyphicons-magic"
+  },
+  "glyphicons-magnet": {
+    "body": "content: '\\\\E024';",
+    "prefix": "glyphicons-magnet"
+  },
+  "glyphicons-map-marker": {
+    "body": "content: '\\\\E243';",
+    "prefix": "glyphicons-map-marker"
+  },
+  "glyphicons-map": {
+    "body": "content: '\\\\E503';",
+    "prefix": "glyphicons-map"
+  },
+  "glyphicons-marriage": {
+    "body": "content: '\\\\E480';",
+    "prefix": "glyphicons-marriage"
+  },
+  "glyphicons-maze": {
+    "body": "content: '\\\\E713';",
+    "prefix": "glyphicons-maze"
+  },
+  "glyphicons-medicine": {
+    "body": "content: '\\\\E493';",
+    "prefix": "glyphicons-medicine"
+  },
+  "glyphicons-meditation": {
+    "body": "content: '\\\\E623';",
+    "prefix": "glyphicons-meditation"
+  },
+  "glyphicons-menu-hamburger": {
+    "body": "content: '\\\\E517';",
+    "prefix": "glyphicons-menu-hamburger"
+  },
+  "glyphicons-message-ban": {
+    "body": "content: '\\\\E127';",
+    "prefix": "glyphicons-message-ban"
+  },
+  "glyphicons-message-empty": {
+    "body": "content: '\\\\E122';",
+    "prefix": "glyphicons-message-empty"
+  },
+  "glyphicons-message-flag": {
+    "body": "content: '\\\\E128';",
+    "prefix": "glyphicons-message-flag"
+  },
+  "glyphicons-message-forward": {
+    "body": "content: '\\\\E381';",
+    "prefix": "glyphicons-message-forward"
+  },
+  "glyphicons-message-full": {
+    "body": "content: '\\\\E121';",
+    "prefix": "glyphicons-message-full"
+  },
+  "glyphicons-message-in": {
+    "body": "content: '\\\\E123';",
+    "prefix": "glyphicons-message-in"
+  },
+  "glyphicons-message-lock": {
+    "body": "content: '\\\\E129';",
+    "prefix": "glyphicons-message-lock"
+  },
+  "glyphicons-message-minus": {
+    "body": "content: '\\\\E126';",
+    "prefix": "glyphicons-message-minus"
+  },
+  "glyphicons-message-new": {
+    "body": "content: '\\\\E130';",
+    "prefix": "glyphicons-message-new"
+  },
+  "glyphicons-message-out": {
+    "body": "content: '\\\\E124';",
+    "prefix": "glyphicons-message-out"
+  },
+  "glyphicons-message-plus": {
+    "body": "content: '\\\\E125';",
+    "prefix": "glyphicons-message-plus"
+  },
+  "glyphicons-mic-mute": {
+    "body": "content: '\\\\E560';",
+    "prefix": "glyphicons-mic-mute"
+  },
+  "glyphicons-microphone": {
+    "body": "content: '\\\\E301';",
+    "prefix": "glyphicons-microphone"
+  },
+  "glyphicons-minus-sign": {
+    "body": "content: '\\\\E192';",
+    "prefix": "glyphicons-minus-sign"
+  },
+  "glyphicons-minus": {
+    "body": "content: '\\\\E434';",
+    "prefix": "glyphicons-minus"
+  },
+  "glyphicons-mixed-buildings": {
+    "body": "content: '\\\\E619';",
+    "prefix": "glyphicons-mixed-buildings"
+  },
+  "glyphicons-mms": {
+    "body": "content: '\\\\E580';",
+    "prefix": "glyphicons-mms"
+  },
+  "glyphicons-modal-window": {
+    "body": "content: '\\\\E608';",
+    "prefix": "glyphicons-modal-window"
+  },
+  "glyphicons-money": {
+    "body": "content: '\\\\E459';",
+    "prefix": "glyphicons-money"
+  },
+  "glyphicons-moon": {
+    "body": "content: '\\\\E231';",
+    "prefix": "glyphicons-moon"
+  },
+  "glyphicons-more-items": {
+    "body": "content: '\\\\E319';",
+    "prefix": "glyphicons-more-items"
+  },
+  "glyphicons-more-windows": {
+    "body": "content: '\\\\E155';",
+    "prefix": "glyphicons-more-windows"
+  },
+  "glyphicons-more": {
+    "body": "content: '\\\\E188';",
+    "prefix": "glyphicons-more"
+  },
+  "glyphicons-mosquito": {
+    "body": "content: '\\\\E475';",
+    "prefix": "glyphicons-mosquito"
+  },
+  "glyphicons-motorcycle": {
+    "body": "content: '\\\\E495';",
+    "prefix": "glyphicons-motorcycle"
+  },
+  "glyphicons-mountains": {
+    "body": "content: '\\\\E616';",
+    "prefix": "glyphicons-mountains"
+  },
+  "glyphicons-mouse-double-click": {
+    "body": "content: '\\\\E723';",
+    "prefix": "glyphicons-mouse-double-click"
+  },
+  "glyphicons-mouse-left-click": {
+    "body": "content: '\\\\E724';",
+    "prefix": "glyphicons-mouse-left-click"
+  },
+  "glyphicons-mouse-middle-click": {
+    "body": "content: '\\\\E726';",
+    "prefix": "glyphicons-mouse-middle-click"
+  },
+  "glyphicons-mouse-right-click": {
+    "body": "content: '\\\\E725';",
+    "prefix": "glyphicons-mouse-right-click"
+  },
+  "glyphicons-mouse-scroll": {
+    "body": "content: '\\\\E727';",
+    "prefix": "glyphicons-mouse-scroll"
+  },
+  "glyphicons-mouse": {
+    "body": "content: '\\\\E722';",
+    "prefix": "glyphicons-mouse"
+  },
+  "glyphicons-move-square": {
+    "body": "content: '\\\\E781';",
+    "prefix": "glyphicons-move-square"
+  },
+  "glyphicons-move": {
+    "body": "content: '\\\\E187';",
+    "prefix": "glyphicons-move"
+  },
+  "glyphicons-multifunction-printer": {
+    "body": "content: '\\\\E762';",
+    "prefix": "glyphicons-multifunction-printer"
+  },
+  "glyphicons-multiple-displays": {
+    "body": "content: '\\\\E489';",
+    "prefix": "glyphicons-multiple-displays"
+  },
+  "glyphicons-music-alt": {
+    "body": "content: '\\\\E019';",
+    "prefix": "glyphicons-music-alt"
+  },
+  "glyphicons-music": {
+    "body": "content: '\\\\E018';",
+    "prefix": "glyphicons-music"
+  },
+  "glyphicons-mute": {
+    "body": "content: '\\\\E183';",
+    "prefix": "glyphicons-mute"
+  },
+  "glyphicons-nails": {
+    "body": "content: '\\\\E374';",
+    "prefix": "glyphicons-nails"
+  },
+  "glyphicons-nameplate-alt": {
+    "body": "content: '\\\\E354';",
+    "prefix": "glyphicons-nameplate-alt"
+  },
+  "glyphicons-nameplate": {
+    "body": "content: '\\\\E353';",
+    "prefix": "glyphicons-nameplate"
+  },
+  "glyphicons-nearby-circle": {
+    "body": "content: '\\\\E735';",
+    "prefix": "glyphicons-nearby-circle"
+  },
+  "glyphicons-nearby-square": {
+    "body": "content: '\\\\E734';",
+    "prefix": "glyphicons-nearby-square"
+  },
+  "glyphicons-new-window-alt": {
+    "body": "content: '\\\\E390';",
+    "prefix": "glyphicons-new-window-alt"
+  },
+  "glyphicons-new-window": {
+    "body": "content: '\\\\E152';",
+    "prefix": "glyphicons-new-window"
+  },
+  "glyphicons-newspaper": {
+    "body": "content: '\\\\E609';",
+    "prefix": "glyphicons-newspaper"
+  },
+  "glyphicons-none-color-swatch": {
+    "body": "content: '\\\\E482';",
+    "prefix": "glyphicons-none-color-swatch"
+  },
+  "glyphicons-note-empty": {
+    "body": "content: '\\\\E247';",
+    "prefix": "glyphicons-note-empty"
+  },
+  "glyphicons-note": {
+    "body": "content: '\\\\E248';",
+    "prefix": "glyphicons-note"
+  },
+  "glyphicons-notes-2": {
+    "body": "content: '\\\\E030';",
+    "prefix": "glyphicons-notes-2"
+  },
+  "glyphicons-notes": {
+    "body": "content: '\\\\E040';",
+    "prefix": "glyphicons-notes"
+  },
+  "glyphicons-object-align-bottom": {
+    "body": "content: '\\\\E652';",
+    "prefix": "glyphicons-object-align-bottom"
+  },
+  "glyphicons-object-align-horizontal": {
+    "body": "content: '\\\\E653';",
+    "prefix": "glyphicons-object-align-horizontal"
+  },
+  "glyphicons-object-align-left": {
+    "body": "content: '\\\\E654';",
+    "prefix": "glyphicons-object-align-left"
+  },
+  "glyphicons-object-align-right": {
+    "body": "content: '\\\\E656';",
+    "prefix": "glyphicons-object-align-right"
+  },
+  "glyphicons-object-align-top": {
+    "body": "content: '\\\\E651';",
+    "prefix": "glyphicons-object-align-top"
+  },
+  "glyphicons-object-align-vertical": {
+    "body": "content: '\\\\E655';",
+    "prefix": "glyphicons-object-align-vertical"
+  },
+  "glyphicons-ok-circle": {
+    "body": "content: '\\\\E199';",
+    "prefix": "glyphicons-ok-circle"
+  },
+  "glyphicons-ok-sign": {
+    "body": "content: '\\\\E194';",
+    "prefix": "glyphicons-ok-sign"
+  },
+  "glyphicons-ok": {
+    "body": "content: '\\\\E207';",
+    "prefix": "glyphicons-ok"
+  },
+  "glyphicons-old-man": {
+    "body": "content: '\\\\E035';",
+    "prefix": "glyphicons-old-man"
+  },
+  "glyphicons-one-day": {
+    "body": "content: '\\\\E791';",
+    "prefix": "glyphicons-one-day"
+  },
+  "glyphicons-open-water": {
+    "body": "content: '\\\\E678';",
+    "prefix": "glyphicons-open-water"
+  },
+  "glyphicons-option-horizontal": {
+    "body": "content: '\\\\E519';",
+    "prefix": "glyphicons-option-horizontal"
+  },
+  "glyphicons-option-vertical": {
+    "body": "content: '\\\\E518';",
+    "prefix": "glyphicons-option-vertical"
+  },
+  "glyphicons-oxygen-bottle": {
+    "body": "content: '\\\\E253';",
+    "prefix": "glyphicons-oxygen-bottle"
+  },
+  "glyphicons-package": {
+    "body": "content: '\\\\E412';",
+    "prefix": "glyphicons-package"
+  },
+  "glyphicons-paired": {
+    "body": "content: '\\\\E596';",
+    "prefix": "glyphicons-paired"
+  },
+  "glyphicons-pants": {
+    "body": "content: '\\\\E285';",
+    "prefix": "glyphicons-pants"
+  },
+  "glyphicons-paperclip": {
+    "body": "content: '\\\\E063';",
+    "prefix": "glyphicons-paperclip"
+  },
+  "glyphicons-paragraph-alt": {
+    "body": "content: '\\\\E562';",
+    "prefix": "glyphicons-paragraph-alt"
+  },
+  "glyphicons-paragraph": {
+    "body": "content: '\\\\E709';",
+    "prefix": "glyphicons-paragraph"
+  },
+  "glyphicons-parents": {
+    "body": "content: '\\\\E025';",
+    "prefix": "glyphicons-parents"
+  },
+  "glyphicons-park": {
+    "body": "content: '\\\\E614';",
+    "prefix": "glyphicons-park"
+  },
+  "glyphicons-parking-meter": {
+    "body": "content: '\\\\E690';",
+    "prefix": "glyphicons-parking-meter"
+  },
+  "glyphicons-parking-ticket": {
+    "body": "content: '\\\\E689';",
+    "prefix": "glyphicons-parking-ticket"
+  },
+  "glyphicons-parking": {
+    "body": "content: '\\\\E720';",
+    "prefix": "glyphicons-parking"
+  },
+  "glyphicons-paste": {
+    "body": "content: '\\\\E513';",
+    "prefix": "glyphicons-paste"
+  },
+  "glyphicons-pause": {
+    "body": "content: '\\\\E175';",
+    "prefix": "glyphicons-pause"
+  },
+  "glyphicons-pawn": {
+    "body": "content: '\\\\E557';",
+    "prefix": "glyphicons-pawn"
+  },
+  "glyphicons-pedestrian": {
+    "body": "content: '\\\\E676';",
+    "prefix": "glyphicons-pedestrian"
+  },
+  "glyphicons-pen": {
+    "body": "content: '\\\\E236';",
+    "prefix": "glyphicons-pen"
+  },
+  "glyphicons-pencil": {
+    "body": "content: '\\\\E031';",
+    "prefix": "glyphicons-pencil"
+  },
+  "glyphicons-pending-notifications": {
+    "body": "content: '\\\\E747';",
+    "prefix": "glyphicons-pending-notifications"
+  },
+  "glyphicons-person-running": {
+    "body": "content: '\\\\E592';",
+    "prefix": "glyphicons-person-running"
+  },
+  "glyphicons-person-stick-old": {
+    "body": "content: '\\\\E637';",
+    "prefix": "glyphicons-person-stick-old"
+  },
+  "glyphicons-person-stick": {
+    "body": "content: '\\\\E636';",
+    "prefix": "glyphicons-person-stick"
+  },
+  "glyphicons-person-walking": {
+    "body": "content: '\\\\E563';",
+    "prefix": "glyphicons-person-walking"
+  },
+  "glyphicons-person-wheelchair": {
+    "body": "content: '\\\\E564';",
+    "prefix": "glyphicons-person-wheelchair"
+  },
+  "glyphicons-person": {
+    "body": "content: '\\\\E593';",
+    "prefix": "glyphicons-person"
+  },
+  "glyphicons-phone-alt": {
+    "body": "content: '\\\\E442';",
+    "prefix": "glyphicons-phone-alt"
+  },
+  "glyphicons-photo-album": {
+    "body": "content: '\\\\E739';",
+    "prefix": "glyphicons-photo-album"
+  },
+  "glyphicons-piano": {
+    "body": "content: '\\\\E327';",
+    "prefix": "glyphicons-piano"
+  },
+  "glyphicons-picture": {
+    "body": "content: '\\\\E139';",
+    "prefix": "glyphicons-picture"
+  },
+  "glyphicons-pictures": {
+    "body": "content: '\\\\E738';",
+    "prefix": "glyphicons-pictures"
+  },
+  "glyphicons-pie-chart": {
+    "body": "content: '\\\\E043';",
+    "prefix": "glyphicons-pie-chart"
+  },
+  "glyphicons-piggy-bank": {
+    "body": "content: '\\\\E506';",
+    "prefix": "glyphicons-piggy-bank"
+  },
+  "glyphicons-pin-flag": {
+    "body": "content: '\\\\E338';",
+    "prefix": "glyphicons-pin-flag"
+  },
+  "glyphicons-pin": {
+    "body": "content: '\\\\E239';",
+    "prefix": "glyphicons-pin"
+  },
+  "glyphicons-pipe": {
+    "body": "content: '\\\\E439';",
+    "prefix": "glyphicons-pipe"
+  },
+  "glyphicons-pizza": {
+    "body": "content: '\\\\E278';",
+    "prefix": "glyphicons-pizza"
+  },
+  "glyphicons-plane": {
+    "body": "content: '\\\\E039';",
+    "prefix": "glyphicons-plane"
+  },
+  "glyphicons-plate-of-food": {
+    "body": "content: '\\\\E477';",
+    "prefix": "glyphicons-plate-of-food"
+  },
+  "glyphicons-play-button": {
+    "body": "content: '\\\\E221';",
+    "prefix": "glyphicons-play-button"
+  },
+  "glyphicons-play": {
+    "body": "content: '\\\\E174';",
+    "prefix": "glyphicons-play"
+  },
+  "glyphicons-playing-dices": {
+    "body": "content: '\\\\E323';",
+    "prefix": "glyphicons-playing-dices"
+  },
+  "glyphicons-playlist": {
+    "body": "content: '\\\\E160';",
+    "prefix": "glyphicons-playlist"
+  },
+  "glyphicons-plus-sign": {
+    "body": "content: '\\\\E191';",
+    "prefix": "glyphicons-plus-sign"
+  },
+  "glyphicons-plus": {
+    "body": "content: '\\\\E433';",
+    "prefix": "glyphicons-plus"
+  },
+  "glyphicons-podcast": {
+    "body": "content: '\\\\E552';",
+    "prefix": "glyphicons-podcast"
+  },
+  "glyphicons-podium": {
+    "body": "content: '\\\\E329';",
+    "prefix": "glyphicons-podium"
+  },
+  "glyphicons-police": {
+    "body": "content: '\\\\E646';",
+    "prefix": "glyphicons-police"
+  },
+  "glyphicons-pool": {
+    "body": "content: '\\\\E261';",
+    "prefix": "glyphicons-pool"
+  },
+  "glyphicons-pot": {
+    "body": "content: '\\\\E296';",
+    "prefix": "glyphicons-pot"
+  },
+  "glyphicons-power": {
+    "body": "content: '\\\\E064';",
+    "prefix": "glyphicons-power"
+  },
+  "glyphicons-print": {
+    "body": "content: '\\\\E016';",
+    "prefix": "glyphicons-print"
+  },
+  "glyphicons-projector": {
+    "body": "content: '\\\\E057';",
+    "prefix": "glyphicons-projector"
+  },
+  "glyphicons-pushpin": {
+    "body": "content: '\\\\E336';",
+    "prefix": "glyphicons-pushpin"
+  },
+  "glyphicons-puzzle-2": {
+    "body": "content: '\\\\E732';",
+    "prefix": "glyphicons-puzzle-2"
+  },
+  "glyphicons-puzzle-3": {
+    "body": "content: '\\\\E733';",
+    "prefix": "glyphicons-puzzle-3"
+  },
+  "glyphicons-puzzle": {
+    "body": "content: '\\\\E731';",
+    "prefix": "glyphicons-puzzle"
+  },
+  "glyphicons-qrcode": {
+    "body": "content: '\\\\E259';",
+    "prefix": "glyphicons-qrcode"
+  },
+  "glyphicons-queen": {
+    "body": "content: '\\\\E556';",
+    "prefix": "glyphicons-queen"
+  },
+  "glyphicons-question-sign": {
+    "body": "content: '\\\\E195';",
+    "prefix": "glyphicons-question-sign"
+  },
+  "glyphicons-quote": {
+    "body": "content: '\\\\E547';",
+    "prefix": "glyphicons-quote"
+  },
+  "glyphicons-rabbit": {
+    "body": "content: '\\\\E340';",
+    "prefix": "glyphicons-rabbit"
+  },
+  "glyphicons-race": {
+    "body": "content: '\\\\E776';",
+    "prefix": "glyphicons-race"
+  },
+  "glyphicons-radar": {
+    "body": "content: '\\\\E401';",
+    "prefix": "glyphicons-radar"
+  },
+  "glyphicons-random": {
+    "body": "content: '\\\\E084';",
+    "prefix": "glyphicons-random"
+  },
+  "glyphicons-record": {
+    "body": "content: '\\\\E170';",
+    "prefix": "glyphicons-record"
+  },
+  "glyphicons-recycle": {
+    "body": "content: '\\\\E716';",
+    "prefix": "glyphicons-recycle"
+  },
+  "glyphicons-redo": {
+    "body": "content: '\\\\E435';",
+    "prefix": "glyphicons-redo"
+  },
+  "glyphicons-reflect-x": {
+    "body": "content: '\\\\E658';",
+    "prefix": "glyphicons-reflect-x"
+  },
+  "glyphicons-reflect-y": {
+    "body": "content: '\\\\E657';",
+    "prefix": "glyphicons-reflect-y"
+  },
+  "glyphicons-refresh": {
+    "body": "content: '\\\\E082';",
+    "prefix": "glyphicons-refresh"
+  },
+  "glyphicons-registration-mark": {
+    "body": "content: '\\\\E400';",
+    "prefix": "glyphicons-registration-mark"
+  },
+  "glyphicons-remote-control-tv": {
+    "body": "content: '\\\\E589';",
+    "prefix": "glyphicons-remote-control-tv"
+  },
+  "glyphicons-remote-control": {
+    "body": "content: '\\\\E588';",
+    "prefix": "glyphicons-remote-control"
+  },
+  "glyphicons-remove-circle": {
+    "body": "content: '\\\\E198';",
+    "prefix": "glyphicons-remove-circle"
+  },
+  "glyphicons-remove-sign": {
+    "body": "content: '\\\\E193';",
+    "prefix": "glyphicons-remove-sign"
+  },
+  "glyphicons-remove": {
+    "body": "content: '\\\\E208';",
+    "prefix": "glyphicons-remove"
+  },
+  "glyphicons-repeat": {
+    "body": "content: '\\\\E086';",
+    "prefix": "glyphicons-repeat"
+  },
+  "glyphicons-resize-full": {
+    "body": "content: '\\\\E216';",
+    "prefix": "glyphicons-resize-full"
+  },
+  "glyphicons-resize-horizontal": {
+    "body": "content: '\\\\E729';",
+    "prefix": "glyphicons-resize-horizontal"
+  },
+  "glyphicons-resize-small": {
+    "body": "content: '\\\\E215';",
+    "prefix": "glyphicons-resize-small"
+  },
+  "glyphicons-resize-vertical": {
+    "body": "content: '\\\\E728';",
+    "prefix": "glyphicons-resize-vertical"
+  },
+  "glyphicons-restart": {
+    "body": "content: '\\\\E366';",
+    "prefix": "glyphicons-restart"
+  },
+  "glyphicons-retweet-2": {
+    "body": "content: '\\\\E230';",
+    "prefix": "glyphicons-retweet-2"
+  },
+  "glyphicons-retweet": {
+    "body": "content: '\\\\E081';",
+    "prefix": "glyphicons-retweet"
+  },
+  "glyphicons-rewind": {
+    "body": "content: '\\\\E173';",
+    "prefix": "glyphicons-rewind"
+  },
+  "glyphicons-riflescope": {
+    "body": "content: '\\\\E378';",
+    "prefix": "glyphicons-riflescope"
+  },
+  "glyphicons-right-indent": {
+    "body": "content: '\\\\E110';",
+    "prefix": "glyphicons-right-indent"
+  },
+  "glyphicons-ring": {
+    "body": "content: '\\\\E272';",
+    "prefix": "glyphicons-ring"
+  },
+  "glyphicons-road": {
+    "body": "content: '\\\\E027';",
+    "prefix": "glyphicons-road"
+  },
+  "glyphicons-robot": {
+    "body": "content: '\\\\E777';",
+    "prefix": "glyphicons-robot"
+  },
+  "glyphicons-rotate-left": {
+    "body": "content: '\\\\E737';",
+    "prefix": "glyphicons-rotate-left"
+  },
+  "glyphicons-rotate-right": {
+    "body": "content: '\\\\E736';",
+    "prefix": "glyphicons-rotate-right"
+  },
+  "glyphicons-rotation-lock": {
+    "body": "content: '\\\\E241';",
+    "prefix": "glyphicons-rotation-lock"
+  },
+  "glyphicons-roundabout": {
+    "body": "content: '\\\\E083';",
+    "prefix": "glyphicons-roundabout"
+  },
+  "glyphicons-router": {
+    "body": "content: '\\\\E047';",
+    "prefix": "glyphicons-router"
+  },
+  "glyphicons-ruble": {
+    "body": "content: '\\\\E550';",
+    "prefix": "glyphicons-ruble"
+  },
+  "glyphicons-rugby": {
+    "body": "content: '\\\\E313';",
+    "prefix": "glyphicons-rugby"
+  },
+  "glyphicons-ruler-alt": {
+    "body": "content: '\\\\E778';",
+    "prefix": "glyphicons-ruler-alt"
+  },
+  "glyphicons-ruler": {
+    "body": "content: '\\\\E069';",
+    "prefix": "glyphicons-ruler"
+  },
+  "glyphicons-sampler": {
+    "body": "content: '\\\\E328';",
+    "prefix": "glyphicons-sampler"
+  },
+  "glyphicons-satellite-dish-alt": {
+    "body": "content: '\\\\E773';",
+    "prefix": "glyphicons-satellite-dish-alt"
+  },
+  "glyphicons-satellite-dish": {
+    "body": "content: '\\\\E772';",
+    "prefix": "glyphicons-satellite-dish"
+  },
+  "glyphicons-satellite": {
+    "body": "content: '\\\\E771';",
+    "prefix": "glyphicons-satellite"
+  },
+  "glyphicons-sauna": {
+    "body": "content: '\\\\E626';",
+    "prefix": "glyphicons-sauna"
+  },
+  "glyphicons-saw-blade": {
+    "body": "content: '\\\\E462';",
+    "prefix": "glyphicons-saw-blade"
+  },
+  "glyphicons-scale-classic": {
+    "body": "content: '\\\\E544';",
+    "prefix": "glyphicons-scale-classic"
+  },
+  "glyphicons-scale": {
+    "body": "content: '\\\\E554';",
+    "prefix": "glyphicons-scale"
+  },
+  "glyphicons-scanner": {
+    "body": "content: '\\\\E761';",
+    "prefix": "glyphicons-scanner"
+  },
+  "glyphicons-scissors-alt": {
+    "body": "content: '\\\\E599';",
+    "prefix": "glyphicons-scissors-alt"
+  },
+  "glyphicons-scissors": {
+    "body": "content: '\\\\E289';",
+    "prefix": "glyphicons-scissors"
+  },
+  "glyphicons-screenshot": {
+    "body": "content: '\\\\E186';",
+    "prefix": "glyphicons-screenshot"
+  },
+  "glyphicons-scuba-diving": {
+    "body": "content: '\\\\E252';",
+    "prefix": "glyphicons-scuba-diving"
+  },
+  "glyphicons-search": {
+    "body": "content: '\\\\E028';",
+    "prefix": "glyphicons-search"
+  },
+  "glyphicons-security-camera": {
+    "body": "content: '\\\\E367';",
+    "prefix": "glyphicons-security-camera"
+  },
+  "glyphicons-send-backward": {
+    "body": "content: '\\\\E485';",
+    "prefix": "glyphicons-send-backward"
+  },
+  "glyphicons-send-to-back": {
+    "body": "content: '\\\\E486';",
+    "prefix": "glyphicons-send-to-back"
+  },
+  "glyphicons-send": {
+    "body": "content: '\\\\E422';",
+    "prefix": "glyphicons-send"
+  },
+  "glyphicons-server-ban": {
+    "body": "content: '\\\\E467';",
+    "prefix": "glyphicons-server-ban"
+  },
+  "glyphicons-server-flag": {
+    "body": "content: '\\\\E468';",
+    "prefix": "glyphicons-server-flag"
+  },
+  "glyphicons-server-lock": {
+    "body": "content: '\\\\E469';",
+    "prefix": "glyphicons-server-lock"
+  },
+  "glyphicons-server-minus": {
+    "body": "content: '\\\\E466';",
+    "prefix": "glyphicons-server-minus"
+  },
+  "glyphicons-server-new": {
+    "body": "content: '\\\\E470';",
+    "prefix": "glyphicons-server-new"
+  },
+  "glyphicons-server-plus": {
+    "body": "content: '\\\\E465';",
+    "prefix": "glyphicons-server-plus"
+  },
+  "glyphicons-server": {
+    "body": "content: '\\\\E464';",
+    "prefix": "glyphicons-server"
+  },
+  "glyphicons-settings": {
+    "body": "content: '\\\\E281';",
+    "prefix": "glyphicons-settings"
+  },
+  "glyphicons-share-alt": {
+    "body": "content: '\\\\E309';",
+    "prefix": "glyphicons-share-alt"
+  },
+  "glyphicons-share": {
+    "body": "content: '\\\\E223';",
+    "prefix": "glyphicons-share"
+  },
+  "glyphicons-sheriffs-star": {
+    "body": "content: '\\\\E258';",
+    "prefix": "glyphicons-sheriffs-star"
+  },
+  "glyphicons-shield": {
+    "body": "content: '\\\\E271';",
+    "prefix": "glyphicons-shield"
+  },
+  "glyphicons-shirt": {
+    "body": "content: '\\\\E385';",
+    "prefix": "glyphicons-shirt"
+  },
+  "glyphicons-shoe-steps": {
+    "body": "content: '\\\\E432';",
+    "prefix": "glyphicons-shoe-steps"
+  },
+  "glyphicons-shoes": {
+    "body": "content: '\\\\E502';",
+    "prefix": "glyphicons-shoes"
+  },
+  "glyphicons-shop-window": {
+    "body": "content: '\\\\E452';",
+    "prefix": "glyphicons-shop-window"
+  },
+  "glyphicons-shop": {
+    "body": "content: '\\\\E453';",
+    "prefix": "glyphicons-shop"
+  },
+  "glyphicons-shopping-bag": {
+    "body": "content: '\\\\E351';",
+    "prefix": "glyphicons-shopping-bag"
+  },
+  "glyphicons-shopping-cart": {
+    "body": "content: '\\\\E203';",
+    "prefix": "glyphicons-shopping-cart"
+  },
+  "glyphicons-show-big-thumbnails": {
+    "body": "content: '\\\\E156';",
+    "prefix": "glyphicons-show-big-thumbnails"
+  },
+  "glyphicons-show-lines": {
+    "body": "content: '\\\\E159';",
+    "prefix": "glyphicons-show-lines"
+  },
+  "glyphicons-show-thumbnails-with-lines": {
+    "body": "content: '\\\\E158';",
+    "prefix": "glyphicons-show-thumbnails-with-lines"
+  },
+  "glyphicons-show-thumbnails": {
+    "body": "content: '\\\\E157';",
+    "prefix": "glyphicons-show-thumbnails"
+  },
+  "glyphicons-shower": {
+    "body": "content: '\\\\E516';",
+    "prefix": "glyphicons-shower"
+  },
+  "glyphicons-shredder": {
+    "body": "content: '\\\\E590';",
+    "prefix": "glyphicons-shredder"
+  },
+  "glyphicons-signal": {
+    "body": "content: '\\\\E080';",
+    "prefix": "glyphicons-signal"
+  },
+  "glyphicons-skateboard": {
+    "body": "content: '\\\\E402';",
+    "prefix": "glyphicons-skateboard"
+  },
+  "glyphicons-skull": {
+    "body": "content: '\\\\E291';",
+    "prefix": "glyphicons-skull"
+  },
+  "glyphicons-small-payments": {
+    "body": "content: '\\\\E618';",
+    "prefix": "glyphicons-small-payments"
+  },
+  "glyphicons-smoking": {
+    "body": "content: '\\\\E363';",
+    "prefix": "glyphicons-smoking"
+  },
+  "glyphicons-sms": {
+    "body": "content: '\\\\E579';",
+    "prefix": "glyphicons-sms"
+  },
+  "glyphicons-snorkel-diving": {
+    "body": "content: '\\\\E251';",
+    "prefix": "glyphicons-snorkel-diving"
+  },
+  "glyphicons-snowflake": {
+    "body": "content: '\\\\E022';",
+    "prefix": "glyphicons-snowflake"
+  },
+  "glyphicons-soccer-ball": {
+    "body": "content: '\\\\E330';",
+    "prefix": "glyphicons-soccer-ball"
+  },
+  "glyphicons-sort-by-alphabet-alt": {
+    "body": "content: '\\\\E406';",
+    "prefix": "glyphicons-sort-by-alphabet-alt"
+  },
+  "glyphicons-sort-by-alphabet": {
+    "body": "content: '\\\\E405';",
+    "prefix": "glyphicons-sort-by-alphabet"
+  },
+  "glyphicons-sort-by-attributes-alt": {
+    "body": "content: '\\\\E410';",
+    "prefix": "glyphicons-sort-by-attributes-alt"
+  },
+  "glyphicons-sort-by-attributes": {
+    "body": "content: '\\\\E409';",
+    "prefix": "glyphicons-sort-by-attributes"
+  },
+  "glyphicons-sort-by-order-alt": {
+    "body": "content: '\\\\E408';",
+    "prefix": "glyphicons-sort-by-order-alt"
+  },
+  "glyphicons-sort-by-order": {
+    "body": "content: '\\\\E407';",
+    "prefix": "glyphicons-sort-by-order"
+  },
+  "glyphicons-sort": {
+    "body": "content: '\\\\E320';",
+    "prefix": "glyphicons-sort"
+  },
+  "glyphicons-sorted-waste": {
+    "body": "content: '\\\\E700';",
+    "prefix": "glyphicons-sorted-waste"
+  },
+  "glyphicons-sorting": {
+    "body": "content: '\\\\E404';",
+    "prefix": "glyphicons-sorting"
+  },
+  "glyphicons-sound-5-1": {
+    "body": "content: '\\\\E396';",
+    "prefix": "glyphicons-sound-5-1"
+  },
+  "glyphicons-sound-6-1": {
+    "body": "content: '\\\\E397';",
+    "prefix": "glyphicons-sound-6-1"
+  },
+  "glyphicons-sound-7-1": {
+    "body": "content: '\\\\E398';",
+    "prefix": "glyphicons-sound-7-1"
+  },
+  "glyphicons-sound-dolby": {
+    "body": "content: '\\\\E395';",
+    "prefix": "glyphicons-sound-dolby"
+  },
+  "glyphicons-sound-stereo": {
+    "body": "content: '\\\\E394';",
+    "prefix": "glyphicons-sound-stereo"
+  },
+  "glyphicons-spade": {
+    "body": "content: '\\\\E263';",
+    "prefix": "glyphicons-spade"
+  },
+  "glyphicons-speakers": {
+    "body": "content: '\\\\E587';",
+    "prefix": "glyphicons-speakers"
+  },
+  "glyphicons-spray": {
+    "body": "content: '\\\\E373';",
+    "prefix": "glyphicons-spray"
+  },
+  "glyphicons-star-empty": {
+    "body": "content: '\\\\E049';",
+    "prefix": "glyphicons-star-empty"
+  },
+  "glyphicons-star-half": {
+    "body": "content: '\\\\E507';",
+    "prefix": "glyphicons-star-half"
+  },
+  "glyphicons-star": {
+    "body": "content: '\\\\E050';",
+    "prefix": "glyphicons-star"
+  },
+  "glyphicons-stats": {
+    "body": "content: '\\\\E041';",
+    "prefix": "glyphicons-stats"
+  },
+  "glyphicons-step-backward": {
+    "body": "content: '\\\\E171';",
+    "prefix": "glyphicons-step-backward"
+  },
+  "glyphicons-step-forward": {
+    "body": "content: '\\\\E179';",
+    "prefix": "glyphicons-step-forward"
+  },
+  "glyphicons-stethoscope": {
+    "body": "content: '\\\\E595';",
+    "prefix": "glyphicons-stethoscope"
+  },
+  "glyphicons-stop-sign": {
+    "body": "content: '\\\\E533';",
+    "prefix": "glyphicons-stop-sign"
+  },
+  "glyphicons-stop": {
+    "body": "content: '\\\\E176';",
+    "prefix": "glyphicons-stop"
+  },
+  "glyphicons-stopwatch": {
+    "body": "content: '\\\\E056';",
+    "prefix": "glyphicons-stopwatch"
+  },
+  "glyphicons-storm": {
+    "body": "content: '\\\\E699';",
+    "prefix": "glyphicons-storm"
+  },
+  "glyphicons-street-lights": {
+    "body": "content: '\\\\E675';",
+    "prefix": "glyphicons-street-lights"
+  },
+  "glyphicons-stroller": {
+    "body": "content: '\\\\E076';",
+    "prefix": "glyphicons-stroller"
+  },
+  "glyphicons-subscript": {
+    "body": "content: '\\\\E604';",
+    "prefix": "glyphicons-subscript"
+  },
+  "glyphicons-subtitles": {
+    "body": "content: '\\\\E393';",
+    "prefix": "glyphicons-subtitles"
+  },
+  "glyphicons-suitcase": {
+    "body": "content: '\\\\E358';",
+    "prefix": "glyphicons-suitcase"
+  },
+  "glyphicons-sun": {
+    "body": "content: '\\\\E232';",
+    "prefix": "glyphicons-sun"
+  },
+  "glyphicons-sunbath": {
+    "body": "content: '\\\\E686';",
+    "prefix": "glyphicons-sunbath"
+  },
+  "glyphicons-sunglasses": {
+    "body": "content: '\\\\E499';",
+    "prefix": "glyphicons-sunglasses"
+  },
+  "glyphicons-superscript": {
+    "body": "content: '\\\\E603';",
+    "prefix": "glyphicons-superscript"
+  },
+  "glyphicons-sweater": {
+    "body": "content: '\\\\E286';",
+    "prefix": "glyphicons-sweater"
+  },
+  "glyphicons-synchronization-ban": {
+    "body": "content: '\\\\E749';",
+    "prefix": "glyphicons-synchronization-ban"
+  },
+  "glyphicons-synchronization": {
+    "body": "content: '\\\\E748';",
+    "prefix": "glyphicons-synchronization"
+  },
+  "glyphicons-t-shirt": {
+    "body": "content: '\\\\E284';",
+    "prefix": "glyphicons-t-shirt"
+  },
+  "glyphicons-table-tennis": {
+    "body": "content: '\\\\E315';",
+    "prefix": "glyphicons-table-tennis"
+  },
+  "glyphicons-table": {
+    "body": "content: '\\\\E120';",
+    "prefix": "glyphicons-table"
+  },
+  "glyphicons-tablet": {
+    "body": "content: '\\\\E280';",
+    "prefix": "glyphicons-tablet"
+  },
+  "glyphicons-tag": {
+    "body": "content: '\\\\E066';",
+    "prefix": "glyphicons-tag"
+  },
+  "glyphicons-tags": {
+    "body": "content: '\\\\E067';",
+    "prefix": "glyphicons-tags"
+  },
+  "glyphicons-target": {
+    "body": "content: '\\\\E473';",
+    "prefix": "glyphicons-target"
+  },
+  "glyphicons-taxi": {
+    "body": "content: '\\\\E569';",
+    "prefix": "glyphicons-taxi"
+  },
+  "glyphicons-tea-kettle": {
+    "body": "content: '\\\\E293';",
+    "prefix": "glyphicons-tea-kettle"
+  },
+  "glyphicons-teenager": {
+    "body": "content: '\\\\E635';",
+    "prefix": "glyphicons-teenager"
+  },
+  "glyphicons-temperature-high-warning": {
+    "body": "content: '\\\\E697';",
+    "prefix": "glyphicons-temperature-high-warning"
+  },
+  "glyphicons-temperature-high": {
+    "body": "content: '\\\\E695';",
+    "prefix": "glyphicons-temperature-high"
+  },
+  "glyphicons-temperature-low-warning": {
+    "body": "content: '\\\\E696';",
+    "prefix": "glyphicons-temperature-low-warning"
+  },
+  "glyphicons-temperature-low": {
+    "body": "content: '\\\\E694';",
+    "prefix": "glyphicons-temperature-low"
+  },
+  "glyphicons-temperature-settings": {
+    "body": "content: '\\\\E684';",
+    "prefix": "glyphicons-temperature-settings"
+  },
+  "glyphicons-temperature": {
+    "body": "content: '\\\\E730';",
+    "prefix": "glyphicons-temperature"
+  },
+  "glyphicons-temple-buddhist": {
+    "body": "content: '\\\\E306';",
+    "prefix": "glyphicons-temple-buddhist"
+  },
+  "glyphicons-temple-christianity-church": {
+    "body": "content: '\\\\E303';",
+    "prefix": "glyphicons-temple-christianity-church"
+  },
+  "glyphicons-temple-hindu": {
+    "body": "content: '\\\\E305';",
+    "prefix": "glyphicons-temple-hindu"
+  },
+  "glyphicons-temple-islam": {
+    "body": "content: '\\\\E304';",
+    "prefix": "glyphicons-temple-islam"
+  },
+  "glyphicons-tent": {
+    "body": "content: '\\\\E497';",
+    "prefix": "glyphicons-tent"
+  },
+  "glyphicons-text-background": {
+    "body": "content: '\\\\E607';",
+    "prefix": "glyphicons-text-background"
+  },
+  "glyphicons-text-bigger": {
+    "body": "content: '\\\\E117';",
+    "prefix": "glyphicons-text-bigger"
+  },
+  "glyphicons-text-color": {
+    "body": "content: '\\\\E606';",
+    "prefix": "glyphicons-text-color"
+  },
+  "glyphicons-text-height": {
+    "body": "content: '\\\\E106';",
+    "prefix": "glyphicons-text-height"
+  },
+  "glyphicons-text-resize": {
+    "body": "content: '\\\\E108';",
+    "prefix": "glyphicons-text-resize"
+  },
+  "glyphicons-text-size": {
+    "body": "content: '\\\\E605';",
+    "prefix": "glyphicons-text-size"
+  },
+  "glyphicons-text-smaller": {
+    "body": "content: '\\\\E116';",
+    "prefix": "glyphicons-text-smaller"
+  },
+  "glyphicons-text-strike": {
+    "body": "content: '\\\\E105';",
+    "prefix": "glyphicons-text-strike"
+  },
+  "glyphicons-text-underline": {
+    "body": "content: '\\\\E104';",
+    "prefix": "glyphicons-text-underline"
+  },
+  "glyphicons-text-width": {
+    "body": "content: '\\\\E107';",
+    "prefix": "glyphicons-text-width"
+  },
+  "glyphicons-theater": {
+    "body": "content: '\\\\E671';",
+    "prefix": "glyphicons-theater"
+  },
+  "glyphicons-thumbs-down": {
+    "body": "content: '\\\\E345';",
+    "prefix": "glyphicons-thumbs-down"
+  },
+  "glyphicons-thumbs-up": {
+    "body": "content: '\\\\E344';",
+    "prefix": "glyphicons-thumbs-up"
+  },
+  "glyphicons-tick": {
+    "body": "content: '\\\\E659';",
+    "prefix": "glyphicons-tick"
+  },
+  "glyphicons-ticket": {
+    "body": "content: '\\\\E688';",
+    "prefix": "glyphicons-ticket"
+  },
+  "glyphicons-tie": {
+    "body": "content: '\\\\E325';",
+    "prefix": "glyphicons-tie"
+  },
+  "glyphicons-tint": {
+    "body": "content: '\\\\E093';",
+    "prefix": "glyphicons-tint"
+  },
+  "glyphicons-tower": {
+    "body": "content: '\\\\E421';",
+    "prefix": "glyphicons-tower"
+  },
+  "glyphicons-tractor": {
+    "body": "content: '\\\\E610';",
+    "prefix": "glyphicons-tractor"
+  },
+  "glyphicons-train": {
+    "body": "content: '\\\\E015';",
+    "prefix": "glyphicons-train"
+  },
+  "glyphicons-transfer": {
+    "body": "content: '\\\\E458';",
+    "prefix": "glyphicons-transfer"
+  },
+  "glyphicons-translate": {
+    "body": "content: '\\\\E449';",
+    "prefix": "glyphicons-translate"
+  },
+  "glyphicons-transport": {
+    "body": "content: '\\\\E568';",
+    "prefix": "glyphicons-transport"
+  },
+  "glyphicons-traveler": {
+    "body": "content: '\\\\E638';",
+    "prefix": "glyphicons-traveler"
+  },
+  "glyphicons-tree-conifer": {
+    "body": "content: '\\\\E317';",
+    "prefix": "glyphicons-tree-conifer"
+  },
+  "glyphicons-tree-deciduous": {
+    "body": "content: '\\\\E318';",
+    "prefix": "glyphicons-tree-deciduous"
+  },
+  "glyphicons-tree-structure": {
+    "body": "content: '\\\\E692';",
+    "prefix": "glyphicons-tree-structure"
+  },
+  "glyphicons-truck": {
+    "body": "content: '\\\\E059';",
+    "prefix": "glyphicons-truck"
+  },
+  "glyphicons-turtle": {
+    "body": "content: '\\\\E339';",
+    "prefix": "glyphicons-turtle"
+  },
+  "glyphicons-tv": {
+    "body": "content: '\\\\E578';",
+    "prefix": "glyphicons-tv"
+  },
+  "glyphicons-uk-rat-12": {
+    "body": "content: '\\\\E574';",
+    "prefix": "glyphicons-uk-rat-12"
+  },
+  "glyphicons-uk-rat-12a": {
+    "body": "content: '\\\\E573';",
+    "prefix": "glyphicons-uk-rat-12a"
+  },
+  "glyphicons-uk-rat-15": {
+    "body": "content: '\\\\E575';",
+    "prefix": "glyphicons-uk-rat-15"
+  },
+  "glyphicons-uk-rat-18": {
+    "body": "content: '\\\\E576';",
+    "prefix": "glyphicons-uk-rat-18"
+  },
+  "glyphicons-uk-rat-pg": {
+    "body": "content: '\\\\E572';",
+    "prefix": "glyphicons-uk-rat-pg"
+  },
+  "glyphicons-uk-rat-r18": {
+    "body": "content: '\\\\E577';",
+    "prefix": "glyphicons-uk-rat-r18"
+  },
+  "glyphicons-uk-rat-u": {
+    "body": "content: '\\\\E571';",
+    "prefix": "glyphicons-uk-rat-u"
+  },
+  "glyphicons-umbrella": {
+    "body": "content: '\\\\E071';",
+    "prefix": "glyphicons-umbrella"
+  },
+  "glyphicons-unchecked": {
+    "body": "content: '\\\\E154';",
+    "prefix": "glyphicons-unchecked"
+  },
+  "glyphicons-underground": {
+    "body": "content: '\\\\E565';",
+    "prefix": "glyphicons-underground"
+  },
+  "glyphicons-underwear": {
+    "body": "content: '\\\\E386';",
+    "prefix": "glyphicons-underwear"
+  },
+  "glyphicons-undo": {
+    "body": "content: '\\\\E436';",
+    "prefix": "glyphicons-undo"
+  },
+  "glyphicons-unlock": {
+    "body": "content: '\\\\E205';",
+    "prefix": "glyphicons-unlock"
+  },
+  "glyphicons-unshare": {
+    "body": "content: '\\\\E222';",
+    "prefix": "glyphicons-unshare"
+  },
+  "glyphicons-upload": {
+    "body": "content: '\\\\E202';",
+    "prefix": "glyphicons-upload"
+  },
+  "glyphicons-us-rat-g": {
+    "body": "content: '\\\\E581';",
+    "prefix": "glyphicons-us-rat-g"
+  },
+  "glyphicons-us-rat-no-one-17": {
+    "body": "content: '\\\\E585';",
+    "prefix": "glyphicons-us-rat-no-one-17"
+  },
+  "glyphicons-us-rat-pg-13": {
+    "body": "content: '\\\\E583';",
+    "prefix": "glyphicons-us-rat-pg-13"
+  },
+  "glyphicons-us-rat-pg": {
+    "body": "content: '\\\\E582';",
+    "prefix": "glyphicons-us-rat-pg"
+  },
+  "glyphicons-us-rat-restricted": {
+    "body": "content: '\\\\E584';",
+    "prefix": "glyphicons-us-rat-restricted"
+  },
+  "glyphicons-usd": {
+    "body": "content: '\\\\E228';",
+    "prefix": "glyphicons-usd"
+  },
+  "glyphicons-user-add": {
+    "body": "content: '\\\\E007';",
+    "prefix": "glyphicons-user-add"
+  },
+  "glyphicons-user-alert": {
+    "body": "content: '\\\\E525';",
+    "prefix": "glyphicons-user-alert"
+  },
+  "glyphicons-user-asterisk": {
+    "body": "content: '\\\\E524';",
+    "prefix": "glyphicons-user-asterisk"
+  },
+  "glyphicons-user-ban": {
+    "body": "content: '\\\\E521';",
+    "prefix": "glyphicons-user-ban"
+  },
+  "glyphicons-user-conversation": {
+    "body": "content: '\\\\E527';",
+    "prefix": "glyphicons-user-conversation"
+  },
+  "glyphicons-user-flag": {
+    "body": "content: '\\\\E523';",
+    "prefix": "glyphicons-user-flag"
+  },
+  "glyphicons-user-key": {
+    "body": "content: '\\\\E526';",
+    "prefix": "glyphicons-user-key"
+  },
+  "glyphicons-user-lock": {
+    "body": "content: '\\\\E522';",
+    "prefix": "glyphicons-user-lock"
+  },
+  "glyphicons-user-remove": {
+    "body": "content: '\\\\E008';",
+    "prefix": "glyphicons-user-remove"
+  },
+  "glyphicons-user-structure": {
+    "body": "content: '\\\\E715';",
+    "prefix": "glyphicons-user-structure"
+  },
+  "glyphicons-user-vr-add": {
+    "body": "content: '\\\\E793';",
+    "prefix": "glyphicons-user-vr-add"
+  },
+  "glyphicons-user-vr-remove": {
+    "body": "content: '\\\\E794';",
+    "prefix": "glyphicons-user-vr-remove"
+  },
+  "glyphicons-user-vr": {
+    "body": "content: '\\\\E792';",
+    "prefix": "glyphicons-user-vr"
+  },
+  "glyphicons-user": {
+    "body": "content: '\\\\E004';",
+    "prefix": "glyphicons-user"
+  },
+  "glyphicons-vases": {
+    "body": "content: '\\\\E355';",
+    "prefix": "glyphicons-vases"
+  },
+  "glyphicons-vcard": {
+    "body": "content: '\\\\E265';",
+    "prefix": "glyphicons-vcard"
+  },
+  "glyphicons-vector-path-all": {
+    "body": "content: '\\\\E100';",
+    "prefix": "glyphicons-vector-path-all"
+  },
+  "glyphicons-vector-path-circle": {
+    "body": "content: '\\\\E096';",
+    "prefix": "glyphicons-vector-path-circle"
+  },
+  "glyphicons-vector-path-curve": {
+    "body": "content: '\\\\E099';",
+    "prefix": "glyphicons-vector-path-curve"
+  },
+  "glyphicons-vector-path-line": {
+    "body": "content: '\\\\E098';",
+    "prefix": "glyphicons-vector-path-line"
+  },
+  "glyphicons-vector-path-polygon": {
+    "body": "content: '\\\\E097';",
+    "prefix": "glyphicons-vector-path-polygon"
+  },
+  "glyphicons-vector-path-square": {
+    "body": "content: '\\\\E095';",
+    "prefix": "glyphicons-vector-path-square"
+  },
+  "glyphicons-veteran": {
+    "body": "content: '\\\\E639';",
+    "prefix": "glyphicons-veteran"
+  },
+  "glyphicons-video-hd": {
+    "body": "content: '\\\\E392';",
+    "prefix": "glyphicons-video-hd"
+  },
+  "glyphicons-video-sd": {
+    "body": "content: '\\\\E391';",
+    "prefix": "glyphicons-video-sd"
+  },
+  "glyphicons-view-360": {
+    "body": "content: '\\\\E764';",
+    "prefix": "glyphicons-view-360"
+  },
+  "glyphicons-visitor-tag": {
+    "body": "content: '\\\\E621';",
+    "prefix": "glyphicons-visitor-tag"
+  },
+  "glyphicons-voice": {
+    "body": "content: '\\\\E594';",
+    "prefix": "glyphicons-voice"
+  },
+  "glyphicons-voicemail": {
+    "body": "content: '\\\\E561';",
+    "prefix": "glyphicons-voicemail"
+  },
+  "glyphicons-volume-down": {
+    "body": "content: '\\\\E184';",
+    "prefix": "glyphicons-volume-down"
+  },
+  "glyphicons-volume-up": {
+    "body": "content: '\\\\E185';",
+    "prefix": "glyphicons-volume-up"
+  },
+  "glyphicons-vr-charging": {
+    "body": "content: '\\\\E784';",
+    "prefix": "glyphicons-vr-charging"
+  },
+  "glyphicons-vr-headset": {
+    "body": "content: '\\\\E783';",
+    "prefix": "glyphicons-vr-headset"
+  },
+  "glyphicons-vr-low-battery": {
+    "body": "content: '\\\\E785';",
+    "prefix": "glyphicons-vr-low-battery"
+  },
+  "glyphicons-vr-maintenance": {
+    "body": "content: '\\\\E788';",
+    "prefix": "glyphicons-vr-maintenance"
+  },
+  "glyphicons-vr-paired": {
+    "body": "content: '\\\\E786';",
+    "prefix": "glyphicons-vr-paired"
+  },
+  "glyphicons-vr-settings": {
+    "body": "content: '\\\\E787';",
+    "prefix": "glyphicons-vr-settings"
+  },
+  "glyphicons-wallet": {
+    "body": "content: '\\\\E326';",
+    "prefix": "glyphicons-wallet"
+  },
+  "glyphicons-warning-sign": {
+    "body": "content: '\\\\E079';",
+    "prefix": "glyphicons-warning-sign"
+  },
+  "glyphicons-washing-machine": {
+    "body": "content: '\\\\E631';",
+    "prefix": "glyphicons-washing-machine"
+  },
+  "glyphicons-waste-pipe": {
+    "body": "content: '\\\\E718';",
+    "prefix": "glyphicons-waste-pipe"
+  },
+  "glyphicons-watch": {
+    "body": "content: '\\\\E598';",
+    "prefix": "glyphicons-watch"
+  },
+  "glyphicons-water-pipe": {
+    "body": "content: '\\\\E719';",
+    "prefix": "glyphicons-water-pipe"
+  },
+  "glyphicons-weather-warning": {
+    "body": "content: '\\\\E693';",
+    "prefix": "glyphicons-weather-warning"
+  },
+  "glyphicons-webcam": {
+    "body": "content: '\\\\E302';",
+    "prefix": "glyphicons-webcam"
+  },
+  "glyphicons-wifi-alt": {
+    "body": "content: '\\\\E033';",
+    "prefix": "glyphicons-wifi-alt"
+  },
+  "glyphicons-wifi": {
+    "body": "content: '\\\\E074';",
+    "prefix": "glyphicons-wifi"
+  },
+  "glyphicons-woman": {
+    "body": "content: '\\\\E036';",
+    "prefix": "glyphicons-woman"
+  },
+  "glyphicons-wrench": {
+    "body": "content: '\\\\E440';",
+    "prefix": "glyphicons-wrench"
+  },
+  "glyphicons-yen": {
+    "body": "content: '\\\\E549';",
+    "prefix": "glyphicons-yen"
+  },
+  "glyphicons-zoom-in": {
+    "body": "content: '\\\\E237';",
+    "prefix": "glyphicons-zoom-in"
+  },
+  "glyphicons-zoom-out": {
+    "body": "content: '\\\\E238';",
+    "prefix": "glyphicons-zoom-out"
   }
 }

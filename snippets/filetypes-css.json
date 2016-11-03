@@ -1,562 +1,562 @@
 {
-  "filetypes-cfg": {
-    "prefix": "filetypes-cfg",
-    "body": "content: '\\\\E128';"
-  },
-  "filetypes-cue": {
-    "prefix": "filetypes-cue",
-    "body": "content: '\\\\E119';"
-  },
-  "filetypes-xls": {
-    "prefix": "filetypes-xls",
-    "body": "content: '\\\\E069';"
-  },
-  "filetypes-xml": {
-    "prefix": "filetypes-xml",
-    "body": "content: '\\\\E015';"
-  },
-  "filetypes-swf": {
-    "prefix": "filetypes-swf",
-    "body": "content: '\\\\E035';"
-  },
-  "filetypes-site": {
-    "prefix": "filetypes-site",
-    "body": "content: '\\\\E132';"
-  },
-  "filetypes-xlr": {
-    "prefix": "filetypes-xlr",
-    "body": "content: '\\\\E068';"
-  },
-  "filetypes-zip": {
-    "prefix": "filetypes-zip",
-    "body": "content: '\\\\E107';"
-  },
-  "filetypes-xlsx": {
-    "prefix": "filetypes-xlsx",
-    "body": "content: '\\\\E070';"
-  },
-  "filetypes-sitx": {
-    "prefix": "filetypes-sitx",
-    "body": "content: '\\\\E111';"
-  },
-  "filetypes-mpg": {
-    "prefix": "filetypes-mpg",
-    "body": "content: '\\\\E040';"
-  },
-  "filetypes-webp": {
-    "prefix": "filetypes-webp",
-    "body": "content: '\\\\E136';"
-  },
-  "filetypes-mpa": {
-    "prefix": "filetypes-mpa",
-    "body": "content: '\\\\E028';"
-  },
-  "filetypes-gbr": {
-    "prefix": "filetypes-gbr",
-    "body": "content: '\\\\E022';"
-  },
-  "filetypes-dmg": {
-    "prefix": "filetypes-dmg",
-    "body": "content: '\\\\E118';"
-  },
-  "filetypes-pif": {
-    "prefix": "filetypes-pif",
-    "body": "content: '\\\\E084';"
-  },
-  "filetypes-dds": {
-    "prefix": "filetypes-dds",
-    "body": "content: '\\\\E060';"
-  },
-  "filetypes-ps": {
-    "prefix": "filetypes-ps",
-    "body": "content: '\\\\E063';"
-  },
-  "filetypes-eps": {
-    "prefix": "filetypes-eps",
-    "body": "content: '\\\\E062';"
-  },
-  "filetypes-flac": {
-    "prefix": "filetypes-flac",
-    "body": "content: '\\\\E138';"
-  },
-  "filetypes-cfm": {
-    "prefix": "filetypes-cfm",
-    "body": "content: '\\\\E096';"
+  "filetypes-aacd": {
+    "body": "content: '\\\\E076';",
+    "prefix": "filetypes-aacd"
   },
   "filetypes-ai": {
-    "prefix": "filetypes-ai",
-    "body": "content: '\\\\E061';"
-  },
-  "filetypes-ppt": {
-    "prefix": "filetypes-ppt",
-    "body": "content: '\\\\E019';"
-  },
-  "filetypes-wpd": {
-    "prefix": "filetypes-wpd",
-    "body": "content: '\\\\E008';"
-  },
-  "filetypes-hdf": {
-    "prefix": "filetypes-hdf",
-    "body": "content: '\\\\E122';"
-  },
-  "filetypes-cbr": {
-    "prefix": "filetypes-cbr",
-    "body": "content: '\\\\E116';"
-  },
-  "filetypes-thm": {
-    "prefix": "filetypes-thm",
-    "body": "content: '\\\\E058';"
-  },
-  "filetypes-fnt": {
-    "prefix": "filetypes-fnt",
-    "body": "content: '\\\\E104';"
-  },
-  "filetypes-jsp": {
-    "prefix": "filetypes-jsp",
-    "body": "content: '\\\\E095';"
-  },
-  "filetypes-tex": {
-    "prefix": "filetypes-tex",
-    "body": "content: '\\\\E005';"
-  },
-  "filetypes-avi": {
-    "prefix": "filetypes-avi",
-    "body": "content: '\\\\E036';"
-  },
-  "filetypes-otf": {
-    "prefix": "filetypes-otf",
-    "body": "content: '\\\\E101';"
-  },
-  "filetypes-wps": {
-    "prefix": "filetypes-wps",
-    "body": "content: '\\\\E009';"
-  },
-  "filetypes-flv": {
-    "prefix": "filetypes-flv",
-    "body": "content: '\\\\E047';"
-  },
-  "filetypes-mp4": {
-    "prefix": "filetypes-mp4",
-    "body": "content: '\\\\E038';"
-  },
-  "filetypes-font": {
-    "prefix": "filetypes-font",
-    "body": "content: '\\\\E103';"
-  },
-  "filetypes-cer": {
-    "prefix": "filetypes-cer",
-    "body": "content: '\\\\E094';"
-  },
-  "filetypes-ogg": {
-    "prefix": "filetypes-ogg",
-    "body": "content: '\\\\E139';"
-  },
-  "filetypes-mp3": {
-    "prefix": "filetypes-mp3",
-    "body": "content: '\\\\E024';"
-  },
-  "filetypes-js": {
-    "prefix": "filetypes-js",
-    "body": "content: '\\\\E088';"
-  },
-  "filetypes-ico": {
-    "prefix": "filetypes-ico",
-    "body": "content: '\\\\E135';"
-  },
-  "filetypes-svg": {
-    "prefix": "filetypes-svg",
-    "body": "content: '\\\\E064';"
-  },
-  "filetypes-msi": {
-    "prefix": "filetypes-msi",
-    "body": "content: '\\\\E127';"
-  },
-  "filetypes-mov": {
-    "prefix": "filetypes-mov",
-    "body": "content: '\\\\E044';"
-  },
-  "filetypes-bpg": {
-    "prefix": "filetypes-bpg",
-    "body": "content: '\\\\E137';"
-  },
-  "filetypes-ics": {
-    "prefix": "filetypes-ics",
-    "body": "content: '\\\\E126';"
-  },
-  "filetypes-gif": {
-    "prefix": "filetypes-gif",
-    "body": "content: '\\\\E055';"
-  },
-  "filetypes-app": {
-    "prefix": "filetypes-app",
-    "body": "content: '\\\\E077';"
-  },
-  "filetypes-ged": {
-    "prefix": "filetypes-ged",
-    "body": "content: '\\\\E023';"
-  },
-  "filetypes-msg": {
-    "prefix": "filetypes-msg",
-    "body": "content: '\\\\E006';"
-  },
-  "filetypes-indd": {
-    "prefix": "filetypes-indd",
-    "body": "content: '\\\\E067';"
-  },
-  "filetypes-exe": {
-    "prefix": "filetypes-exe",
-    "body": "content: '\\\\E078';"
-  },
-  "filetypes-rtf": {
-    "prefix": "filetypes-rtf",
-    "body": "content: '\\\\E003';"
-  },
-  "filetypes-deb": {
-    "prefix": "filetypes-deb",
-    "body": "content: '\\\\E112';"
+    "body": "content: '\\\\E061';",
+    "prefix": "filetypes-ai"
   },
   "filetypes-aif": {
-    "prefix": "filetypes-aif",
-    "body": "content: '\\\\E030';"
-  },
-  "filetypes-text": {
-    "prefix": "filetypes-text",
-    "body": "content: '\\\\E007';"
-  },
-  "filetypes-e-7z": {
-    "prefix": "filetypes-e-7z",
-    "body": "content: '\\\\E113';"
-  },
-  "filetypes-less": {
-    "prefix": "filetypes-less",
-    "body": "content: '\\\\E100';"
-  },
-  "filetypes-ttf": {
-    "prefix": "filetypes-ttf",
-    "body": "content: '\\\\E102';"
-  },
-  "filetypes-png": {
-    "prefix": "filetypes-png",
-    "body": "content: '\\\\E049';"
-  },
-  "filetypes-dat": {
-    "prefix": "filetypes-dat",
-    "body": "content: '\\\\E013';"
-  },
-  "filetypes-htm": {
-    "prefix": "filetypes-htm",
-    "body": "content: '\\\\E091';"
-  },
-  "filetypes-pkg": {
-    "prefix": "filetypes-pkg",
-    "body": "content: '\\\\E114';"
-  },
-  "filetypes-m4a": {
-    "prefix": "filetypes-m4a",
-    "body": "content: '\\\\E025';"
-  },
-  "filetypes-eot": {
-    "prefix": "filetypes-eot",
-    "body": "content: '\\\\E105';"
-  },
-  "filetypes-mdb": {
-    "prefix": "filetypes-mdb",
-    "body": "content: '\\\\E073';"
-  },
-  "filetypes-jpg": {
-    "prefix": "filetypes-jpg",
-    "body": "content: '\\\\E052';"
-  },
-  "filetypes-m4v": {
-    "prefix": "filetypes-m4v",
-    "body": "content: '\\\\E046';"
-  },
-  "filetypes-html": {
-    "prefix": "filetypes-html",
-    "body": "content: '\\\\E092';"
-  },
-  "filetypes-css": {
-    "prefix": "filetypes-css",
-    "body": "content: '\\\\E087';"
-  },
-  "filetypes-csr": {
-    "prefix": "filetypes-csr",
-    "body": "content: '\\\\E099';"
-  },
-  "filetypes-woff": {
-    "prefix": "filetypes-woff",
-    "body": "content: '\\\\E106';"
-  },
-  "filetypes-csv": {
-    "prefix": "filetypes-csv",
-    "body": "content: '\\\\E012';"
+    "body": "content: '\\\\E030';",
+    "prefix": "filetypes-aif"
   },
   "filetypes-api": {
-    "prefix": "filetypes-api",
-    "body": "content: '\\\\E134';"
-  },
-  "filetypes-psd": {
-    "prefix": "filetypes-psd",
-    "body": "content: '\\\\E050';"
-  },
-  "filetypes-sql": {
-    "prefix": "filetypes-sql",
-    "body": "content: '\\\\E075';"
-  },
-  "filetypes-asf": {
-    "prefix": "filetypes-asf",
-    "body": "content: '\\\\E041';"
-  },
-  "filetypes-tga": {
-    "prefix": "filetypes-tga",
-    "body": "content: '\\\\E057';"
-  },
-  "filetypes-waw": {
-    "prefix": "filetypes-waw",
-    "body": "content: '\\\\E026';"
-  },
-  "filetypes-m3v": {
-    "prefix": "filetypes-m3v",
-    "body": "content: '\\\\E033';"
-  },
-  "filetypes-e-3g2": {
-    "prefix": "filetypes-e-3g2",
-    "body": "content: '\\\\E039';"
+    "body": "content: '\\\\E134';",
+    "prefix": "filetypes-api"
   },
   "filetypes-apk": {
-    "prefix": "filetypes-apk",
-    "body": "content: '\\\\E081';"
+    "body": "content: '\\\\E081';",
+    "prefix": "filetypes-apk"
   },
-  "filetypes-asx": {
-    "prefix": "filetypes-asx",
-    "body": "content: '\\\\E037';"
+  "filetypes-app": {
+    "body": "content: '\\\\E077';",
+    "prefix": "filetypes-app"
   },
-  "filetypes-targ": {
-    "prefix": "filetypes-targ",
-    "body": "content: '\\\\E110';"
-  },
-  "filetypes-vcf": {
-    "prefix": "filetypes-vcf",
-    "body": "content: '\\\\E016';"
-  },
-  "filetypes-rss": {
-    "prefix": "filetypes-rss",
-    "body": "content: '\\\\E098';"
-  },
-  "filetypes-vcd": {
-    "prefix": "filetypes-vcd",
-    "body": "content: '\\\\E123';"
-  },
-  "filetypes-rar": {
-    "prefix": "filetypes-rar",
-    "body": "content: '\\\\E109';"
-  },
-  "filetypes-psp": {
-    "prefix": "filetypes-psp",
-    "body": "content: '\\\\E051';"
+  "filetypes-asf": {
+    "body": "content: '\\\\E041';",
+    "prefix": "filetypes-asf"
   },
   "filetypes-asp": {
-    "prefix": "filetypes-asp",
-    "body": "content: '\\\\E093';"
-  },
-  "filetypes-ra": {
-    "prefix": "filetypes-ra",
-    "body": "content: '\\\\E031';"
-  },
-  "filetypes-zipx": {
-    "prefix": "filetypes-zipx",
-    "body": "content: '\\\\E108';"
-  },
-  "filetypes-wmv": {
-    "prefix": "filetypes-wmv",
-    "body": "content: '\\\\E043';"
-  },
-  "filetypes-docx": {
-    "prefix": "filetypes-docx",
-    "body": "content: '\\\\E010';"
-  },
-  "filetypes-iso": {
-    "prefix": "filetypes-iso",
-    "body": "content: '\\\\E121';"
-  },
-  "filetypes-pct": {
-    "prefix": "filetypes-pct",
-    "body": "content: '\\\\E066';"
-  },
-  "filetypes-vb": {
-    "prefix": "filetypes-vb",
-    "body": "content: '\\\\E085';"
-  },
-  "filetypes-xap": {
-    "prefix": "filetypes-xap",
-    "body": "content: '\\\\E133';"
-  },
-  "filetypes-tif": {
-    "prefix": "filetypes-tif",
-    "body": "content: '\\\\E053';"
-  },
-  "filetypes-pps": {
-    "prefix": "filetypes-pps",
-    "body": "content: '\\\\E017';"
-  },
-  "filetypes-wma": {
-    "prefix": "filetypes-wma",
-    "body": "content: '\\\\E027';"
-  },
-  "filetypes-dbf": {
-    "prefix": "filetypes-dbf",
-    "body": "content: '\\\\E072';"
-  },
-  "filetypes-gz": {
-    "prefix": "filetypes-gz",
-    "body": "content: '\\\\E117';"
-  },
-  "filetypes-vob": {
-    "prefix": "filetypes-vob",
-    "body": "content: '\\\\E042';"
-  },
-  "filetypes-tar": {
-    "prefix": "filetypes-tar",
-    "body": "content: '\\\\E014';"
-  },
-  "filetypes-rm": {
-    "prefix": "filetypes-rm",
-    "body": "content: '\\\\E048';"
-  },
-  "filetypes-pptx": {
-    "prefix": "filetypes-pptx",
-    "body": "content: '\\\\E020';"
-  },
-  "filetypes-key": {
-    "prefix": "filetypes-key",
-    "body": "content: '\\\\E018';"
+    "body": "content: '\\\\E093';",
+    "prefix": "filetypes-asp"
   },
   "filetypes-aspx": {
-    "prefix": "filetypes-aspx",
-    "body": "content: '\\\\E097';"
+    "body": "content: '\\\\E097';",
+    "prefix": "filetypes-aspx"
   },
-  "filetypes-log": {
-    "prefix": "filetypes-log",
-    "body": "content: '\\\\E004';"
+  "filetypes-asx": {
+    "body": "content: '\\\\E037';",
+    "prefix": "filetypes-asx"
   },
-  "filetypes-json": {
-    "prefix": "filetypes-json",
-    "body": "content: '\\\\E131';"
-  },
-  "filetypes-txt": {
-    "prefix": "filetypes-txt",
-    "body": "content: '\\\\E001';"
-  },
-  "filetypes-php": {
-    "prefix": "filetypes-php",
-    "body": "content: '\\\\E089';"
-  },
-  "filetypes-com": {
-    "prefix": "filetypes-com",
-    "body": "content: '\\\\E079';"
-  },
-  "filetypes-mid": {
-    "prefix": "filetypes-mid",
-    "body": "content: '\\\\E032';"
-  },
-  "filetypes-hsf": {
-    "prefix": "filetypes-hsf",
-    "body": "content: '\\\\E083';"
-  },
-  "filetypes-rpm": {
-    "prefix": "filetypes-rpm",
-    "body": "content: '\\\\E115';"
-  },
-  "filetypes-unknown": {
-    "prefix": "filetypes-unknown",
-    "body": "content: '\\\\E140';"
-  },
-  "filetypes-db": {
-    "prefix": "filetypes-db",
-    "body": "content: '\\\\E071';"
-  },
-  "filetypes-e-3gp": {
-    "prefix": "filetypes-e-3gp",
-    "body": "content: '\\\\E034';"
-  },
-  "filetypes-bmp": {
-    "prefix": "filetypes-bmp",
-    "body": "content: '\\\\E056';"
-  },
-  "filetypes-aacd": {
-    "prefix": "filetypes-aacd",
-    "body": "content: '\\\\E076';"
-  },
-  "filetypes-bin": {
-    "prefix": "filetypes-bin",
-    "body": "content: '\\\\E120';"
-  },
-  "filetypes-doc": {
-    "prefix": "filetypes-doc",
-    "body": "content: '\\\\E002';"
-  },
-  "filetypes-jar": {
-    "prefix": "filetypes-jar",
-    "body": "content: '\\\\E082';"
-  },
-  "filetypes-yuv": {
-    "prefix": "filetypes-yuv",
-    "body": "content: '\\\\E059';"
-  },
-  "filetypes-sdf": {
-    "prefix": "filetypes-sdf",
-    "body": "content: '\\\\E021';"
-  },
-  "filetypes-xhtml": {
-    "prefix": "filetypes-xhtml",
-    "body": "content: '\\\\E090';"
-  },
-  "filetypes-page": {
-    "prefix": "filetypes-page",
-    "body": "content: '\\\\E011';"
-  },
-  "filetypes-cgi": {
-    "prefix": "filetypes-cgi",
-    "body": "content: '\\\\E086';"
-  },
-  "filetypes-ini": {
-    "prefix": "filetypes-ini",
-    "body": "content: '\\\\E129';"
+  "filetypes-avi": {
+    "body": "content: '\\\\E036';",
+    "prefix": "filetypes-avi"
   },
   "filetypes-bak": {
-    "prefix": "filetypes-bak",
-    "body": "content: '\\\\E124';"
-  },
-  "filetypes-prf": {
-    "prefix": "filetypes-prf",
-    "body": "content: '\\\\E130';"
-  },
-  "filetypes-iff": {
-    "prefix": "filetypes-iff",
-    "body": "content: '\\\\E029';"
-  },
-  "filetypes-tiff": {
-    "prefix": "filetypes-tiff",
-    "body": "content: '\\\\E054';"
-  },
-  "filetypes-pdf": {
-    "prefix": "filetypes-pdf",
-    "body": "content: '\\\\E065';"
+    "body": "content: '\\\\E124';",
+    "prefix": "filetypes-bak"
   },
   "filetypes-bat": {
-    "prefix": "filetypes-bat",
-    "body": "content: '\\\\E080';"
+    "body": "content: '\\\\E080';",
+    "prefix": "filetypes-bat"
   },
-  "filetypes-tmp": {
-    "prefix": "filetypes-tmp",
-    "body": "content: '\\\\E125';"
+  "filetypes-bin": {
+    "body": "content: '\\\\E120';",
+    "prefix": "filetypes-bin"
+  },
+  "filetypes-bmp": {
+    "body": "content: '\\\\E056';",
+    "prefix": "filetypes-bmp"
+  },
+  "filetypes-bpg": {
+    "body": "content: '\\\\E137';",
+    "prefix": "filetypes-bpg"
+  },
+  "filetypes-cbr": {
+    "body": "content: '\\\\E116';",
+    "prefix": "filetypes-cbr"
+  },
+  "filetypes-cer": {
+    "body": "content: '\\\\E094';",
+    "prefix": "filetypes-cer"
+  },
+  "filetypes-cfg": {
+    "body": "content: '\\\\E128';",
+    "prefix": "filetypes-cfg"
+  },
+  "filetypes-cfm": {
+    "body": "content: '\\\\E096';",
+    "prefix": "filetypes-cfm"
+  },
+  "filetypes-cgi": {
+    "body": "content: '\\\\E086';",
+    "prefix": "filetypes-cgi"
+  },
+  "filetypes-com": {
+    "body": "content: '\\\\E079';",
+    "prefix": "filetypes-com"
+  },
+  "filetypes-csr": {
+    "body": "content: '\\\\E099';",
+    "prefix": "filetypes-csr"
+  },
+  "filetypes-css": {
+    "body": "content: '\\\\E087';",
+    "prefix": "filetypes-css"
+  },
+  "filetypes-csv": {
+    "body": "content: '\\\\E012';",
+    "prefix": "filetypes-csv"
+  },
+  "filetypes-cue": {
+    "body": "content: '\\\\E119';",
+    "prefix": "filetypes-cue"
+  },
+  "filetypes-dat": {
+    "body": "content: '\\\\E013';",
+    "prefix": "filetypes-dat"
+  },
+  "filetypes-db": {
+    "body": "content: '\\\\E071';",
+    "prefix": "filetypes-db"
+  },
+  "filetypes-dbf": {
+    "body": "content: '\\\\E072';",
+    "prefix": "filetypes-dbf"
+  },
+  "filetypes-dds": {
+    "body": "content: '\\\\E060';",
+    "prefix": "filetypes-dds"
+  },
+  "filetypes-deb": {
+    "body": "content: '\\\\E112';",
+    "prefix": "filetypes-deb"
+  },
+  "filetypes-dmg": {
+    "body": "content: '\\\\E118';",
+    "prefix": "filetypes-dmg"
+  },
+  "filetypes-doc": {
+    "body": "content: '\\\\E002';",
+    "prefix": "filetypes-doc"
+  },
+  "filetypes-docx": {
+    "body": "content: '\\\\E010';",
+    "prefix": "filetypes-docx"
+  },
+  "filetypes-e-3g2": {
+    "body": "content: '\\\\E039';",
+    "prefix": "filetypes-e-3g2"
+  },
+  "filetypes-e-3gp": {
+    "body": "content: '\\\\E034';",
+    "prefix": "filetypes-e-3gp"
+  },
+  "filetypes-e-7z": {
+    "body": "content: '\\\\E113';",
+    "prefix": "filetypes-e-7z"
+  },
+  "filetypes-eot": {
+    "body": "content: '\\\\E105';",
+    "prefix": "filetypes-eot"
+  },
+  "filetypes-eps": {
+    "body": "content: '\\\\E062';",
+    "prefix": "filetypes-eps"
+  },
+  "filetypes-exe": {
+    "body": "content: '\\\\E078';",
+    "prefix": "filetypes-exe"
+  },
+  "filetypes-flac": {
+    "body": "content: '\\\\E138';",
+    "prefix": "filetypes-flac"
+  },
+  "filetypes-flv": {
+    "body": "content: '\\\\E047';",
+    "prefix": "filetypes-flv"
+  },
+  "filetypes-fnt": {
+    "body": "content: '\\\\E104';",
+    "prefix": "filetypes-fnt"
+  },
+  "filetypes-font": {
+    "body": "content: '\\\\E103';",
+    "prefix": "filetypes-font"
+  },
+  "filetypes-gbr": {
+    "body": "content: '\\\\E022';",
+    "prefix": "filetypes-gbr"
+  },
+  "filetypes-ged": {
+    "body": "content: '\\\\E023';",
+    "prefix": "filetypes-ged"
+  },
+  "filetypes-gif": {
+    "body": "content: '\\\\E055';",
+    "prefix": "filetypes-gif"
+  },
+  "filetypes-gz": {
+    "body": "content: '\\\\E117';",
+    "prefix": "filetypes-gz"
+  },
+  "filetypes-hdf": {
+    "body": "content: '\\\\E122';",
+    "prefix": "filetypes-hdf"
+  },
+  "filetypes-hsf": {
+    "body": "content: '\\\\E083';",
+    "prefix": "filetypes-hsf"
+  },
+  "filetypes-htm": {
+    "body": "content: '\\\\E091';",
+    "prefix": "filetypes-htm"
+  },
+  "filetypes-html": {
+    "body": "content: '\\\\E092';",
+    "prefix": "filetypes-html"
+  },
+  "filetypes-ico": {
+    "body": "content: '\\\\E135';",
+    "prefix": "filetypes-ico"
+  },
+  "filetypes-ics": {
+    "body": "content: '\\\\E126';",
+    "prefix": "filetypes-ics"
+  },
+  "filetypes-iff": {
+    "body": "content: '\\\\E029';",
+    "prefix": "filetypes-iff"
+  },
+  "filetypes-indd": {
+    "body": "content: '\\\\E067';",
+    "prefix": "filetypes-indd"
+  },
+  "filetypes-ini": {
+    "body": "content: '\\\\E129';",
+    "prefix": "filetypes-ini"
+  },
+  "filetypes-iso": {
+    "body": "content: '\\\\E121';",
+    "prefix": "filetypes-iso"
+  },
+  "filetypes-jar": {
+    "body": "content: '\\\\E082';",
+    "prefix": "filetypes-jar"
+  },
+  "filetypes-jpg": {
+    "body": "content: '\\\\E052';",
+    "prefix": "filetypes-jpg"
+  },
+  "filetypes-js": {
+    "body": "content: '\\\\E088';",
+    "prefix": "filetypes-js"
+  },
+  "filetypes-json": {
+    "body": "content: '\\\\E131';",
+    "prefix": "filetypes-json"
+  },
+  "filetypes-jsp": {
+    "body": "content: '\\\\E095';",
+    "prefix": "filetypes-jsp"
+  },
+  "filetypes-key": {
+    "body": "content: '\\\\E018';",
+    "prefix": "filetypes-key"
+  },
+  "filetypes-less": {
+    "body": "content: '\\\\E100';",
+    "prefix": "filetypes-less"
+  },
+  "filetypes-log": {
+    "body": "content: '\\\\E004';",
+    "prefix": "filetypes-log"
+  },
+  "filetypes-m3v": {
+    "body": "content: '\\\\E033';",
+    "prefix": "filetypes-m3v"
+  },
+  "filetypes-m4a": {
+    "body": "content: '\\\\E025';",
+    "prefix": "filetypes-m4a"
+  },
+  "filetypes-m4v": {
+    "body": "content: '\\\\E046';",
+    "prefix": "filetypes-m4v"
+  },
+  "filetypes-mdb": {
+    "body": "content: '\\\\E073';",
+    "prefix": "filetypes-mdb"
+  },
+  "filetypes-mid": {
+    "body": "content: '\\\\E032';",
+    "prefix": "filetypes-mid"
+  },
+  "filetypes-mov": {
+    "body": "content: '\\\\E044';",
+    "prefix": "filetypes-mov"
+  },
+  "filetypes-mp3": {
+    "body": "content: '\\\\E024';",
+    "prefix": "filetypes-mp3"
+  },
+  "filetypes-mp4": {
+    "body": "content: '\\\\E038';",
+    "prefix": "filetypes-mp4"
+  },
+  "filetypes-mpa": {
+    "body": "content: '\\\\E028';",
+    "prefix": "filetypes-mpa"
+  },
+  "filetypes-mpg": {
+    "body": "content: '\\\\E040';",
+    "prefix": "filetypes-mpg"
+  },
+  "filetypes-msg": {
+    "body": "content: '\\\\E006';",
+    "prefix": "filetypes-msg"
+  },
+  "filetypes-msi": {
+    "body": "content: '\\\\E127';",
+    "prefix": "filetypes-msi"
+  },
+  "filetypes-ogg": {
+    "body": "content: '\\\\E139';",
+    "prefix": "filetypes-ogg"
+  },
+  "filetypes-otf": {
+    "body": "content: '\\\\E101';",
+    "prefix": "filetypes-otf"
+  },
+  "filetypes-page": {
+    "body": "content: '\\\\E011';",
+    "prefix": "filetypes-page"
+  },
+  "filetypes-pct": {
+    "body": "content: '\\\\E066';",
+    "prefix": "filetypes-pct"
   },
   "filetypes-pdb": {
-    "prefix": "filetypes-pdb",
-    "body": "content: '\\\\E074';"
+    "body": "content: '\\\\E074';",
+    "prefix": "filetypes-pdb"
+  },
+  "filetypes-pdf": {
+    "body": "content: '\\\\E065';",
+    "prefix": "filetypes-pdf"
+  },
+  "filetypes-php": {
+    "body": "content: '\\\\E089';",
+    "prefix": "filetypes-php"
+  },
+  "filetypes-pif": {
+    "body": "content: '\\\\E084';",
+    "prefix": "filetypes-pif"
+  },
+  "filetypes-pkg": {
+    "body": "content: '\\\\E114';",
+    "prefix": "filetypes-pkg"
+  },
+  "filetypes-png": {
+    "body": "content: '\\\\E049';",
+    "prefix": "filetypes-png"
+  },
+  "filetypes-pps": {
+    "body": "content: '\\\\E017';",
+    "prefix": "filetypes-pps"
+  },
+  "filetypes-ppt": {
+    "body": "content: '\\\\E019';",
+    "prefix": "filetypes-ppt"
+  },
+  "filetypes-pptx": {
+    "body": "content: '\\\\E020';",
+    "prefix": "filetypes-pptx"
+  },
+  "filetypes-prf": {
+    "body": "content: '\\\\E130';",
+    "prefix": "filetypes-prf"
+  },
+  "filetypes-ps": {
+    "body": "content: '\\\\E063';",
+    "prefix": "filetypes-ps"
+  },
+  "filetypes-psd": {
+    "body": "content: '\\\\E050';",
+    "prefix": "filetypes-psd"
+  },
+  "filetypes-psp": {
+    "body": "content: '\\\\E051';",
+    "prefix": "filetypes-psp"
+  },
+  "filetypes-ra": {
+    "body": "content: '\\\\E031';",
+    "prefix": "filetypes-ra"
+  },
+  "filetypes-rar": {
+    "body": "content: '\\\\E109';",
+    "prefix": "filetypes-rar"
+  },
+  "filetypes-rm": {
+    "body": "content: '\\\\E048';",
+    "prefix": "filetypes-rm"
+  },
+  "filetypes-rpm": {
+    "body": "content: '\\\\E115';",
+    "prefix": "filetypes-rpm"
+  },
+  "filetypes-rss": {
+    "body": "content: '\\\\E098';",
+    "prefix": "filetypes-rss"
+  },
+  "filetypes-rtf": {
+    "body": "content: '\\\\E003';",
+    "prefix": "filetypes-rtf"
+  },
+  "filetypes-sdf": {
+    "body": "content: '\\\\E021';",
+    "prefix": "filetypes-sdf"
+  },
+  "filetypes-site": {
+    "body": "content: '\\\\E132';",
+    "prefix": "filetypes-site"
+  },
+  "filetypes-sitx": {
+    "body": "content: '\\\\E111';",
+    "prefix": "filetypes-sitx"
+  },
+  "filetypes-sql": {
+    "body": "content: '\\\\E075';",
+    "prefix": "filetypes-sql"
   },
   "filetypes-srt": {
-    "prefix": "filetypes-srt",
-    "body": "content: '\\\\E045';"
+    "body": "content: '\\\\E045';",
+    "prefix": "filetypes-srt"
+  },
+  "filetypes-svg": {
+    "body": "content: '\\\\E064';",
+    "prefix": "filetypes-svg"
+  },
+  "filetypes-swf": {
+    "body": "content: '\\\\E035';",
+    "prefix": "filetypes-swf"
+  },
+  "filetypes-tar": {
+    "body": "content: '\\\\E014';",
+    "prefix": "filetypes-tar"
+  },
+  "filetypes-targ": {
+    "body": "content: '\\\\E110';",
+    "prefix": "filetypes-targ"
+  },
+  "filetypes-tex": {
+    "body": "content: '\\\\E005';",
+    "prefix": "filetypes-tex"
+  },
+  "filetypes-text": {
+    "body": "content: '\\\\E007';",
+    "prefix": "filetypes-text"
+  },
+  "filetypes-tga": {
+    "body": "content: '\\\\E057';",
+    "prefix": "filetypes-tga"
+  },
+  "filetypes-thm": {
+    "body": "content: '\\\\E058';",
+    "prefix": "filetypes-thm"
+  },
+  "filetypes-tif": {
+    "body": "content: '\\\\E053';",
+    "prefix": "filetypes-tif"
+  },
+  "filetypes-tiff": {
+    "body": "content: '\\\\E054';",
+    "prefix": "filetypes-tiff"
+  },
+  "filetypes-tmp": {
+    "body": "content: '\\\\E125';",
+    "prefix": "filetypes-tmp"
+  },
+  "filetypes-ttf": {
+    "body": "content: '\\\\E102';",
+    "prefix": "filetypes-ttf"
+  },
+  "filetypes-txt": {
+    "body": "content: '\\\\E001';",
+    "prefix": "filetypes-txt"
+  },
+  "filetypes-unknown": {
+    "body": "content: '\\\\E140';",
+    "prefix": "filetypes-unknown"
+  },
+  "filetypes-vb": {
+    "body": "content: '\\\\E085';",
+    "prefix": "filetypes-vb"
+  },
+  "filetypes-vcd": {
+    "body": "content: '\\\\E123';",
+    "prefix": "filetypes-vcd"
+  },
+  "filetypes-vcf": {
+    "body": "content: '\\\\E016';",
+    "prefix": "filetypes-vcf"
+  },
+  "filetypes-vob": {
+    "body": "content: '\\\\E042';",
+    "prefix": "filetypes-vob"
+  },
+  "filetypes-waw": {
+    "body": "content: '\\\\E026';",
+    "prefix": "filetypes-waw"
+  },
+  "filetypes-webp": {
+    "body": "content: '\\\\E136';",
+    "prefix": "filetypes-webp"
+  },
+  "filetypes-wma": {
+    "body": "content: '\\\\E027';",
+    "prefix": "filetypes-wma"
+  },
+  "filetypes-wmv": {
+    "body": "content: '\\\\E043';",
+    "prefix": "filetypes-wmv"
+  },
+  "filetypes-woff": {
+    "body": "content: '\\\\E106';",
+    "prefix": "filetypes-woff"
+  },
+  "filetypes-wpd": {
+    "body": "content: '\\\\E008';",
+    "prefix": "filetypes-wpd"
+  },
+  "filetypes-wps": {
+    "body": "content: '\\\\E009';",
+    "prefix": "filetypes-wps"
+  },
+  "filetypes-xap": {
+    "body": "content: '\\\\E133';",
+    "prefix": "filetypes-xap"
+  },
+  "filetypes-xhtml": {
+    "body": "content: '\\\\E090';",
+    "prefix": "filetypes-xhtml"
+  },
+  "filetypes-xlr": {
+    "body": "content: '\\\\E068';",
+    "prefix": "filetypes-xlr"
+  },
+  "filetypes-xls": {
+    "body": "content: '\\\\E069';",
+    "prefix": "filetypes-xls"
+  },
+  "filetypes-xlsx": {
+    "body": "content: '\\\\E070';",
+    "prefix": "filetypes-xlsx"
+  },
+  "filetypes-xml": {
+    "body": "content: '\\\\E015';",
+    "prefix": "filetypes-xml"
+  },
+  "filetypes-yuv": {
+    "body": "content: '\\\\E059';",
+    "prefix": "filetypes-yuv"
+  },
+  "filetypes-zip": {
+    "body": "content: '\\\\E107';",
+    "prefix": "filetypes-zip"
+  },
+  "filetypes-zipx": {
+    "body": "content: '\\\\E108';",
+    "prefix": "filetypes-zipx"
   }
 }

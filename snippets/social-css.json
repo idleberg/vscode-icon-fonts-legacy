@@ -1,278 +1,278 @@
 {
-  "social-twitter": {
-    "prefix": "social-twitter",
-    "body": "content: '\\\\E032';"
-  },
-  "social-github": {
-    "prefix": "social-github",
-    "body": "content: '\\\\E022';"
-  },
-  "social-snapchat": {
-    "prefix": "social-snapchat",
-    "body": "content: '\\\\E068';"
-  },
-  "social-pocket": {
-    "prefix": "social-pocket",
-    "body": "content: '\\\\E052';"
-  },
-  "social-vimeo": {
-    "prefix": "social-vimeo",
-    "body": "content: '\\\\E035';"
-  },
   "social-amazon": {
-    "prefix": "social-amazon",
-    "body": "content: '\\\\E008';"
-  },
-  "social-stackoverflow": {
-    "prefix": "social-stackoverflow",
-    "body": "content: '\\\\E065';"
-  },
-  "social-etsy": {
-    "prefix": "social-etsy",
-    "body": "content: '\\\\E069';"
-  },
-  "social-soundcloud": {
-    "prefix": "social-soundcloud",
-    "body": "content: '\\\\E054';"
-  },
-  "social-vine": {
-    "prefix": "social-vine",
-    "body": "content: '\\\\E041';"
-  },
-  "social-stackexchange": {
-    "prefix": "social-stackexchange",
-    "body": "content: '\\\\E070';"
-  },
-  "social-blogger": {
-    "prefix": "social-blogger",
-    "body": "content: '\\\\E006';"
-  },
-  "social-rss": {
-    "prefix": "social-rss",
-    "body": "content: '\\\\E038';"
-  },
-  "social-instagram": {
-    "prefix": "social-instagram",
-    "body": "content: '\\\\E033';"
-  },
-  "social-steam": {
-    "prefix": "social-steam",
-    "body": "content: '\\\\E053';"
-  },
-  "social-badoo": {
-    "prefix": "social-badoo",
-    "body": "content: '\\\\E027';"
-  },
-  "social-e-mail-envelope": {
-    "prefix": "social-e-mail-envelope",
-    "body": "content: '\\\\E014';"
-  },
-  "social-buffer": {
-    "prefix": "social-buffer",
-    "body": "content: '\\\\E063';"
-  },
-  "social-last-fm": {
-    "prefix": "social-last-fm",
-    "body": "content: '\\\\E037';"
-  },
-  "social-open-id": {
-    "prefix": "social-open-id",
-    "body": "content: '\\\\E024';"
-  },
-  "social-google-plus": {
-    "prefix": "social-google-plus",
-    "body": "content: '\\\\E003';"
-  },
-  "social-read-it-later": {
-    "prefix": "social-read-it-later",
-    "body": "content: '\\\\E017';"
-  },
-  "social-quora": {
-    "prefix": "social-quora",
-    "body": "content: '\\\\E026';"
-  },
-  "social-whatsapp": {
-    "prefix": "social-whatsapp",
-    "body": "content: '\\\\E062';"
-  },
-  "social-foursquare": {
-    "prefix": "social-foursquare",
-    "body": "content: '\\\\E025';"
-  },
-  "social-xbox": {
-    "prefix": "social-xbox",
-    "body": "content: '\\\\E048';"
-  },
-  "social-linux-foundation": {
-    "prefix": "social-linux-foundation",
-    "body": "content: '\\\\E059';"
-  },
-  "social-instapaper": {
-    "prefix": "social-instapaper",
-    "body": "content: '\\\\E011';"
-  },
-  "social-dribbble": {
-    "prefix": "social-dribbble",
-    "body": "content: '\\\\E015';"
-  },
-  "social-behance": {
-    "prefix": "social-behance",
-    "body": "content: '\\\\E021';"
-  },
-  "social-windows": {
-    "prefix": "social-windows",
-    "body": "content: '\\\\E045';"
-  },
-  "social-stumbleupon": {
-    "prefix": "social-stumbleupon",
-    "body": "content: '\\\\E029';"
-  },
-  "social-vk": {
-    "prefix": "social-vk",
-    "body": "content: '\\\\E067';"
-  },
-  "social-posterous-spaces": {
-    "prefix": "social-posterous-spaces",
-    "body": "content: '\\\\E034';"
-  },
-  "social-wikipedia": {
-    "prefix": "social-wikipedia",
-    "body": "content: '\\\\E051';"
-  },
-  "social-youtube": {
-    "prefix": "social-youtube",
-    "body": "content: '\\\\E023';"
-  },
-  "social-google-drive": {
-    "prefix": "social-google-drive",
-    "body": "content: '\\\\E058';"
-  },
-  "social-linux": {
-    "prefix": "social-linux",
-    "body": "content: '\\\\E066';"
-  },
-  "social-xing": {
-    "prefix": "social-xing",
-    "body": "content: '\\\\E013';"
-  },
-  "social-readability": {
-    "prefix": "social-readability",
-    "body": "content: '\\\\E030';"
-  },
-  "social-myspace": {
-    "prefix": "social-myspace",
-    "body": "content: '\\\\E042';"
-  },
-  "social-bitbucket": {
-    "prefix": "social-bitbucket",
-    "body": "content: '\\\\E061';"
-  },
-  "social-paypal": {
-    "prefix": "social-paypal",
-    "body": "content: '\\\\E057';"
-  },
-  "social-linked-in": {
-    "prefix": "social-linked-in",
-    "body": "content: '\\\\E018';"
-  },
-  "social-goodreads": {
-    "prefix": "social-goodreads",
-    "body": "content: '\\\\E043';"
-  },
-  "social-evernote": {
-    "prefix": "social-evernote",
-    "body": "content: '\\\\E012';"
-  },
-  "social-picasa": {
-    "prefix": "social-picasa",
-    "body": "content: '\\\\E007';"
-  },
-  "social-tumblr": {
-    "prefix": "social-tumblr",
-    "body": "content: '\\\\E009';"
-  },
-  "social-apple": {
-    "prefix": "social-apple",
-    "body": "content: '\\\\E044';"
-  },
-  "social-wordpress": {
-    "prefix": "social-wordpress",
-    "body": "content: '\\\\E010';"
-  },
-  "social-deviantart": {
-    "prefix": "social-deviantart",
-    "body": "content: '\\\\E016';"
-  },
-  "social-flickr": {
-    "prefix": "social-flickr",
-    "body": "content: '\\\\E036';"
-  },
-  "social-skype": {
-    "prefix": "social-skype",
-    "body": "content: '\\\\E039';"
-  },
-  "social-jolicloud": {
-    "prefix": "social-jolicloud",
-    "body": "content: '\\\\E004';"
-  },
-  "social-medium": {
-    "prefix": "social-medium",
-    "body": "content: '\\\\E064';"
-  },
-  "social-yahoo": {
-    "prefix": "social-yahoo",
-    "body": "content: '\\\\E005';"
-  },
-  "social-yelp": {
-    "prefix": "social-yelp",
-    "body": "content: '\\\\E046';"
-  },
-  "social-pinboard": {
-    "prefix": "social-pinboard",
-    "body": "content: '\\\\E020';"
-  },
-  "social-e-mail": {
-    "prefix": "social-e-mail",
-    "body": "content: '\\\\E040';"
-  },
-  "social-netflix": {
-    "prefix": "social-netflix",
-    "body": "content: '\\\\E056';"
-  },
-  "social-spotify": {
-    "prefix": "social-spotify",
-    "body": "content: '\\\\E028';"
-  },
-  "social-facebook": {
-    "prefix": "social-facebook",
-    "body": "content: '\\\\E031';"
-  },
-  "social-playstation": {
-    "prefix": "social-playstation",
-    "body": "content: '\\\\E047';"
-  },
-  "social-ios": {
-    "prefix": "social-ios",
-    "body": "content: '\\\\E050';"
-  },
-  "social-gmail": {
-    "prefix": "social-gmail",
-    "body": "content: '\\\\E019';"
+    "body": "content: '\\\\E008';",
+    "prefix": "social-amazon"
   },
   "social-android": {
-    "prefix": "social-android",
-    "body": "content: '\\\\E049';"
+    "body": "content: '\\\\E049';",
+    "prefix": "social-android"
+  },
+  "social-apple": {
+    "body": "content: '\\\\E044';",
+    "prefix": "social-apple"
+  },
+  "social-badoo": {
+    "body": "content: '\\\\E027';",
+    "prefix": "social-badoo"
+  },
+  "social-behance": {
+    "body": "content: '\\\\E021';",
+    "prefix": "social-behance"
+  },
+  "social-bitbucket": {
+    "body": "content: '\\\\E061';",
+    "prefix": "social-bitbucket"
+  },
+  "social-blogger": {
+    "body": "content: '\\\\E006';",
+    "prefix": "social-blogger"
+  },
+  "social-buffer": {
+    "body": "content: '\\\\E063';",
+    "prefix": "social-buffer"
+  },
+  "social-deviantart": {
+    "body": "content: '\\\\E016';",
+    "prefix": "social-deviantart"
+  },
+  "social-dribbble": {
+    "body": "content: '\\\\E015';",
+    "prefix": "social-dribbble"
   },
   "social-dropbox": {
-    "prefix": "social-dropbox",
-    "body": "content: '\\\\E002';"
+    "body": "content: '\\\\E002';",
+    "prefix": "social-dropbox"
+  },
+  "social-e-mail-envelope": {
+    "body": "content: '\\\\E014';",
+    "prefix": "social-e-mail-envelope"
+  },
+  "social-e-mail": {
+    "body": "content: '\\\\E040';",
+    "prefix": "social-e-mail"
   },
   "social-ebay": {
-    "prefix": "social-ebay",
-    "body": "content: '\\\\E060';"
+    "body": "content: '\\\\E060';",
+    "prefix": "social-ebay"
+  },
+  "social-etsy": {
+    "body": "content: '\\\\E069';",
+    "prefix": "social-etsy"
+  },
+  "social-evernote": {
+    "body": "content: '\\\\E012';",
+    "prefix": "social-evernote"
+  },
+  "social-facebook": {
+    "body": "content: '\\\\E031';",
+    "prefix": "social-facebook"
+  },
+  "social-flickr": {
+    "body": "content: '\\\\E036';",
+    "prefix": "social-flickr"
+  },
+  "social-foursquare": {
+    "body": "content: '\\\\E025';",
+    "prefix": "social-foursquare"
+  },
+  "social-github": {
+    "body": "content: '\\\\E022';",
+    "prefix": "social-github"
+  },
+  "social-gmail": {
+    "body": "content: '\\\\E019';",
+    "prefix": "social-gmail"
+  },
+  "social-goodreads": {
+    "body": "content: '\\\\E043';",
+    "prefix": "social-goodreads"
+  },
+  "social-google-drive": {
+    "body": "content: '\\\\E058';",
+    "prefix": "social-google-drive"
+  },
+  "social-google-plus": {
+    "body": "content: '\\\\E003';",
+    "prefix": "social-google-plus"
+  },
+  "social-instagram": {
+    "body": "content: '\\\\E033';",
+    "prefix": "social-instagram"
+  },
+  "social-instapaper": {
+    "body": "content: '\\\\E011';",
+    "prefix": "social-instapaper"
+  },
+  "social-ios": {
+    "body": "content: '\\\\E050';",
+    "prefix": "social-ios"
+  },
+  "social-jolicloud": {
+    "body": "content: '\\\\E004';",
+    "prefix": "social-jolicloud"
+  },
+  "social-last-fm": {
+    "body": "content: '\\\\E037';",
+    "prefix": "social-last-fm"
+  },
+  "social-linked-in": {
+    "body": "content: '\\\\E018';",
+    "prefix": "social-linked-in"
+  },
+  "social-linux-foundation": {
+    "body": "content: '\\\\E059';",
+    "prefix": "social-linux-foundation"
+  },
+  "social-linux": {
+    "body": "content: '\\\\E066';",
+    "prefix": "social-linux"
+  },
+  "social-medium": {
+    "body": "content: '\\\\E064';",
+    "prefix": "social-medium"
+  },
+  "social-myspace": {
+    "body": "content: '\\\\E042';",
+    "prefix": "social-myspace"
+  },
+  "social-netflix": {
+    "body": "content: '\\\\E056';",
+    "prefix": "social-netflix"
+  },
+  "social-open-id": {
+    "body": "content: '\\\\E024';",
+    "prefix": "social-open-id"
+  },
+  "social-paypal": {
+    "body": "content: '\\\\E057';",
+    "prefix": "social-paypal"
+  },
+  "social-picasa": {
+    "body": "content: '\\\\E007';",
+    "prefix": "social-picasa"
+  },
+  "social-pinboard": {
+    "body": "content: '\\\\E020';",
+    "prefix": "social-pinboard"
+  },
+  "social-playstation": {
+    "body": "content: '\\\\E047';",
+    "prefix": "social-playstation"
+  },
+  "social-pocket": {
+    "body": "content: '\\\\E052';",
+    "prefix": "social-pocket"
+  },
+  "social-posterous-spaces": {
+    "body": "content: '\\\\E034';",
+    "prefix": "social-posterous-spaces"
+  },
+  "social-quora": {
+    "body": "content: '\\\\E026';",
+    "prefix": "social-quora"
+  },
+  "social-read-it-later": {
+    "body": "content: '\\\\E017';",
+    "prefix": "social-read-it-later"
+  },
+  "social-readability": {
+    "body": "content: '\\\\E030';",
+    "prefix": "social-readability"
+  },
+  "social-rss": {
+    "body": "content: '\\\\E038';",
+    "prefix": "social-rss"
+  },
+  "social-skype": {
+    "body": "content: '\\\\E039';",
+    "prefix": "social-skype"
   },
   "social-slideshare": {
-    "prefix": "social-slideshare",
-    "body": "content: '\\\\E055';"
+    "body": "content: '\\\\E055';",
+    "prefix": "social-slideshare"
+  },
+  "social-snapchat": {
+    "body": "content: '\\\\E068';",
+    "prefix": "social-snapchat"
+  },
+  "social-soundcloud": {
+    "body": "content: '\\\\E054';",
+    "prefix": "social-soundcloud"
+  },
+  "social-spotify": {
+    "body": "content: '\\\\E028';",
+    "prefix": "social-spotify"
+  },
+  "social-stackexchange": {
+    "body": "content: '\\\\E070';",
+    "prefix": "social-stackexchange"
+  },
+  "social-stackoverflow": {
+    "body": "content: '\\\\E065';",
+    "prefix": "social-stackoverflow"
+  },
+  "social-steam": {
+    "body": "content: '\\\\E053';",
+    "prefix": "social-steam"
+  },
+  "social-stumbleupon": {
+    "body": "content: '\\\\E029';",
+    "prefix": "social-stumbleupon"
+  },
+  "social-tumblr": {
+    "body": "content: '\\\\E009';",
+    "prefix": "social-tumblr"
+  },
+  "social-twitter": {
+    "body": "content: '\\\\E032';",
+    "prefix": "social-twitter"
+  },
+  "social-vimeo": {
+    "body": "content: '\\\\E035';",
+    "prefix": "social-vimeo"
+  },
+  "social-vine": {
+    "body": "content: '\\\\E041';",
+    "prefix": "social-vine"
+  },
+  "social-vk": {
+    "body": "content: '\\\\E067';",
+    "prefix": "social-vk"
+  },
+  "social-whatsapp": {
+    "body": "content: '\\\\E062';",
+    "prefix": "social-whatsapp"
+  },
+  "social-wikipedia": {
+    "body": "content: '\\\\E051';",
+    "prefix": "social-wikipedia"
+  },
+  "social-windows": {
+    "body": "content: '\\\\E045';",
+    "prefix": "social-windows"
+  },
+  "social-wordpress": {
+    "body": "content: '\\\\E010';",
+    "prefix": "social-wordpress"
+  },
+  "social-xbox": {
+    "body": "content: '\\\\E048';",
+    "prefix": "social-xbox"
+  },
+  "social-xing": {
+    "body": "content: '\\\\E013';",
+    "prefix": "social-xing"
+  },
+  "social-yahoo": {
+    "body": "content: '\\\\E005';",
+    "prefix": "social-yahoo"
+  },
+  "social-yelp": {
+    "body": "content: '\\\\E046';",
+    "prefix": "social-yelp"
+  },
+  "social-youtube": {
+    "body": "content: '\\\\E023';",
+    "prefix": "social-youtube"
   }
 }
