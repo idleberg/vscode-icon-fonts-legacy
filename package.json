@@ -63,7 +63,7 @@
             },
             {
                 "language": "html",
-                "path": "./snippets/octicons.json"
+                "path": "./snippets/octicon.json"
             },
             {
                 "language": "html",
@@ -83,7 +83,7 @@
             },
             {
                 "language": "css",
-                "path": "./snippets/octicons-css.json"
+                "path": "./snippets/octicon-css.json"
             },
             {
                 "language": "css",
@@ -103,7 +103,7 @@
             },
             {
                 "language": "less",
-                "path": "./snippets/octicons-css.json"
+                "path": "./snippets/octicon-css.json"
             },
             {
                 "language": "less",
@@ -123,7 +123,7 @@
             },
             {
                 "language": "scss",
-                "path": "./snippets/octicons-css.json"
+                "path": "./snippets/octicon-css.json"
             },
             {
                 "language": "scss",
