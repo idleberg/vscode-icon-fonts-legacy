@@ -1,146 +1,146 @@
 {
-    "name": "icon-fonts-legacy",
-    "displayName": "Icon Fonts (Legacy)",
-    "description": "Snippets for deprecated icon fonts, including the entire Glyphicons Pro family, Foundation Icons 1.0 and more!",
-    "version": "1.3.0",
-    "publisher": "idleberg",
-    "license": "MIT",
-    "author": {
-        "name": "Jan T. Sott",
-        "url": "http://github.com/idleberg"
-    },
-    "keywords": [
-        "icon font",
-        "icon fonts",
-        "glyphicons",
-        "halflings",
-        "foundation icons"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
-    },
-    "homepage": "https://github.com/idleberg/vscode-icon-fonts",
-    "bugs": {
-        "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
-    },
-    "icon": "images/logo.svg",
-    "galleryBanner": {
-        "color": "#232323",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.0.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "html",
-                "path": "./snippets/filetypes.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/foundicon.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/glyphicons.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/halflings.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/line-class.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/line-data.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/octicon.json"
-            },
-            {
-                "language": "html",
-                "path": "./snippets/social.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/filetypes-css.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/glyphicons-css.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/halflings-css.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/octicon-css.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/social-css.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/filetypes-css.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/glyphicons-css.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/halflings-css.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/octicon-css.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/social-css.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/filetypes-css.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/glyphicons-css.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/halflings-css.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/octicon-css.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/social-css.json"
-            }
-        ]
-    },
-    "scripts": {
-        "postinstall": "node ./node_modules/vscode/bin/install",
-        "test": "gulp lint"
-    },
-    "devDependencies": {
-        "gulp": "^3.9.1",
-        "gulp-debug": "^2.1.2",
-        "gulp-eslint": "^3.0.1",
-        "gulp-jsonlint": "^1.1.2",
-        "gulp-xml-validator": "^0.1.2",
-        "vscode": "^1.0.0"
-    }
+  "name": "icon-fonts-legacy",
+  "displayName": "Icon Fonts (Legacy)",
+  "description": "Snippets for deprecated icon fonts, including the entire Glyphicons Pro family, Foundation Icons 1.0 and more!",
+  "version": "1.3.0",
+  "publisher": "idleberg",
+  "license": "MIT",
+  "author": {
+    "name": "Jan T. Sott",
+    "url": "http://github.com/idleberg"
+  },
+  "keywords": [
+    "icon font",
+    "icon fonts",
+    "glyphicons",
+    "halflings",
+    "foundation icons"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
+  },
+  "homepage": "https://github.com/idleberg/vscode-icon-fonts",
+  "bugs": {
+    "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
+  },
+  "icon": "images/logo.svg",
+  "galleryBanner": {
+    "color": "#232323",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/filetypes.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/foundicon.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/glyphicons.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/halflings.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/line-class.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/line-data.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/octicon.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/social.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/filetypes-css.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/glyphicons-css.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/halflings-css.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/octicon-css.json"
+      },
+      {
+        "language": "css",
+        "path": "./snippets/social-css.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/filetypes-css.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/glyphicons-css.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/halflings-css.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/octicon-css.json"
+      },
+      {
+        "language": "less",
+        "path": "./snippets/social-css.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/filetypes-css.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/glyphicons-css.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/halflings-css.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/octicon-css.json"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/social-css.json"
+      }
+    ]
+  },
+  "scripts": {
+    "postinstall": "node ./node_modules/vscode/bin/install",
+    "test": "gulp lint"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-debug": "^3.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-jsonlint": "^1.1.2",
+    "gulp-xml-validator": "^0.1.2",
+    "vscode": "^1.0.3"
+  }
 }
