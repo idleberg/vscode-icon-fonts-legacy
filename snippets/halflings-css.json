@@ -1,1198 +1,1497 @@
 {
   "halflings-adjust": {
     "body": "content: '\\\\E063';",
+    "description": "content",
     "prefix": "halflings-adjust"
   },
   "halflings-alert": {
     "body": "content: '\\\\E209';",
+    "description": "content",
     "prefix": "halflings-alert"
   },
   "halflings-align-center": {
     "body": "content: '\\\\E053';",
+    "description": "content",
     "prefix": "halflings-align-center"
   },
   "halflings-align-justify": {
     "body": "content: '\\\\E055';",
+    "description": "content",
     "prefix": "halflings-align-justify"
   },
   "halflings-align-left": {
     "body": "content: '\\\\E052';",
+    "description": "content",
     "prefix": "halflings-align-left"
   },
   "halflings-align-right": {
     "body": "content: '\\\\E054';",
+    "description": "content",
     "prefix": "halflings-align-right"
   },
   "halflings-apple": {
     "body": "content: '\\\\E220';",
+    "description": "content",
     "prefix": "halflings-apple"
   },
   "halflings-arrow-down": {
     "body": "content: '\\\\E094';",
+    "description": "content",
     "prefix": "halflings-arrow-down"
   },
   "halflings-arrow-left": {
     "body": "content: '\\\\E091';",
+    "description": "content",
     "prefix": "halflings-arrow-left"
   },
   "halflings-arrow-right": {
     "body": "content: '\\\\E092';",
+    "description": "content",
     "prefix": "halflings-arrow-right"
   },
   "halflings-arrow-up": {
     "body": "content: '\\\\E093';",
+    "description": "content",
     "prefix": "halflings-arrow-up"
   },
   "halflings-asterisk": {
     "body": "content: '\\\\E100';",
+    "description": "content",
     "prefix": "halflings-asterisk"
   },
   "halflings-baby-formula": {
     "body": "content: '\\\\E216';",
+    "description": "content",
     "prefix": "halflings-baby-formula"
   },
   "halflings-backward": {
     "body": "content: '\\\\E071';",
+    "description": "content",
     "prefix": "halflings-backward"
   },
   "halflings-ban-circle": {
     "body": "content: '\\\\E090';",
+    "description": "content",
     "prefix": "halflings-ban-circle"
   },
   "halflings-barcode": {
     "body": "content: '\\\\E040';",
+    "description": "content",
     "prefix": "halflings-barcode"
   },
   "halflings-battery-10": {
     "body": "content: '\\\\E292';",
+    "description": "content",
     "prefix": "halflings-battery-10"
   },
   "halflings-battery-25": {
     "body": "content: '\\\\E291';",
+    "description": "content",
     "prefix": "halflings-battery-25"
   },
   "halflings-battery-50": {
     "body": "content: '\\\\E290';",
+    "description": "content",
     "prefix": "halflings-battery-50"
   },
   "halflings-battery-75": {
     "body": "content: '\\\\E289';",
+    "description": "content",
     "prefix": "halflings-battery-75"
   },
   "halflings-battery-charging": {
     "body": "content: '\\\\E287';",
+    "description": "content",
     "prefix": "halflings-battery-charging"
   },
   "halflings-battery-full": {
     "body": "content: '\\\\E288';",
+    "description": "content",
     "prefix": "halflings-battery-full"
   },
   "halflings-bed": {
     "body": "content: '\\\\E219';",
+    "description": "content",
     "prefix": "halflings-bed"
   },
   "halflings-bell": {
     "body": "content: '\\\\E123';",
+    "description": "content",
     "prefix": "halflings-bell"
   },
   "halflings-bishop": {
     "body": "content: '\\\\E214';",
+    "description": "content",
     "prefix": "halflings-bishop"
   },
   "halflings-bitcoin": {
     "body": "content: '\\\\E227';",
+    "description": "content",
     "prefix": "halflings-bitcoin"
   },
   "halflings-blackboard": {
     "body": "content: '\\\\E218';",
+    "description": "content",
     "prefix": "halflings-blackboard"
   },
   "halflings-bold": {
     "body": "content: '\\\\E048';",
+    "description": "content",
     "prefix": "halflings-bold"
   },
   "halflings-book": {
     "body": "content: '\\\\E043';",
+    "description": "content",
     "prefix": "halflings-book"
   },
   "halflings-bookmark": {
     "body": "content: '\\\\E044';",
+    "description": "content",
     "prefix": "halflings-bookmark"
   },
   "halflings-briefcase": {
     "body": "content: '\\\\E139';",
+    "description": "content",
     "prefix": "halflings-briefcase"
   },
   "halflings-bug": {
     "body": "content: '\\\\E281';",
+    "description": "content",
     "prefix": "halflings-bug"
   },
   "halflings-building": {
     "body": "content: '\\\\E261';",
+    "description": "content",
     "prefix": "halflings-building"
   },
   "halflings-bullhorn": {
     "body": "content: '\\\\E122';",
+    "description": "content",
     "prefix": "halflings-bullhorn"
   },
   "halflings-calendar": {
     "body": "content: '\\\\E109';",
+    "description": "content",
     "prefix": "halflings-calendar"
   },
   "halflings-camera": {
     "body": "content: '\\\\E046';",
+    "description": "content",
     "prefix": "halflings-camera"
   },
   "halflings-cd": {
     "body": "content: '\\\\E201';",
+    "description": "content",
     "prefix": "halflings-cd"
   },
   "halflings-certificate": {
     "body": "content: '\\\\E124';",
+    "description": "content",
     "prefix": "halflings-certificate"
   },
   "halflings-check": {
     "body": "content: '\\\\E067';",
+    "description": "content",
     "prefix": "halflings-check"
   },
   "halflings-chevron-down": {
     "body": "content: '\\\\E114';",
+    "description": "content",
     "prefix": "halflings-chevron-down"
   },
   "halflings-chevron-left": {
     "body": "content: '\\\\E079';",
+    "description": "content",
     "prefix": "halflings-chevron-left"
   },
   "halflings-chevron-right": {
     "body": "content: '\\\\E080';",
+    "description": "content",
     "prefix": "halflings-chevron-right"
   },
   "halflings-chevron-up": {
     "body": "content: '\\\\E113';",
+    "description": "content",
     "prefix": "halflings-chevron-up"
   },
   "halflings-circle-arrow-down": {
     "body": "content: '\\\\E134';",
+    "description": "content",
     "prefix": "halflings-circle-arrow-down"
   },
   "halflings-circle-arrow-left": {
     "body": "content: '\\\\E132';",
+    "description": "content",
     "prefix": "halflings-circle-arrow-left"
   },
   "halflings-circle-arrow-right": {
     "body": "content: '\\\\E131';",
+    "description": "content",
     "prefix": "halflings-circle-arrow-right"
   },
   "halflings-circle-arrow-top": {
     "body": "content: '\\\\E133';",
+    "description": "content",
     "prefix": "halflings-circle-arrow-top"
   },
   "halflings-cloud-download": {
     "body": "content: '\\\\E197';",
+    "description": "content",
     "prefix": "halflings-cloud-download"
   },
   "halflings-cloud-upload": {
     "body": "content: '\\\\E198';",
+    "description": "content",
     "prefix": "halflings-cloud-upload"
   },
   "halflings-cloud": {
     "body": "content: '\\\\E196';",
+    "description": "content",
     "prefix": "halflings-cloud"
   },
   "halflings-coffee-cup": {
     "body": "content: '\\\\E278';",
+    "description": "content",
     "prefix": "halflings-coffee-cup"
   },
   "halflings-cog": {
     "body": "content: '\\\\E019';",
+    "description": "content",
     "prefix": "halflings-cog"
   },
   "halflings-collapse-top": {
     "body": "content: '\\\\E160';",
+    "description": "content",
     "prefix": "halflings-collapse-top"
   },
   "halflings-collapse": {
     "body": "content: '\\\\E159';",
+    "description": "content",
     "prefix": "halflings-collapse"
   },
   "halflings-comments": {
     "body": "content: '\\\\E111';",
+    "description": "content",
     "prefix": "halflings-comments"
   },
   "halflings-compressed": {
     "body": "content: '\\\\E181';",
+    "description": "content",
     "prefix": "halflings-compressed"
   },
   "halflings-copy": {
     "body": "content: '\\\\E205';",
+    "description": "content",
     "prefix": "halflings-copy"
   },
   "halflings-copyright-mark": {
     "body": "content: '\\\\E194';",
+    "description": "content",
     "prefix": "halflings-copyright-mark"
   },
   "halflings-credit-card": {
     "body": "content: '\\\\E177';",
+    "description": "content",
     "prefix": "halflings-credit-card"
   },
   "halflings-cutlery": {
     "body": "content: '\\\\E179';",
+    "description": "content",
     "prefix": "halflings-cutlery"
   },
   "halflings-dashboard": {
     "body": "content: '\\\\E141';",
+    "description": "content",
     "prefix": "halflings-dashboard"
   },
   "halflings-direction-down": {
     "body": "content: '\\\\E275';",
+    "description": "content",
     "prefix": "halflings-direction-down"
   },
   "halflings-direction-left": {
     "body": "content: '\\\\E274';",
+    "description": "content",
     "prefix": "halflings-direction-left"
   },
   "halflings-direction-right": {
     "body": "content: '\\\\E273';",
+    "description": "content",
     "prefix": "halflings-direction-right"
   },
   "halflings-direction-up": {
     "body": "content: '\\\\E276';",
+    "description": "content",
     "prefix": "halflings-direction-up"
   },
   "halflings-direction": {
     "body": "content: '\\\\E283';",
+    "description": "content",
     "prefix": "halflings-direction"
   },
   "halflings-directions": {
     "body": "content: '\\\\E265';",
+    "description": "content",
     "prefix": "halflings-directions"
   },
   "halflings-display": {
     "body": "content: '\\\\E282';",
+    "description": "content",
     "prefix": "halflings-display"
   },
   "halflings-door": {
     "body": "content: '\\\\E207';",
+    "description": "content",
     "prefix": "halflings-door"
   },
   "halflings-download-alt": {
     "body": "content: '\\\\E025';",
+    "description": "content",
     "prefix": "halflings-download-alt"
   },
   "halflings-download": {
     "body": "content: '\\\\E026';",
+    "description": "content",
     "prefix": "halflings-download"
   },
   "halflings-duplicate": {
     "body": "content: '\\\\E224';",
+    "description": "content",
     "prefix": "halflings-duplicate"
   },
   "halflings-earphone": {
     "body": "content: '\\\\E182';",
+    "description": "content",
     "prefix": "halflings-earphone"
   },
   "halflings-edit": {
     "body": "content: '\\\\E065';",
+    "description": "content",
     "prefix": "halflings-edit"
   },
   "halflings-education": {
     "body": "content: '\\\\E233';",
+    "description": "content",
     "prefix": "halflings-education"
   },
   "halflings-eject": {
     "body": "content: '\\\\E078';",
+    "description": "content",
     "prefix": "halflings-eject"
   },
   "halflings-envelope": {
     "body": "content: '\\\\E004';",
+    "description": "content",
     "prefix": "halflings-envelope"
   },
   "halflings-equalizer": {
     "body": "content: '\\\\E210';",
+    "description": "content",
     "prefix": "halflings-equalizer"
   },
   "halflings-erase": {
     "body": "content: '\\\\E221';",
+    "description": "content",
     "prefix": "halflings-erase"
   },
   "halflings-euro": {
     "body": "content: '\\\\E147';",
+    "description": "content",
     "prefix": "halflings-euro"
   },
   "halflings-exclamation-sign": {
     "body": "content: '\\\\E101';",
+    "description": "content",
     "prefix": "halflings-exclamation-sign"
   },
   "halflings-expand": {
     "body": "content: '\\\\E158';",
+    "description": "content",
     "prefix": "halflings-expand"
   },
   "halflings-export": {
     "body": "content: '\\\\E170';",
+    "description": "content",
     "prefix": "halflings-export"
   },
   "halflings-eye-close": {
     "body": "content: '\\\\E106';",
+    "description": "content",
     "prefix": "halflings-eye-close"
   },
   "halflings-eye-open": {
     "body": "content: '\\\\E105';",
+    "description": "content",
     "prefix": "halflings-eye-open"
   },
   "halflings-facetime-video": {
     "body": "content: '\\\\E059';",
+    "description": "content",
     "prefix": "halflings-facetime-video"
   },
   "halflings-fast-backward": {
     "body": "content: '\\\\E070';",
+    "description": "content",
     "prefix": "halflings-fast-backward"
   },
   "halflings-fast-forward": {
     "body": "content: '\\\\E076';",
+    "description": "content",
     "prefix": "halflings-fast-forward"
   },
   "halflings-file": {
     "body": "content: '\\\\E022';",
+    "description": "content",
     "prefix": "halflings-file"
   },
   "halflings-film": {
     "body": "content: '\\\\E009';",
+    "description": "content",
     "prefix": "halflings-film"
   },
   "halflings-filter": {
     "body": "content: '\\\\E138';",
+    "description": "content",
     "prefix": "halflings-filter"
   },
   "halflings-fire": {
     "body": "content: '\\\\E104';",
+    "description": "content",
     "prefix": "halflings-fire"
   },
   "halflings-flag": {
     "body": "content: '\\\\E034';",
+    "description": "content",
     "prefix": "halflings-flag"
   },
   "halflings-flash": {
     "body": "content: '\\\\E162';",
+    "description": "content",
     "prefix": "halflings-flash"
   },
   "halflings-floppy-disk": {
     "body": "content: '\\\\E172';",
+    "description": "content",
     "prefix": "halflings-floppy-disk"
   },
   "halflings-floppy-open": {
     "body": "content: '\\\\E176';",
+    "description": "content",
     "prefix": "halflings-floppy-open"
   },
   "halflings-floppy-remove": {
     "body": "content: '\\\\E174';",
+    "description": "content",
     "prefix": "halflings-floppy-remove"
   },
   "halflings-floppy-save": {
     "body": "content: '\\\\E175';",
+    "description": "content",
     "prefix": "halflings-floppy-save"
   },
   "halflings-floppy-saved": {
     "body": "content: '\\\\E173';",
+    "description": "content",
     "prefix": "halflings-floppy-saved"
   },
   "halflings-folder-close": {
     "body": "content: '\\\\E117';",
+    "description": "content",
     "prefix": "halflings-folder-close"
   },
   "halflings-folder-open": {
     "body": "content: '\\\\E118';",
+    "description": "content",
     "prefix": "halflings-folder-open"
   },
   "halflings-font": {
     "body": "content: '\\\\E047';",
+    "description": "content",
     "prefix": "halflings-font"
   },
   "halflings-forward": {
     "body": "content: '\\\\E075';",
+    "description": "content",
     "prefix": "halflings-forward"
   },
   "halflings-fullscreen": {
     "body": "content: '\\\\E140';",
+    "description": "content",
     "prefix": "halflings-fullscreen"
   },
   "halflings-gas": {
     "body": "content: '\\\\E266';",
+    "description": "content",
     "prefix": "halflings-gas"
   },
   "halflings-gbp": {
     "body": "content: '\\\\E149';",
+    "description": "content",
     "prefix": "halflings-gbp"
   },
   "halflings-gift": {
     "body": "content: '\\\\E102';",
+    "description": "content",
     "prefix": "halflings-gift"
   },
   "halflings-glass": {
     "body": "content: '\\\\E001';",
+    "description": "content",
     "prefix": "halflings-glass"
   },
   "halflings-globe": {
     "body": "content: '\\\\E135';",
+    "description": "content",
     "prefix": "halflings-globe"
   },
   "halflings-grain": {
     "body": "content: '\\\\E239';",
+    "description": "content",
     "prefix": "halflings-grain"
   },
   "halflings-group": {
     "body": "content: '\\\\E284';",
+    "description": "content",
     "prefix": "halflings-group"
   },
   "halflings-hand-down": {
     "body": "content: '\\\\E130';",
+    "description": "content",
     "prefix": "halflings-hand-down"
   },
   "halflings-hand-left": {
     "body": "content: '\\\\E128';",
+    "description": "content",
     "prefix": "halflings-hand-left"
   },
   "halflings-hand-right": {
     "body": "content: '\\\\E127';",
+    "description": "content",
     "prefix": "halflings-hand-right"
   },
   "halflings-hand-top": {
     "body": "content: '\\\\E129';",
+    "description": "content",
     "prefix": "halflings-hand-top"
   },
   "halflings-hash": {
     "body": "content: '\\\\E264';",
+    "description": "content",
     "prefix": "halflings-hash"
   },
   "halflings-hd-video": {
     "body": "content: '\\\\E187';",
+    "description": "content",
     "prefix": "halflings-hd-video"
   },
   "halflings-hdd": {
     "body": "content: '\\\\E121';",
+    "description": "content",
     "prefix": "halflings-hdd"
   },
   "halflings-header": {
     "body": "content: '\\\\E180';",
+    "description": "content",
     "prefix": "halflings-header"
   },
   "halflings-headphones": {
     "body": "content: '\\\\E035';",
+    "description": "content",
     "prefix": "halflings-headphones"
   },
   "halflings-heart-empty": {
     "body": "content: '\\\\E143';",
+    "description": "content",
     "prefix": "halflings-heart-empty"
   },
   "halflings-heart": {
     "body": "content: '\\\\E005';",
+    "description": "content",
     "prefix": "halflings-heart"
   },
   "halflings-home": {
     "body": "content: '\\\\E021';",
+    "description": "content",
     "prefix": "halflings-home"
   },
   "halflings-hourglass": {
     "body": "content: '\\\\E222';",
+    "description": "content",
     "prefix": "halflings-hourglass"
   },
   "halflings-ice-lolly-tasted": {
     "body": "content: '\\\\E232';",
+    "description": "content",
     "prefix": "halflings-ice-lolly-tasted"
   },
   "halflings-ice-lolly": {
     "body": "content: '\\\\E231';",
+    "description": "content",
     "prefix": "halflings-ice-lolly"
   },
   "halflings-import": {
     "body": "content: '\\\\E169';",
+    "description": "content",
     "prefix": "halflings-import"
   },
   "halflings-inbox": {
     "body": "content: '\\\\E028';",
+    "description": "content",
     "prefix": "halflings-inbox"
   },
   "halflings-indent-left": {
     "body": "content: '\\\\E057';",
+    "description": "content",
     "prefix": "halflings-indent-left"
   },
   "halflings-indent-right": {
     "body": "content: '\\\\E058';",
+    "description": "content",
     "prefix": "halflings-indent-right"
   },
   "halflings-info-sign": {
     "body": "content: '\\\\E086';",
+    "description": "content",
     "prefix": "halflings-info-sign"
   },
   "halflings-italic": {
     "body": "content: '\\\\E049';",
+    "description": "content",
     "prefix": "halflings-italic"
   },
   "halflings-key": {
     "body": "content: '\\\\E208';",
+    "description": "content",
     "prefix": "halflings-key"
   },
   "halflings-king": {
     "body": "content: '\\\\E211';",
+    "description": "content",
     "prefix": "halflings-king"
   },
   "halflings-knight": {
     "body": "content: '\\\\E215';",
+    "description": "content",
     "prefix": "halflings-knight"
   },
   "halflings-lamp": {
     "body": "content: '\\\\E223';",
+    "description": "content",
     "prefix": "halflings-lamp"
   },
   "halflings-leaf": {
     "body": "content: '\\\\E103';",
+    "description": "content",
     "prefix": "halflings-leaf"
   },
   "halflings-level-up": {
     "body": "content: '\\\\E204';",
+    "description": "content",
     "prefix": "halflings-level-up"
   },
   "halflings-link": {
     "body": "content: '\\\\E144';",
+    "description": "content",
     "prefix": "halflings-link"
   },
   "halflings-list-alt": {
     "body": "content: '\\\\E032';",
+    "description": "content",
     "prefix": "halflings-list-alt"
   },
   "halflings-list-numbered": {
     "body": "content: '\\\\E296';",
+    "description": "content",
     "prefix": "halflings-list-numbered"
   },
   "halflings-list-plus": {
     "body": "content: '\\\\E298';",
+    "description": "content",
     "prefix": "halflings-list-plus"
   },
   "halflings-list": {
     "body": "content: '\\\\E056';",
+    "description": "content",
     "prefix": "halflings-list"
   },
   "halflings-lock": {
     "body": "content: '\\\\E033';",
+    "description": "content",
     "prefix": "halflings-lock"
   },
   "halflings-log-in": {
     "body": "content: '\\\\E161';",
+    "description": "content",
     "prefix": "halflings-log-in"
   },
   "halflings-log-out": {
     "body": "content: '\\\\E163';",
+    "description": "content",
     "prefix": "halflings-log-out"
   },
   "halflings-magnet": {
     "body": "content: '\\\\E112';",
+    "description": "content",
     "prefix": "halflings-magnet"
   },
   "halflings-map-marker": {
     "body": "content: '\\\\E062';",
+    "description": "content",
     "prefix": "halflings-map-marker"
   },
   "halflings-menu-down": {
     "body": "content: '\\\\E259';",
+    "description": "content",
     "prefix": "halflings-menu-down"
   },
   "halflings-menu-hamburger": {
     "body": "content: '\\\\E236';",
+    "description": "content",
     "prefix": "halflings-menu-hamburger"
   },
   "halflings-menu-left": {
     "body": "content: '\\\\E257';",
+    "description": "content",
     "prefix": "halflings-menu-left"
   },
   "halflings-menu-right": {
     "body": "content: '\\\\E258';",
+    "description": "content",
     "prefix": "halflings-menu-right"
   },
   "halflings-menu-up": {
     "body": "content: '\\\\E260';",
+    "description": "content",
     "prefix": "halflings-menu-up"
   },
   "halflings-minus-sign": {
     "body": "content: '\\\\E082';",
+    "description": "content",
     "prefix": "halflings-minus-sign"
   },
   "halflings-minus": {
     "body": "content: '\\\\E099';",
+    "description": "content",
     "prefix": "halflings-minus"
   },
   "halflings-modal-window": {
     "body": "content: '\\\\E237';",
+    "description": "content",
     "prefix": "halflings-modal-window"
   },
   "halflings-move-square": {
     "body": "content: '\\\\E280';",
+    "description": "content",
     "prefix": "halflings-move-square"
   },
   "halflings-move": {
     "body": "content: '\\\\E068';",
+    "description": "content",
     "prefix": "halflings-move"
   },
   "halflings-music": {
     "body": "content: '\\\\E002';",
+    "description": "content",
     "prefix": "halflings-music"
   },
   "halflings-new-window": {
     "body": "content: '\\\\E164';",
+    "description": "content",
     "prefix": "halflings-new-window"
   },
   "halflings-note-empty": {
     "body": "content: '\\\\E271';",
+    "description": "content",
     "prefix": "halflings-note-empty"
   },
   "halflings-note": {
     "body": "content: '\\\\E272';",
+    "description": "content",
     "prefix": "halflings-note"
   },
   "halflings-object-align-bottom": {
     "body": "content: '\\\\E245';",
+    "description": "content",
     "prefix": "halflings-object-align-bottom"
   },
   "halflings-object-align-horizontal": {
     "body": "content: '\\\\E246';",
+    "description": "content",
     "prefix": "halflings-object-align-horizontal"
   },
   "halflings-object-align-left": {
     "body": "content: '\\\\E247';",
+    "description": "content",
     "prefix": "halflings-object-align-left"
   },
   "halflings-object-align-right": {
     "body": "content: '\\\\E249';",
+    "description": "content",
     "prefix": "halflings-object-align-right"
   },
   "halflings-object-align-top": {
     "body": "content: '\\\\E244';",
+    "description": "content",
     "prefix": "halflings-object-align-top"
   },
   "halflings-object-align-vertical": {
     "body": "content: '\\\\E248';",
+    "description": "content",
     "prefix": "halflings-object-align-vertical"
   },
   "halflings-off": {
     "body": "content: '\\\\E017';",
+    "description": "content",
     "prefix": "halflings-off"
   },
   "halflings-oil": {
     "body": "content: '\\\\E238';",
+    "description": "content",
     "prefix": "halflings-oil"
   },
   "halflings-ok-circle": {
     "body": "content: '\\\\E089';",
+    "description": "content",
     "prefix": "halflings-ok-circle"
   },
   "halflings-ok-sign": {
     "body": "content: '\\\\E084';",
+    "description": "content",
     "prefix": "halflings-ok-sign"
   },
   "halflings-ok": {
     "body": "content: '\\\\E013';",
+    "description": "content",
     "prefix": "halflings-ok"
   },
   "halflings-open-file": {
     "body": "content: '\\\\E203';",
+    "description": "content",
     "prefix": "halflings-open-file"
   },
   "halflings-open": {
     "body": "content: '\\\\E167';",
+    "description": "content",
     "prefix": "halflings-open"
   },
   "halflings-option-horizontal": {
     "body": "content: '\\\\E234';",
+    "description": "content",
     "prefix": "halflings-option-horizontal"
   },
   "halflings-option-vertical": {
     "body": "content: '\\\\E235';",
+    "description": "content",
     "prefix": "halflings-option-vertical"
   },
   "halflings-paired": {
     "body": "content: '\\\\E293';",
+    "description": "content",
     "prefix": "halflings-paired"
   },
   "halflings-paperclip": {
     "body": "content: '\\\\E142';",
+    "description": "content",
     "prefix": "halflings-paperclip"
   },
   "halflings-paragraph": {
     "body": "content: '\\\\E297';",
+    "description": "content",
     "prefix": "halflings-paragraph"
   },
   "halflings-parking": {
     "body": "content: '\\\\E277';",
+    "description": "content",
     "prefix": "halflings-parking"
   },
   "halflings-paste": {
     "body": "content: '\\\\E206';",
+    "description": "content",
     "prefix": "halflings-paste"
   },
   "halflings-pause": {
     "body": "content: '\\\\E073';",
+    "description": "content",
     "prefix": "halflings-pause"
   },
   "halflings-pawn": {
     "body": "content: '\\\\E213';",
+    "description": "content",
     "prefix": "halflings-pawn"
   },
   "halflings-pencil": {
     "body": "content: '\\\\E061';",
+    "description": "content",
     "prefix": "halflings-pencil"
   },
   "halflings-phone-alt": {
     "body": "content: '\\\\E183';",
+    "description": "content",
     "prefix": "halflings-phone-alt"
   },
   "halflings-phone": {
     "body": "content: '\\\\E145';",
+    "description": "content",
     "prefix": "halflings-phone"
   },
   "halflings-picture": {
     "body": "content: '\\\\E060';",
+    "description": "content",
     "prefix": "halflings-picture"
   },
   "halflings-piggy-bank": {
     "body": "content: '\\\\E225';",
+    "description": "content",
     "prefix": "halflings-piggy-bank"
   },
   "halflings-plane": {
     "body": "content: '\\\\E108';",
+    "description": "content",
     "prefix": "halflings-plane"
   },
   "halflings-play-circle": {
     "body": "content: '\\\\E029';",
+    "description": "content",
     "prefix": "halflings-play-circle"
   },
   "halflings-play": {
     "body": "content: '\\\\E072';",
+    "description": "content",
     "prefix": "halflings-play"
   },
   "halflings-plus-sign": {
     "body": "content: '\\\\E081';",
+    "description": "content",
     "prefix": "halflings-plus-sign"
   },
   "halflings-plus": {
     "body": "content: '\\\\E098';",
+    "description": "content",
     "prefix": "halflings-plus"
   },
   "halflings-print": {
     "body": "content: '\\\\E045';",
+    "description": "content",
     "prefix": "halflings-print"
   },
   "halflings-pushpin": {
     "body": "content: '\\\\E146';",
+    "description": "content",
     "prefix": "halflings-pushpin"
   },
   "halflings-qrcode": {
     "body": "content: '\\\\E039';",
+    "description": "content",
     "prefix": "halflings-qrcode"
   },
   "halflings-queen": {
     "body": "content: '\\\\E212';",
+    "description": "content",
     "prefix": "halflings-queen"
   },
   "halflings-question-sign": {
     "body": "content: '\\\\E085';",
+    "description": "content",
     "prefix": "halflings-question-sign"
   },
   "halflings-random": {
     "body": "content: '\\\\E110';",
+    "description": "content",
     "prefix": "halflings-random"
   },
   "halflings-record-empty": {
     "body": "content: '\\\\E279';",
+    "description": "content",
     "prefix": "halflings-record-empty"
   },
   "halflings-record": {
     "body": "content: '\\\\E165';",
+    "description": "content",
     "prefix": "halflings-record"
   },
   "halflings-reflect-x": {
     "body": "content: '\\\\E286';",
+    "description": "content",
     "prefix": "halflings-reflect-x"
   },
   "halflings-reflect-y": {
     "body": "content: '\\\\E285';",
+    "description": "content",
     "prefix": "halflings-reflect-y"
   },
   "halflings-refresh": {
     "body": "content: '\\\\E031';",
+    "description": "content",
     "prefix": "halflings-refresh"
   },
   "halflings-registration-mark": {
     "body": "content: '\\\\E195';",
+    "description": "content",
     "prefix": "halflings-registration-mark"
   },
   "halflings-remove-circle": {
     "body": "content: '\\\\E088';",
+    "description": "content",
     "prefix": "halflings-remove-circle"
   },
   "halflings-remove-sign": {
     "body": "content: '\\\\E083';",
+    "description": "content",
     "prefix": "halflings-remove-sign"
   },
   "halflings-remove": {
     "body": "content: '\\\\E014';",
+    "description": "content",
     "prefix": "halflings-remove"
   },
   "halflings-repeat": {
     "body": "content: '\\\\E030';",
+    "description": "content",
     "prefix": "halflings-repeat"
   },
   "halflings-resize-full": {
     "body": "content: '\\\\E096';",
+    "description": "content",
     "prefix": "halflings-resize-full"
   },
   "halflings-resize-horizontal": {
     "body": "content: '\\\\E120';",
+    "description": "content",
     "prefix": "halflings-resize-horizontal"
   },
   "halflings-resize-small": {
     "body": "content: '\\\\E097';",
+    "description": "content",
     "prefix": "halflings-resize-small"
   },
   "halflings-resize-vertical": {
     "body": "content: '\\\\E119';",
+    "description": "content",
     "prefix": "halflings-resize-vertical"
   },
   "halflings-retweet": {
     "body": "content: '\\\\E115';",
+    "description": "content",
     "prefix": "halflings-retweet"
   },
   "halflings-road": {
     "body": "content: '\\\\E024';",
+    "description": "content",
     "prefix": "halflings-road"
   },
   "halflings-rotate-left": {
     "body": "content: '\\\\E295';",
+    "description": "content",
     "prefix": "halflings-rotate-left"
   },
   "halflings-rotate-right": {
     "body": "content: '\\\\E294';",
+    "description": "content",
     "prefix": "halflings-rotate-right"
   },
   "halflings-ruble": {
     "body": "content: '\\\\E229';",
+    "description": "content",
     "prefix": "halflings-ruble"
   },
   "halflings-save-file": {
     "body": "content: '\\\\E202';",
+    "description": "content",
     "prefix": "halflings-save-file"
   },
   "halflings-save": {
     "body": "content: '\\\\E166';",
+    "description": "content",
     "prefix": "halflings-save"
   },
   "halflings-saved": {
     "body": "content: '\\\\E168';",
+    "description": "content",
     "prefix": "halflings-saved"
   },
   "halflings-scale": {
     "body": "content: '\\\\E230';",
+    "description": "content",
     "prefix": "halflings-scale"
   },
   "halflings-scissors": {
     "body": "content: '\\\\E226';",
+    "description": "content",
     "prefix": "halflings-scissors"
   },
   "halflings-screenshot": {
     "body": "content: '\\\\E087';",
+    "description": "content",
     "prefix": "halflings-screenshot"
   },
   "halflings-sd-video": {
     "body": "content: '\\\\E186';",
+    "description": "content",
     "prefix": "halflings-sd-video"
   },
   "halflings-search": {
     "body": "content: '\\\\E003';",
+    "description": "content",
     "prefix": "halflings-search"
   },
   "halflings-selectbox": {
     "body": "content: '\\\\E269';",
+    "description": "content",
     "prefix": "halflings-selectbox"
   },
   "halflings-send": {
     "body": "content: '\\\\E171';",
+    "description": "content",
     "prefix": "halflings-send"
   },
   "halflings-share-alt": {
     "body": "content: '\\\\E095';",
+    "description": "content",
     "prefix": "halflings-share-alt"
   },
   "halflings-share": {
     "body": "content: '\\\\E066';",
+    "description": "content",
     "prefix": "halflings-share"
   },
   "halflings-shopping-cart": {
     "body": "content: '\\\\E116';",
+    "description": "content",
     "prefix": "halflings-shopping-cart"
   },
   "halflings-signal": {
     "body": "content: '\\\\E018';",
+    "description": "content",
     "prefix": "halflings-signal"
   },
   "halflings-snowflake": {
     "body": "content: '\\\\E267';",
+    "description": "content",
     "prefix": "halflings-snowflake"
   },
   "halflings-sort-by-alphabet-alt": {
     "body": "content: '\\\\E152';",
+    "description": "content",
     "prefix": "halflings-sort-by-alphabet-alt"
   },
   "halflings-sort-by-alphabet": {
     "body": "content: '\\\\E151';",
+    "description": "content",
     "prefix": "halflings-sort-by-alphabet"
   },
   "halflings-sort-by-attributes-alt": {
     "body": "content: '\\\\E156';",
+    "description": "content",
     "prefix": "halflings-sort-by-attributes-alt"
   },
   "halflings-sort-by-attributes": {
     "body": "content: '\\\\E155';",
+    "description": "content",
     "prefix": "halflings-sort-by-attributes"
   },
   "halflings-sort-by-order-alt": {
     "body": "content: '\\\\E154';",
+    "description": "content",
     "prefix": "halflings-sort-by-order-alt"
   },
   "halflings-sort-by-order": {
     "body": "content: '\\\\E153';",
+    "description": "content",
     "prefix": "halflings-sort-by-order"
   },
   "halflings-sort": {
     "body": "content: '\\\\E150';",
+    "description": "content",
     "prefix": "halflings-sort"
   },
   "halflings-sortable": {
     "body": "content: '\\\\E270';",
+    "description": "content",
     "prefix": "halflings-sortable"
   },
   "halflings-sound-5-1": {
     "body": "content: '\\\\E191';",
+    "description": "content",
     "prefix": "halflings-sound-5-1"
   },
   "halflings-sound-6-1": {
     "body": "content: '\\\\E192';",
+    "description": "content",
     "prefix": "halflings-sound-6-1"
   },
   "halflings-sound-7-1": {
     "body": "content: '\\\\E193';",
+    "description": "content",
     "prefix": "halflings-sound-7-1"
   },
   "halflings-sound-dolby": {
     "body": "content: '\\\\E190';",
+    "description": "content",
     "prefix": "halflings-sound-dolby"
   },
   "halflings-sound-stereo": {
     "body": "content: '\\\\E189';",
+    "description": "content",
     "prefix": "halflings-sound-stereo"
   },
   "halflings-star-empty": {
     "body": "content: '\\\\E007';",
+    "description": "content",
     "prefix": "halflings-star-empty"
   },
   "halflings-star-half": {
     "body": "content: '\\\\E263';",
+    "description": "content",
     "prefix": "halflings-star-half"
   },
   "halflings-star": {
     "body": "content: '\\\\E006';",
+    "description": "content",
     "prefix": "halflings-star"
   },
   "halflings-stats": {
     "body": "content: '\\\\E185';",
+    "description": "content",
     "prefix": "halflings-stats"
   },
   "halflings-step-backward": {
     "body": "content: '\\\\E069';",
+    "description": "content",
     "prefix": "halflings-step-backward"
   },
   "halflings-step-forward": {
     "body": "content: '\\\\E077';",
+    "description": "content",
     "prefix": "halflings-step-forward"
   },
   "halflings-stop": {
     "body": "content: '\\\\E074';",
+    "description": "content",
     "prefix": "halflings-stop"
   },
   "halflings-subscript": {
     "body": "content: '\\\\E256';",
+    "description": "content",
     "prefix": "halflings-subscript"
   },
   "halflings-subtitles": {
     "body": "content: '\\\\E188';",
+    "description": "content",
     "prefix": "halflings-subtitles"
   },
   "halflings-sunglasses": {
     "body": "content: '\\\\E240';",
+    "description": "content",
     "prefix": "halflings-sunglasses"
   },
   "halflings-sunlight": {
     "body": "content: '\\\\E268';",
+    "description": "content",
     "prefix": "halflings-sunlight"
   },
   "halflings-superscript": {
     "body": "content: '\\\\E255';",
+    "description": "content",
     "prefix": "halflings-superscript"
   },
   "halflings-synchronization": {
     "body": "content: '\\\\E299';",
+    "description": "content",
     "prefix": "halflings-synchronization"
   },
   "halflings-tag": {
     "body": "content: '\\\\E041';",
+    "description": "content",
     "prefix": "halflings-tag"
   },
   "halflings-tags": {
     "body": "content: '\\\\E042';",
+    "description": "content",
     "prefix": "halflings-tags"
   },
   "halflings-tasks": {
     "body": "content: '\\\\E137';",
+    "description": "content",
     "prefix": "halflings-tasks"
   },
   "halflings-tent": {
     "body": "content: '\\\\E217';",
+    "description": "content",
     "prefix": "halflings-tent"
   },
   "halflings-terminal": {
     "body": "content: '\\\\E254';",
+    "description": "content",
     "prefix": "halflings-terminal"
   },
   "halflings-text-background": {
     "body": "content: '\\\\E243';",
+    "description": "content",
     "prefix": "halflings-text-background"
   },
   "halflings-text-color": {
     "body": "content: '\\\\E242';",
+    "description": "content",
     "prefix": "halflings-text-color"
   },
   "halflings-text-height": {
     "body": "content: '\\\\E050';",
+    "description": "content",
     "prefix": "halflings-text-height"
   },
   "halflings-text-size": {
     "body": "content: '\\\\E241';",
+    "description": "content",
     "prefix": "halflings-text-size"
   },
   "halflings-text-width": {
     "body": "content: '\\\\E051';",
+    "description": "content",
     "prefix": "halflings-text-width"
   },
   "halflings-th-large": {
     "body": "content: '\\\\E010';",
+    "description": "content",
     "prefix": "halflings-th-large"
   },
   "halflings-th-list": {
     "body": "content: '\\\\E012';",
+    "description": "content",
     "prefix": "halflings-th-list"
   },
   "halflings-th": {
     "body": "content: '\\\\E011';",
+    "description": "content",
     "prefix": "halflings-th"
   },
   "halflings-thumbs-down": {
     "body": "content: '\\\\E126';",
+    "description": "content",
     "prefix": "halflings-thumbs-down"
   },
   "halflings-thumbs-up": {
     "body": "content: '\\\\E125';",
+    "description": "content",
     "prefix": "halflings-thumbs-up"
   },
   "halflings-tick": {
     "body": "content: '\\\\E262';",
+    "description": "content",
     "prefix": "halflings-tick"
   },
   "halflings-time": {
     "body": "content: '\\\\E023';",
+    "description": "content",
     "prefix": "halflings-time"
   },
   "halflings-tint": {
     "body": "content: '\\\\E064';",
+    "description": "content",
     "prefix": "halflings-tint"
   },
   "halflings-tower": {
     "body": "content: '\\\\E184';",
+    "description": "content",
     "prefix": "halflings-tower"
   },
   "halflings-transfer": {
     "body": "content: '\\\\E178';",
+    "description": "content",
     "prefix": "halflings-transfer"
   },
   "halflings-trash": {
     "body": "content: '\\\\E020';",
+    "description": "content",
     "prefix": "halflings-trash"
   },
   "halflings-tree-conifer": {
     "body": "content: '\\\\E199';",
+    "description": "content",
     "prefix": "halflings-tree-conifer"
   },
   "halflings-tree-deciduous": {
     "body": "content: '\\\\E200';",
+    "description": "content",
     "prefix": "halflings-tree-deciduous"
   },
   "halflings-triangle-bottom": {
     "body": "content: '\\\\E252';",
+    "description": "content",
     "prefix": "halflings-triangle-bottom"
   },
   "halflings-triangle-left": {
     "body": "content: '\\\\E251';",
+    "description": "content",
     "prefix": "halflings-triangle-left"
   },
   "halflings-triangle-right": {
     "body": "content: '\\\\E250';",
+    "description": "content",
     "prefix": "halflings-triangle-right"
   },
   "halflings-triangle-top": {
     "body": "content: '\\\\E253';",
+    "description": "content",
     "prefix": "halflings-triangle-top"
   },
   "halflings-unchecked": {
     "body": "content: '\\\\E157';",
+    "description": "content",
     "prefix": "halflings-unchecked"
   },
   "halflings-upload": {
     "body": "content: '\\\\E027';",
+    "description": "content",
     "prefix": "halflings-upload"
   },
   "halflings-usd": {
     "body": "content: '\\\\E148';",
+    "description": "content",
     "prefix": "halflings-usd"
   },
   "halflings-user": {
     "body": "content: '\\\\E008';",
+    "description": "content",
     "prefix": "halflings-user"
   },
   "halflings-volume-down": {
     "body": "content: '\\\\E037';",
+    "description": "content",
     "prefix": "halflings-volume-down"
   },
   "halflings-volume-off": {
     "body": "content: '\\\\E036';",
+    "description": "content",
     "prefix": "halflings-volume-off"
   },
   "halflings-volume-up": {
     "body": "content: '\\\\E038';",
+    "description": "content",
     "prefix": "halflings-volume-up"
   },
   "halflings-warning-sign": {
     "body": "content: '\\\\E107';",
+    "description": "content",
     "prefix": "halflings-warning-sign"
   },
   "halflings-wrench": {
     "body": "content: '\\\\E136';",
+    "description": "content",
     "prefix": "halflings-wrench"
   },
   "halflings-yen": {
     "body": "content: '\\\\E228';",
+    "description": "content",
     "prefix": "halflings-yen"
   },
   "halflings-zoom-in": {
     "body": "content: '\\\\E015';",
+    "description": "content",
     "prefix": "halflings-zoom-in"
   },
   "halflings-zoom-out": {
     "body": "content: '\\\\E016';",
+    "description": "content",
     "prefix": "halflings-zoom-out"
   }
 }

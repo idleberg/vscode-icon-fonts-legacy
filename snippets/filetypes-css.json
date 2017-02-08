@@ -1,562 +1,702 @@
 {
   "filetypes-aacd": {
     "body": "content: '\\\\E076';",
+    "description": "content",
     "prefix": "filetypes-aacd"
   },
   "filetypes-ai": {
     "body": "content: '\\\\E061';",
+    "description": "content",
     "prefix": "filetypes-ai"
   },
   "filetypes-aif": {
     "body": "content: '\\\\E030';",
+    "description": "content",
     "prefix": "filetypes-aif"
   },
   "filetypes-api": {
     "body": "content: '\\\\E134';",
+    "description": "content",
     "prefix": "filetypes-api"
   },
   "filetypes-apk": {
     "body": "content: '\\\\E081';",
+    "description": "content",
     "prefix": "filetypes-apk"
   },
   "filetypes-app": {
     "body": "content: '\\\\E077';",
+    "description": "content",
     "prefix": "filetypes-app"
   },
   "filetypes-asf": {
     "body": "content: '\\\\E041';",
+    "description": "content",
     "prefix": "filetypes-asf"
   },
   "filetypes-asp": {
     "body": "content: '\\\\E093';",
+    "description": "content",
     "prefix": "filetypes-asp"
   },
   "filetypes-aspx": {
     "body": "content: '\\\\E097';",
+    "description": "content",
     "prefix": "filetypes-aspx"
   },
   "filetypes-asx": {
     "body": "content: '\\\\E037';",
+    "description": "content",
     "prefix": "filetypes-asx"
   },
   "filetypes-avi": {
     "body": "content: '\\\\E036';",
+    "description": "content",
     "prefix": "filetypes-avi"
   },
   "filetypes-bak": {
     "body": "content: '\\\\E124';",
+    "description": "content",
     "prefix": "filetypes-bak"
   },
   "filetypes-bat": {
     "body": "content: '\\\\E080';",
+    "description": "content",
     "prefix": "filetypes-bat"
   },
   "filetypes-bin": {
     "body": "content: '\\\\E120';",
+    "description": "content",
     "prefix": "filetypes-bin"
   },
   "filetypes-bmp": {
     "body": "content: '\\\\E056';",
+    "description": "content",
     "prefix": "filetypes-bmp"
   },
   "filetypes-bpg": {
     "body": "content: '\\\\E137';",
+    "description": "content",
     "prefix": "filetypes-bpg"
   },
   "filetypes-cbr": {
     "body": "content: '\\\\E116';",
+    "description": "content",
     "prefix": "filetypes-cbr"
   },
   "filetypes-cer": {
     "body": "content: '\\\\E094';",
+    "description": "content",
     "prefix": "filetypes-cer"
   },
   "filetypes-cfg": {
     "body": "content: '\\\\E128';",
+    "description": "content",
     "prefix": "filetypes-cfg"
   },
   "filetypes-cfm": {
     "body": "content: '\\\\E096';",
+    "description": "content",
     "prefix": "filetypes-cfm"
   },
   "filetypes-cgi": {
     "body": "content: '\\\\E086';",
+    "description": "content",
     "prefix": "filetypes-cgi"
   },
   "filetypes-com": {
     "body": "content: '\\\\E079';",
+    "description": "content",
     "prefix": "filetypes-com"
   },
   "filetypes-csr": {
     "body": "content: '\\\\E099';",
+    "description": "content",
     "prefix": "filetypes-csr"
   },
   "filetypes-css": {
     "body": "content: '\\\\E087';",
+    "description": "content",
     "prefix": "filetypes-css"
   },
   "filetypes-csv": {
     "body": "content: '\\\\E012';",
+    "description": "content",
     "prefix": "filetypes-csv"
   },
   "filetypes-cue": {
     "body": "content: '\\\\E119';",
+    "description": "content",
     "prefix": "filetypes-cue"
   },
   "filetypes-dat": {
     "body": "content: '\\\\E013';",
+    "description": "content",
     "prefix": "filetypes-dat"
   },
   "filetypes-db": {
     "body": "content: '\\\\E071';",
+    "description": "content",
     "prefix": "filetypes-db"
   },
   "filetypes-dbf": {
     "body": "content: '\\\\E072';",
+    "description": "content",
     "prefix": "filetypes-dbf"
   },
   "filetypes-dds": {
     "body": "content: '\\\\E060';",
+    "description": "content",
     "prefix": "filetypes-dds"
   },
   "filetypes-deb": {
     "body": "content: '\\\\E112';",
+    "description": "content",
     "prefix": "filetypes-deb"
   },
   "filetypes-dmg": {
     "body": "content: '\\\\E118';",
+    "description": "content",
     "prefix": "filetypes-dmg"
   },
   "filetypes-doc": {
     "body": "content: '\\\\E002';",
+    "description": "content",
     "prefix": "filetypes-doc"
   },
   "filetypes-docx": {
     "body": "content: '\\\\E010';",
+    "description": "content",
     "prefix": "filetypes-docx"
   },
   "filetypes-e-3g2": {
     "body": "content: '\\\\E039';",
+    "description": "content",
     "prefix": "filetypes-e-3g2"
   },
   "filetypes-e-3gp": {
     "body": "content: '\\\\E034';",
+    "description": "content",
     "prefix": "filetypes-e-3gp"
   },
   "filetypes-e-7z": {
     "body": "content: '\\\\E113';",
+    "description": "content",
     "prefix": "filetypes-e-7z"
   },
   "filetypes-eot": {
     "body": "content: '\\\\E105';",
+    "description": "content",
     "prefix": "filetypes-eot"
   },
   "filetypes-eps": {
     "body": "content: '\\\\E062';",
+    "description": "content",
     "prefix": "filetypes-eps"
   },
   "filetypes-exe": {
     "body": "content: '\\\\E078';",
+    "description": "content",
     "prefix": "filetypes-exe"
   },
   "filetypes-flac": {
     "body": "content: '\\\\E138';",
+    "description": "content",
     "prefix": "filetypes-flac"
   },
   "filetypes-flv": {
     "body": "content: '\\\\E047';",
+    "description": "content",
     "prefix": "filetypes-flv"
   },
   "filetypes-fnt": {
     "body": "content: '\\\\E104';",
+    "description": "content",
     "prefix": "filetypes-fnt"
   },
   "filetypes-font": {
     "body": "content: '\\\\E103';",
+    "description": "content",
     "prefix": "filetypes-font"
   },
   "filetypes-gbr": {
     "body": "content: '\\\\E022';",
+    "description": "content",
     "prefix": "filetypes-gbr"
   },
   "filetypes-ged": {
     "body": "content: '\\\\E023';",
+    "description": "content",
     "prefix": "filetypes-ged"
   },
   "filetypes-gif": {
     "body": "content: '\\\\E055';",
+    "description": "content",
     "prefix": "filetypes-gif"
   },
   "filetypes-gz": {
     "body": "content: '\\\\E117';",
+    "description": "content",
     "prefix": "filetypes-gz"
   },
   "filetypes-hdf": {
     "body": "content: '\\\\E122';",
+    "description": "content",
     "prefix": "filetypes-hdf"
   },
   "filetypes-hsf": {
     "body": "content: '\\\\E083';",
+    "description": "content",
     "prefix": "filetypes-hsf"
   },
   "filetypes-htm": {
     "body": "content: '\\\\E091';",
+    "description": "content",
     "prefix": "filetypes-htm"
   },
   "filetypes-html": {
     "body": "content: '\\\\E092';",
+    "description": "content",
     "prefix": "filetypes-html"
   },
   "filetypes-ico": {
     "body": "content: '\\\\E135';",
+    "description": "content",
     "prefix": "filetypes-ico"
   },
   "filetypes-ics": {
     "body": "content: '\\\\E126';",
+    "description": "content",
     "prefix": "filetypes-ics"
   },
   "filetypes-iff": {
     "body": "content: '\\\\E029';",
+    "description": "content",
     "prefix": "filetypes-iff"
   },
   "filetypes-indd": {
     "body": "content: '\\\\E067';",
+    "description": "content",
     "prefix": "filetypes-indd"
   },
   "filetypes-ini": {
     "body": "content: '\\\\E129';",
+    "description": "content",
     "prefix": "filetypes-ini"
   },
   "filetypes-iso": {
     "body": "content: '\\\\E121';",
+    "description": "content",
     "prefix": "filetypes-iso"
   },
   "filetypes-jar": {
     "body": "content: '\\\\E082';",
+    "description": "content",
     "prefix": "filetypes-jar"
   },
   "filetypes-jpg": {
     "body": "content: '\\\\E052';",
+    "description": "content",
     "prefix": "filetypes-jpg"
   },
   "filetypes-js": {
     "body": "content: '\\\\E088';",
+    "description": "content",
     "prefix": "filetypes-js"
   },
   "filetypes-json": {
     "body": "content: '\\\\E131';",
+    "description": "content",
     "prefix": "filetypes-json"
   },
   "filetypes-jsp": {
     "body": "content: '\\\\E095';",
+    "description": "content",
     "prefix": "filetypes-jsp"
   },
   "filetypes-key": {
     "body": "content: '\\\\E018';",
+    "description": "content",
     "prefix": "filetypes-key"
   },
   "filetypes-less": {
     "body": "content: '\\\\E100';",
+    "description": "content",
     "prefix": "filetypes-less"
   },
   "filetypes-log": {
     "body": "content: '\\\\E004';",
+    "description": "content",
     "prefix": "filetypes-log"
   },
   "filetypes-m3v": {
     "body": "content: '\\\\E033';",
+    "description": "content",
     "prefix": "filetypes-m3v"
   },
   "filetypes-m4a": {
     "body": "content: '\\\\E025';",
+    "description": "content",
     "prefix": "filetypes-m4a"
   },
   "filetypes-m4v": {
     "body": "content: '\\\\E046';",
+    "description": "content",
     "prefix": "filetypes-m4v"
   },
   "filetypes-mdb": {
     "body": "content: '\\\\E073';",
+    "description": "content",
     "prefix": "filetypes-mdb"
   },
   "filetypes-mid": {
     "body": "content: '\\\\E032';",
+    "description": "content",
     "prefix": "filetypes-mid"
   },
   "filetypes-mov": {
     "body": "content: '\\\\E044';",
+    "description": "content",
     "prefix": "filetypes-mov"
   },
   "filetypes-mp3": {
     "body": "content: '\\\\E024';",
+    "description": "content",
     "prefix": "filetypes-mp3"
   },
   "filetypes-mp4": {
     "body": "content: '\\\\E038';",
+    "description": "content",
     "prefix": "filetypes-mp4"
   },
   "filetypes-mpa": {
     "body": "content: '\\\\E028';",
+    "description": "content",
     "prefix": "filetypes-mpa"
   },
   "filetypes-mpg": {
     "body": "content: '\\\\E040';",
+    "description": "content",
     "prefix": "filetypes-mpg"
   },
   "filetypes-msg": {
     "body": "content: '\\\\E006';",
+    "description": "content",
     "prefix": "filetypes-msg"
   },
   "filetypes-msi": {
     "body": "content: '\\\\E127';",
+    "description": "content",
     "prefix": "filetypes-msi"
   },
   "filetypes-ogg": {
     "body": "content: '\\\\E139';",
+    "description": "content",
     "prefix": "filetypes-ogg"
   },
   "filetypes-otf": {
     "body": "content: '\\\\E101';",
+    "description": "content",
     "prefix": "filetypes-otf"
   },
   "filetypes-page": {
     "body": "content: '\\\\E011';",
+    "description": "content",
     "prefix": "filetypes-page"
   },
   "filetypes-pct": {
     "body": "content: '\\\\E066';",
+    "description": "content",
     "prefix": "filetypes-pct"
   },
   "filetypes-pdb": {
     "body": "content: '\\\\E074';",
+    "description": "content",
     "prefix": "filetypes-pdb"
   },
   "filetypes-pdf": {
     "body": "content: '\\\\E065';",
+    "description": "content",
     "prefix": "filetypes-pdf"
   },
   "filetypes-php": {
     "body": "content: '\\\\E089';",
+    "description": "content",
     "prefix": "filetypes-php"
   },
   "filetypes-pif": {
     "body": "content: '\\\\E084';",
+    "description": "content",
     "prefix": "filetypes-pif"
   },
   "filetypes-pkg": {
     "body": "content: '\\\\E114';",
+    "description": "content",
     "prefix": "filetypes-pkg"
   },
   "filetypes-png": {
     "body": "content: '\\\\E049';",
+    "description": "content",
     "prefix": "filetypes-png"
   },
   "filetypes-pps": {
     "body": "content: '\\\\E017';",
+    "description": "content",
     "prefix": "filetypes-pps"
   },
   "filetypes-ppt": {
     "body": "content: '\\\\E019';",
+    "description": "content",
     "prefix": "filetypes-ppt"
   },
   "filetypes-pptx": {
     "body": "content: '\\\\E020';",
+    "description": "content",
     "prefix": "filetypes-pptx"
   },
   "filetypes-prf": {
     "body": "content: '\\\\E130';",
+    "description": "content",
     "prefix": "filetypes-prf"
   },
   "filetypes-ps": {
     "body": "content: '\\\\E063';",
+    "description": "content",
     "prefix": "filetypes-ps"
   },
   "filetypes-psd": {
     "body": "content: '\\\\E050';",
+    "description": "content",
     "prefix": "filetypes-psd"
   },
   "filetypes-psp": {
     "body": "content: '\\\\E051';",
+    "description": "content",
     "prefix": "filetypes-psp"
   },
   "filetypes-ra": {
     "body": "content: '\\\\E031';",
+    "description": "content",
     "prefix": "filetypes-ra"
   },
   "filetypes-rar": {
     "body": "content: '\\\\E109';",
+    "description": "content",
     "prefix": "filetypes-rar"
   },
   "filetypes-rm": {
     "body": "content: '\\\\E048';",
+    "description": "content",
     "prefix": "filetypes-rm"
   },
   "filetypes-rpm": {
     "body": "content: '\\\\E115';",
+    "description": "content",
     "prefix": "filetypes-rpm"
   },
   "filetypes-rss": {
     "body": "content: '\\\\E098';",
+    "description": "content",
     "prefix": "filetypes-rss"
   },
   "filetypes-rtf": {
     "body": "content: '\\\\E003';",
+    "description": "content",
     "prefix": "filetypes-rtf"
   },
   "filetypes-sdf": {
     "body": "content: '\\\\E021';",
+    "description": "content",
     "prefix": "filetypes-sdf"
   },
   "filetypes-site": {
     "body": "content: '\\\\E132';",
+    "description": "content",
     "prefix": "filetypes-site"
   },
   "filetypes-sitx": {
     "body": "content: '\\\\E111';",
+    "description": "content",
     "prefix": "filetypes-sitx"
   },
   "filetypes-sql": {
     "body": "content: '\\\\E075';",
+    "description": "content",
     "prefix": "filetypes-sql"
   },
   "filetypes-srt": {
     "body": "content: '\\\\E045';",
+    "description": "content",
     "prefix": "filetypes-srt"
   },
   "filetypes-svg": {
     "body": "content: '\\\\E064';",
+    "description": "content",
     "prefix": "filetypes-svg"
   },
   "filetypes-swf": {
     "body": "content: '\\\\E035';",
+    "description": "content",
     "prefix": "filetypes-swf"
   },
   "filetypes-tar": {
     "body": "content: '\\\\E014';",
+    "description": "content",
     "prefix": "filetypes-tar"
   },
   "filetypes-targ": {
     "body": "content: '\\\\E110';",
+    "description": "content",
     "prefix": "filetypes-targ"
   },
   "filetypes-tex": {
     "body": "content: '\\\\E005';",
+    "description": "content",
     "prefix": "filetypes-tex"
   },
   "filetypes-text": {
     "body": "content: '\\\\E007';",
+    "description": "content",
     "prefix": "filetypes-text"
   },
   "filetypes-tga": {
     "body": "content: '\\\\E057';",
+    "description": "content",
     "prefix": "filetypes-tga"
   },
   "filetypes-thm": {
     "body": "content: '\\\\E058';",
+    "description": "content",
     "prefix": "filetypes-thm"
   },
   "filetypes-tif": {
     "body": "content: '\\\\E053';",
+    "description": "content",
     "prefix": "filetypes-tif"
   },
   "filetypes-tiff": {
     "body": "content: '\\\\E054';",
+    "description": "content",
     "prefix": "filetypes-tiff"
   },
   "filetypes-tmp": {
     "body": "content: '\\\\E125';",
+    "description": "content",
     "prefix": "filetypes-tmp"
   },
   "filetypes-ttf": {
     "body": "content: '\\\\E102';",
+    "description": "content",
     "prefix": "filetypes-ttf"
   },
   "filetypes-txt": {
     "body": "content: '\\\\E001';",
+    "description": "content",
     "prefix": "filetypes-txt"
   },
   "filetypes-unknown": {
     "body": "content: '\\\\E140';",
+    "description": "content",
     "prefix": "filetypes-unknown"
   },
   "filetypes-vb": {
     "body": "content: '\\\\E085';",
+    "description": "content",
     "prefix": "filetypes-vb"
   },
   "filetypes-vcd": {
     "body": "content: '\\\\E123';",
+    "description": "content",
     "prefix": "filetypes-vcd"
   },
   "filetypes-vcf": {
     "body": "content: '\\\\E016';",
+    "description": "content",
     "prefix": "filetypes-vcf"
   },
   "filetypes-vob": {
     "body": "content: '\\\\E042';",
+    "description": "content",
     "prefix": "filetypes-vob"
   },
   "filetypes-waw": {
     "body": "content: '\\\\E026';",
+    "description": "content",
     "prefix": "filetypes-waw"
   },
   "filetypes-webp": {
     "body": "content: '\\\\E136';",
+    "description": "content",
     "prefix": "filetypes-webp"
   },
   "filetypes-wma": {
     "body": "content: '\\\\E027';",
+    "description": "content",
     "prefix": "filetypes-wma"
   },
   "filetypes-wmv": {
     "body": "content: '\\\\E043';",
+    "description": "content",
     "prefix": "filetypes-wmv"
   },
   "filetypes-woff": {
     "body": "content: '\\\\E106';",
+    "description": "content",
     "prefix": "filetypes-woff"
   },
   "filetypes-wpd": {
     "body": "content: '\\\\E008';",
+    "description": "content",
     "prefix": "filetypes-wpd"
   },
   "filetypes-wps": {
     "body": "content: '\\\\E009';",
+    "description": "content",
     "prefix": "filetypes-wps"
   },
   "filetypes-xap": {
     "body": "content: '\\\\E133';",
+    "description": "content",
     "prefix": "filetypes-xap"
   },
   "filetypes-xhtml": {
     "body": "content: '\\\\E090';",
+    "description": "content",
     "prefix": "filetypes-xhtml"
   },
   "filetypes-xlr": {
     "body": "content: '\\\\E068';",
+    "description": "content",
     "prefix": "filetypes-xlr"
   },
   "filetypes-xls": {
     "body": "content: '\\\\E069';",
+    "description": "content",
     "prefix": "filetypes-xls"
   },
   "filetypes-xlsx": {
     "body": "content: '\\\\E070';",
+    "description": "content",
     "prefix": "filetypes-xlsx"
   },
   "filetypes-xml": {
     "body": "content: '\\\\E015';",
+    "description": "content",
     "prefix": "filetypes-xml"
   },
   "filetypes-yuv": {
     "body": "content: '\\\\E059';",
+    "description": "content",
     "prefix": "filetypes-yuv"
   },
   "filetypes-zip": {
     "body": "content: '\\\\E107';",
+    "description": "content",
     "prefix": "filetypes-zip"
   },
   "filetypes-zipx": {
     "body": "content: '\\\\E108';",
+    "description": "content",
     "prefix": "filetypes-zipx"
   }
 }
