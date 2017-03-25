@@ -18,11 +18,11 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/idleberg/vscode-icon-fonts.git"
+        "url": "git+https://github.com/idleberg/vscode-icon-fonts-legacy.git"
     },
-    "homepage": "https://github.com/idleberg/vscode-icon-fonts",
+    "homepage": "https://github.com/idleberg/vscode-icon-fonts-legacy",
     "bugs": {
-        "url": "https://github.com/idleberg/vscode-icon-fonts/issues"
+        "url": "https://github.com/idleberg/vscode-icon-fonts-legacy/issues"
     },
     "icon": "images/logo.svg",
     "galleryBanner": {
