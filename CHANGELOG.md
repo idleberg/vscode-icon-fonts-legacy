@@ -1,7 +1,16 @@
+# v1.5.2 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.2)
+
+- fix badge
+
+# v1.5.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.1)
+
+- fix repository
+
 # v1.5.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.0)
 
 - add support for JSX
 - organize snippets in sub-folders
+
 
 # v1.4.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.4.0)
 
