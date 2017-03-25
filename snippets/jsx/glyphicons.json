@@ -1,0 +1,3052 @@
+{
+  "glyphicons-activity": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-activity$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-activity"
+  },
+  "glyphicons-address-book": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-address-book$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-address-book"
+  },
+  "glyphicons-adjust": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-adjust$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-adjust"
+  },
+  "glyphicons-adjust-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-adjust-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-adjust-alt"
+  },
+  "glyphicons-airplane": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-airplane$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-airplane"
+  },
+  "glyphicons-alarm": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-alarm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-alarm"
+  },
+  "glyphicons-albums": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-albums$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-albums"
+  },
+  "glyphicons-alert": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-alert$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-alert"
+  },
+  "glyphicons-align-center": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-align-center$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-align-center"
+  },
+  "glyphicons-align-left": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-align-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-align-left"
+  },
+  "glyphicons-align-right": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-align-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-align-right"
+  },
+  "glyphicons-anchor": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-anchor$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-anchor"
+  },
+  "glyphicons-asterisk": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-asterisk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-asterisk"
+  },
+  "glyphicons-atv-vehicle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-atv-vehicle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-atv-vehicle"
+  },
+  "glyphicons-ax": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ax$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ax"
+  },
+  "glyphicons-baby-formula": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-baby-formula$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-baby-formula"
+  },
+  "glyphicons-ban": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ban$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ban"
+  },
+  "glyphicons-bank": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bank$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bank"
+  },
+  "glyphicons-barcode": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-barcode$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-barcode"
+  },
+  "glyphicons-baseball": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-baseball$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-baseball"
+  },
+  "glyphicons-basketball": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-basketball$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-basketball"
+  },
+  "glyphicons-bath-bathtub": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bath-bathtub$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bath-bathtub"
+  },
+  "glyphicons-bath-shower": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bath-shower$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bath-shower"
+  },
+  "glyphicons-bathrobe": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bathrobe$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bathrobe"
+  },
+  "glyphicons-beach-umbrella": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-beach-umbrella$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-beach-umbrella"
+  },
+  "glyphicons-bed": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bed"
+  },
+  "glyphicons-bed-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bed-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bed-alt"
+  },
+  "glyphicons-beer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-beer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-beer"
+  },
+  "glyphicons-bell": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bell$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bell"
+  },
+  "glyphicons-bicycle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bicycle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bicycle"
+  },
+  "glyphicons-bin": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bin"
+  },
+  "glyphicons-binoculars": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-binoculars$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-binoculars"
+  },
+  "glyphicons-birthday-cake": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-birthday-cake$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-birthday-cake"
+  },
+  "glyphicons-bishop": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bishop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bishop"
+  },
+  "glyphicons-bitcoin": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bitcoin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bitcoin"
+  },
+  "glyphicons-blackboard": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-blackboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-blackboard"
+  },
+  "glyphicons-blacksmith": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-blacksmith$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-blacksmith"
+  },
+  "glyphicons-blog": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-blog$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-blog"
+  },
+  "glyphicons-bluetooth": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bluetooth$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bluetooth"
+  },
+  "glyphicons-boat": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-boat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-boat"
+  },
+  "glyphicons-bold": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bold$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bold"
+  },
+  "glyphicons-bomb": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bomb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bomb"
+  },
+  "glyphicons-book": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-book$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-book"
+  },
+  "glyphicons-book-open": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-book-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-book-open"
+  },
+  "glyphicons-bookmark": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bookmark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bookmark"
+  },
+  "glyphicons-bowling": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bowling$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bowling"
+  },
+  "glyphicons-briefcase": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-briefcase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-briefcase"
+  },
+  "glyphicons-brightness-increase": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-brightness-increase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-brightness-increase"
+  },
+  "glyphicons-brightness-reduce": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-brightness-reduce$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-brightness-reduce"
+  },
+  "glyphicons-bring-forward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bring-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bring-forward"
+  },
+  "glyphicons-bring-to-front": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bring-to-front$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bring-to-front"
+  },
+  "glyphicons-brush": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-brush$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-brush"
+  },
+  "glyphicons-bucket": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bucket$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bucket"
+  },
+  "glyphicons-bug": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bug$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bug"
+  },
+  "glyphicons-building": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-building$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-building"
+  },
+  "glyphicons-bullets": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bullets$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bullets"
+  },
+  "glyphicons-bullhorn": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bullhorn$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bullhorn"
+  },
+  "glyphicons-buoy": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-buoy$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-buoy"
+  },
+  "glyphicons-bus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-bus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-bus"
+  },
+  "glyphicons-cake": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cake$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cake"
+  },
+  "glyphicons-calculator": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-calculator$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-calculator"
+  },
+  "glyphicons-calendar": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-calendar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-calendar"
+  },
+  "glyphicons-camera": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-camera$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-camera"
+  },
+  "glyphicons-camera-small": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-camera-small$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-camera-small"
+  },
+  "glyphicons-candle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-candle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-candle"
+  },
+  "glyphicons-car": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-car$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-car"
+  },
+  "glyphicons-car-hov": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-car-hov$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-car-hov"
+  },
+  "glyphicons-car-rental": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-car-rental$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-car-rental"
+  },
+  "glyphicons-car-wheel": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-car-wheel$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-car-wheel"
+  },
+  "glyphicons-cardio": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cardio$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cardio"
+  },
+  "glyphicons-cargo": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cargo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cargo"
+  },
+  "glyphicons-cars": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cars$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cars"
+  },
+  "glyphicons-cart-in": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cart-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cart-in"
+  },
+  "glyphicons-cart-out": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cart-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cart-out"
+  },
+  "glyphicons-cart-tick": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cart-tick$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cart-tick"
+  },
+  "glyphicons-cat": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cat"
+  },
+  "glyphicons-cd": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cd"
+  },
+  "glyphicons-celebration": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-celebration$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-celebration"
+  },
+  "glyphicons-certificate": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-certificate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-certificate"
+  },
+  "glyphicons-charging-station": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-charging-station$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-charging-station"
+  },
+  "glyphicons-charts": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-charts$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-charts"
+  },
+  "glyphicons-chat": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-chat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-chat"
+  },
+  "glyphicons-check": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-check$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-check"
+  },
+  "glyphicons-chevron-down": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-chevron-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-chevron-down"
+  },
+  "glyphicons-chevron-left": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-chevron-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-chevron-left"
+  },
+  "glyphicons-chevron-right": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-chevron-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-chevron-right"
+  },
+  "glyphicons-chevron-up": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-chevron-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-chevron-up"
+  },
+  "glyphicons-child": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-child$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-child"
+  },
+  "glyphicons-circle-arrow-down": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-arrow-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-arrow-down"
+  },
+  "glyphicons-circle-arrow-left": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-arrow-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-arrow-left"
+  },
+  "glyphicons-circle-arrow-right": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-arrow-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-arrow-right"
+  },
+  "glyphicons-circle-arrow-top": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-arrow-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-arrow-top"
+  },
+  "glyphicons-circle-exclamation-mark": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-exclamation-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-exclamation-mark"
+  },
+  "glyphicons-circle-info": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-info$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-info"
+  },
+  "glyphicons-circle-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-minus"
+  },
+  "glyphicons-circle-ok": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-ok$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-ok"
+  },
+  "glyphicons-circle-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-plus"
+  },
+  "glyphicons-circle-question-mark": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-question-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-question-mark"
+  },
+  "glyphicons-circle-remove": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-circle-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-circle-remove"
+  },
+  "glyphicons-classic-hammer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-classic-hammer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-classic-hammer"
+  },
+  "glyphicons-claw-hammer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-claw-hammer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-claw-hammer"
+  },
+  "glyphicons-cleaning": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cleaning$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cleaning"
+  },
+  "glyphicons-clock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-clock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-clock"
+  },
+  "glyphicons-cloud": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cloud$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cloud"
+  },
+  "glyphicons-cloud-download": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cloud-download$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cloud-download"
+  },
+  "glyphicons-cloud-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cloud-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cloud-minus"
+  },
+  "glyphicons-cloud-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cloud-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cloud-plus"
+  },
+  "glyphicons-cloud-upload": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cloud-upload$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cloud-upload"
+  },
+  "glyphicons-cluster": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cluster$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cluster"
+  },
+  "glyphicons-coat-hanger": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-coat-hanger$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-coat-hanger"
+  },
+  "glyphicons-coffee-cup": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-coffee-cup$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-coffee-cup"
+  },
+  "glyphicons-cogwheel": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cogwheel$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cogwheel"
+  },
+  "glyphicons-cogwheels": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cogwheels$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cogwheels"
+  },
+  "glyphicons-coins": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-coins$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-coins"
+  },
+  "glyphicons-collapse": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-collapse$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-collapse"
+  },
+  "glyphicons-collapse-top": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-collapse-top$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-collapse-top"
+  },
+  "glyphicons-comments": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-comments$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-comments"
+  },
+  "glyphicons-commodities": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-commodities$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-commodities"
+  },
+  "glyphicons-compass": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-compass$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-compass"
+  },
+  "glyphicons-compressed": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-compressed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-compressed"
+  },
+  "glyphicons-construction-cone": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-construction-cone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-construction-cone"
+  },
+  "glyphicons-conversation": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-conversation$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-conversation"
+  },
+  "glyphicons-copy": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-copy$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-copy"
+  },
+  "glyphicons-copyright-mark": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-copyright-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-copyright-mark"
+  },
+  "glyphicons-credit-card": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-credit-card$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-credit-card"
+  },
+  "glyphicons-crop": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-crop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-crop"
+  },
+  "glyphicons-crown": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-crown$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-crown"
+  },
+  "glyphicons-cup": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cup$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cup"
+  },
+  "glyphicons-currency-conversion": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-currency-conversion$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-currency-conversion"
+  },
+  "glyphicons-cutlery": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-cutlery$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-cutlery"
+  },
+  "glyphicons-dashboard": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-dashboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-dashboard"
+  },
+  "glyphicons-database": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database"
+  },
+  "glyphicons-database-ban": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database-ban$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database-ban"
+  },
+  "glyphicons-database-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database-lock"
+  },
+  "glyphicons-database-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database-minus"
+  },
+  "glyphicons-database-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database-plus"
+  },
+  "glyphicons-database-search": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-database-search$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-database-search"
+  },
+  "glyphicons-delete": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-delete$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-delete"
+  },
+  "glyphicons-dining-set": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-dining-set$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-dining-set"
+  },
+  "glyphicons-direction": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-direction$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-direction"
+  },
+  "glyphicons-disk-export": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-export$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-export"
+  },
+  "glyphicons-disk-import": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-import$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-import"
+  },
+  "glyphicons-disk-open": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-open"
+  },
+  "glyphicons-disk-remove": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-remove"
+  },
+  "glyphicons-disk-save": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-save$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-save"
+  },
+  "glyphicons-disk-saved": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-disk-saved$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-disk-saved"
+  },
+  "glyphicons-display": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-display$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-display"
+  },
+  "glyphicons-divide": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-divide$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-divide"
+  },
+  "glyphicons-dog": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-dog$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-dog"
+  },
+  "glyphicons-down-arrow": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-down-arrow$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-down-arrow"
+  },
+  "glyphicons-download": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-download$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-download"
+  },
+  "glyphicons-download-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-download-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-download-alt"
+  },
+  "glyphicons-dress": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-dress$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-dress"
+  },
+  "glyphicons-drink": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-drink$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-drink"
+  },
+  "glyphicons-dumbbell": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-dumbbell$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-dumbbell"
+  },
+  "glyphicons-duplicate": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-duplicate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-duplicate"
+  },
+  "glyphicons-ear-plugs": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ear-plugs$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ear-plugs"
+  },
+  "glyphicons-earphone": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-earphone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-earphone"
+  },
+  "glyphicons-edit": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-edit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-edit"
+  },
+  "glyphicons-education": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-education$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-education"
+  },
+  "glyphicons-eject": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eject$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eject"
+  },
+  "glyphicons-electrical-plug": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-electrical-plug$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-electrical-plug"
+  },
+  "glyphicons-electrical-socket-eu": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-electrical-socket-eu$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-electrical-socket-eu"
+  },
+  "glyphicons-electrical-socket-us": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-electrical-socket-us$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-electrical-socket-us"
+  },
+  "glyphicons-electricity": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-electricity$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-electricity"
+  },
+  "glyphicons-embed": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-embed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-embed"
+  },
+  "glyphicons-embed-close": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-embed-close$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-embed-close"
+  },
+  "glyphicons-envelope": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-envelope$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-envelope"
+  },
+  "glyphicons-equalizer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-equalizer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-equalizer"
+  },
+  "glyphicons-erase": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-erase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-erase"
+  },
+  "glyphicons-euro": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-euro$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-euro"
+  },
+  "glyphicons-exit": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-exit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-exit"
+  },
+  "glyphicons-expand": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-expand$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-expand"
+  },
+  "glyphicons-eye-close": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eye-close$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eye-close"
+  },
+  "glyphicons-eye-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eye-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eye-minus"
+  },
+  "glyphicons-eye-open": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eye-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eye-open"
+  },
+  "glyphicons-eye-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eye-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eye-plus"
+  },
+  "glyphicons-eyedropper": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-eyedropper$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-eyedropper"
+  },
+  "glyphicons-fabric": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fabric$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fabric"
+  },
+  "glyphicons-facetime-video": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-facetime-video$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-facetime-video"
+  },
+  "glyphicons-factory": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-factory$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-factory"
+  },
+  "glyphicons-family": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-family$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-family"
+  },
+  "glyphicons-fast-backward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fast-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fast-backward"
+  },
+  "glyphicons-fast-food": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fast-food$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fast-food"
+  },
+  "glyphicons-fast-forward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fast-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fast-forward"
+  },
+  "glyphicons-fax": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fax$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fax"
+  },
+  "glyphicons-female": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-female$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-female"
+  },
+  "glyphicons-file": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-file$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-file"
+  },
+  "glyphicons-file-export": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-file-export$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-file-export"
+  },
+  "glyphicons-file-import": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-file-import$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-file-import"
+  },
+  "glyphicons-film": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-film$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-film"
+  },
+  "glyphicons-filter": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-filter$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-filter"
+  },
+  "glyphicons-fins": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fins$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fins"
+  },
+  "glyphicons-fire": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fire$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fire"
+  },
+  "glyphicons-firework": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-firework$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-firework"
+  },
+  "glyphicons-fishes": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fishes$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fishes"
+  },
+  "glyphicons-fit-frame-to-image": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fit-frame-to-image$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fit-frame-to-image"
+  },
+  "glyphicons-fit-image-to-frame": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fit-image-to-frame$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fit-image-to-frame"
+  },
+  "glyphicons-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-flag"
+  },
+  "glyphicons-flash": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-flash$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-flash"
+  },
+  "glyphicons-floppy-disk": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-floppy-disk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-floppy-disk"
+  },
+  "glyphicons-floppy-open": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-floppy-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-floppy-open"
+  },
+  "glyphicons-floppy-remove": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-floppy-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-floppy-remove"
+  },
+  "glyphicons-floppy-save": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-floppy-save$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-floppy-save"
+  },
+  "glyphicons-floppy-saved": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-floppy-saved$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-floppy-saved"
+  },
+  "glyphicons-flowchart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-flowchart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-flowchart"
+  },
+  "glyphicons-flower": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-flower$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-flower"
+  },
+  "glyphicons-folder-closed": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-closed$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-closed"
+  },
+  "glyphicons-folder-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-flag"
+  },
+  "glyphicons-folder-heart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-heart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-heart"
+  },
+  "glyphicons-folder-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-lock"
+  },
+  "glyphicons-folder-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-minus"
+  },
+  "glyphicons-folder-new": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-new$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-new"
+  },
+  "glyphicons-folder-open": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-open$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-open"
+  },
+  "glyphicons-folder-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-folder-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-folder-plus"
+  },
+  "glyphicons-font": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-font$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-font"
+  },
+  "glyphicons-forward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-forward"
+  },
+  "glyphicons-french-press": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-french-press$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-french-press"
+  },
+  "glyphicons-fullscreen": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-fullscreen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-fullscreen"
+  },
+  "glyphicons-gamepad": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-gamepad$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-gamepad"
+  },
+  "glyphicons-gas-station": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-gas-station$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-gas-station"
+  },
+  "glyphicons-gbp": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-gbp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-gbp"
+  },
+  "glyphicons-gift": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-gift$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-gift"
+  },
+  "glyphicons-girl": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-girl$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-girl"
+  },
+  "glyphicons-git-branch": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-branch$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-branch"
+  },
+  "glyphicons-git-commit": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-commit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-commit"
+  },
+  "glyphicons-git-compare": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-compare$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-compare"
+  },
+  "glyphicons-git-create": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-create$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-create"
+  },
+  "glyphicons-git-delete": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-delete$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-delete"
+  },
+  "glyphicons-git-merge": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-merge$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-merge"
+  },
+  "glyphicons-git-private": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-private$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-private"
+  },
+  "glyphicons-git-pull-request": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-git-pull-request$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-git-pull-request"
+  },
+  "glyphicons-glass": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-glass$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-glass"
+  },
+  "glyphicons-glasses": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-glasses$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-glasses"
+  },
+  "glyphicons-global": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-global$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-global"
+  },
+  "glyphicons-globe": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-globe$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-globe"
+  },
+  "glyphicons-globe-af": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-globe-af$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-globe-af"
+  },
+  "glyphicons-golf": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-golf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-golf"
+  },
+  "glyphicons-golf-course": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-golf-course$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-golf-course"
+  },
+  "glyphicons-google-maps": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-google-maps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-google-maps"
+  },
+  "glyphicons-grater": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-grater$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-grater"
+  },
+  "glyphicons-group": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-group$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-group"
+  },
+  "glyphicons-hand-down": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hand-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hand-down"
+  },
+  "glyphicons-hand-left": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hand-left$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hand-left"
+  },
+  "glyphicons-hand-right": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hand-right$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hand-right"
+  },
+  "glyphicons-hand-saw": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hand-saw$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hand-saw"
+  },
+  "glyphicons-hand-up": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hand-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hand-up"
+  },
+  "glyphicons-handshake": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-handshake$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-handshake"
+  },
+  "glyphicons-hazard": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hazard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hazard"
+  },
+  "glyphicons-hazard-sign": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hazard-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hazard-sign"
+  },
+  "glyphicons-hdd": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hdd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hdd"
+  },
+  "glyphicons-header": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-header$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-header"
+  },
+  "glyphicons-headphones": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-headphones$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-headphones"
+  },
+  "glyphicons-headset": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-headset$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-headset"
+  },
+  "glyphicons-heart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-heart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-heart"
+  },
+  "glyphicons-heart-empty": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-heart-empty$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-heart-empty"
+  },
+  "glyphicons-heat": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-heat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-heat"
+  },
+  "glyphicons-history": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-history$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-history"
+  },
+  "glyphicons-hockey": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hockey$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hockey"
+  },
+  "glyphicons-home": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-home$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-home"
+  },
+  "glyphicons-hospital": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hospital$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hospital"
+  },
+  "glyphicons-hospital-h": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hospital-h$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hospital-h"
+  },
+  "glyphicons-hotspot": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hotspot$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hotspot"
+  },
+  "glyphicons-hourglass": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hourglass$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hourglass"
+  },
+  "glyphicons-hygiene-kit": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-hygiene-kit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-hygiene-kit"
+  },
+  "glyphicons-ice-cream": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ice-cream$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ice-cream"
+  },
+  "glyphicons-ice-cream-no": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ice-cream-no$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ice-cream-no"
+  },
+  "glyphicons-ice-lolly": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ice-lolly$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ice-lolly"
+  },
+  "glyphicons-ice-lolly-tasted": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ice-lolly-tasted$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ice-lolly-tasted"
+  },
+  "glyphicons-imac": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-imac$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-imac"
+  },
+  "glyphicons-inbox": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox"
+  },
+  "glyphicons-inbox-in": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox-in"
+  },
+  "glyphicons-inbox-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox-lock"
+  },
+  "glyphicons-inbox-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox-minus"
+  },
+  "glyphicons-inbox-out": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox-out"
+  },
+  "glyphicons-inbox-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-inbox-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-inbox-plus"
+  },
+  "glyphicons-invoice": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-invoice$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-invoice"
+  },
+  "glyphicons-ipad": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ipad$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ipad"
+  },
+  "glyphicons-iphone": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-iphone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-iphone"
+  },
+  "glyphicons-iphone-exchange": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-iphone-exchange$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-iphone-exchange"
+  },
+  "glyphicons-iphone-shake": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-iphone-shake$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-iphone-shake"
+  },
+  "glyphicons-iphone-transfer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-iphone-transfer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-iphone-transfer"
+  },
+  "glyphicons-ipod": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ipod$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ipod"
+  },
+  "glyphicons-ipod-shuffle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ipod-shuffle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ipod-shuffle"
+  },
+  "glyphicons-italic": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-italic$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-italic"
+  },
+  "glyphicons-justify": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-justify$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-justify"
+  },
+  "glyphicons-kettle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-kettle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-kettle"
+  },
+  "glyphicons-keyboard-wired": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-keyboard-wired$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-keyboard-wired"
+  },
+  "glyphicons-keyboard-wireless": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-keyboard-wireless$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-keyboard-wireless"
+  },
+  "glyphicons-keynote": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-keynote$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-keynote"
+  },
+  "glyphicons-keys": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-keys$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-keys"
+  },
+  "glyphicons-king": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-king$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-king"
+  },
+  "glyphicons-kiosk": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-kiosk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-kiosk"
+  },
+  "glyphicons-kiosk-food": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-kiosk-food$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-kiosk-food"
+  },
+  "glyphicons-kiosk-light": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-kiosk-light$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-kiosk-light"
+  },
+  "glyphicons-kiosk-wheels": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-kiosk-wheels$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-kiosk-wheels"
+  },
+  "glyphicons-knight": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-knight$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-knight"
+  },
+  "glyphicons-lab": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-lab$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-lab"
+  },
+  "glyphicons-lab-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-lab-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-lab-alt"
+  },
+  "glyphicons-lamp": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-lamp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-lamp"
+  },
+  "glyphicons-leaf": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-leaf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-leaf"
+  },
+  "glyphicons-leather": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-leather$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-leather"
+  },
+  "glyphicons-left-arrow": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-left-arrow$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-left-arrow"
+  },
+  "glyphicons-left-indent": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-left-indent$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-left-indent"
+  },
+  "glyphicons-life-preserver": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-life-preserver$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-life-preserver"
+  },
+  "glyphicons-lightbulb": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-lightbulb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-lightbulb"
+  },
+  "glyphicons-link": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-link$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-link"
+  },
+  "glyphicons-list": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-list$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-list"
+  },
+  "glyphicons-list-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-list-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-list-alt"
+  },
+  "glyphicons-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-lock"
+  },
+  "glyphicons-log-book": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-log-book$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-log-book"
+  },
+  "glyphicons-log-in": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-log-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-log-in"
+  },
+  "glyphicons-log-out": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-log-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-log-out"
+  },
+  "glyphicons-luggage": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-luggage$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-luggage"
+  },
+  "glyphicons-macbook": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-macbook$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-macbook"
+  },
+  "glyphicons-magic": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-magic$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-magic"
+  },
+  "glyphicons-magnet": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-magnet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-magnet"
+  },
+  "glyphicons-male": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-male$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-male"
+  },
+  "glyphicons-map": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-map$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-map"
+  },
+  "glyphicons-marriage": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-marriage$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-marriage"
+  },
+  "glyphicons-medicine": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-medicine$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-medicine"
+  },
+  "glyphicons-menu-hamburger": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-menu-hamburger$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-menu-hamburger"
+  },
+  "glyphicons-message-ban": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-ban$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-ban"
+  },
+  "glyphicons-message-empty": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-empty$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-empty"
+  },
+  "glyphicons-message-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-flag"
+  },
+  "glyphicons-message-forward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-forward"
+  },
+  "glyphicons-message-full": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-full$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-full"
+  },
+  "glyphicons-message-in": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-in"
+  },
+  "glyphicons-message-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-lock"
+  },
+  "glyphicons-message-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-minus"
+  },
+  "glyphicons-message-new": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-new$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-new"
+  },
+  "glyphicons-message-out": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-out"
+  },
+  "glyphicons-message-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-message-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-message-plus"
+  },
+  "glyphicons-mic-mute": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-mic-mute$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-mic-mute"
+  },
+  "glyphicons-microphone": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-microphone$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-microphone"
+  },
+  "glyphicons-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-minus"
+  },
+  "glyphicons-mms": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-mms$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-mms"
+  },
+  "glyphicons-modal-window": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-modal-window$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-modal-window"
+  },
+  "glyphicons-money": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-money$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-money"
+  },
+  "glyphicons-moon": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-moon$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-moon"
+  },
+  "glyphicons-more": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-more$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-more"
+  },
+  "glyphicons-more-items": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-more-items$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-more-items"
+  },
+  "glyphicons-more-windows": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-more-windows$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-more-windows"
+  },
+  "glyphicons-mosquito-net": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-mosquito-net$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-mosquito-net"
+  },
+  "glyphicons-motorcycle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-motorcycle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-motorcycle"
+  },
+  "glyphicons-move": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-move$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-move"
+  },
+  "glyphicons-multiple-displays": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-multiple-displays$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-multiple-displays"
+  },
+  "glyphicons-music": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-music$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-music"
+  },
+  "glyphicons-mute": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-mute$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-mute"
+  },
+  "glyphicons-nails": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-nails$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-nails"
+  },
+  "glyphicons-nameplate": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-nameplate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-nameplate"
+  },
+  "glyphicons-nameplate-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-nameplate-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-nameplate-alt"
+  },
+  "glyphicons-new-window": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-new-window$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-new-window"
+  },
+  "glyphicons-new-window-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-new-window-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-new-window-alt"
+  },
+  "glyphicons-newspaper": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-newspaper$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-newspaper"
+  },
+  "glyphicons-none-color-swatch": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-none-color-swatch$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-none-color-swatch"
+  },
+  "glyphicons-note": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-note$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-note"
+  },
+  "glyphicons-notes": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-notes$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-notes"
+  },
+  "glyphicons-notes-2": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-notes-2$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-notes-2"
+  },
+  "glyphicons-ok": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ok$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ok"
+  },
+  "glyphicons-ok-2": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ok-2$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ok-2"
+  },
+  "glyphicons-old-man": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-old-man$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-old-man"
+  },
+  "glyphicons-option-horizontal": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-option-horizontal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-option-horizontal"
+  },
+  "glyphicons-option-vertical": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-option-vertical$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-option-vertical"
+  },
+  "glyphicons-oxygen-bottle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-oxygen-bottle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-oxygen-bottle"
+  },
+  "glyphicons-package": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-package$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-package"
+  },
+  "glyphicons-pants": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pants$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pants"
+  },
+  "glyphicons-paperclip": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-paperclip$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-paperclip"
+  },
+  "glyphicons-paragraph": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-paragraph$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-paragraph"
+  },
+  "glyphicons-parents": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-parents$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-parents"
+  },
+  "glyphicons-paste": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-paste$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-paste"
+  },
+  "glyphicons-pause": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pause$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pause"
+  },
+  "glyphicons-pawn": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pawn$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pawn"
+  },
+  "glyphicons-pen": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pen"
+  },
+  "glyphicons-pencil": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pencil$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pencil"
+  },
+  "glyphicons-person": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-person$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-person"
+  },
+  "glyphicons-person-running": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-person-running$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-person-running"
+  },
+  "glyphicons-person-walking": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-person-walking$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-person-walking"
+  },
+  "glyphicons-person-wheelchair": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-person-wheelchair$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-person-wheelchair"
+  },
+  "glyphicons-phone-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-phone-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-phone-alt"
+  },
+  "glyphicons-piano": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-piano$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-piano"
+  },
+  "glyphicons-picture": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-picture$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-picture"
+  },
+  "glyphicons-pie-chart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pie-chart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pie-chart"
+  },
+  "glyphicons-piggy-bank": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-piggy-bank$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-piggy-bank"
+  },
+  "glyphicons-pin": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pin"
+  },
+  "glyphicons-pin-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pin-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pin-flag"
+  },
+  "glyphicons-pipe": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pipe$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pipe"
+  },
+  "glyphicons-pizza": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pizza$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pizza"
+  },
+  "glyphicons-plate-of-food": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-plate-of-food$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-plate-of-food"
+  },
+  "glyphicons-play": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-play$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-play"
+  },
+  "glyphicons-play-button": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-play-button$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-play-button"
+  },
+  "glyphicons-playing-dices": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-playing-dices$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-playing-dices"
+  },
+  "glyphicons-playlist": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-playlist$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-playlist"
+  },
+  "glyphicons-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-plus"
+  },
+  "glyphicons-podcast": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-podcast$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-podcast"
+  },
+  "glyphicons-podium": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-podium$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-podium"
+  },
+  "glyphicons-pool": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pool$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pool"
+  },
+  "glyphicons-pot": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pot$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pot"
+  },
+  "glyphicons-power": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-power$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-power"
+  },
+  "glyphicons-print": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-print$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-print"
+  },
+  "glyphicons-projector": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-projector$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-projector"
+  },
+  "glyphicons-pushpin": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-pushpin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-pushpin"
+  },
+  "glyphicons-qrcode": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-qrcode$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-qrcode"
+  },
+  "glyphicons-queen": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-queen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-queen"
+  },
+  "glyphicons-quote": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-quote$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-quote"
+  },
+  "glyphicons-rabbit": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-rabbit$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-rabbit"
+  },
+  "glyphicons-radar": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-radar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-radar"
+  },
+  "glyphicons-random": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-random$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-random"
+  },
+  "glyphicons-record": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-record$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-record"
+  },
+  "glyphicons-redo": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-redo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-redo"
+  },
+  "glyphicons-refresh": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-refresh$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-refresh"
+  },
+  "glyphicons-registration-mark": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-registration-mark$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-registration-mark"
+  },
+  "glyphicons-remote-control": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-remote-control$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-remote-control"
+  },
+  "glyphicons-remote-control-tv": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-remote-control-tv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-remote-control-tv"
+  },
+  "glyphicons-remove": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-remove"
+  },
+  "glyphicons-remove-2": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-remove-2$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-remove-2"
+  },
+  "glyphicons-repeat": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-repeat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-repeat"
+  },
+  "glyphicons-resize-full": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-resize-full$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-resize-full"
+  },
+  "glyphicons-resize-small": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-resize-small$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-resize-small"
+  },
+  "glyphicons-restart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-restart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-restart"
+  },
+  "glyphicons-retweet": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-retweet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-retweet"
+  },
+  "glyphicons-retweet-2": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-retweet-2$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-retweet-2"
+  },
+  "glyphicons-rewind": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-rewind$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-rewind"
+  },
+  "glyphicons-riflescope": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-riflescope$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-riflescope"
+  },
+  "glyphicons-right-arrow": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-right-arrow$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-right-arrow"
+  },
+  "glyphicons-right-indent": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-right-indent$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-right-indent"
+  },
+  "glyphicons-ring": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ring$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ring"
+  },
+  "glyphicons-road": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-road$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-road"
+  },
+  "glyphicons-rotation-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-rotation-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-rotation-lock"
+  },
+  "glyphicons-roundabout": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-roundabout$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-roundabout"
+  },
+  "glyphicons-router": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-router$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-router"
+  },
+  "glyphicons-ruble": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ruble$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ruble"
+  },
+  "glyphicons-rugby": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-rugby$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-rugby"
+  },
+  "glyphicons-ruller": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-ruller$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-ruller"
+  },
+  "glyphicons-sampler": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sampler$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sampler"
+  },
+  "glyphicons-saw-blade": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-saw-blade$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-saw-blade"
+  },
+  "glyphicons-scale": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-scale$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-scale"
+  },
+  "glyphicons-scale-classic": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-scale-classic$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-scale-classic"
+  },
+  "glyphicons-scissors": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-scissors$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-scissors"
+  },
+  "glyphicons-scissors-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-scissors-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-scissors-alt"
+  },
+  "glyphicons-screenshot": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-screenshot$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-screenshot"
+  },
+  "glyphicons-scuba-diving": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-scuba-diving$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-scuba-diving"
+  },
+  "glyphicons-search": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-search$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-search"
+  },
+  "glyphicons-security-camera": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-security-camera$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-security-camera"
+  },
+  "glyphicons-send": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-send$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-send"
+  },
+  "glyphicons-send-backward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-send-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-send-backward"
+  },
+  "glyphicons-send-to-back": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-send-to-back$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-send-to-back"
+  },
+  "glyphicons-server": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server"
+  },
+  "glyphicons-server-ban": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-ban$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-ban"
+  },
+  "glyphicons-server-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-flag"
+  },
+  "glyphicons-server-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-lock"
+  },
+  "glyphicons-server-minus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-minus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-minus"
+  },
+  "glyphicons-server-new": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-new$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-new"
+  },
+  "glyphicons-server-plus": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-server-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-server-plus"
+  },
+  "glyphicons-settings": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-settings$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-settings"
+  },
+  "glyphicons-share": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-share$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-share"
+  },
+  "glyphicons-share-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-share-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-share-alt"
+  },
+  "glyphicons-sheriffs-star": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sheriffs-star$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sheriffs-star"
+  },
+  "glyphicons-shield": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shield$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shield"
+  },
+  "glyphicons-shirt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shirt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shirt"
+  },
+  "glyphicons-shoe-steps": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shoe-steps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shoe-steps"
+  },
+  "glyphicons-shoes": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shoes$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shoes"
+  },
+  "glyphicons-shop": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shop"
+  },
+  "glyphicons-shop-window": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shop-window$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shop-window"
+  },
+  "glyphicons-shopping-bag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shopping-bag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shopping-bag"
+  },
+  "glyphicons-shopping-cart": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shopping-cart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shopping-cart"
+  },
+  "glyphicons-show-big-thumbnails": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-show-big-thumbnails$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-show-big-thumbnails"
+  },
+  "glyphicons-show-lines": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-show-lines$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-show-lines"
+  },
+  "glyphicons-show-thumbnails": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-show-thumbnails$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-show-thumbnails"
+  },
+  "glyphicons-show-thumbnails-with-lines": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-show-thumbnails-with-lines$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-show-thumbnails-with-lines"
+  },
+  "glyphicons-shower": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shower$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shower"
+  },
+  "glyphicons-shredder": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-shredder$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-shredder"
+  },
+  "glyphicons-signal": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-signal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-signal"
+  },
+  "glyphicons-skateboard": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-skateboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-skateboard"
+  },
+  "glyphicons-skull": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-skull$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-skull"
+  },
+  "glyphicons-smoking": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-smoking$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-smoking"
+  },
+  "glyphicons-sms": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sms$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sms"
+  },
+  "glyphicons-snorkel-diving": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-snorkel-diving$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-snorkel-diving"
+  },
+  "glyphicons-snowflake": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-snowflake$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-snowflake"
+  },
+  "glyphicons-soccer-ball": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-soccer-ball$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-soccer-ball"
+  },
+  "glyphicons-sort": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort"
+  },
+  "glyphicons-sort-by-alphabet": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-alphabet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-alphabet"
+  },
+  "glyphicons-sort-by-alphabet-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-alphabet-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-alphabet-alt"
+  },
+  "glyphicons-sort-by-attributes": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-attributes$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-attributes"
+  },
+  "glyphicons-sort-by-attributes-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-attributes-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-attributes-alt"
+  },
+  "glyphicons-sort-by-order": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-order$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-order"
+  },
+  "glyphicons-sort-by-order-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sort-by-order-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sort-by-order-alt"
+  },
+  "glyphicons-sorting": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sorting$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sorting"
+  },
+  "glyphicons-sound-5-1": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sound-5-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sound-5-1"
+  },
+  "glyphicons-sound-6-1": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sound-6-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sound-6-1"
+  },
+  "glyphicons-sound-7-1": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sound-7-1$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sound-7-1"
+  },
+  "glyphicons-sound-dolby": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sound-dolby$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sound-dolby"
+  },
+  "glyphicons-sound-stereo": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sound-stereo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sound-stereo"
+  },
+  "glyphicons-spade": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-spade$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-spade"
+  },
+  "glyphicons-speakers": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-speakers$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-speakers"
+  },
+  "glyphicons-spray": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-spray$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-spray"
+  },
+  "glyphicons-star": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-star$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-star"
+  },
+  "glyphicons-star-empty": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-star-empty$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-star-empty"
+  },
+  "glyphicons-star-half": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-star-half$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-star-half"
+  },
+  "glyphicons-stats": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stats$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stats"
+  },
+  "glyphicons-step-backward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-step-backward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-step-backward"
+  },
+  "glyphicons-step-forward": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-step-forward$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-step-forward"
+  },
+  "glyphicons-stethoscope": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stethoscope$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stethoscope"
+  },
+  "glyphicons-stop": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stop$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stop"
+  },
+  "glyphicons-stop-sign": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stop-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stop-sign"
+  },
+  "glyphicons-stopwatch": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stopwatch$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stopwatch"
+  },
+  "glyphicons-stroller": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-stroller$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-stroller"
+  },
+  "glyphicons-subscript": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-subscript$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-subscript"
+  },
+  "glyphicons-subtitles": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-subtitles$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-subtitles"
+  },
+  "glyphicons-suitcase": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-suitcase$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-suitcase"
+  },
+  "glyphicons-sun": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sun$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sun"
+  },
+  "glyphicons-sunglasses": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sunglasses$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sunglasses"
+  },
+  "glyphicons-superscript": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-superscript$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-superscript"
+  },
+  "glyphicons-sweater": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-sweater$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-sweater"
+  },
+  "glyphicons-t-shirt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-t-shirt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-t-shirt"
+  },
+  "glyphicons-table": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-table$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-table"
+  },
+  "glyphicons-table-tennis": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-table-tennis$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-table-tennis"
+  },
+  "glyphicons-tablet": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tablet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tablet"
+  },
+  "glyphicons-tag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tag"
+  },
+  "glyphicons-tags": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tags$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tags"
+  },
+  "glyphicons-target": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-target$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-target"
+  },
+  "glyphicons-taxi": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-taxi$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-taxi"
+  },
+  "glyphicons-tea-kettle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tea-kettle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tea-kettle"
+  },
+  "glyphicons-temple-buddhist": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-temple-buddhist$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-temple-buddhist"
+  },
+  "glyphicons-temple-christianity-church": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-temple-christianity-church$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-temple-christianity-church"
+  },
+  "glyphicons-temple-hindu": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-temple-hindu$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-temple-hindu"
+  },
+  "glyphicons-temple-islam": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-temple-islam$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-temple-islam"
+  },
+  "glyphicons-tent": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tent$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tent"
+  },
+  "glyphicons-text-background": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-background$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-background"
+  },
+  "glyphicons-text-bigger": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-bigger$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-bigger"
+  },
+  "glyphicons-text-color": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-color$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-color"
+  },
+  "glyphicons-text-height": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-height$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-height"
+  },
+  "glyphicons-text-resize": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-resize$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-resize"
+  },
+  "glyphicons-text-size": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-size$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-size"
+  },
+  "glyphicons-text-smaller": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-smaller$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-smaller"
+  },
+  "glyphicons-text-strike": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-strike$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-strike"
+  },
+  "glyphicons-text-underline": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-underline$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-underline"
+  },
+  "glyphicons-text-width": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-text-width$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-text-width"
+  },
+  "glyphicons-thumbs-down": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-thumbs-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-thumbs-down"
+  },
+  "glyphicons-thumbs-up": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-thumbs-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-thumbs-up"
+  },
+  "glyphicons-tie": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tie$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tie"
+  },
+  "glyphicons-tint": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tint$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tint"
+  },
+  "glyphicons-tower": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tower$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tower"
+  },
+  "glyphicons-tractor": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tractor$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tractor"
+  },
+  "glyphicons-train": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-train$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-train"
+  },
+  "glyphicons-transfer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-transfer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-transfer"
+  },
+  "glyphicons-translate": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-translate$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-translate"
+  },
+  "glyphicons-transport": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-transport$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-transport"
+  },
+  "glyphicons-tree-conifer": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tree-conifer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tree-conifer"
+  },
+  "glyphicons-tree-deciduous": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tree-deciduous$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tree-deciduous"
+  },
+  "glyphicons-truck": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-truck$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-truck"
+  },
+  "glyphicons-turtle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-turtle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-turtle"
+  },
+  "glyphicons-tv": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-tv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-tv"
+  },
+  "glyphicons-uk-rat-12": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-12$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-12"
+  },
+  "glyphicons-uk-rat-12a": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-12a$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-12a"
+  },
+  "glyphicons-uk-rat-15": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-15$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-15"
+  },
+  "glyphicons-uk-rat-18": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-18$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-18"
+  },
+  "glyphicons-uk-rat-pg": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-pg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-pg"
+  },
+  "glyphicons-uk-rat-r18": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-r18$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-r18"
+  },
+  "glyphicons-uk-rat-u": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-uk-rat-u$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-uk-rat-u"
+  },
+  "glyphicons-umbrella": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-umbrella$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-umbrella"
+  },
+  "glyphicons-unchecked": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-unchecked$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-unchecked"
+  },
+  "glyphicons-underground": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-underground$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-underground"
+  },
+  "glyphicons-underwear": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-underwear$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-underwear"
+  },
+  "glyphicons-undo": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-undo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-undo"
+  },
+  "glyphicons-unlock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-unlock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-unlock"
+  },
+  "glyphicons-unshare": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-unshare$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-unshare"
+  },
+  "glyphicons-up-arrow": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-up-arrow$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-up-arrow"
+  },
+  "glyphicons-upload": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-upload$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-upload"
+  },
+  "glyphicons-us-rat-g": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-us-rat-g$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-us-rat-g"
+  },
+  "glyphicons-us-rat-no-one-17": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-us-rat-no-one-17$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-us-rat-no-one-17"
+  },
+  "glyphicons-us-rat-pg": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-us-rat-pg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-us-rat-pg"
+  },
+  "glyphicons-us-rat-pg-13": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-us-rat-pg-13$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-us-rat-pg-13"
+  },
+  "glyphicons-us-rat-restricted": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-us-rat-restricted$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-us-rat-restricted"
+  },
+  "glyphicons-usd": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-usd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-usd"
+  },
+  "glyphicons-user": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user"
+  },
+  "glyphicons-user-add": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-add$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-add"
+  },
+  "glyphicons-user-alert": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-alert$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-alert"
+  },
+  "glyphicons-user-asterisk": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-asterisk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-asterisk"
+  },
+  "glyphicons-user-ban": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-ban$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-ban"
+  },
+  "glyphicons-user-conversation": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-conversation$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-conversation"
+  },
+  "glyphicons-user-flag": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-flag$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-flag"
+  },
+  "glyphicons-user-key": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-key$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-key"
+  },
+  "glyphicons-user-lock": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-lock$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-lock"
+  },
+  "glyphicons-user-remove": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-user-remove$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-user-remove"
+  },
+  "glyphicons-vases": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vases$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vases"
+  },
+  "glyphicons-vcard": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vcard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vcard"
+  },
+  "glyphicons-vector-path-all": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-all$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-all"
+  },
+  "glyphicons-vector-path-circle": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-circle$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-circle"
+  },
+  "glyphicons-vector-path-curve": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-curve$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-curve"
+  },
+  "glyphicons-vector-path-line": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-line$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-line"
+  },
+  "glyphicons-vector-path-polygon": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-polygon$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-polygon"
+  },
+  "glyphicons-vector-path-square": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-vector-path-square$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-vector-path-square"
+  },
+  "glyphicons-video-hd": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-video-hd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-video-hd"
+  },
+  "glyphicons-video-sd": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-video-sd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-video-sd"
+  },
+  "glyphicons-voice": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-voice$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-voice"
+  },
+  "glyphicons-voicemail": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-voicemail$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-voicemail"
+  },
+  "glyphicons-volume-down": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-volume-down$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-volume-down"
+  },
+  "glyphicons-volume-up": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-volume-up$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-volume-up"
+  },
+  "glyphicons-wallet": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-wallet$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-wallet"
+  },
+  "glyphicons-warning-sign": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-warning-sign$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-warning-sign"
+  },
+  "glyphicons-watch": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-watch$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-watch"
+  },
+  "glyphicons-webcam": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-webcam$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-webcam"
+  },
+  "glyphicons-wifi": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-wifi$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-wifi"
+  },
+  "glyphicons-wifi-alt": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-wifi-alt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-wifi-alt"
+  },
+  "glyphicons-woman": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-woman$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-woman"
+  },
+  "glyphicons-wrench": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-wrench$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-wrench"
+  },
+  "glyphicons-yen": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-yen$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-yen"
+  },
+  "glyphicons-zoom-in": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-zoom-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-zoom-in"
+  },
+  "glyphicons-zoom-out": {
+    "body": "<${1:span} className=\"glyphicons glyphicons-zoom-out$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "glyphicons-zoom-out"
+  }
+}

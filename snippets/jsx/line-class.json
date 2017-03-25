@@ -1,0 +1,502 @@
+{
+  "line-icon-adjustments-class": {
+    "body": "<${1:span} className=\"icon-adjustments$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-adjustments-class"
+  },
+  "line-icon-alarmclock-class": {
+    "body": "<${1:span} className=\"icon-alarmclock$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-alarmclock-class"
+  },
+  "line-icon-anchor-class": {
+    "body": "<${1:span} className=\"icon-anchor$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-anchor-class"
+  },
+  "line-icon-aperture-class": {
+    "body": "<${1:span} className=\"icon-aperture$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-aperture-class"
+  },
+  "line-icon-attachment-class": {
+    "body": "<${1:span} className=\"icon-attachment$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-attachment-class"
+  },
+  "line-icon-bargraph-class": {
+    "body": "<${1:span} className=\"icon-bargraph$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-bargraph-class"
+  },
+  "line-icon-basket-class": {
+    "body": "<${1:span} className=\"icon-basket$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-basket-class"
+  },
+  "line-icon-beaker-class": {
+    "body": "<${1:span} className=\"icon-beaker$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-beaker-class"
+  },
+  "line-icon-bike-class": {
+    "body": "<${1:span} className=\"icon-bike$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-bike-class"
+  },
+  "line-icon-book-open-class": {
+    "body": "<${1:span} className=\"icon-book-open$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-book-open-class"
+  },
+  "line-icon-briefcase-class": {
+    "body": "<${1:span} className=\"icon-briefcase$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-briefcase-class"
+  },
+  "line-icon-browser-class": {
+    "body": "<${1:span} className=\"icon-browser$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-browser-class"
+  },
+  "line-icon-calendar-class": {
+    "body": "<${1:span} className=\"icon-calendar$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-calendar-class"
+  },
+  "line-icon-camera-class": {
+    "body": "<${1:span} className=\"icon-camera$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-camera-class"
+  },
+  "line-icon-caution-class": {
+    "body": "<${1:span} className=\"icon-caution$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-caution-class"
+  },
+  "line-icon-chat-class": {
+    "body": "<${1:span} className=\"icon-chat$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-chat-class"
+  },
+  "line-icon-circle-compass-class": {
+    "body": "<${1:span} className=\"icon-circle-compass$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-circle-compass-class"
+  },
+  "line-icon-clipboard-class": {
+    "body": "<${1:span} className=\"icon-clipboard$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-clipboard-class"
+  },
+  "line-icon-clock-class": {
+    "body": "<${1:span} className=\"icon-clock$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-clock-class"
+  },
+  "line-icon-cloud-class": {
+    "body": "<${1:span} className=\"icon-cloud$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-cloud-class"
+  },
+  "line-icon-compass-class": {
+    "body": "<${1:span} className=\"icon-compass$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-compass-class"
+  },
+  "line-icon-desktop-class": {
+    "body": "<${1:span} className=\"icon-desktop$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-desktop-class"
+  },
+  "line-icon-dial-class": {
+    "body": "<${1:span} className=\"icon-dial$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-dial-class"
+  },
+  "line-icon-document-class": {
+    "body": "<${1:span} className=\"icon-document$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-document-class"
+  },
+  "line-icon-documents-class": {
+    "body": "<${1:span} className=\"icon-documents$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-documents-class"
+  },
+  "line-icon-download-class": {
+    "body": "<${1:span} className=\"icon-download$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-download-class"
+  },
+  "line-icon-dribbble-class": {
+    "body": "<${1:span} className=\"icon-dribbble$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-dribbble-class"
+  },
+  "line-icon-edit-class": {
+    "body": "<${1:span} className=\"icon-edit$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-edit-class"
+  },
+  "line-icon-envelope-class": {
+    "body": "<${1:span} className=\"icon-envelope$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-envelope-class"
+  },
+  "line-icon-expand-class": {
+    "body": "<${1:span} className=\"icon-expand$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-expand-class"
+  },
+  "line-icon-facebook-class": {
+    "body": "<${1:span} className=\"icon-facebook$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-facebook-class"
+  },
+  "line-icon-flag-class": {
+    "body": "<${1:span} className=\"icon-flag$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-flag-class"
+  },
+  "line-icon-focus-class": {
+    "body": "<${1:span} className=\"icon-focus$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-focus-class"
+  },
+  "line-icon-gears-class": {
+    "body": "<${1:span} className=\"icon-gears$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-gears-class"
+  },
+  "line-icon-genius-class": {
+    "body": "<${1:span} className=\"icon-genius$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-genius-class"
+  },
+  "line-icon-gift-class": {
+    "body": "<${1:span} className=\"icon-gift$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-gift-class"
+  },
+  "line-icon-global-class": {
+    "body": "<${1:span} className=\"icon-global$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-global-class"
+  },
+  "line-icon-globe-class": {
+    "body": "<${1:span} className=\"icon-globe$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-globe-class"
+  },
+  "line-icon-googleplus-class": {
+    "body": "<${1:span} className=\"icon-googleplus$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-googleplus-class"
+  },
+  "line-icon-grid-class": {
+    "body": "<${1:span} className=\"icon-grid$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-grid-class"
+  },
+  "line-icon-happy-class": {
+    "body": "<${1:span} className=\"icon-happy$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-happy-class"
+  },
+  "line-icon-hazardous-class": {
+    "body": "<${1:span} className=\"icon-hazardous$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-hazardous-class"
+  },
+  "line-icon-heart-class": {
+    "body": "<${1:span} className=\"icon-heart$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-heart-class"
+  },
+  "line-icon-hotairballoon-class": {
+    "body": "<${1:span} className=\"icon-hotairballoon$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-hotairballoon-class"
+  },
+  "line-icon-hourglass-class": {
+    "body": "<${1:span} className=\"icon-hourglass$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-hourglass-class"
+  },
+  "line-icon-key-class": {
+    "body": "<${1:span} className=\"icon-key$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-key-class"
+  },
+  "line-icon-laptop-class": {
+    "body": "<${1:span} className=\"icon-laptop$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-laptop-class"
+  },
+  "line-icon-layers-class": {
+    "body": "<${1:span} className=\"icon-layers$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-layers-class"
+  },
+  "line-icon-lifesaver-class": {
+    "body": "<${1:span} className=\"icon-lifesaver$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-lifesaver-class"
+  },
+  "line-icon-lightbulb-class": {
+    "body": "<${1:span} className=\"icon-lightbulb$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-lightbulb-class"
+  },
+  "line-icon-linegraph-class": {
+    "body": "<${1:span} className=\"icon-linegraph$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-linegraph-class"
+  },
+  "line-icon-linkedin-class": {
+    "body": "<${1:span} className=\"icon-linkedin$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-linkedin-class"
+  },
+  "line-icon-lock-class": {
+    "body": "<${1:span} className=\"icon-lock$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-lock-class"
+  },
+  "line-icon-magnifying-glass-class": {
+    "body": "<${1:span} className=\"icon-magnifying-glass$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-magnifying-glass-class"
+  },
+  "line-icon-map-class": {
+    "body": "<${1:span} className=\"icon-map$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-map-class"
+  },
+  "line-icon-map-pin-class": {
+    "body": "<${1:span} className=\"icon-map-pin$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-map-pin-class"
+  },
+  "line-icon-megaphone-class": {
+    "body": "<${1:span} className=\"icon-megaphone$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-megaphone-class"
+  },
+  "line-icon-mic-class": {
+    "body": "<${1:span} className=\"icon-mic$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-mic-class"
+  },
+  "line-icon-mobile-class": {
+    "body": "<${1:span} className=\"icon-mobile$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-mobile-class"
+  },
+  "line-icon-newspaper-class": {
+    "body": "<${1:span} className=\"icon-newspaper$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-newspaper-class"
+  },
+  "line-icon-notebook-class": {
+    "body": "<${1:span} className=\"icon-notebook$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-notebook-class"
+  },
+  "line-icon-paintbrush-class": {
+    "body": "<${1:span} className=\"icon-paintbrush$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-paintbrush-class"
+  },
+  "line-icon-paperclip-class": {
+    "body": "<${1:span} className=\"icon-paperclip$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-paperclip-class"
+  },
+  "line-icon-pencil-class": {
+    "body": "<${1:span} className=\"icon-pencil$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-pencil-class"
+  },
+  "line-icon-phone-class": {
+    "body": "<${1:span} className=\"icon-phone$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-phone-class"
+  },
+  "line-icon-picture-class": {
+    "body": "<${1:span} className=\"icon-picture$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-picture-class"
+  },
+  "line-icon-pictures-class": {
+    "body": "<${1:span} className=\"icon-pictures$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-pictures-class"
+  },
+  "line-icon-piechart-class": {
+    "body": "<${1:span} className=\"icon-piechart$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-piechart-class"
+  },
+  "line-icon-presentation-class": {
+    "body": "<${1:span} className=\"icon-presentation$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-presentation-class"
+  },
+  "line-icon-pricetags-class": {
+    "body": "<${1:span} className=\"icon-pricetags$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-pricetags-class"
+  },
+  "line-icon-printer-class": {
+    "body": "<${1:span} className=\"icon-printer$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-printer-class"
+  },
+  "line-icon-profile-female-class": {
+    "body": "<${1:span} className=\"icon-profile-female$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-profile-female-class"
+  },
+  "line-icon-profile-male-class": {
+    "body": "<${1:span} className=\"icon-profile-male$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-profile-male-class"
+  },
+  "line-icon-puzzle-class": {
+    "body": "<${1:span} className=\"icon-puzzle$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-puzzle-class"
+  },
+  "line-icon-quote-class": {
+    "body": "<${1:span} className=\"icon-quote$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-quote-class"
+  },
+  "line-icon-recycle-class": {
+    "body": "<${1:span} className=\"icon-recycle$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-recycle-class"
+  },
+  "line-icon-refresh-class": {
+    "body": "<${1:span} className=\"icon-refresh$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-refresh-class"
+  },
+  "line-icon-ribbon-class": {
+    "body": "<${1:span} className=\"icon-ribbon$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-ribbon-class"
+  },
+  "line-icon-rss-class": {
+    "body": "<${1:span} className=\"icon-rss$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-rss-class"
+  },
+  "line-icon-sad-class": {
+    "body": "<${1:span} className=\"icon-sad$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-sad-class"
+  },
+  "line-icon-scissors-class": {
+    "body": "<${1:span} className=\"icon-scissors$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-scissors-class"
+  },
+  "line-icon-scope-class": {
+    "body": "<${1:span} className=\"icon-scope$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-scope-class"
+  },
+  "line-icon-search-class": {
+    "body": "<${1:span} className=\"icon-search$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-search-class"
+  },
+  "line-icon-shield-class": {
+    "body": "<${1:span} className=\"icon-shield$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-shield-class"
+  },
+  "line-icon-speedometer-class": {
+    "body": "<${1:span} className=\"icon-speedometer$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-speedometer-class"
+  },
+  "line-icon-strategy-class": {
+    "body": "<${1:span} className=\"icon-strategy$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-strategy-class"
+  },
+  "line-icon-streetsign-class": {
+    "body": "<${1:span} className=\"icon-streetsign$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-streetsign-class"
+  },
+  "line-icon-tablet-class": {
+    "body": "<${1:span} className=\"icon-tablet$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-tablet-class"
+  },
+  "line-icon-target-class": {
+    "body": "<${1:span} className=\"icon-target$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-target-class"
+  },
+  "line-icon-telescope-class": {
+    "body": "<${1:span} className=\"icon-telescope$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-telescope-class"
+  },
+  "line-icon-toolbox-class": {
+    "body": "<${1:span} className=\"icon-toolbox$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-toolbox-class"
+  },
+  "line-icon-tools-2-class": {
+    "body": "<${1:span} className=\"icon-tools-2$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-tools-2-class"
+  },
+  "line-icon-tools-class": {
+    "body": "<${1:span} className=\"icon-tools$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-tools-class"
+  },
+  "line-icon-trophy-class": {
+    "body": "<${1:span} className=\"icon-trophy$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-trophy-class"
+  },
+  "line-icon-tumblr-class": {
+    "body": "<${1:span} className=\"icon-tumblr$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-tumblr-class"
+  },
+  "line-icon-twitter-class": {
+    "body": "<${1:span} className=\"icon-twitter$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-twitter-class"
+  },
+  "line-icon-upload-class": {
+    "body": "<${1:span} className=\"icon-upload$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-upload-class"
+  },
+  "line-icon-video-class": {
+    "body": "<${1:span} className=\"icon-video$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-video-class"
+  },
+  "line-icon-wallet-class": {
+    "body": "<${1:span} className=\"icon-wallet$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-wallet-class"
+  },
+  "line-icon-wine-class": {
+    "body": "<${1:span} className=\"icon-wine$2\"></${1:span}>$2",
+    "description": "<span class>",
+    "prefix": "line-icon-wine-class"
+  }
+}

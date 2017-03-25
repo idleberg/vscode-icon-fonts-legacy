@@ -39,95 +39,123 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/filetypes.json"
+                "path": "./snippets/html/filetypes.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/foundicon.json"
+                "path": "./snippets/html/foundicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/glyphicons.json"
+                "path": "./snippets/html/glyphicons.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/halflings.json"
+                "path": "./snippets/html/halflings.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/line-class.json"
+                "path": "./snippets/html/line-class.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/line-data.json"
+                "path": "./snippets/html/line-data.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/octicon.json"
+                "path": "./snippets/html/octicon.json"
             },
             {
                 "language": "html",
-                "path": "./snippets/social.json"
+                "path": "./snippets/html/social.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/filetypes-css.json"
+                "path": "./snippets/css/filetypes.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/glyphicons-css.json"
+                "path": "./snippets/css/glyphicons.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/halflings-css.json"
+                "path": "./snippets/css/halflings.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/octicon-css.json"
+                "path": "./snippets/css/octicon.json"
             },
             {
                 "language": "css",
-                "path": "./snippets/social-css.json"
+                "path": "./snippets/css/social.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/filetypes-css.json"
+                "path": "./snippets/css/filetypes.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/glyphicons-css.json"
+                "path": "./snippets/css/glyphicons.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/halflings-css.json"
+                "path": "./snippets/css/halflings.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/octicon-css.json"
+                "path": "./snippets/css/octicon.json"
             },
             {
                 "language": "less",
-                "path": "./snippets/social-css.json"
+                "path": "./snippets/css/social.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/filetypes-css.json"
+                "path": "./snippets/css/filetypes.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/glyphicons-css.json"
+                "path": "./snippets/css/glyphicons.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/halflings-css.json"
+                "path": "./snippets/css/halflings.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/octicon-css.json"
+                "path": "./snippets/css/octicon.json"
             },
             {
                 "language": "scss",
-                "path": "./snippets/social-css.json"
+                "path": "./snippets/css/social.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/filetypes.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/foundicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/glyphicons.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/halflings.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/line-class.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/social.json"
             }
         ]
     },

@@ -1,0 +1,652 @@
+{
+  "filetypes-aacd": {
+    "body": "<${1:span} className=\"filetypes filetypes-aacd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-aacd"
+  },
+  "filetypes-ai": {
+    "body": "<${1:span} className=\"filetypes filetypes-ai$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ai"
+  },
+  "filetypes-aif": {
+    "body": "<${1:span} className=\"filetypes filetypes-aif$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-aif"
+  },
+  "filetypes-apk": {
+    "body": "<${1:span} className=\"filetypes filetypes-apk$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-apk"
+  },
+  "filetypes-app": {
+    "body": "<${1:span} className=\"filetypes filetypes-app$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-app"
+  },
+  "filetypes-asf": {
+    "body": "<${1:span} className=\"filetypes filetypes-asf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-asf"
+  },
+  "filetypes-asp": {
+    "body": "<${1:span} className=\"filetypes filetypes-asp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-asp"
+  },
+  "filetypes-aspx": {
+    "body": "<${1:span} className=\"filetypes filetypes-aspx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-aspx"
+  },
+  "filetypes-asx": {
+    "body": "<${1:span} className=\"filetypes filetypes-asx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-asx"
+  },
+  "filetypes-avi": {
+    "body": "<${1:span} className=\"filetypes filetypes-avi$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-avi"
+  },
+  "filetypes-bak": {
+    "body": "<${1:span} className=\"filetypes filetypes-bak$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-bak"
+  },
+  "filetypes-bat": {
+    "body": "<${1:span} className=\"filetypes filetypes-bat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-bat"
+  },
+  "filetypes-bin": {
+    "body": "<${1:span} className=\"filetypes filetypes-bin$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-bin"
+  },
+  "filetypes-bmp": {
+    "body": "<${1:span} className=\"filetypes filetypes-bmp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-bmp"
+  },
+  "filetypes-cbr": {
+    "body": "<${1:span} className=\"filetypes filetypes-cbr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cbr"
+  },
+  "filetypes-cer": {
+    "body": "<${1:span} className=\"filetypes filetypes-cer$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cer"
+  },
+  "filetypes-cfg": {
+    "body": "<${1:span} className=\"filetypes filetypes-cfg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cfg"
+  },
+  "filetypes-cfm": {
+    "body": "<${1:span} className=\"filetypes filetypes-cfm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cfm"
+  },
+  "filetypes-cgi": {
+    "body": "<${1:span} className=\"filetypes filetypes-cgi$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cgi"
+  },
+  "filetypes-com": {
+    "body": "<${1:span} className=\"filetypes filetypes-com$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-com"
+  },
+  "filetypes-csr": {
+    "body": "<${1:span} className=\"filetypes filetypes-csr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-csr"
+  },
+  "filetypes-css": {
+    "body": "<${1:span} className=\"filetypes filetypes-css$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-css"
+  },
+  "filetypes-csv": {
+    "body": "<${1:span} className=\"filetypes filetypes-csv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-csv"
+  },
+  "filetypes-cue": {
+    "body": "<${1:span} className=\"filetypes filetypes-cue$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-cue"
+  },
+  "filetypes-dat": {
+    "body": "<${1:span} className=\"filetypes filetypes-dat$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-dat"
+  },
+  "filetypes-db": {
+    "body": "<${1:span} className=\"filetypes filetypes-db$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-db"
+  },
+  "filetypes-dbf": {
+    "body": "<${1:span} className=\"filetypes filetypes-dbf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-dbf"
+  },
+  "filetypes-dds": {
+    "body": "<${1:span} className=\"filetypes filetypes-dds$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-dds"
+  },
+  "filetypes-deb": {
+    "body": "<${1:span} className=\"filetypes filetypes-deb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-deb"
+  },
+  "filetypes-dmg": {
+    "body": "<${1:span} className=\"filetypes filetypes-dmg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-dmg"
+  },
+  "filetypes-doc": {
+    "body": "<${1:span} className=\"filetypes filetypes-doc$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-doc"
+  },
+  "filetypes-docx": {
+    "body": "<${1:span} className=\"filetypes filetypes-docx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-docx"
+  },
+  "filetypes-e-3g2": {
+    "body": "<${1:span} className=\"filetypes filetypes-e-3g2$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-e-3g2"
+  },
+  "filetypes-e-3gp": {
+    "body": "<${1:span} className=\"filetypes filetypes-e-3gp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-e-3gp"
+  },
+  "filetypes-e-7z": {
+    "body": "<${1:span} className=\"filetypes filetypes-e-7z$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-e-7z"
+  },
+  "filetypes-eot": {
+    "body": "<${1:span} className=\"filetypes filetypes-eot$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-eot"
+  },
+  "filetypes-eps": {
+    "body": "<${1:span} className=\"filetypes filetypes-eps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-eps"
+  },
+  "filetypes-exe": {
+    "body": "<${1:span} className=\"filetypes filetypes-exe$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-exe"
+  },
+  "filetypes-flv": {
+    "body": "<${1:span} className=\"filetypes filetypes-flv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-flv"
+  },
+  "filetypes-fnt": {
+    "body": "<${1:span} className=\"filetypes filetypes-fnt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-fnt"
+  },
+  "filetypes-font": {
+    "body": "<${1:span} className=\"filetypes filetypes-font$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-font"
+  },
+  "filetypes-gbr": {
+    "body": "<${1:span} className=\"filetypes filetypes-gbr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-gbr"
+  },
+  "filetypes-ged": {
+    "body": "<${1:span} className=\"filetypes filetypes-ged$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ged"
+  },
+  "filetypes-gif": {
+    "body": "<${1:span} className=\"filetypes filetypes-gif$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-gif"
+  },
+  "filetypes-gz": {
+    "body": "<${1:span} className=\"filetypes filetypes-gz$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-gz"
+  },
+  "filetypes-hdf": {
+    "body": "<${1:span} className=\"filetypes filetypes-hdf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-hdf"
+  },
+  "filetypes-hsf": {
+    "body": "<${1:span} className=\"filetypes filetypes-hsf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-hsf"
+  },
+  "filetypes-htm": {
+    "body": "<${1:span} className=\"filetypes filetypes-htm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-htm"
+  },
+  "filetypes-html": {
+    "body": "<${1:span} className=\"filetypes filetypes-html$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-html"
+  },
+  "filetypes-ics": {
+    "body": "<${1:span} className=\"filetypes filetypes-ics$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ics"
+  },
+  "filetypes-iff": {
+    "body": "<${1:span} className=\"filetypes filetypes-iff$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-iff"
+  },
+  "filetypes-indd": {
+    "body": "<${1:span} className=\"filetypes filetypes-indd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-indd"
+  },
+  "filetypes-ini": {
+    "body": "<${1:span} className=\"filetypes filetypes-ini$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ini"
+  },
+  "filetypes-iso": {
+    "body": "<${1:span} className=\"filetypes filetypes-iso$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-iso"
+  },
+  "filetypes-jar": {
+    "body": "<${1:span} className=\"filetypes filetypes-jar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-jar"
+  },
+  "filetypes-jpg": {
+    "body": "<${1:span} className=\"filetypes filetypes-jpg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-jpg"
+  },
+  "filetypes-js": {
+    "body": "<${1:span} className=\"filetypes filetypes-js$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-js"
+  },
+  "filetypes-jsp": {
+    "body": "<${1:span} className=\"filetypes filetypes-jsp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-jsp"
+  },
+  "filetypes-key": {
+    "body": "<${1:span} className=\"filetypes filetypes-key$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-key"
+  },
+  "filetypes-less": {
+    "body": "<${1:span} className=\"filetypes filetypes-less$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-less"
+  },
+  "filetypes-log": {
+    "body": "<${1:span} className=\"filetypes filetypes-log$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-log"
+  },
+  "filetypes-m3v": {
+    "body": "<${1:span} className=\"filetypes filetypes-m3v$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-m3v"
+  },
+  "filetypes-m4a": {
+    "body": "<${1:span} className=\"filetypes filetypes-m4a$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-m4a"
+  },
+  "filetypes-m4v": {
+    "body": "<${1:span} className=\"filetypes filetypes-m4v$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-m4v"
+  },
+  "filetypes-mdb": {
+    "body": "<${1:span} className=\"filetypes filetypes-mdb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mdb"
+  },
+  "filetypes-mid": {
+    "body": "<${1:span} className=\"filetypes filetypes-mid$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mid"
+  },
+  "filetypes-mov": {
+    "body": "<${1:span} className=\"filetypes filetypes-mov$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mov"
+  },
+  "filetypes-mp3": {
+    "body": "<${1:span} className=\"filetypes filetypes-mp3$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mp3"
+  },
+  "filetypes-mp4": {
+    "body": "<${1:span} className=\"filetypes filetypes-mp4$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mp4"
+  },
+  "filetypes-mpa": {
+    "body": "<${1:span} className=\"filetypes filetypes-mpa$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mpa"
+  },
+  "filetypes-mpg": {
+    "body": "<${1:span} className=\"filetypes filetypes-mpg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-mpg"
+  },
+  "filetypes-msg": {
+    "body": "<${1:span} className=\"filetypes filetypes-msg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-msg"
+  },
+  "filetypes-msi": {
+    "body": "<${1:span} className=\"filetypes filetypes-msi$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-msi"
+  },
+  "filetypes-otf": {
+    "body": "<${1:span} className=\"filetypes filetypes-otf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-otf"
+  },
+  "filetypes-page": {
+    "body": "<${1:span} className=\"filetypes filetypes-page$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-page"
+  },
+  "filetypes-pct": {
+    "body": "<${1:span} className=\"filetypes filetypes-pct$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pct"
+  },
+  "filetypes-pdb": {
+    "body": "<${1:span} className=\"filetypes filetypes-pdb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pdb"
+  },
+  "filetypes-pdf": {
+    "body": "<${1:span} className=\"filetypes filetypes-pdf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pdf"
+  },
+  "filetypes-php": {
+    "body": "<${1:span} className=\"filetypes filetypes-php$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-php"
+  },
+  "filetypes-pif": {
+    "body": "<${1:span} className=\"filetypes filetypes-pif$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pif"
+  },
+  "filetypes-pkg": {
+    "body": "<${1:span} className=\"filetypes filetypes-pkg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pkg"
+  },
+  "filetypes-png": {
+    "body": "<${1:span} className=\"filetypes filetypes-png$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-png"
+  },
+  "filetypes-pps": {
+    "body": "<${1:span} className=\"filetypes filetypes-pps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pps"
+  },
+  "filetypes-ppt": {
+    "body": "<${1:span} className=\"filetypes filetypes-ppt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ppt"
+  },
+  "filetypes-pptx": {
+    "body": "<${1:span} className=\"filetypes filetypes-pptx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-pptx"
+  },
+  "filetypes-prf": {
+    "body": "<${1:span} className=\"filetypes filetypes-prf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-prf"
+  },
+  "filetypes-ps": {
+    "body": "<${1:span} className=\"filetypes filetypes-ps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ps"
+  },
+  "filetypes-psd": {
+    "body": "<${1:span} className=\"filetypes filetypes-psd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-psd"
+  },
+  "filetypes-psp": {
+    "body": "<${1:span} className=\"filetypes filetypes-psp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-psp"
+  },
+  "filetypes-ra": {
+    "body": "<${1:span} className=\"filetypes filetypes-ra$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ra"
+  },
+  "filetypes-rar": {
+    "body": "<${1:span} className=\"filetypes filetypes-rar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-rar"
+  },
+  "filetypes-rm": {
+    "body": "<${1:span} className=\"filetypes filetypes-rm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-rm"
+  },
+  "filetypes-rpm": {
+    "body": "<${1:span} className=\"filetypes filetypes-rpm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-rpm"
+  },
+  "filetypes-rss": {
+    "body": "<${1:span} className=\"filetypes filetypes-rss$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-rss"
+  },
+  "filetypes-rtf": {
+    "body": "<${1:span} className=\"filetypes filetypes-rtf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-rtf"
+  },
+  "filetypes-sdf": {
+    "body": "<${1:span} className=\"filetypes filetypes-sdf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-sdf"
+  },
+  "filetypes-shf": {
+    "body": "<${1:span} className=\"filetypes filetypes-shf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-shf"
+  },
+  "filetypes-sitx": {
+    "body": "<${1:span} className=\"filetypes filetypes-sitx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-sitx"
+  },
+  "filetypes-sql": {
+    "body": "<${1:span} className=\"filetypes filetypes-sql$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-sql"
+  },
+  "filetypes-srt": {
+    "body": "<${1:span} className=\"filetypes filetypes-srt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-srt"
+  },
+  "filetypes-svg": {
+    "body": "<${1:span} className=\"filetypes filetypes-svg$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-svg"
+  },
+  "filetypes-tar": {
+    "body": "<${1:span} className=\"filetypes filetypes-tar$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tar"
+  },
+  "filetypes-targ": {
+    "body": "<${1:span} className=\"filetypes filetypes-targ$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-targ"
+  },
+  "filetypes-tex": {
+    "body": "<${1:span} className=\"filetypes filetypes-tex$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tex"
+  },
+  "filetypes-text": {
+    "body": "<${1:span} className=\"filetypes filetypes-text$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-text"
+  },
+  "filetypes-tga": {
+    "body": "<${1:span} className=\"filetypes filetypes-tga$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tga"
+  },
+  "filetypes-thm": {
+    "body": "<${1:span} className=\"filetypes filetypes-thm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-thm"
+  },
+  "filetypes-tif": {
+    "body": "<${1:span} className=\"filetypes filetypes-tif$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tif"
+  },
+  "filetypes-tiff": {
+    "body": "<${1:span} className=\"filetypes filetypes-tiff$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tiff"
+  },
+  "filetypes-tmp": {
+    "body": "<${1:span} className=\"filetypes filetypes-tmp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-tmp"
+  },
+  "filetypes-ttf": {
+    "body": "<${1:span} className=\"filetypes filetypes-ttf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-ttf"
+  },
+  "filetypes-txt": {
+    "body": "<${1:span} className=\"filetypes filetypes-txt$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-txt"
+  },
+  "filetypes-vb": {
+    "body": "<${1:span} className=\"filetypes filetypes-vb$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-vb"
+  },
+  "filetypes-vcd": {
+    "body": "<${1:span} className=\"filetypes filetypes-vcd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-vcd"
+  },
+  "filetypes-vcf": {
+    "body": "<${1:span} className=\"filetypes filetypes-vcf$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-vcf"
+  },
+  "filetypes-vob": {
+    "body": "<${1:span} className=\"filetypes filetypes-vob$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-vob"
+  },
+  "filetypes-waw": {
+    "body": "<${1:span} className=\"filetypes filetypes-waw$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-waw"
+  },
+  "filetypes-wma": {
+    "body": "<${1:span} className=\"filetypes filetypes-wma$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-wma"
+  },
+  "filetypes-wmv": {
+    "body": "<${1:span} className=\"filetypes filetypes-wmv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-wmv"
+  },
+  "filetypes-woff": {
+    "body": "<${1:span} className=\"filetypes filetypes-woff$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-woff"
+  },
+  "filetypes-wpd": {
+    "body": "<${1:span} className=\"filetypes filetypes-wpd$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-wpd"
+  },
+  "filetypes-wps": {
+    "body": "<${1:span} className=\"filetypes filetypes-wps$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-wps"
+  },
+  "filetypes-xhtml": {
+    "body": "<${1:span} className=\"filetypes filetypes-xhtml$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-xhtml"
+  },
+  "filetypes-xlr": {
+    "body": "<${1:span} className=\"filetypes filetypes-xlr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-xlr"
+  },
+  "filetypes-xls": {
+    "body": "<${1:span} className=\"filetypes filetypes-xls$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-xls"
+  },
+  "filetypes-xlsx": {
+    "body": "<${1:span} className=\"filetypes filetypes-xlsx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-xlsx"
+  },
+  "filetypes-xml": {
+    "body": "<${1:span} className=\"filetypes filetypes-xml$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-xml"
+  },
+  "filetypes-yuv": {
+    "body": "<${1:span} className=\"filetypes filetypes-yuv$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-yuv"
+  },
+  "filetypes-zip": {
+    "body": "<${1:span} className=\"filetypes filetypes-zip$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-zip"
+  },
+  "filetypes-zipx": {
+    "body": "<${1:span} className=\"filetypes filetypes-zipx$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "filetypes-zipx"
+  }
+}

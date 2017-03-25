@@ -1,0 +1,302 @@
+{
+  "social-amazon": {
+    "body": "<${1:span} className=\"social social-amazon$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-amazon"
+  },
+  "social-android": {
+    "body": "<${1:span} className=\"social social-android$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-android"
+  },
+  "social-apple": {
+    "body": "<${1:span} className=\"social social-apple$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-apple"
+  },
+  "social-badoo": {
+    "body": "<${1:span} className=\"social social-badoo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-badoo"
+  },
+  "social-behance": {
+    "body": "<${1:span} className=\"social social-behance$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-behance"
+  },
+  "social-blogger": {
+    "body": "<${1:span} className=\"social social-blogger$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-blogger"
+  },
+  "social-deviantart": {
+    "body": "<${1:span} className=\"social social-deviantart$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-deviantart"
+  },
+  "social-dribbble": {
+    "body": "<${1:span} className=\"social social-dribbble$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-dribbble"
+  },
+  "social-dropbox": {
+    "body": "<${1:span} className=\"social social-dropbox$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-dropbox"
+  },
+  "social-e-mail": {
+    "body": "<${1:span} className=\"social social-e-mail$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-e-mail"
+  },
+  "social-ebay": {
+    "body": "<${1:span} className=\"social social-ebay$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-ebay"
+  },
+  "social-evernote": {
+    "body": "<${1:span} className=\"social social-evernote$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-evernote"
+  },
+  "social-facebook": {
+    "body": "<${1:span} className=\"social social-facebook$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-facebook"
+  },
+  "social-flickr": {
+    "body": "<${1:span} className=\"social social-flickr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-flickr"
+  },
+  "social-forrst": {
+    "body": "<${1:span} className=\"social social-forrst$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-forrst"
+  },
+  "social-foursquare": {
+    "body": "<${1:span} className=\"social social-foursquare$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-foursquare"
+  },
+  "social-github": {
+    "body": "<${1:span} className=\"social social-github$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-github"
+  },
+  "social-goodreads": {
+    "body": "<${1:span} className=\"social social-goodreads$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-goodreads"
+  },
+  "social-google-drive": {
+    "body": "<${1:span} className=\"social social-google-drive$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-google-drive"
+  },
+  "social-google-plus": {
+    "body": "<${1:span} className=\"social social-google-plus$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-google-plus"
+  },
+  "social-instagram": {
+    "body": "<${1:span} className=\"social social-instagram$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-instagram"
+  },
+  "social-instapaper": {
+    "body": "<${1:span} className=\"social social-instapaper$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-instapaper"
+  },
+  "social-ios": {
+    "body": "<${1:span} className=\"social social-ios$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-ios"
+  },
+  "social-jolicloud": {
+    "body": "<${1:span} className=\"social social-jolicloud$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-jolicloud"
+  },
+  "social-last-fm": {
+    "body": "<${1:span} className=\"social social-last-fm$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-last-fm"
+  },
+  "social-linked-in": {
+    "body": "<${1:span} className=\"social social-linked-in$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-linked-in"
+  },
+  "social-linux-foundation": {
+    "body": "<${1:span} className=\"social social-linux-foundation$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-linux-foundation"
+  },
+  "social-myspace": {
+    "body": "<${1:span} className=\"social social-myspace$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-myspace"
+  },
+  "social-netflix": {
+    "body": "<${1:span} className=\"social social-netflix$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-netflix"
+  },
+  "social-paypal": {
+    "body": "<${1:span} className=\"social social-paypal$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-paypal"
+  },
+  "social-picasa": {
+    "body": "<${1:span} className=\"social social-picasa$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-picasa"
+  },
+  "social-pinboard": {
+    "body": "<${1:span} className=\"social social-pinboard$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-pinboard"
+  },
+  "social-pinterest": {
+    "body": "<${1:span} className=\"social social-pinterest$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-pinterest"
+  },
+  "social-playstation": {
+    "body": "<${1:span} className=\"social social-playstation$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-playstation"
+  },
+  "social-pocket": {
+    "body": "<${1:span} className=\"social social-pocket$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-pocket"
+  },
+  "social-posterous-spaces": {
+    "body": "<${1:span} className=\"social social-posterous-spaces$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-posterous-spaces"
+  },
+  "social-quora": {
+    "body": "<${1:span} className=\"social social-quora$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-quora"
+  },
+  "social-read-it-later": {
+    "body": "<${1:span} className=\"social social-read-it-later$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-read-it-later"
+  },
+  "social-readability": {
+    "body": "<${1:span} className=\"social social-readability$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-readability"
+  },
+  "social-rss": {
+    "body": "<${1:span} className=\"social social-rss$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-rss"
+  },
+  "social-skitch": {
+    "body": "<${1:span} className=\"social social-skitch$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-skitch"
+  },
+  "social-skype": {
+    "body": "<${1:span} className=\"social social-skype$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-skype"
+  },
+  "social-slideshare": {
+    "body": "<${1:span} className=\"social social-slideshare$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-slideshare"
+  },
+  "social-souncloud": {
+    "body": "<${1:span} className=\"social social-souncloud$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-souncloud"
+  },
+  "social-spotify": {
+    "body": "<${1:span} className=\"social social-spotify$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-spotify"
+  },
+  "social-steam": {
+    "body": "<${1:span} className=\"social social-steam$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-steam"
+  },
+  "social-stumbleupon": {
+    "body": "<${1:span} className=\"social social-stumbleupon$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-stumbleupon"
+  },
+  "social-tumblr": {
+    "body": "<${1:span} className=\"social social-tumblr$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-tumblr"
+  },
+  "social-twitter": {
+    "body": "<${1:span} className=\"social social-twitter$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-twitter"
+  },
+  "social-vimeo": {
+    "body": "<${1:span} className=\"social social-vimeo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-vimeo"
+  },
+  "social-vine": {
+    "body": "<${1:span} className=\"social social-vine$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-vine"
+  },
+  "social-wikipedia": {
+    "body": "<${1:span} className=\"social social-wikipedia$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-wikipedia"
+  },
+  "social-windows": {
+    "body": "<${1:span} className=\"social social-windows$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-windows"
+  },
+  "social-wordpress": {
+    "body": "<${1:span} className=\"social social-wordpress$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-wordpress"
+  },
+  "social-xbox": {
+    "body": "<${1:span} className=\"social social-xbox$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-xbox"
+  },
+  "social-xing": {
+    "body": "<${1:span} className=\"social social-xing$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-xing"
+  },
+  "social-yahoo": {
+    "body": "<${1:span} className=\"social social-yahoo$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-yahoo"
+  },
+  "social-yelp": {
+    "body": "<${1:span} className=\"social social-yelp$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-yelp"
+  },
+  "social-youtube": {
+    "body": "<${1:span} className=\"social social-youtube$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-youtube"
+  },
+  "social-zootool": {
+    "body": "<${1:span} className=\"social social-zootool$2\"></${1:span}>$2",
+    "description": "<span>",
+    "prefix": "social-zootool"
+  }
+}
