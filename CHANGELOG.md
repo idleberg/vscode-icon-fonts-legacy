@@ -1,3 +1,7 @@
+# v1.5.3 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.3)
+
+- remove stray snippets from `package.json`
+
 # v1.5.2 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.2)
 
 - fix badge
