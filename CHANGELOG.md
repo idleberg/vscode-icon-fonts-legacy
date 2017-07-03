@@ -1,7 +1,7 @@
 # v1.5.4 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.4)
 
 * use PNG logo (as required by upcoming versions of Code)
-* update `devDepencencies`
+* update `devDependencies`
 
 # v1.5.3 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.5.3)
 
