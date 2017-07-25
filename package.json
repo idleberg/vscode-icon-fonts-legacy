@@ -140,6 +140,34 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/social.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/glyphicons.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/halflings.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/line-class.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/social.json"
             }
         ]
     },
