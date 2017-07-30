@@ -38,6 +38,50 @@
     "contributes": {
         "snippets": [
             {
+                "language": "blade",
+                "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/glyphicons.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/halflings.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/line-class.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/social.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/glyphicons.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/halflings.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/social.json"
+            },
+            {
                 "language": "html",
                 "path": "./snippets/html/filetypes.json"
             },
@@ -66,54 +110,6 @@
                 "path": "./snippets/html/social.json"
             },
             {
-                "language": "css",
-                "path": "./snippets/css/filetypes.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/css/glyphicons.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/css/halflings.json"
-            },
-            {
-                "language": "css",
-                "path": "./snippets/css/social.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/css/filetypes.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/css/glyphicons.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/css/halflings.json"
-            },
-            {
-                "language": "less",
-                "path": "./snippets/css/social.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/css/filetypes.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/css/glyphicons.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/css/halflings.json"
-            },
-            {
-                "language": "scss",
-                "path": "./snippets/css/social.json"
-            },
-            {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/filetypes.json"
             },
@@ -140,6 +136,38 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/social.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/glyphicons.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/halflings.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/social.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/glyphicons.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/halflings.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/social.json"
             },
             {
                 "language": "vue",
