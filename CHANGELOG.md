@@ -1,3 +1,8 @@
+# v1.6.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.6.1)
+
+- update development toolchain
+- update Travis CI configuration
+
 # v1.6.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.6.0)
 
 - add support for Vue
