@@ -43,6 +43,14 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/html/fontawesome.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/fontawesome-helpers.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/html/foundicon.json"
             },
             {
@@ -71,6 +79,10 @@
             },
             {
                 "language": "css",
+                "path": "./snippets/css/fontawesome.json"
+            },
+            {
+                "language": "css",
                 "path": "./snippets/css/glyphicons.json"
             },
             {
@@ -84,6 +96,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/fontawesome.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/fontawesome-helpers.json"
             },
             {
                 "language": "html",
@@ -115,6 +135,14 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/fontawesome.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/fontawesome-helpers.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/foundicon.json"
             },
             {
@@ -143,6 +171,10 @@
             },
             {
                 "language": "less",
+                "path": "./snippets/css/fontawesome.json"
+            },
+            {
+                "language": "less",
                 "path": "./snippets/css/glyphicons.json"
             },
             {
@@ -159,6 +191,10 @@
             },
             {
                 "language": "scss",
+                "path": "./snippets/css/fontawesome.json"
+            },
+            {
+                "language": "scss",
                 "path": "./snippets/css/glyphicons.json"
             },
             {
@@ -172,6 +208,14 @@
             {
                 "language": "vue",
                 "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/fontawesome.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/fontawesome-helpers.json"
             },
             {
                 "language": "vue",

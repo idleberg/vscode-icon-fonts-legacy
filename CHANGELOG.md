@@ -1,3 +1,8 @@
+# v1.7.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.7.1)
+
+- activate Font Awesome snippet contributions
+- rename Font Awesome snippets
+
 # v1.7.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.7.0)
 
 - add support for Font Awesome 4.x
