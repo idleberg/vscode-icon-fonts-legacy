@@ -1,3 +1,7 @@
+# v1.7.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.7.0)
+
+- add support for Font Awesome 4.x
+
 # v1.6.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.6.1)
 
 - update development toolchain
