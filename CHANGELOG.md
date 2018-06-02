@@ -1,3 +1,10 @@
+# v1.8.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.8.0)
+
+- add icon fonts from [main package](https://github.com/idleberg/vscode-icon-fonts)
+    - Semantic UI
+    - Brandico Icons
+    - IcoFont
+
 # v1.7.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.7.1)
 
 - activate Font Awesome snippet contributions
