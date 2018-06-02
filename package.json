@@ -43,6 +43,10 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/html/brandico.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
@@ -56,6 +60,10 @@
             {
                 "language": "blade",
                 "path": "./snippets/html/glyphicons.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/icofont.json"
             },
             {
                 "language": "blade",
@@ -74,8 +82,16 @@
                 "path": "./snippets/html/social.json"
             },
             {
+                "language": "blade",
+                "path": "./snippets/html/ui.json"
+            },
+            {
                 "language": "css",
                 "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "css",
@@ -94,8 +110,16 @@
                 "path": "./snippets/css/social.json"
             },
             {
+                "language": "css",
+                "path": "./snippets/css/ui.json"
+            },
+            {
                 "language": "html",
                 "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/brandico.json"
             },
             {
                 "language": "html",
@@ -115,6 +139,10 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/icofont.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/halflings.json"
             },
             {
@@ -130,8 +158,16 @@
                 "path": "./snippets/html/social.json"
             },
             {
+                "language": "html",
+                "path": "./snippets/html/ui.json"
+            },
+            {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/filetypes.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/brandico.json"
             },
             {
                 "language": "javascriptreact",
@@ -151,6 +187,10 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/icofont.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/halflings.json"
             },
             {
@@ -166,8 +206,16 @@
                 "path": "./snippets/jsx/social.json"
             },
             {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/ui.json"
+            },
+            {
                 "language": "less",
                 "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "less",
@@ -186,8 +234,16 @@
                 "path": "./snippets/css/social.json"
             },
             {
+                "language": "less",
+                "path": "./snippets/css/ui.json"
+            },
+            {
                 "language": "scss",
                 "path": "./snippets/css/filetypes.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/brandico.json"
             },
             {
                 "language": "scss",
@@ -204,10 +260,18 @@
             {
                 "language": "scss",
                 "path": "./snippets/css/social.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/ui.json"
             },
             {
                 "language": "vue",
                 "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/brandico.json"
             },
             {
                 "language": "vue",
@@ -227,6 +291,10 @@
             },
             {
                 "language": "vue",
+                "path": "./snippets/html/icofont.json"
+            },
+            {
+                "language": "vue",
                 "path": "./snippets/html/halflings.json"
             },
             {
@@ -240,6 +308,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/html/social.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/ui.json"
             }
         ]
     },
