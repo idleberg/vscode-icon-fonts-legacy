@@ -2,7 +2,7 @@
     "name": "icon-fonts-legacy",
     "displayName": "Icon Fonts (Legacy)",
     "description": "Snippets for deprecated icon fonts, including the entire Glyphicons Pro family, Foundation Icons 1.0 and more!",
-    "version": "1.7.1",
+    "version": "1.7.0",
     "publisher": "idleberg",
     "license": "MIT",
     "author": {
@@ -318,7 +318,7 @@
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "vscode-linter",
-        "vscode:prepublish": "gulp build"
+        "vscode:prepublish": "gulp"
     },
     "devDependencies": {
         "gulp": "^4.0.0",
