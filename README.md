@@ -1,10 +1,10 @@
 # Icon Fonts (Legacy) for Visual Studio Code
 
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://github.com/idleberg/vscode-icon-fonts-legacy/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts-legacy.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts-legacy)
-[![Travis](https://img.shields.io/travis/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://travis-ci.org/idleberg/vscode-icon-fonts-legacy)
-[![David](https://img.shields.io/david/dev/idleberg/vscode-icon-fonts-legacy.svg?style=flat-square)](https://david-dm.org/idleberg/vscode-icon-fonts-legacy?type=dev)
+[![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
+[![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-icon-fonts-legacy)](https://github.com/idleberg/vscode-icon-fonts-legacy/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts-legacy)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts-legacy)
+[![Travis](https://flat.badgen.net/travis/idleberg/vscode-icon-fonts-legacy)](https://travis-ci.org/idleberg/vscode-icon-fonts-legacy)
+[![David](https://flat.badgen.net/david/dev/idleberg/vscode-icon-fonts-legacy)](https://david-dm.org/idleberg/vscode-icon-fonts-legacy?type=dev)
 
 Snippets for icon fonts that have been deprecated from the main [Icon Fonts](https://github.com/idleberg/vscode-icon-fonts) package ([see details](https://github.com/idleberg/vscode-icon-fonts-legacy#prefixes)).
 
