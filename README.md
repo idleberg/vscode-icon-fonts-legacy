@@ -54,7 +54,7 @@ Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
 `brandico`     | [Brandico Font][brandico]           | – 
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
-`fontawesome`  | [Font Awesome][fontawesome]         | 4.7.0
+`fa`           | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
 `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
 `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
