@@ -3,8 +3,7 @@
 [![The MIT License](https://flat.badgen.net/badge/license/MIT/orange)](http://opensource.org/licenses/MIT)
 [![GitHub](https://flat.badgen.net/github/release/idleberg/vscode-icon-fonts-legacy)](https://github.com/idleberg/vscode-icon-fonts-legacy/releases)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/idleberg.icon-fonts-legacy.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts-legacy)
-[![Travis](https://flat.badgen.net/travis/idleberg/vscode-icon-fonts-legacy)](https://travis-ci.org/idleberg/vscode-icon-fonts-legacy)
-[![David](https://flat.badgen.net/david/dev/idleberg/vscode-icon-fonts-legacy)](https://david-dm.org/idleberg/vscode-icon-fonts-legacy?type=dev)
+[![CircleCI](https://flat.badgen.net/circleci/github/idleberg/vscode-icon-fonts-legacy)](https://circleci.com/gh/idleberg/vscode-icon-fonts-legacy)
 
 Snippets for icon fonts that have been deprecated from the main [Icon Fonts](https://github.com/idleberg/vscode-icon-fonts) package ([see details](https://github.com/idleberg/vscode-icon-fonts-legacy#prefixes)).
 
@@ -52,7 +51,7 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 
 Prefix         | Icon Font                           | Version
 ---------------|-------------------------------------|--------
-`brandico`     | [Brandico Font][brandico]           | – 
+`brandico`     | [Brandico Font][brandico]           | –
 `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
 `fa`           | [Font Awesome][fontawesome]         | 4.7.0
 `foundico`     | [Foundation Icons][foundico]        | 1.0.0
