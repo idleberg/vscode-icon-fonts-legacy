@@ -85,6 +85,10 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/html/ratchicon.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/html/social.json"
             },
             {
@@ -110,6 +114,10 @@
             {
                 "language": "css",
                 "path": "./snippets/css/halflings.json"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/css/ratchicon.json"
             },
             {
                 "language": "css",
@@ -158,6 +166,10 @@
             {
                 "language": "html",
                 "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/ratchicon.json"
             },
             {
                 "language": "html",
@@ -209,6 +221,10 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/ratchicon.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/social.json"
             },
             {
@@ -237,6 +253,10 @@
             },
             {
                 "language": "less",
+                "path": "./snippets/css/ratchicon.json"
+            },
+            {
+                "language": "less",
                 "path": "./snippets/css/social.json"
             },
             {
@@ -262,6 +282,10 @@
             {
                 "language": "scss",
                 "path": "./snippets/css/halflings.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/ratchicon.json"
             },
             {
                 "language": "scss",
@@ -310,6 +334,10 @@
             {
                 "language": "vue",
                 "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "vue",
+                "path": "./snippets/html/ratchicon.json"
             },
             {
                 "language": "vue",

@@ -60,6 +60,7 @@ Prefix         | Icon Font                           | Version
 `icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b
 `line`         | [Elegant Theme Line Icons][line]    | –
 `social`       | [Glyphicons Social][social]         | 1.9.0
+`ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2
 `ui`           | [Semantic UI Icons][ui]             | 2.0.7
 
 Examples:
