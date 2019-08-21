@@ -1,3 +1,9 @@
+# v1.9.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.9.0)
+
+- add Ratchicons
+- fix Vue scope
+- use Circle CI
+
 # v1.8.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.8.0)
 
 - add icon fonts from [main package](https://github.com/idleberg/vscode-icon-fonts)
