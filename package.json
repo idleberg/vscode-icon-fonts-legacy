@@ -296,55 +296,55 @@
                 "path": "./snippets/css/ui.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/filetypes.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/brandico.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/fontawesome-helpers.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/foundicon.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/glyphicons.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/icofont.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/halflings.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/line-class.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/line-data.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/ratchicon.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/social.json"
             },
             {
-                "language": "vue",
+                "language": "vue-html",
                 "path": "./snippets/html/ui.json"
             }
         ]
