@@ -85,5 +85,6 @@ You are welcome to support this project using [Flattr](https://flattr.com/submit
 [halflings]: http://glyphicons.com
 [icofont]: http://icofont.com/
 [line]: https://www.elegantthemes.com/blog/resources/elegant-icon-font
+[ratchicon]: http://github.com/twbs/ratchet
 [social]: http://glyphicons.com
 [ui]: http://semantic-ui.com/elements/icon.html
