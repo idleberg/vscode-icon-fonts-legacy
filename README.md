@@ -49,19 +49,19 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 
 ### Prefixes
 
-Prefix         | Icon Font                           | Version
----------------|-------------------------------------|--------
-`brandico`     | [Brandico Font][brandico]           | –
-`filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0
-`fa`           | [Font Awesome][fontawesome]         | 4.7.0
-`foundico`     | [Foundation Icons][foundico]        | 1.0.0
-`glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0
-`halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0
-`icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b
-`line`         | [Elegant Theme Line Icons][line]    | –
-`social`       | [Glyphicons Social][social]         | 1.9.0
-`ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2
-`ui`           | [Semantic UI Icons][ui]             | 2.0.7
+| Prefix         | Icon Font                           | Version |
+|----------------|-------------------------------------|---------|
+| `brandico`     | [Brandico Font][brandico]           | –       |
+| `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0   |
+| `fa`           | [Font Awesome][fontawesome]         | 4.7.0   |
+| `foundico`     | [Foundation Icons][foundico]        | 1.0.0   |
+| `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0   |
+| `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0   |
+| `icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  |
+| `line`         | [Elegant Theme Line Icons][line]    | –       |
+| `social`       | [Glyphicons Social][social]         | 1.9.0   |
+| `ratchicon`    | [Ratchicons][ratchicon]             | 2.0.2   |
+| `ui`           | [Semantic UI Icons][ui]             | 2.0.7   |
 
 Examples:
 
