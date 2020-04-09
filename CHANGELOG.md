@@ -1,3 +1,8 @@
+# v1.9.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.9.1)
+
+- fix: restore build script
+- update dependencies
+
 # v1.9.0 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.9.0)
 
 - add Ratchicons
