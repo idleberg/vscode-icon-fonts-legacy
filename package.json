@@ -347,6 +347,58 @@
             {
                 "language": "vue-html",
                 "path": "./snippets/html/ui.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/filetypes.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/brandico.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/fontawesome.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/fontawesome-helpers.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/glyphicons.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/icofont.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/halflings.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/line-class.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/line-data.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/ratchicon.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/social.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/ui.json"
             }
         ]
     },

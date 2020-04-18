@@ -1,3 +1,7 @@
+# v1.10.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.10.0)
+
+- add Svelte support
+
 # v1.9.1 [#](https://github.com/idleberg/vscode-icon-fonts-legacy/releases/tag/1.9.1)
 
 - fix: restore build script
