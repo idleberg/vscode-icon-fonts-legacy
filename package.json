@@ -54,6 +54,10 @@
             },
             {
                 "language": "blade",
+                "path": "./snippets/html/fi.json"
+            },
+            {
+                "language": "blade",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
@@ -63,6 +67,10 @@
             {
                 "language": "blade",
                 "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "blade",
+                "path": "./snippets/html/geomicon.json"
             },
             {
                 "language": "blade",
@@ -106,6 +114,10 @@
             },
             {
                 "language": "css",
+                "path": "./snippets/css/fi.json"
+            },
+            {
+                "language": "css",
                 "path": "./snippets/css/fontawesome.json"
             },
             {
@@ -138,6 +150,10 @@
             },
             {
                 "language": "html",
+                "path": "./snippets/html/fi.json"
+            },
+            {
+                "language": "html",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
@@ -147,6 +163,14 @@
             {
                 "language": "html",
                 "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/geomicon.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/html/geomicon.json"
             },
             {
                 "language": "html",
@@ -190,6 +214,10 @@
             },
             {
                 "language": "javascriptreact",
+                "path": "./snippets/jsx/fi.json"
+            },
+            {
+                "language": "javascriptreact",
                 "path": "./snippets/jsx/fontawesome.json"
             },
             {
@@ -199,6 +227,14 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/jsx/foundicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/geomicon.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/jsx/geomicon.json"
             },
             {
                 "language": "javascriptreact",
@@ -242,6 +278,10 @@
             },
             {
                 "language": "less",
+                "path": "./snippets/css/fi.json"
+            },
+            {
+                "language": "less",
                 "path": "./snippets/css/fontawesome.json"
             },
             {
@@ -271,6 +311,10 @@
             {
                 "language": "scss",
                 "path": "./snippets/css/brandico.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/css/fi.json"
             },
             {
                 "language": "scss",
@@ -306,6 +350,10 @@
             },
             {
                 "language": "vue-html",
+                "path": "./snippets/html/fi.json"
+            },
+            {
+                "language": "vue-html",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
@@ -315,6 +363,14 @@
             {
                 "language": "vue-html",
                 "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/html/geomicon.json"
+            },
+            {
+                "language": "vue-html",
+                "path": "./snippets/html/geomicon.json"
             },
             {
                 "language": "vue-html",
@@ -358,6 +414,10 @@
             },
             {
                 "language": "svelte",
+                "path": "./snippets/html/fi.json"
+            },
+            {
+                "language": "svelte",
                 "path": "./snippets/html/fontawesome.json"
             },
             {
@@ -367,6 +427,10 @@
             {
                 "language": "svelte",
                 "path": "./snippets/html/foundicon.json"
+            },
+            {
+                "language": "svelte",
+                "path": "./snippets/html/geomicon.json"
             },
             {
                 "language": "svelte",
