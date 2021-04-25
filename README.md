@@ -64,9 +64,11 @@ Snippets are limited to the `html`, `css|less|sass|scss|stylus`, `jsx`, `blade` 
 | Prefix         | Icon Font                           | Version |
 |----------------|-------------------------------------|---------|
 | `brandico`     | [Brandico Font][brandico]           | –       |
+| `fi`           | [Foundation Icons v3][fi]           | 3.0     |
 | `filetypes`    | [Glyphicons Filetypes][filetypes]   | 1.9.0   |
 | `fa`           | [Font Awesome][fontawesome]         | 4.7.0   |
 | `foundico`     | [Foundation Icons][foundico]        | 1.0.0   |
+| `geomicon`     | [Geomicons Open][geomicon]          | 2.0.0   |
 | `glyphicons`   | [Glyphicons Pro][glyphicons]        | 1.9.0   |
 | `halflings`    | [Glyphicons Halflings][halflings]   | 1.9.0   |
 | `icofont`      | [ShapeBootstrap IcoFont][icofont]   | 1.0.0b  |
@@ -86,9 +88,11 @@ Examples:
 This work is licensed under [The MIT License](https://opensource.org/licenses/MIT)
 
 [brandico]: https://github.com/fontello/brandico.font
+[fi]: https://github.com/zurb/foundation-icons
 [filetypes]: http://glyphicons.com
 [fontawesome]: https://fontawesome.com
 [foundico]: https://github.com/zurb/foundation-icons/tree/original-implementation
+[geomicon]: https://github.com/jxnblk/geomicons-open
 [glyphicons]: http://glyphicons.com
 [halflings]: http://glyphicons.com
 [icofont]: http://icofont.com/
